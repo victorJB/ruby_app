@@ -10,11 +10,26 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2022_11_14_150642) do
+ActiveRecord::Schema.define(version: 2022_11_14_151409) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "pgcrypto"
   enable_extension "plpgsql"
+
+  create_table "invoices", id: :uuid, default: -> { "gen_random_uuid()" }, force: :cascade do |t|
+    t.string "status"
+    t.string "emitter_name"
+    t.string "emitter_rfc"
+    t.string "receiver_name"
+    t.string "receiver_rfc"
+    t.string "amount_type"
+    t.string "cents"
+    t.string "currency"
+    t.datetime "emitted_at"
+    t.datetime "expires_at"
+    t.datetime "signed_at"
+    t.string "cfdi_digital_stamp"
+  end
 
   create_table "jwt_denylist", force: :cascade do |t|
     t.string "jti", null: false
