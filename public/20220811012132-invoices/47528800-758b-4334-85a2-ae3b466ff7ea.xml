@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>47528800-758b-4334-85a2-ae3b466ff7ea</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Yadira Sabugal Colín</name>
+    <rfc>JGM14120929F</rfc>
+  </emitter>
+  <receiver>
+    <name>Hilario Aníbal Rangel Góngora</name>
+    <rfc>TDG0912221TF</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">664672</cents>
+    <!-- ISO 4217 -->
+    <currency>VEF</currency>
+  </amount>
+  <emitted_at type="date">2020-02-06 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-12-19 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-01-30 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">kc21p04vn5u0quf5y2o7gymh205lmlt0j1jewmb4jryzdvbu9kh4xiw61cred7q9rqc7lrfc5n1p5fu941pz8jd3bh2ff6jvwh9xz2hy8tivqywpk3gev20c6m99domff2hob6rnyjzec4x6docj2uoqudmbxgt31l2beb5i819x169l6yvhnrkvyfgj8p1ta4norenpaf3pscqi0d8mu01lhkp7bxebthd4a4rb9ptajljfa4xbca6j8qdl9vv</cfdi_digital_stamp>
+</hash>

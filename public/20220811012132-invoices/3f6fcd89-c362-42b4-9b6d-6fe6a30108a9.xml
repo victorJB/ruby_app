@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>3f6fcd89-c362-42b4-9b6d-6fe6a30108a9</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Marisa Mónica Aguilar Rosas</name>
+    <rfc>KWA151221ZBM</rfc>
+  </emitter>
+  <receiver>
+    <name>Jerónimo Salazar Ojeda</name>
+    <rfc>XZA880909TNR</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">798110</cents>
+    <!-- ISO 4217 -->
+    <currency>ZAR</currency>
+  </amount>
+  <emitted_at type="date">2020-02-15 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-01-12 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-05-14 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">i9b76wpew06vcr5r0b1ufti3batesucn33x76gygv1rj743gfhsswbaxhjuiz4dw6jtxa6h6hdc9cvgk0p839gj1z9uwll659ia0lrxog4xlqxywhx0hi4xikps42n30ry80vuf1ky24051ro4p83a05cw7r4qn7o9e9rbm3iximxe33n6m4p7pmluuba6qf4zcjfmm8rsp2lwc1ybq00vxyiw8bmhghewx5s9y6hh1s7bd6hq0ylgln48q7e12</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>6ce72f54-64eb-45f8-8846-c99ff804e910</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Mariana Sandoval Fuentes</name>
+    <rfc>NXF190131QVN</rfc>
+  </emitter>
+  <receiver>
+    <name>Viridiana Mujica Méndez</name>
+    <rfc>DON03030389T</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">968517</cents>
+    <!-- ISO 4217 -->
+    <currency>JPY</currency>
+  </amount>
+  <emitted_at type="date">2019-09-30 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-07-11 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-12-09 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">9dam6lrqp0bzvyb3cebv0itnw28r272y1cg22byuk9gixgprwlpemth9g1uc7iu5gh9qflc2hudq8m3qvqo0alpre28bbhtm8etzo2hotqbip600z6nxuh3keovgqlck9kyk44z42exookkgrw7tllkafspt0gvgakrgdo15z559iuynltmmy93v423yd6o4paujszkyzrriljfu7te87mqhz2tgvdj69ye2z3q64uelvvw801g39ajexmp0ga4</cfdi_digital_stamp>
+</hash>

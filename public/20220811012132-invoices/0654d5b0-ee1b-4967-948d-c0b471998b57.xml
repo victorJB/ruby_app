@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>0654d5b0-ee1b-4967-948d-c0b471998b57</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Mayra Viloria Malpica</name>
+    <rfc>XIZ9609248GP</rfc>
+  </emitter>
+  <receiver>
+    <name>Iris Vega Palma</name>
+    <rfc>QZM710812YBO</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">21514</cents>
+    <!-- ISO 4217 -->
+    <currency>JPY</currency>
+  </amount>
+  <emitted_at type="date">2021-12-09 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-02-26 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-11-27 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">n11384kiosv4a0o7omp620sgfoxa8v95s2w4le2k1gr99osl0loksol0kgyincibha8z63settho9ynbx0tiijg97zrdp7pdhxojwjuijblk68g9j5cbv72nqqrht6i8s6nxgwawwvpyvmqzjua97v986cr38wkdkxj0b3bip75cnvoleus8c114lmk9f2400claay3hajko9gk15tbxqmtckoiou3n8tn5nu61d60d39baf1rbmexzljqoigj5</cfdi_digital_stamp>
+</hash>

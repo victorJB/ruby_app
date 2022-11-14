@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>1255ce21-5393-4e21-bf95-a700469cb617</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Gibrán Jesús Herrera Mora</name>
+    <rfc>INB720602ELU</rfc>
+  </emitter>
+  <receiver>
+    <name>Yael Ibáñez Herrera</name>
+    <rfc>J&amp;D700422PQS</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">516482</cents>
+    <!-- ISO 4217 -->
+    <currency>GMD</currency>
+  </amount>
+  <emitted_at type="date">2019-02-27 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-12-12 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-01-31 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">2fd4pygpefftle8xd4oh0glbyzw65cy9yba7vt9ztxn26ozde7w5i707o5jndt2g4ks05oiwp7nendup41wbd6lxzdzc5695bq83unvmmwt3pzzvh64pqjvo48xbb7meep6uyu4263emwcc0u2p3wlcx10e5tles0sd9alz3aot16lb6r2z3vpayswzikv91jvnxv088t1wqbnxkxejzaho3fstxq38tj4ovtmcx4n8u1gwaq0kt1x43ijfedk1</cfdi_digital_stamp>
+</hash>

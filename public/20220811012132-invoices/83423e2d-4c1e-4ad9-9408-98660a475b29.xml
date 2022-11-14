@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>83423e2d-4c1e-4ad9-9408-98660a475b29</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Rubén Hugo Sosa Nava</name>
+    <rfc>TBD9909072G0</rfc>
+  </emitter>
+  <receiver>
+    <name>Margarito Nevárez Valdivia</name>
+    <rfc>JMF991127VQR</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">9454</cents>
+    <!-- ISO 4217 -->
+    <currency>AWG</currency>
+  </amount>
+  <emitted_at type="date">2022-07-22 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-12-25 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-12-27 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">cibm3t6du17b0evmhyirp7vidh7wl5yxdokj3md4nxa7w5dw1cy5h9lflwckoyj6t8g3poj8465fqkd4wfd2btunp5ffb4ykgymjge129oudgaj4y3mnkx64xktmy5easd3y4yjlz5px0ht3pmny84stfblcq4ty9i5ceq57zitedeax1n8oa8ukeqw975k8akj4yczup8hn96bcr1sguj5dsxcgbx8ndza7pux0tauz1x4szfj8iflxef5ajr3</cfdi_digital_stamp>
+</hash>

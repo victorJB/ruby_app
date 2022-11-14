@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>c8df6ded-1e96-4740-9c20-1b6f87b28bd3</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Sergio Gil Ferrer</name>
+    <rfc>VCW970411RBM</rfc>
+  </emitter>
+  <receiver>
+    <name>Israel Homero Morán Macedo</name>
+    <rfc>GVC880313OS5</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">981746</cents>
+    <!-- ISO 4217 -->
+    <currency>SZL</currency>
+  </amount>
+  <emitted_at type="date">2019-10-26 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-08-03 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-01-04 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">vxsq3fog9lee5qblopa46i3yu0nu5vbq55kh8ztnhiwflac4uzaf5jqhg7eexqs0yc4tjqankg4r2uw01qke6l3tugm3nb1xsqsd23v5slxg3674561535k2vxlax36vhzag9nmzp5h8uslud6k2avp2xmvnxwh1gf1k70xuz016m98glpbec783177ayr66h45aww0bl4o7obt78qplltzsziplefq1ntiulla08i2bcetfk5g41md6tchz3nx</cfdi_digital_stamp>
+</hash>

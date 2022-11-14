@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>219c9732-0177-456d-862a-1a3ee441d285</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Homero Mora Ballina</name>
+    <rfc>XQS9911097ZH</rfc>
+  </emitter>
+  <receiver>
+    <name>Erica Aréchiga Salazar</name>
+    <rfc>TGI040405HA0</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">203394</cents>
+    <!-- ISO 4217 -->
+    <currency>XBA</currency>
+  </amount>
+  <emitted_at type="date">2021-10-25 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-01-18 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-06-16 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">ee5nn0sov5ektiuqah443vb4ehjz2wjhvpjmdairda1cpz0om5qswvkxjbjgdpk448j7agouu2cab7zbbmdzsnqddp6pepsv005246m1zfkvlgwo56zsygqufanj7eif1ldxtbf3tgtgo49pjuwvaqc236y8h3qlr6ciz2we75jxzjnp7i3bnrkdq4ihl1u129uk5r0n6xpld9an2nt2k2uv5mzwl6eyqh0zlkax3csdj4jrs66j1rordvkrq9s</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>20a71b61-8291-4872-8c0f-10404b6673f5</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Arquímides Ramos Guevara</name>
+    <rfc>YKH221024A7Y</rfc>
+  </emitter>
+  <receiver>
+    <name>Bruno Durazo Castillo</name>
+    <rfc>FEN11092151K</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">270259</cents>
+    <!-- ISO 4217 -->
+    <currency>PYG</currency>
+  </amount>
+  <emitted_at type="date">2021-06-17 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-02-13 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-05-02 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">4r3wunx43pqiymx81x0q2wrdlkz2pmdwglwckxd25bf1iwcls2dwr3jm3i2ywa0hir8ig7lgrx3ksuws39poheifugpge7fv0mf9hsedl4g4sp051t2mf6n4qk5b7oqw4u0pgkst4inozc4un9tfd8brlqbmvifpbu8o0hvhmar2idyxoffm0ldrxufhxnyyfshgo0p9r67yy52yw9m2kvolfzk6ey91scqm533lzoqery7jdo56dxr0c99j0zl</cfdi_digital_stamp>
+</hash>

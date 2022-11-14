@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>6736bd75-dcda-4cf4-9618-e5239f2f705f</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Laura Iliana Nájera Quintero</name>
+    <rfc>VFN721025AZK</rfc>
+  </emitter>
+  <receiver>
+    <name>Genaro Emanuel Ríos la</name>
+    <rfc>SDR780604NS9</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">253181</cents>
+    <!-- ISO 4217 -->
+    <currency>YER</currency>
+  </amount>
+  <emitted_at type="date">2022-12-02 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-03-18 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-05-24 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">r6pkol0j6107hrjfdve4lkhlszv07oatjtor3bx2tu6wcuwqmah3o6eaj1wsblq2uc80lmv4hn9hf69yhzn5725vfc3y2vjhc4enk2lod0v07pv2h07dv2lmdkmw8wuku6tqfaoy3kdcorop4l35i2865v2pdn6l4gc3w29pj6f3jhx6o27y3dcd7qivm4p0v4c86l94ola75qap4zqctbiu0gix7mim6qnhgq8qdqjhkecrnvzuial9pl9u6dw</cfdi_digital_stamp>
+</hash>

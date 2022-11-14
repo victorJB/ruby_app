@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>d2322bfd-e49a-4ab8-8cb4-11bb296255b5</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Guadalup Vergara Arroyo</name>
+    <rfc>&amp;YZ850518FC6</rfc>
+  </emitter>
+  <receiver>
+    <name>Dora Urzúa Mota</name>
+    <rfc>TQM9903103V0</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">598217</cents>
+    <!-- ISO 4217 -->
+    <currency>AED</currency>
+  </amount>
+  <emitted_at type="date">2021-03-07 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-12-16 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-03-09 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">f234xhj3ut08lm8xjt3dsqkveyqf2ckrj9oawjcqw3n6npqa2t8yk8q05f729379b7jfwhtm2l6rypx4mfzfaxgvwb9aa1ygw7p8xfvpbspyde8nk0buivi9fv149kovi81d20jlckbymn2m7opvokyxxl7kkk5rvxccyhjjwmhd5hay0w6zpukqhrikx7gm8w7pssbyjm93v8n4p1vj3x9w592ussvmexzp453452034rj8a8v3jhih2elmtg9</cfdi_digital_stamp>
+</hash>

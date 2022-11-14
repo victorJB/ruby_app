@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>a55d3758-e437-4fb1-b3a9-f0c35cfe70fc</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Gloria Itzel Fuentes Durazo</name>
+    <rfc>HLT941030LHR</rfc>
+  </emitter>
+  <receiver>
+    <name>Edgar Uriel Lamas Duarte</name>
+    <rfc>KZA170115ZJB</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">449186</cents>
+    <!-- ISO 4217 -->
+    <currency>CLP</currency>
+  </amount>
+  <emitted_at type="date">2021-10-15 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-01-23 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-10-09 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">oha7svxv8ewjspmw9nfn64itts3ozsedbqdj3i3fcf51rzgea9lrpnan6ghg3e1ry9nue0a9uks7agseembot7022arr6gsx9lmseww3jj1hmd5wm62uhyg83dks110v2lr6xsuqgsno0pazvzgldzpop35la5kkd3omvcnucu54f8dgh5gybw44kaaobfl1qkx0lddzvwszthfvwqn3ahptasbyvb1cp4r9j38fin1jcp6j9x02ga2roi1iw3s</cfdi_digital_stamp>
+</hash>

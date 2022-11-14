@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>a126abb6-6e24-49f7-a619-3532635089dd</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Isabel Hurtado Ocampo</name>
+    <rfc>BMG0607251OJ</rfc>
+  </emitter>
+  <receiver>
+    <name>Igor Ramos Cabrera</name>
+    <rfc>CSP9212232J0</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">889587</cents>
+    <!-- ISO 4217 -->
+    <currency>KGS</currency>
+  </amount>
+  <emitted_at type="date">2021-06-29 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-11-07 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-03-14 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">4furlerfkcxwu3p4uh46fqkciynccdxa317rdb5t4td2ykta1txiqpojskz8nfgs4tiewsdo6k7471kb2qbqp7nw6plvl107dped9ql490oqmvzmcc8y3oq02c8hprymcvy0rg164xmsxxlifhg53472cadrf3i1vcqtzm9btft6nu5slt12hxwra7ud22o900i0jrq1d9oge2m5prc4pqvz3obpv4bb8jggxn6zgomskmvw1zv594cxyr072x4</cfdi_digital_stamp>
+</hash>

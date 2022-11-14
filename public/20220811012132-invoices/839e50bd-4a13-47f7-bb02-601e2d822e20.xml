@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>839e50bd-4a13-47f7-bb02-601e2d822e20</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Marcelino Isunza Naranjo</name>
+    <rfc>WRL101022HDJ</rfc>
+  </emitter>
+  <receiver>
+    <name>Emiliano Braulio Lima Noyola</name>
+    <rfc>GOA1811131NE</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">367229</cents>
+    <!-- ISO 4217 -->
+    <currency>XOF</currency>
+  </amount>
+  <emitted_at type="date">2018-11-09 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-11-16 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-02-03 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">fmac812jok8t3eiio0jn1kwzkgajnmd8vab0qxyt6flgicob44d4qci0x0gujga9qw9ek9y8rw7i2tdr218atjr78f3q0c002qyrxc3eyysytw41jxkdkg3kf0nm28kti59x1kqrzf3ikwhunisk7iaqfqwfgaqg5kwuvis2evarm0wgwp4n27ku20jrsa3ue39pwve1r0m8eicn26li8au9ordx5yt97kgsmwwt1e088bxlk63orghwx49fjg1</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>8435aabf-3a3b-4570-9dc3-fd7529656186</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Guadalup Hidalgo Mojica</name>
+    <rfc>EHZ160730DZ7</rfc>
+  </emitter>
+  <receiver>
+    <name>Lilia Estrada Durán</name>
+    <rfc>VJL75051135Y</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">20273</cents>
+    <!-- ISO 4217 -->
+    <currency>LAK</currency>
+  </amount>
+  <emitted_at type="date">2021-11-03 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-11-05 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-10-08 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">h8rdak2rai115qpdi4399toeebwwqbefnh80q2bsvwzdx51rhe4xnwsfqdf7m8vbyd2b8vk53vmchkcl1bhnvc0r3t0odgvlxcdrppyvzq2g96hw3fozimma5g9jrprctu3hl6afl5jybek0sl8w3a77h3tb5t3nidmpxkoj75leksznuzwmhkamt6k4qsczkj7kmqonmz93sxel6ys5h8n0q01recnepjcfp2a36njlnb2gj7r1xqsv8xqppyi</cfdi_digital_stamp>
+</hash>

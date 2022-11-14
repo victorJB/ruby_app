@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>445894f3-dbf9-4525-9342-d8e748bec81a</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Oswaldo Durán Ugalde</name>
+    <rfc>MÑF000702KO7</rfc>
+  </emitter>
+  <receiver>
+    <name>Giovani Lara Ibáñez</name>
+    <rfc>GVO700919OU1</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">680093</cents>
+    <!-- ISO 4217 -->
+    <currency>LBP</currency>
+  </amount>
+  <emitted_at type="date">2021-03-09 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-02-06 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-02-06 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">6r1tx0t9rwt6d488rdkj9olq8qhy0gl0356swcl4ovqsirc74lfaw84g298jfqaohd9kb681j4km674f7ypbrfv65tgdcza8wugz9wesfi2t0kjkacwlztzrt9wopfp70dyyoqdgt7ws6tfi8ge5tq5thfwy0cgyr0588x959by0faagj6gl0ax5ekk94fztbojwyj00mdxn9rb3h1nnv53r83rswjn8dmmt0570rz6bmbyki0n0ukmungo4mv5</cfdi_digital_stamp>
+</hash>

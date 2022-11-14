@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>d33c2f96-a40f-4821-a040-ced1351424ea</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Virginia Vergara Funes</name>
+    <rfc>SGÑ961123M2B</rfc>
+  </emitter>
+  <receiver>
+    <name>Jorge Oca Uribe</name>
+    <rfc>BCH860123FCR</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">382660</cents>
+    <!-- ISO 4217 -->
+    <currency>SBD</currency>
+  </amount>
+  <emitted_at type="date">2022-03-15 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-03-03 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-01-19 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">h0idks0dm47tkjknnms8id5mq78fz3y8alx1d8qh7rjpwgxop9bhacwz4yldgygyc5l0d9cny5lt6tkqpk0ddh3m7q2itz2g8qi31bxfscbly57zjtsbs41kzsd28rxo6nvtzkn1hob9uv9kinfocdxccp1ssuf5hj4570ldb72dtiukkn8r06mg6efe1m8woncbegpis9u9y2fxkcstpno8vvj2f36s1pxf2efqxuyghdo61kq1hub1qv2oqvy</cfdi_digital_stamp>
+</hash>

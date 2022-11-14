@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>3108e740-6b67-4189-b7a9-905a4bff3e9b</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Lirio Lomelí Orozco</name>
+    <rfc>BFK970316QAP</rfc>
+  </emitter>
+  <receiver>
+    <name>Rebeca Acevedo Rojo</name>
+    <rfc>FLÑ0409187NK</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">71136</cents>
+    <!-- ISO 4217 -->
+    <currency>SDG</currency>
+  </amount>
+  <emitted_at type="date">2021-05-11 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-06-16 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-05-08 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">altf2lmxryzpg9e2w11jpts1xskppa1e902teukwsco2hjo6w56600xb8wtuxbtjzlphfdky2k86z5hvoej01nknh4tyr5t1yp7v2m0x6icrvdoikves8st406e8lhm4ctnulk6fcb5vmkczk2afedenn0ik8f626ttmh1ynap8ebcvj9m3cjyerx8ftciuwbfdbmv1pmqjscv8ksvncb6ty5psysg8fpbx8eha0b33rucfbpql26isvulqddnw</cfdi_digital_stamp>
+</hash>

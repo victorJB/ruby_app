@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>ce4829ea-6ee1-4550-9554-82ab85cc1fa7</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>René Cervantes Mancera</name>
+    <rfc>QVZ050423IQ8</rfc>
+  </emitter>
+  <receiver>
+    <name>Elisa Mayte Tolentino Calvario</name>
+    <rfc>N&amp;J711123GEV</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">198584</cents>
+    <!-- ISO 4217 -->
+    <currency>VUV</currency>
+  </amount>
+  <emitted_at type="date">2019-03-04 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-07-04 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-06-13 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">7z0neyf038ubzwk45rv8cmux8khkp6dpdhatwcl7bi0cjtd8vzqq5x83d70njndf5uqmseqrfp8kuvb2vxw7tq660stmhgi357vrt2lwzzrd3r2fjdez02g8nmsuvb7lx5dn9tfzmlc8ixztor3d7x6ivc6xkm8l4m48dbbswxgf3ski5ypf8pcgzeuz35xc41zy8roro45zlzii3ykdawugn2rpzlqn47gxopdllha7adqrygdmtkm87029ui8</cfdi_digital_stamp>
+</hash>

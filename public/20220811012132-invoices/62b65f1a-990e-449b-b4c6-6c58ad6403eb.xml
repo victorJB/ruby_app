@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>62b65f1a-990e-449b-b4c6-6c58ad6403eb</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Joel Espino Díaz</name>
+    <rfc>TPE920113VN1</rfc>
+  </emitter>
+  <receiver>
+    <name>Rodolfo Ferrer Vélez</name>
+    <rfc>QUS130520HFQ</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">748236</cents>
+    <!-- ISO 4217 -->
+    <currency>USD</currency>
+  </amount>
+  <emitted_at type="date">2021-09-15 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-07-10 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-03-18 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">9jra9964uu01x6x23qgxgak4uscc03apm8k2mgc3wdkddnkdt7k46zrknjj1tolk2thca0057jivxj72vq5orp2i6lbtnqsbi8n4nuqmfxrk8m0g4mck2f5yq2quyrudbvbfdzl0amvskmlv7c16gzfnph5czdzq65cudolvby3zmr04788o2klozkv15p89qb2uyurzbpdsgo3de2fps1wjb4p6a4m9enm9e863wnv42jayojy7zxn8zc8y5qr</cfdi_digital_stamp>
+</hash>

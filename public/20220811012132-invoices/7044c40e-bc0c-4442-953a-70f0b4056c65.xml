@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>7044c40e-bc0c-4442-953a-70f0b4056c65</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Iraida Irineo la</name>
+    <rfc>VÑ&amp;011018AOC</rfc>
+  </emitter>
+  <receiver>
+    <name>Mauro Revueltas Gordillo</name>
+    <rfc>VLA191019H0Y</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">778196</cents>
+    <!-- ISO 4217 -->
+    <currency>QAR</currency>
+  </amount>
+  <emitted_at type="date">2019-03-28 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-02-14 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-05-01 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">2tlqvfz6xqqykfbbt67zdaiho7hqhqrun77ecayeal68oawidrfdeurislwx2gpbjol81pjjqim43p4mgsvqpu50t9m06taw2ewyvl8bbhx243rsvxbw8cd48lcbce4weua0qe6ibbigo3x4uvvgj9rrxbz7do058f3lcw8h07oervb6r749cpiks729gfajpstp22kj874loijh1yracattez550racocaufxqv2j9ohuihmevjet336ox28ib</cfdi_digital_stamp>
+</hash>

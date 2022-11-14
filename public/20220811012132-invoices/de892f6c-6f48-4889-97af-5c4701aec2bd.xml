@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>de892f6c-6f48-4889-97af-5c4701aec2bd</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Felipe Pavón Mineros</name>
+    <rfc>BRW931206098</rfc>
+  </emitter>
+  <receiver>
+    <name>Martín Abrín Simbrón</name>
+    <rfc>EAS8311181AZ</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">936616</cents>
+    <!-- ISO 4217 -->
+    <currency>COP</currency>
+  </amount>
+  <emitted_at type="date">2022-06-02 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-03-10 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-04-03 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">sggnypidtt7sjx28rnmvy81pbrwgdcyt2vvhndvxxd32dwnmfejza2jk9f9cmw3n8rtnnur6h9f62mx3i1cz62c6znkiipjfleqyju6zacbr9akrx61ssarnctv4xz3yqchvswr706kxu0uascg9h7np24gwaoz8yaa0ft4gi2w5l6ye524etop2xmerrut3v94orkvmapuhv0nb1r9ra1i58m9cwsr2x5mscbwhxr1mgwf42q54fv7a2g91vnb</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>cf2cb505-53d1-43c5-9309-716b9e3f3031</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Camila Blanco Macedo</name>
+    <rfc>DMS020704VD7</rfc>
+  </emitter>
+  <receiver>
+    <name>César Isunza Ovando</name>
+    <rfc>FVB791124OCA</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">663455</cents>
+    <!-- ISO 4217 -->
+    <currency>ZWL</currency>
+  </amount>
+  <emitted_at type="date">2022-01-08 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-06-10 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-05-15 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">t27lz6ofhipj79s4mylhqwd81yuo3vwnsc18ozs1s1memd0dh0yisotm7e1xslh0vbxuvxm7bm0glu0w2w3ehjfkplt1l56xci6h9k6kbiy6m3bnnl1pliok3oqky4uomjwyp0mbnd43j7at9m7licf2t6uhczaugy7vm0a2417aqc543mxwcq7hsfaw0tdngc32c4ltfz4m2f81o4xdr9hvz67ewbdwyq1d4xhn9ror1lgosr40p3msw2oihmj</cfdi_digital_stamp>
+</hash>

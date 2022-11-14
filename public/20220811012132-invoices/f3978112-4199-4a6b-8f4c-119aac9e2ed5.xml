@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>f3978112-4199-4a6b-8f4c-119aac9e2ed5</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Tania Onofre Mancera</name>
+    <rfc>SHY9108068TX</rfc>
+  </emitter>
+  <receiver>
+    <name>Viviana XXX Méndez</name>
+    <rfc>DWI8103174FG</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">684319</cents>
+    <!-- ISO 4217 -->
+    <currency>RWF</currency>
+  </amount>
+  <emitted_at type="date">2021-09-18 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-04-23 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-03-13 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">92ntfyefvuxu9jds2rc670sqaxneariwnz89ag4lg03pxbx2hzgeq4mwi89be5n9j0oy2lpuf37ls4occjfn7ydgtdhqn1kr5tcge8xff1blr40ndkmoruk7mrlu1tmdoh2b5wk0ougdshlhgp4y2xqv02605haezxumyr39mzkei7xoqn2042xaue71j7gqptgehv3dfdk0yqq8qlanbuz9555widpojp1ay3wjihwzst8fg1iiiw03f30qem4</cfdi_digital_stamp>
+</hash>

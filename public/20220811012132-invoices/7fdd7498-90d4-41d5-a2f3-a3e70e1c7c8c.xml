@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>7fdd7498-90d4-41d5-a2f3-a3e70e1c7c8c</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Jorge Fontana Herrera</name>
+    <rfc>FIU880820SOQ</rfc>
+  </emitter>
+  <receiver>
+    <name>María Palomares Bermúdez</name>
+    <rfc>CHB721112R2H</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">367599</cents>
+    <!-- ISO 4217 -->
+    <currency>TMT</currency>
+  </amount>
+  <emitted_at type="date">2021-09-03 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-10-19 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-10-20 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">l59akelzqkod7ft529oqbllcta6qnrsjsqprejhkz7ikaybenizoj57me7xyiwmr2uv4ylhvyxk0632lt0dv5aeldgw8681w7hio3t2o89m5ktyqy94idb40dlhrm0hdzvc9bq7bjfbn9e1wd9998mnlfmqc6e78nt0yfxje9fq3sn387rqrzahdtb61ngomhzmq7e64g5mk1bi8512t11klunk2vz8ckgelcvtraea5tk31bvg3r8yhimdq5nh</cfdi_digital_stamp>
+</hash>

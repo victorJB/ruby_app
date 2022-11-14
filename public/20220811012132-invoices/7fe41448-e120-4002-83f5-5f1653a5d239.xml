@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>7fe41448-e120-4002-83f5-5f1653a5d239</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Rafael Enrique Marín Machuca</name>
+    <rfc>CVT910916XU6</rfc>
+  </emitter>
+  <receiver>
+    <name>Pedro Paredes Oropeza</name>
+    <rfc>BAF1405289IO</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">613684</cents>
+    <!-- ISO 4217 -->
+    <currency>LKR</currency>
+  </amount>
+  <emitted_at type="date">2018-01-01 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-04-15 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-05-10 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">xoa17din0hnpcom5a1j1ecsuzm1ncjphsw52ooe47lfkx5i367vaqnf44ubsioxvm6odz12ub3081w4ga653clvo677l4yndt8iicntksh40zitri4fuz6q1s383f5ej0iz5uri9aqsj44zebzhffyuyjsyf2ut1iwprj3s9ndea0yq5v5p3fpq0sgxhmk7gmh87p2opjsakzozpfut2a39024s2q8wyktdts0eh2q5254ge8pfr4coy6q09d9h</cfdi_digital_stamp>
+</hash>

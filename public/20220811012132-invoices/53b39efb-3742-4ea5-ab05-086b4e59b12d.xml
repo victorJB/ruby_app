@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>53b39efb-3742-4ea5-ab05-086b4e59b12d</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Elena Leslie Roque Joya</name>
+    <rfc>KVZ880117QT2</rfc>
+  </emitter>
+  <receiver>
+    <name>Clementina Benita Jardón Echeverría</name>
+    <rfc>NE&amp;190510RSV</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">50986</cents>
+    <!-- ISO 4217 -->
+    <currency>GEL</currency>
+  </amount>
+  <emitted_at type="date">2019-09-05 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-05-10 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-11-14 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">cdqulldpe09sark7febn2gzjlbwmql6v435o65xugun388nhylsliwrc9pge6ly1xfcimj4pjq7po2qlapmjbk38a1p64co0hl6oqdvz7oiv67pixvzy3k2uay6bgu7p5jq6zifmwg2oisjxjwtke1xpqb9t1yekuenbmmrcm6fj7vrgpi24pz7aren8mf9cg2c8w64tmq8z77n1rj2l5h0p579h8pe76pze21iaesrt4d2n6lzhr5lmp94cthi</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>06a04e4e-8b4b-4909-8884-6b5e48db60df</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Alicia Morales Portillo</name>
+    <rfc>ROC1604060EG</rfc>
+  </emitter>
+  <receiver>
+    <name>Sandra Marina Orozco Vilchis</name>
+    <rfc>IAY701217BRK</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">79085</cents>
+    <!-- ISO 4217 -->
+    <currency>GBP</currency>
+  </amount>
+  <emitted_at type="date">2020-05-19 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-02-17 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-04-14 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">kzd1scr8eiqd5fz3f9d0gybhdd6rrbcpewjio4ika2729k4uslvikfaf46b3h184qew56vfqb76n2f5kz123xw7aa9pm97hse76vg9t7qh6sxv1rkpyyap8jeve8lub9gjpwk3ran3ogfpschzdq7o69n6yb311pofiup5xdaop0xnk1tvvqy7h5pjma832uytjvct3n2n42wfu5b2wfhj2risvn6cgs1ftaaghry92exdf3jjquqs94j0asd74</cfdi_digital_stamp>
+</hash>

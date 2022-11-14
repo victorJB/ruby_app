@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>26dc45c2-f311-49ea-95e0-3c49c057057a</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Yoshio Mora Mineros</name>
+    <rfc>YBO7611065RG</rfc>
+  </emitter>
+  <receiver>
+    <name>Emilio Otilio Jaramillo Sifuentes</name>
+    <rfc>RZH070315I1G</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">873066</cents>
+    <!-- ISO 4217 -->
+    <currency>KZT</currency>
+  </amount>
+  <emitted_at type="date">2018-06-17 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-05-03 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-01-17 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">j8fwn3r5hv2uwcd68nqeqkqwma01r0i45ou6jh3bntz4cuwz1fdbm89xo0cqx59bhw4y2sv050jb1dqcdx3yjyodoccones5goejyat0d0w78acbqdrsryyv080et7rg306vj5de51fvduec68fai0m5bpvm7dy3u0b6quvhza6ep4qst2bpxybvdrloasrkwdazatndm2zj3lt3frd2n8062ax12mr93smj2ho8lnqe1mlywqrxhaaho7r85p1</cfdi_digital_stamp>
+</hash>

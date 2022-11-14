@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>4b183c53-a6b2-4e07-af3c-65a1d3428284</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Aaron Jasso Lara</name>
+    <rfc>&amp;XH181103YRX</rfc>
+  </emitter>
+  <receiver>
+    <name>Adán Valdivia Isunza</name>
+    <rfc>JCE980111XJV</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">876268</cents>
+    <!-- ISO 4217 -->
+    <currency>TWD</currency>
+  </amount>
+  <emitted_at type="date">2019-06-12 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-11-17 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-12-18 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">wc6rk4ma75zvsup313k83u5x1aq8jhvsn7z4f7kmw5ioca7w7vrygo0xdk4fmyq37plxkhlpnocd53miaf5239n51wrg3wx3kgksew2bzwh973yuwuiy43ml2wetyc4gnpwoc8g66k7x8u9im6gyzcrifpzwr4dehtw9lr6pqp047w9xq395mgj9qqemd038h410gdet836sdde13megtrhdyqytuxl7xg0cagn4ui8dqt6gfarfk0im574o9u2</cfdi_digital_stamp>
+</hash>

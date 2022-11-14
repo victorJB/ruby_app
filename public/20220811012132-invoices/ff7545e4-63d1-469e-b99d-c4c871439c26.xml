@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>ff7545e4-63d1-469e-b99d-c4c871439c26</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Arturo Balderas Noyola</name>
+    <rfc>HAK000307DX1</rfc>
+  </emitter>
+  <receiver>
+    <name>Víctor Alberto Yáñez Ruiz</name>
+    <rfc>EIW750405LN9</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">758717</cents>
+    <!-- ISO 4217 -->
+    <currency>XPT</currency>
+  </amount>
+  <emitted_at type="date">2021-11-16 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-09-08 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-01-14 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">nek0cdzm49l9ykfcwo14hc4dr1n0c3jm22b5j23mlenibtm8d63y46qmrhqwuor4fhsr007y823nuz1noobt10rvw3y7vi703hbtbj73w7f3gv858a04szlnhzn3wj904r58a6wb94zdt3oakb6ffr6i847wlfua8b8eesb7yz0id3xx8h3b3h3zwyoa8wozqbkywvlj0djs8gq898z4yra54yhuvlxuc9dhpxw12hxsf52t4r5ifrlix9ln39f</cfdi_digital_stamp>
+</hash>

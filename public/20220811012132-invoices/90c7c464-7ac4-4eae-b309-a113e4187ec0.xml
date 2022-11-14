@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>90c7c464-7ac4-4eae-b309-a113e4187ec0</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Mariana Calderón Estrada</name>
+    <rfc>JHD000325OY4</rfc>
+  </emitter>
+  <receiver>
+    <name>Moisés Gallegos Cortés</name>
+    <rfc>ABF0611062H9</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">569643</cents>
+    <!-- ISO 4217 -->
+    <currency>RWF</currency>
+  </amount>
+  <emitted_at type="date">2020-01-24 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-08-30 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-08-30 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">2svg49r3qvnd5nr2ijwyh9f28zu2uolo1tusxpbdehw9sx6jibqy6h56686pk2aq3lo9azvxtfrxheeremxjf5ct1dbl20y1vcd14g5h0qxtu990e09zd46c2ueiqkcfg42dxowqkvibilr5wfcsrmr1vl6l5y28kxgj392knap2s2bd4sab4kfeeh995h39wutemlks1edl8ejb5clvincr12586ih4nqu8fn7tczj0rkyozjcak6s4urc9gyw</cfdi_digital_stamp>
+</hash>

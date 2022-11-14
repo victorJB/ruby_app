@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>4ea6a20d-637c-42c9-9cc7-2d92dd9a04ed</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Lucero Guerrero Cabazos</name>
+    <rfc>CZQ1609154YI</rfc>
+  </emitter>
+  <receiver>
+    <name>Nadia Preciado Limón</name>
+    <rfc>FZT84112121J</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">587372</cents>
+    <!-- ISO 4217 -->
+    <currency>UGX</currency>
+  </amount>
+  <emitted_at type="date">2018-04-01 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-06-09 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-04-28 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">37c1jqy0f7eq39t71k9cbqku9x0w8cekzc3i0gbdv8vnelgp8neo48lp42d7ooiamqj0zcyc3thku56o3n7vakwzsnm0fbtakfbhdo8oyqzop599gc4ml9jiup4ohc3mgl3073qar4py4p69yh576wzfca13wvb5vnm6qz851knp687e1v6rgm4bgyix4qygal6bm6ww73qutcn014l9vvgvxvmcn1ppi5alzieo22mcssjdvygdtwj7zrjd6o6</cfdi_digital_stamp>
+</hash>

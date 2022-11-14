@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>0cae45fb-e979-46a0-a402-c954e07a385a</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Helena Zúñiga Tamayo</name>
+    <rfc>BLX820925ZJR</rfc>
+  </emitter>
+  <receiver>
+    <name>Margarito Wilberto Tinoco Mineros</name>
+    <rfc>VXC210814H5E</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">754211</cents>
+    <!-- ISO 4217 -->
+    <currency>THB</currency>
+  </amount>
+  <emitted_at type="date">2021-01-07 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-02-01 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-12-19 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">x7xnupf3yal0qtqks53qtqzgrg55dkiz68oa5m709u61f6e726cqgljj0q5ekoulua41s0k026dlkypk2j427nxqa4g4tfywh2p2wu5mtpuqtoc4q97lqyb78gxzkv3i7snrzqlawhohyjimpizros7oqz7xhav1pii5m5njbdblug8dhxekhi90bz97byxehyo1oo52byxha831f3e3n5cg7r8yvkbwnwn1n9x5io84ld1ir32tdptmtxwy33n</cfdi_digital_stamp>
+</hash>

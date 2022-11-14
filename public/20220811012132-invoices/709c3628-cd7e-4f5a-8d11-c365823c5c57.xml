@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>709c3628-cd7e-4f5a-8d11-c365823c5c57</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Wilberto Martínez Alanís</name>
+    <rfc>ZKV210725TRD</rfc>
+  </emitter>
+  <receiver>
+    <name>Emilio Andrés Rojas Sandoval</name>
+    <rfc>ZBG930424V4S</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">51851</cents>
+    <!-- ISO 4217 -->
+    <currency>VND</currency>
+  </amount>
+  <emitted_at type="date">2018-03-20 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-10-03 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-01-20 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">y35gu4n2k9ogukvf0tn2i03550qy1x4gzihdz2geucfanyejgn4zbfts3llmqng5vkzzuu0aft5uf47plq5530ohrww7d01kx234mwssyrfeof50g2au67md1n9h0ohf84ol9ctv420o8lffes38tojb9b0fquo9j8hyxcp5dn3kxkhuir006o07au9p4xhh8ac2m7uguhb3ffh1hfss4iasz60qm6j7frpy9384b7t9cpqg5z44h2i9gt7vxdw</cfdi_digital_stamp>
+</hash>

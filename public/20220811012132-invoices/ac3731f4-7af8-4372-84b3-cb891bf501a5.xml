@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>ac3731f4-7af8-4372-84b3-cb891bf501a5</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Aida Alma Barbosa Mena</name>
+    <rfc>NRD921206ZQY</rfc>
+  </emitter>
+  <receiver>
+    <name>Jovana Mantilla Aguirre</name>
+    <rfc>KJL101203437</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">133240</cents>
+    <!-- ISO 4217 -->
+    <currency>XPT</currency>
+  </amount>
+  <emitted_at type="date">2021-04-10 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-12-21 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-09-16 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">bz72680jibfh4y5v5f1cwp8z0m9esirr3k1u09cl96b2g1gtypgujt6rnwfypk30stxlpuniv9rt6v3usgbjbm325mnwrp3o6tjdyzo4rxwqks4owb3zj341t7hrdp7esw27wibiwo1pfw9ntl8fwkrw6uz38voc2i7qxwgbdmja19sbao7ppfymlfjol1ygxc8ny235lcsvnqzkkb2n2jsf4t0apr5ylfoy7wc1zy8j535v03l5c6pvo1brh4d</cfdi_digital_stamp>
+</hash>

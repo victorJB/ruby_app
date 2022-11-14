@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>fc46cbf4-7feb-41ff-bc73-0fad9aafa54f</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Lorena Ochoa Salinas</name>
+    <rfc>KMU2105300WP</rfc>
+  </emitter>
+  <receiver>
+    <name>Gladis Fregoso Bernal</name>
+    <rfc>BM&amp;180206DU9</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">129919</cents>
+    <!-- ISO 4217 -->
+    <currency>TMT</currency>
+  </amount>
+  <emitted_at type="date">2022-09-13 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-10-22 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-07-30 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">2s47bnmdsv8t3dg90p8m1yi3fjky1haobh7tvvb3oyiu4hprpsx4o7lj3b1ejz94fgoe06pxych91b7nbng9okqgt5htehtv2g5mo45775zmcl9ua1sgwo7ezm99nrn8uoeipl1g4us08hvuu35hyo24mu9my4334umsomyf1kc8pooixfwcyo86syynzen1017jmwmz0gonap34w50rr0gk05q20keqkk0kkvowd2o2wegqxt4ionup5yvjnyq</cfdi_digital_stamp>
+</hash>

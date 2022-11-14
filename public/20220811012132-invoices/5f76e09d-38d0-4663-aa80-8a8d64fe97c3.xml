@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>5f76e09d-38d0-4663-aa80-8a8d64fe97c3</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Angélica Quiñones Salinas</name>
+    <rfc>SBM101031P8I</rfc>
+  </emitter>
+  <receiver>
+    <name>Verónica Peñaloza Feregrino</name>
+    <rfc>ZHR950411WB8</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">932951</cents>
+    <!-- ISO 4217 -->
+    <currency>EEK</currency>
+  </amount>
+  <emitted_at type="date">2021-08-07 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-09-09 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-07-22 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">i76ofuzl3ulvky31d8zkskrkt3agn74lxdw8jy2cuj40alxem6zmacsywp4m7wdyctzr9pu3vlm3i447mi11w37h2b68wqm6fymclfb4kqwgx64ymh1beuow30u0xmj8e4dlh0a4wa2owa8abu04uzntrt3rzg14id6y9t4xfe3ihgbe85tgocpxsw9z8evhibm44th9buletnbg2ygqw4jknj0dhv7snsontsjpa1wfik4y3fui3vwknoy0b6b</cfdi_digital_stamp>
+</hash>

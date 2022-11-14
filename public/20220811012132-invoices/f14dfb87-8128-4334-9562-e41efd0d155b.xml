@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>f14dfb87-8128-4334-9562-e41efd0d155b</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Ivette Quintal Ruiz</name>
+    <rfc>FKD01122168V</rfc>
+  </emitter>
+  <receiver>
+    <name>Nadia Matilde Jurado Calderón</name>
+    <rfc>HLD200322DKN</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">472191</cents>
+    <!-- ISO 4217 -->
+    <currency>XBB</currency>
+  </amount>
+  <emitted_at type="date">2022-03-13 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-06-23 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-06-12 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">2oki6c6b8b2qt53tymxtblgkzzz6n72gqhmw7hf4kpey884phk1qa3ujq5crm82jw4q5zbtpfc5b5iq9txnwnn3e3414efbgh06v0wflcfnhwfezz9wgu619m0ghqkcft4nxsf0khydhnkba57jwos8wx088d34wunlcxoxv9yfz09je9xxi3o9maz4on54ps6g42ibyxzv0cl3rnagrjldqo3a3hjyaunpfz5lfygxr2cboub2vlkmdj7rma0j</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>b37e5be5-ab8e-44cc-8c1c-6cd36d0ddbe4</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Orlando Martínez Duarte</name>
+    <rfc>PRL941223R40</rfc>
+  </emitter>
+  <receiver>
+    <name>Jorge Jaramillo Enríquez</name>
+    <rfc>VXJ940709WJ7</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">318159</cents>
+    <!-- ISO 4217 -->
+    <currency>KHR</currency>
+  </amount>
+  <emitted_at type="date">2020-11-24 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-05-29 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-08-20 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">xixze4pp2bei47if2rzlf5qwpqwvofdpnmmi6yqjlvrsxrpq2epco26guh8fazvs4vgtaphzri1273xnzub4fdnjtqn8tanwfldpfbshp4wz047ku3z4d6pgo3anwjmj6hq0apnpkypzy7b9d3eb8x9nllejjgx42985e9rqaj3mgge3ao9ei4r3l90cxye8st1yzw3r82r6ocpcqoqpuwq0kf2opt6xnz3b2q6ngnyb1fjqc7f9v52olyo0u3q</cfdi_digital_stamp>
+</hash>

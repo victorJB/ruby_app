@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>a5f55f39-9b97-4483-876b-112a1981f9a5</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Emilio Ibargüengoitia Ovalle</name>
+    <rfc>AVÑ121022U70</rfc>
+  </emitter>
+  <receiver>
+    <name>Félix José Bernal Ocampo</name>
+    <rfc>ZDC190606NFP</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">884923</cents>
+    <!-- ISO 4217 -->
+    <currency>KHR</currency>
+  </amount>
+  <emitted_at type="date">2020-06-29 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-03-15 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-10-23 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">j5h9fld3sgas6td26vfddmwqco9dc4xhtm1bpvwbmqdgcira8t7b96192h4n1ymdqvh86uoizcjoj58nrt9c76taafkbjwh39p0nfsg5zhhgl65sjgmidwpkptczsdf9xqfpg1pyl0ba6ayqfqjcsuew1iqabqqn08bcmptv5qmuprttbmavo5364jgy6j62ifaahlxzek8de6aps3jhw0qp0ayvgtsjcig8hs2y8wbgzw3ntgnu8gr7w5vhwzy</cfdi_digital_stamp>
+</hash>

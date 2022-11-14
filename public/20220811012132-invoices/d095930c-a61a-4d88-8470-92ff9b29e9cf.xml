@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>d095930c-a61a-4d88-8470-92ff9b29e9cf</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Amanda Paula Villaseñor Mena</name>
+    <rfc>AMU940429XEK</rfc>
+  </emitter>
+  <receiver>
+    <name>Mariana Echeverría Millán</name>
+    <rfc>WOV971212C7B</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">163084</cents>
+    <!-- ISO 4217 -->
+    <currency>SBD</currency>
+  </amount>
+  <emitted_at type="date">2019-06-07 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-02-07 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-05-19 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">o22dplrbzbt6vldcdvuz4fhtfhpigdj68vahstsej65r10x7vxovx8dynnuuly93ar5oxkkhs1zvricsnv0dppqtz21p23bszoki684t0t4pfde91miodrrwaub7omfsh3c6em2byvv8qey1gque215jlj2cxv9xx9axrwdku6hjyo7drkj78npns59j69e2o046049uushi2aykn11930oojjsamyc5fdn6sp96rfrm333gwe52en7i76z039h</cfdi_digital_stamp>
+</hash>

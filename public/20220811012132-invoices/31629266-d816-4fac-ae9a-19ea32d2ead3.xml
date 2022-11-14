@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>31629266-d816-4fac-ae9a-19ea32d2ead3</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Simón Andrés Pedroza Valdivia</name>
+    <rfc>GXN9711166X4</rfc>
+  </emitter>
+  <receiver>
+    <name>Julián Quintero Pacheco</name>
+    <rfc>Y&amp;B9205163PK</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">957463</cents>
+    <!-- ISO 4217 -->
+    <currency>AUD</currency>
+  </amount>
+  <emitted_at type="date">2018-11-29 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-02-13 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-09-08 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">fgo2e0z0seek4m1nqo5zblqoxxdeouik28g7e1nbievyleqnzphh2rdla3bwiulv268olprzxghud6v6xprrjk7ysgcub58e49klq9o1k98tq927ffqsaxuin6eke2nq9693ug5n1ipnusayecxjxyanpfdtai3z1hfpp8amcy6z4u6zgzmsv962q15gl6pqlho3d28ufh88indk3d8wxtts9b9q6ekuc8e98nw4ouzmjuqicoa0veqw3pat31o</cfdi_digital_stamp>
+</hash>

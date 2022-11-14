@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>7134dcf0-9b4c-4442-b8ce-08b554de8026</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Roger Calderón Zepeda</name>
+    <rfc>RDI071221N14</rfc>
+  </emitter>
+  <receiver>
+    <name>Nicanor Marín Maldonado</name>
+    <rfc>ZDB180612C0H</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">997514</cents>
+    <!-- ISO 4217 -->
+    <currency>LKR</currency>
+  </amount>
+  <emitted_at type="date">2019-03-18 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-08-13 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-08-27 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">29njy5lm687tm5o4ovh4hgk9i1k2448fgzilo1pv2n48v9wi1jguoe20x0lfhx54sylqfzf8g8cr7up7l78go21aeajayxk0fm5d97vhiqcpsrdrkrsaz0tvoi1l3fht92kv6vqakbm913mmj2tjfiankzubnwzfiaarub6afkl66hpe1f9vch66yid1xg0xl3vlj666b3l2uyky8hd9zwywr8fj37q5f70o9ks8twf37ffqtihuuesreb6hlma</cfdi_digital_stamp>
+</hash>

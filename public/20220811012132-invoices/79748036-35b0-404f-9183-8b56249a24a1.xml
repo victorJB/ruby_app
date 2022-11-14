@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>79748036-35b0-404f-9183-8b56249a24a1</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Camila Mayte Gil Díaz</name>
+    <rfc>VTJ1301052PK</rfc>
+  </emitter>
+  <receiver>
+    <name>Darío Javier Otero Olvera</name>
+    <rfc>CÑD880804WB4</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">496487</cents>
+    <!-- ISO 4217 -->
+    <currency>XTS</currency>
+  </amount>
+  <emitted_at type="date">2019-11-27 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-07-22 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-03-20 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">qnb4uo2dzvgjv5sj7297sh88mwl3ji8nklibh8qgdnvtdsnt2dnuysu9thxm7dglgw1jofq3094fr9actbxn68zbkl5kqve8eydgogi0ifnacm4zs1bvxyxhkz9d5aa7ko0y7val8c353k3iodnoltrou4m3zlw93ilylgrs33r03uzvflzstvjjy4u8idtj9q4gcwjqdq4va5wkcrayiaf4o2bermy7yh0e83cz3rn75s9jwpc2x50yts8ht5x</cfdi_digital_stamp>
+</hash>

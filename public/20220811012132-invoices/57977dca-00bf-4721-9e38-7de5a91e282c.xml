@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>57977dca-00bf-4721-9e38-7de5a91e282c</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Gregorio Marcel Rojas Lucio</name>
+    <rfc>RWT0309151HU</rfc>
+  </emitter>
+  <receiver>
+    <name>Benita Trujillo Nevárez</name>
+    <rfc>TFA101002T4D</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">301781</cents>
+    <!-- ISO 4217 -->
+    <currency>AMD</currency>
+  </amount>
+  <emitted_at type="date">2018-03-21 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-04-03 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-09-12 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">wiypmyuursyxv8j6wl5dj8dwy7uqcocr67brihoasdynouaz6d19aqcr02lc0mti8mmh2k55mvf9tvspp3g65ag6dibvieprj5cra4bltgeo1f9sz3djb7ijxdznytfwzc5d1j4ne4t37glkyy14zrazlr9iqgcarx4tw0tr8o9pugc5k2h519p0mifnds1uzt1jzo5l70qr3evvtpq6x3sm5tm8mof0qycsogq2htxq52lfq809oj40tiifmq4</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>2d310784-4f8e-4fc5-9224-7b1a700c6055</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Rosario Carolina Quintal Ubaldo</name>
+    <rfc>MEW9903265I8</rfc>
+  </emitter>
+  <receiver>
+    <name>Ernesto Gazcón Lamas</name>
+    <rfc>KFJ770808TJX</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">309520</cents>
+    <!-- ISO 4217 -->
+    <currency>TMT</currency>
+  </amount>
+  <emitted_at type="date">2018-08-20 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-07-31 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-01-21 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">hnhhnb594g7vkxajly7god5giahff0745hd5rcx6bkm0du30w9e3fz1czkz4g4764cmbtqqlu0z7od49kz59e36lx4a8y2x9cvs2g961zsifdf8gn8koylfd5weibr2efbqlc1iar61bwf7v13oetre0nvflk350lq9a8cqafj5wcd64ioen6fl2f6181rwgg1l6kwklkz93wnos0tck6u9o7digtfwujbfmbn0ucc7vkpkep6wmyue97gk2u55</cfdi_digital_stamp>
+</hash>

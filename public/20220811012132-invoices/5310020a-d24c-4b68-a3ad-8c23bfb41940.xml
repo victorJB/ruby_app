@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>5310020a-d24c-4b68-a3ad-8c23bfb41940</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Fabiola Margo Covarrubias Roque</name>
+    <rfc>&amp;JH181115J1U</rfc>
+  </emitter>
+  <receiver>
+    <name>Aurelio Mercado Ortíz</name>
+    <rfc>JÑL060927WJ3</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">166085</cents>
+    <!-- ISO 4217 -->
+    <currency>TND</currency>
+  </amount>
+  <emitted_at type="date">2021-05-08 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-04-07 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-05-01 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">m5vbryp59oitfnun87589k1om9j71n62erdlip61nb5p33yxy29fa5zgdawfngoz3vhq5k1on107id9vm8fd540o0setzhq6om7tsfkbe0qbfw5fug3njzdfa7i4xvc3n453k18hq8mn55n045d24bt3lfn0og83fnan0lr2hsy83f375h2kltmh3hyo2xssr180oq36uao4jhodtf0y5r9xpylx7j361s9ud9b3wc7i2dsom03f165j9kxs6ng</cfdi_digital_stamp>
+</hash>

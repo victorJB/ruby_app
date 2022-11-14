@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>521beb57-6de8-4acd-afb0-5014f30da9e0</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Leonel Rendón De</name>
+    <rfc>EOY820416RZP</rfc>
+  </emitter>
+  <receiver>
+    <name>Sofía Ferrer Mujica</name>
+    <rfc>JZW9010235TU</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">651866</cents>
+    <!-- ISO 4217 -->
+    <currency>OMR</currency>
+  </amount>
+  <emitted_at type="date">2020-09-28 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-10-04 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-03-27 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">3veubmd0ty6jufnk2217tmedpq8wggjd3rocohgsa27aq68g8exdyd5gclqg1osn6xu7pjxvhn270d8h8hd2i5wfnrby8svk3zlufld9iineez6xaoy7quut0g5kygmbj9u86n4sisekv2854ip1kzsxdqwf9gelri39kqwy2xu304946hzojyk5lhimomyot914sz9bku0rlovnitln3x5ph15o9k0pyngq5ilhq4ux1cxs7qvq2iy94ykgn54</cfdi_digital_stamp>
+</hash>

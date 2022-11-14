@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>194b7b89-0a27-4bfb-9a8d-d6df48b6123d</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Elsa Abril Uribe Rojas</name>
+    <rfc>REO910604SG4</rfc>
+  </emitter>
+  <receiver>
+    <name>Judith Ugalde Pimentel</name>
+    <rfc>SNE80111996L</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">220905</cents>
+    <!-- ISO 4217 -->
+    <currency>MVR</currency>
+  </amount>
+  <emitted_at type="date">2019-02-07 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-03-28 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-07-17 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">gabdx2nx8ot4vxenci8iw2nnc22y0n9mzvsdmnvk6v9zywpzaln4vwxj6w3llp72unchj7beghks8fgllungfgyddgsbef2d5eobyz8kbjc99ec8aeeyv974fazslzo77wa4pn9isyrusfjazwbd5hfasow1y27pj2z9v1lwkt25kuf2tk8bid6vm2phn0hru0vcnnv2gonmmiebulum4flajvy8alp7nlbhicjine4txdlsw1b1lelmjkpuyxv</cfdi_digital_stamp>
+</hash>

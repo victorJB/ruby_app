@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>ddb0ef29-0880-4c98-bd4b-7a81ddfdf9a8</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Amado Márquez Leyva</name>
+    <rfc>FUG8009294V7</rfc>
+  </emitter>
+  <receiver>
+    <name>Marisol Cinthia Dorantes Lucio</name>
+    <rfc>OCJ810417U9C</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">564090</cents>
+    <!-- ISO 4217 -->
+    <currency>MNT</currency>
+  </amount>
+  <emitted_at type="date">2021-06-26 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-02-11 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-11-03 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">4tg86f26qw8uv51sjh6ni5mnohra0ssjbpbs7qcyiuqv3vy5c1xflfm52lvguiu1n2wdqsltlfuqzg3hxmmp62se3cvkdodf23g0jc7lfzq7mnebpybv5azjsm753k7coq2n7g0zrbv46qjbao85jxersvp68nu2clqbqbsab7ujhsafkw2w502tzjzsesr09dykk5edkd0xcp3cgzje55qc42hqoqx8rpy1e27ogrlck53h2r21hsis0eeig0g</cfdi_digital_stamp>
+</hash>

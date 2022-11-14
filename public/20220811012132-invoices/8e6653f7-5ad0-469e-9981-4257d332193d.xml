@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>8e6653f7-5ad0-469e-9981-4257d332193d</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Judith Elena Colín Campos</name>
+    <rfc>NQY800323WU3</rfc>
+  </emitter>
+  <receiver>
+    <name>Gregorio Ferrer Botello</name>
+    <rfc>WE&amp;090613AKS</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">778038</cents>
+    <!-- ISO 4217 -->
+    <currency>YER</currency>
+  </amount>
+  <emitted_at type="date">2018-02-26 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-07-17 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-05-22 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">9q6xcc94fmqt8iwrdb97qzijjvc5chjrbb73celi52qcesvg196trtqhtbndeuy69z9l4nx13szm63ndjoky6q610zga3qgjb4bwezchpfm5ynl9t2rrou9o4ntkawfk3hjvzgi1wldtjet4altqcc636j6mz2gfmhwcays8e9g1ogahocwxbw65pybp7nf0jv5lk6i5f2ncgm1h6hidtywqythab1nsifp29yy49hu9acje8qihcvkqz6j657r</cfdi_digital_stamp>
+</hash>

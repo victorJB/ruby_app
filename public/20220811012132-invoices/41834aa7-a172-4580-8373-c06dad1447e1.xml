@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>41834aa7-a172-4580-8373-c06dad1447e1</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Osiel Paredes Rincón</name>
+    <rfc>DXF011218BUR</rfc>
+  </emitter>
+  <receiver>
+    <name>Rafael Cortés Manjarrez</name>
+    <rfc>XVÑ220925KC8</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">241058</cents>
+    <!-- ISO 4217 -->
+    <currency>GTQ</currency>
+  </amount>
+  <emitted_at type="date">2018-04-24 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-11-27 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-08-12 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">u32yvl24asgcuxblngp2f3yw6r01h3dhg523fg5jtv65pkdul6f2013wz4pwt71ykdsmg8is1w6zna0uniu5pa51zeuy7ehlvbyls5zbzp0wjgcwomg3flm7p23j3f39ywk8teqt2sypcwhmqidzrakqylcc11dssd2qkwjpjzwjnklw6p4lk261fgluwkd0t5jxfg6sqarwt5n61vu2z2mv9271xfr6s7s0bh1o0rs2btvjtwx5qvochrdmf14</cfdi_digital_stamp>
+</hash>

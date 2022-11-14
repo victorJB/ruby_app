@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>486fe45f-2f67-415f-90af-840c1df33177</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Bernardo Cabazos Vega</name>
+    <rfc>XAC040406J7H</rfc>
+  </emitter>
+  <receiver>
+    <name>Marvin Irving Miranda Espino</name>
+    <rfc>SXO890513KJ3</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">195078</cents>
+    <!-- ISO 4217 -->
+    <currency>AZN</currency>
+  </amount>
+  <emitted_at type="date">2020-01-24 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-10-03 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-12-12 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">a46gkys817c2ep7hycnzh52rs8p4ypz6jwwbdtro0ajkfims90ibnhezfhc6cuy9pgjljtyldy1n3niq5s3iu5c1mjslz9vezyhcp3aea1bg0xbb6t1vah17omhmc0ew3v951yw1dmnmt1q03izoh6ysnsmprfcudqlhcfpzb5gjvwmh1dyssu2dlnt5vclxf9m4fepvy5o60nc9l0zlzeb1shk1ez43pihrtbttlsc83vketpfkehtzjrmgjxp</cfdi_digital_stamp>
+</hash>

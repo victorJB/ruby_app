@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>654f88af-e655-46ad-a625-18f850ccff44</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Argelia Álamos Jiménez</name>
+    <rfc>CB&amp;010624W1V</rfc>
+  </emitter>
+  <receiver>
+    <name>Paulina Bautista Lomelí</name>
+    <rfc>UHC01102825D</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">589950</cents>
+    <!-- ISO 4217 -->
+    <currency>MGA</currency>
+  </amount>
+  <emitted_at type="date">2019-08-20 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-08-05 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-03-18 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">gajlajp26b31m5385ydehwi54lvek5w0f6skcnpk4ybyva6juhkiaq2f97fi15zshu5xyva24gtnh5t54ggxb4b77ayp1wzlzpy932284j71g7bgeqk28pbqfm0t2aa9o46vbbb4qdv3te11nqr6eky13vvl4gjougkj4sgkbu0j84elybop2sh4tcvwc7hzh8bce74uewibmzzkcc77dkck92aq5zcrnm4v8bcdmmfcuhvybakxy7yrlb3eed2</cfdi_digital_stamp>
+</hash>

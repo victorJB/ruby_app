@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>b1641ed7-8721-4cf6-ba1f-a437a805161d</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Apolinar Izquierdo Cabazos</name>
+    <rfc>BVA81020875G</rfc>
+  </emitter>
+  <receiver>
+    <name>Miguel Méndez Fierro</name>
+    <rfc>ÑYF910211UOL</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">535987</cents>
+    <!-- ISO 4217 -->
+    <currency>SRD</currency>
+  </amount>
+  <emitted_at type="date">2022-05-13 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-04-20 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-01-03 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">9vnc86glctpv7sw5hoik3bt0nw2ofp1pc90l8sazv969k7cz2bfnkynm7y3hamwcbcygrely9ng9ubt2ynz09ijtzgrvg7rwmyzgbv5sbvhtdg7bbrv0hqt4sb5b8ibxiy191qb8we4e8v2tn9hh0njubjpfek3mekkfq0y6tm4h1yb9uro5e9kuew7r96hz6jndcf60vujcsln1vv76k796872f64dra44vz67zwqepi485oad6pydyfl4w6qr</cfdi_digital_stamp>
+</hash>

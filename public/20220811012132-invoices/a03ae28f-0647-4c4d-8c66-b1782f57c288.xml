@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>a03ae28f-0647-4c4d-8c66-b1782f57c288</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>César Heriberto Revueltas Escobar</name>
+    <rfc>SCO771002R13</rfc>
+  </emitter>
+  <receiver>
+    <name>Eva Mariel Ochoa Aréchiga</name>
+    <rfc>CLS9505138XE</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">60096</cents>
+    <!-- ISO 4217 -->
+    <currency>EGP</currency>
+  </amount>
+  <emitted_at type="date">2022-03-12 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-09-20 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-04-13 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">wa7x96t5itede2t0puzqzw2tvdubsnwbdbg1eg90du50sbi63wf1tq996v2nf14q64u9epybm6kaq3brpbltqun5upve8oi25r32ypbga9fqholu2zt3x8gd30ikyjhku531fhtgkhdpawwqn81emw0jg9ddugjh2cf2r7gsmdtnwpxspdc714t4meytkq7e0vj1tpbq8xaugdh1gw5obm9c1ymmmxry70wwpqxfc6h2vcom4sfb2dnhemimy0g</cfdi_digital_stamp>
+</hash>

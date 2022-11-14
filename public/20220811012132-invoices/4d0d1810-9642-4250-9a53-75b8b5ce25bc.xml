@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>4d0d1810-9642-4250-9a53-75b8b5ce25bc</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Roger Ochoa Guevara</name>
+    <rfc>LÑY830129B31</rfc>
+  </emitter>
+  <receiver>
+    <name>Aldo Acosta Ponce</name>
+    <rfc>RFK781121J8M</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">553697</cents>
+    <!-- ISO 4217 -->
+    <currency>XBC</currency>
+  </amount>
+  <emitted_at type="date">2019-09-23 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-12-17 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-06-23 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">4i4f4acszp8r6i0im2f7t4fil2s1xdj72mnedbk0ylgir22b4qzayt8yaafgkodm3fcj22utfrixe911secivltv9zeepc1miyx2sstxrrr5crfdjq05k0ckcmqfhkgywa1iny2r6lzahi9rau9nuy79slza1v4xn1ms4v31wpeo8qj2t1bglts7qi05m80myvtrduoi773kmd0ta8pklpad69lry57ym7aqyccv0uswaq2qpvm6xnc2n3ghny8</cfdi_digital_stamp>
+</hash>

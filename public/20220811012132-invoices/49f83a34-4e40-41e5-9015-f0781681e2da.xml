@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>49f83a34-4e40-41e5-9015-f0781681e2da</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Silvia Marcia Tejeda Estevez</name>
+    <rfc>UFM820311OW5</rfc>
+  </emitter>
+  <receiver>
+    <name>Eliseo Silva Tejada</name>
+    <rfc>ISJ840326FWB</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">450104</cents>
+    <!-- ISO 4217 -->
+    <currency>DKK</currency>
+  </amount>
+  <emitted_at type="date">2018-03-07 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-11-20 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-02-07 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">qrxtpjg1stpo4fifcs9sjyq7qa3wuuoerv4frylf4u78y1lhxtsspccexdaxn8n6bnqce8d3ho27z5azh7psns1rfd1x01slb3f88qsje1ug6egrtiv08rfptru288x89ii4pgl0qokmk9zco559dd6gndy4mt6s5d0pcaul05t4f5y5ahbybnq412xwezmzucmymvsaspqxpc4fwugbfc3cpz84aw23y8zh8nphqeb4tcgx49mpov6iw2jfwxv</cfdi_digital_stamp>
+</hash>

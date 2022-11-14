@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>cbd2c9ae-bd95-4741-9ef7-af1aeaaa2497</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Iván Laurel Flores</name>
+    <rfc>LIM1603278FB</rfc>
+  </emitter>
+  <receiver>
+    <name>Elisa Mantilla Villa</name>
+    <rfc>QUG090330W31</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">790775</cents>
+    <!-- ISO 4217 -->
+    <currency>JPY</currency>
+  </amount>
+  <emitted_at type="date">2019-02-03 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-05-11 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-05-24 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">bxh0mgsabfxgqpht5pjph3ln948e6lg39gbnpnayf1s5w7vbu0asaskri6ppmzwgpjg2vv55a2es20jmcmydzjca67ooda4wm7x1k3xl3ouqzkb4rhiqp22zmjb0evnocb45jyahd2uimp1ygjtzdo3webtsq836aowtcimy3r30f1ty6988zusb0np905gstwcghjo5qrhftxfoyoasx0tth8advdk3e4mlf825okkcndrqwd4p3y6yy2ypsrd</cfdi_digital_stamp>
+</hash>

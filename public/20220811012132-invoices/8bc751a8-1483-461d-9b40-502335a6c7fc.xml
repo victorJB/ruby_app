@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>8bc751a8-1483-461d-9b40-502335a6c7fc</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Benita Lezama Ávila</name>
+    <rfc>TWU910314UST</rfc>
+  </emitter>
+  <receiver>
+    <name>Gloria Abrín Aldama</name>
+    <rfc>SRH980113XSK</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">138916</cents>
+    <!-- ISO 4217 -->
+    <currency>ZAR</currency>
+  </amount>
+  <emitted_at type="date">2022-05-07 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-02-04 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-05-31 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">gb2bujjgk24h438dzas5v1as2kurhuoha7v3ztv0ho9bjfoqdlzefuitwlki35i9yjktdo8ck775upf7fp8qa42vgga0eb83zi135dygq4uaypp3wojb541q09a5s4udymas9otr8ht5hjoa4o1yy8kofyn6xtw9zfds1r606s1zfziyjkjhzmea8oub3sfvgxscly4yrndhtr1i9xc462uxxtr9gqq012o38wxld8iuqcfp014znedai6hgfd3</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>1d3aef16-0666-4fbc-a1f2-3cc3546d2396</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Mayte Caballero Ferrer</name>
+    <rfc>XQT830402AB1</rfc>
+  </emitter>
+  <receiver>
+    <name>Elisa Ponce Villaseñor</name>
+    <rfc>XIZ180408HUS</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">164003</cents>
+    <!-- ISO 4217 -->
+    <currency>JMD</currency>
+  </amount>
+  <emitted_at type="date">2019-01-10 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-06-06 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-01-20 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">kshl1rumfhvunggvyf7n4cgnqhsjt80jxt7qocyox4choka4b2ehe916jk1pgj65yicp8epwsjd9ufmbr271qj47yk66zwdqavq41sxsubejzclly2gegwmpjx26xc3qv22iou1gi00urclvry7e2q6ot1omrlpaqjsq16vg1c8uz1n7t171kui9y72yqj45net5ks5ho4nf8a7q709afeg15708d3vpdkmr7msljb7pfr3o8r08788x78ak0ks</cfdi_digital_stamp>
+</hash>

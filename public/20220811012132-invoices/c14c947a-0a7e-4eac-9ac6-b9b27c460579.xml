@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>c14c947a-0a7e-4eac-9ac6-b9b27c460579</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Orlando Rivera Izquierdo</name>
+    <rfc>DOG140408E23</rfc>
+  </emitter>
+  <receiver>
+    <name>Oliver Cortés Baños</name>
+    <rfc>ISU190626RGQ</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">441328</cents>
+    <!-- ISO 4217 -->
+    <currency>MZN</currency>
+  </amount>
+  <emitted_at type="date">2018-08-12 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-03-19 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-12-12 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">z6tbfpsioqgci7yfwtc9naqnoqroh1wag57z8q6g2lt4l7q303g5ejdsu6njght161ijocusr63kt8as4zlqautq4m524ucxm44eepa8q8lg6q6xp22tcwwkgvtv6y4lzllj1kqqzwfzv9o8nhsrok31c7vmfs2f69m1z6hqkrzncgh7z23fwerxgobsebuev8yyn6mnjew1igsfk6w09bq8c0yp6tsy54mi3eec5wd1k0ybp85bzaxr984zr7t</cfdi_digital_stamp>
+</hash>

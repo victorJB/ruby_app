@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>15b54ac3-0500-4b3d-9c04-0f803d3b3736</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Susana Irineo Ovalle</name>
+    <rfc>WOL0712095GB</rfc>
+  </emitter>
+  <receiver>
+    <name>Juana Patiño Ibargüengoitia</name>
+    <rfc>DS&amp;020218R5M</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">569093</cents>
+    <!-- ISO 4217 -->
+    <currency>YER</currency>
+  </amount>
+  <emitted_at type="date">2018-01-11 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-07-19 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-12-11 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">4xy6z6xyti333opfl1ivrskiqv6xmwcqctvuoka1kqe2mpsu4zgwh85yevtv9fa33qc3ook7dl9m1keu9j5xx00jq5v2yr1q6xdii2d85yelfexussryb01px06y13uaz5818v57rsfwng8pjyhmk2pqg67q6rxzlpqgtf4oxgejg2p3a0g2zuazxe07jv8v4gfj5x2lk2073wiimn7u1b0m20l0ukrezqeurtb1ynzekbio9qdazhm2l75s7et</cfdi_digital_stamp>
+</hash>

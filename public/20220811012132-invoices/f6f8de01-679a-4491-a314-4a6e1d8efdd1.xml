@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>f6f8de01-679a-4491-a314-4a6e1d8efdd1</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Azucena Hilda Fontana Quintal</name>
+    <rfc>ZCF850501A3J</rfc>
+  </emitter>
+  <receiver>
+    <name>Magali Anahí Ladrón Santos</name>
+    <rfc>QOT060317P3G</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">292899</cents>
+    <!-- ISO 4217 -->
+    <currency>MUR</currency>
+  </amount>
+  <emitted_at type="date">2021-05-29 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-01-12 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-06-29 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">0jalqnzug0u9t3dyv6at356u6q8c6rwpfpekb5685zf5f7tanuvl2dxy2ol4we47lmos9qgejy6n3w7mum6q0s40nwwb7apz0xwl25v959l2opgap66dnthfma6d6qmkwiq3gdoy8mkm9m4qqufdfvqhmmzlb05s999r7sn8mgrvu2k0zl9vsd95rr1qm6tctg46au9ky3bv4qj9w1xtyjwg7w5frdgc7qk67fbrpyxbizn2s86s3j2948pt75f</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>9fac3239-f167-45c1-96f1-1b0eebf41bb8</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Iraida Palomares Baños</name>
+    <rfc>NOZ07113031J</rfc>
+  </emitter>
+  <receiver>
+    <name>Nayeli Preciado Pulido</name>
+    <rfc>ASM1406149A7</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">160909</cents>
+    <!-- ISO 4217 -->
+    <currency>RUB</currency>
+  </amount>
+  <emitted_at type="date">2021-02-25 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-04-15 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-03-09 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">nr0ad5s5o6hk0rn3vzkmbxq2t5fzmc9ihmyh58yrwsdjpuktapszx7mptnhnjyn9axo2tsazn91tf92bw7ploooiggo1g3q0w032ekm9pg27fw53ec953byeboenzdxadtdht6h3bzws4m9bz3oyreqr37y24ee9j4n1q1hygs6ai2c3zymt4gb072t21pbpyrtru4tr5qoperiwhcu5yodp2eo8f2j9p5pnle1kom79kg3efxj7wetr6k0wgv8</cfdi_digital_stamp>
+</hash>

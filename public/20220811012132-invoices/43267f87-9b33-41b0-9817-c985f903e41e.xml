@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>43267f87-9b33-41b0-9817-c985f903e41e</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Rodrigo Revueltas Baños</name>
+    <rfc>SUA190314YRB</rfc>
+  </emitter>
+  <receiver>
+    <name>Lilia Catalina Balderas Velázquez</name>
+    <rfc>TEG7407052QC</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">254618</cents>
+    <!-- ISO 4217 -->
+    <currency>PAB</currency>
+  </amount>
+  <emitted_at type="date">2019-09-16 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-03-15 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-04-02 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">2ij4itj0xr72cj8ly4czx0s4elcf8ddgqczgqizx7up1e1lb6be92v5dbgpxw778bre974wb3dwweoulvlrnyd8v6pughjs30510s3detilxcry3ngy1y1xhbauatlo1m5whimo9u7k43d5lo8mf2l5nq42qh3c9k2ejmilxqp14ji84auhso1ggwdd06mtyik7ungfh2znl4iwo3o72ejvg56hl3q295lz0wsrlbswluylc5lhiabnyacgu3iy</cfdi_digital_stamp>
+</hash>

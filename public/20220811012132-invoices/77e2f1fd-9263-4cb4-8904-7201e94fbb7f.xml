@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>77e2f1fd-9263-4cb4-8904-7201e94fbb7f</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Rosario Bobadilla Borja</name>
+    <rfc>HGÑ8608147J9</rfc>
+  </emitter>
+  <receiver>
+    <name>Leonardo Ariel Legorreta Barrientos</name>
+    <rfc>YUL910312ZJD</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">863214</cents>
+    <!-- ISO 4217 -->
+    <currency>GTQ</currency>
+  </amount>
+  <emitted_at type="date">2020-03-10 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-04-25 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-10-26 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">n66h6nkxonpiovwat4d8hw1p3r9ozzi8d65l2lhcf707nlrb13gnqrmdedu2lqjywybtxk8ivvhz5mqioiwbmh5qnfigbr9t84fjkwe5jewmbu9zuxjun96l5gmlxm1w9tdu29ekxryje2d1pdm2pcwciuzu9x5enfbhzo8tqudc4oii3rb763noy1bwsmz84co0p90nhfsc8n1mea3uvg2pyls9ajdgtdz3cpx4gyepqhbt6kunq4yc4kyr861</cfdi_digital_stamp>
+</hash>

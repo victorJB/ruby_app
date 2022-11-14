@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>fcf6daea-feeb-4f9a-8506-889fd7510222</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Fabián Nuncio Marín</name>
+    <rfc>FBR910701TDA</rfc>
+  </emitter>
+  <receiver>
+    <name>Marcia De Ríos</name>
+    <rfc>MN&amp;100417P5Q</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">455945</cents>
+    <!-- ISO 4217 -->
+    <currency>MRO</currency>
+  </amount>
+  <emitted_at type="date">2019-10-01 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-02-05 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-12-28 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">qswbz7vcwpic88ykw6387qjhhhd7ph09kkjyf5l78iida0lpmupcxj6s3iw6qova7zfn2r4hrmkq2y90utf4we9oy1pn7688uh7rxg5e5npjff84pdyjmlv48l0o0zqq3c1f7g21jg4cg749t9fw77bs0mc36pv1nbenz68pdf7cy4prvguzf4isuju0qjoedbhg2pjrqxl7w7q1fifzwwvevoom7ayv46i8gi7yqocvxl49pj9977eyl7pij28</cfdi_digital_stamp>
+</hash>

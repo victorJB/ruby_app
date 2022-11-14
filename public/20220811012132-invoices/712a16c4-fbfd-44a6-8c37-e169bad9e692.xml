@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>712a16c4-fbfd-44a6-8c37-e169bad9e692</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Temístocles Velenzuela Pimentel</name>
+    <rfc>&amp;FÑ210213LOK</rfc>
+  </emitter>
+  <receiver>
+    <name>Francisco Emilio Feregrino Fuentes</name>
+    <rfc>FBE8304280XT</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">860122</cents>
+    <!-- ISO 4217 -->
+    <currency>VND</currency>
+  </amount>
+  <emitted_at type="date">2021-04-01 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-06-25 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-05-07 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">k1y3ybtdicr1lkwnt2zumpoqhdw7c2uenwqic8tljzw8axahyijhgjplapwcjhhcnkn19vmxsu3fh9jt657cz2r1s0l70lo9d8gs38b1ktpm61nkjenpzmngait7lxddjeizs289dz764q2ast09onfm8jv9mccfqo5rjwzhet49e598gmlcguwn3arlrf1bdwl5tyizn80i19jqzi5beycg8lnwelca79prig8dmqwk692p2w18s4ooeaeerl1</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>4300cd92-7028-4a73-af3d-0ec81a35d368</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Pascual Carmelo Galván Ramírez</name>
+    <rfc>RPO150702QOG</rfc>
+  </emitter>
+  <receiver>
+    <name>Denisse Ocampo Rosas</name>
+    <rfc>QVO191026UVR</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">378119</cents>
+    <!-- ISO 4217 -->
+    <currency>BAM</currency>
+  </amount>
+  <emitted_at type="date">2020-07-09 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-01-21 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-06-24 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">zth1p3o9c0ti0xfdnlqew0l2anrioj7jci5oxknw41a2l21krq6h8a776azb8jgtdk70v60otj83dhfatnq0syubc61km4m4ybpofvfa3vhhz20lwa7bjta92xr910bzv6irgaf7tijgm65curqu4347w8pka9po3tjzbg0ewd20prd50bc7hno0or3c5rzhxhgzl8g03lh3pdra4ww8dqlnh6w9mz61aj72ogoh09wtwqz5fhva61j8n5u9nct</cfdi_digital_stamp>
+</hash>

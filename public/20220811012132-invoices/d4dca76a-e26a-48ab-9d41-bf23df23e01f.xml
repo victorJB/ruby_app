@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>d4dca76a-e26a-48ab-9d41-bf23df23e01f</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Cosme Luis Delgado Palomares</name>
+    <rfc>WAQ15061457R</rfc>
+  </emitter>
+  <receiver>
+    <name>Donato Rendón Fregoso</name>
+    <rfc>NKA140108TRY</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">942400</cents>
+    <!-- ISO 4217 -->
+    <currency>XAF</currency>
+  </amount>
+  <emitted_at type="date">2019-06-10 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-08-03 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-11-30 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">apd8unr3hnhe9gzjkmo3cgdwqqtw7wf1lr5fuqkvxfs9cg9m1j8ztgkhr3i1dfzkmvo6k0j1d6u4zlc0i4vb719m3nw41u2bn000ptnayg467pe1g5yublwshsbom612aej9cl6hox61vy03gsqfzhexdseoy8fcvcosw8sqx2574l4uos7091wi7sspbwvy1djm357j1fasf9fz966fmejo05lq85jdk6naeyh2s6lesdwz1ctmc2btbv7twmq</cfdi_digital_stamp>
+</hash>

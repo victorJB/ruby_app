@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>a7343ca3-3dba-4d75-bed5-fda8cfe5860d</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Miguel Mario Noriega Jorge</name>
+    <rfc>XJT880823N5X</rfc>
+  </emitter>
+  <receiver>
+    <name>Efraín Morán Estrada</name>
+    <rfc>KGA760420PCU</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">298670</cents>
+    <!-- ISO 4217 -->
+    <currency>SVC</currency>
+  </amount>
+  <emitted_at type="date">2020-09-20 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-02-04 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-09-25 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">ves7pgkicrqmk6ig92x5kwtnhwn84aqwbhod8jca6w3rwtbsf7lpud9w2j0vbqrd6o5uky6ztcibts2pma7thwycc5vy7g68s5nt6jwybhiazooaf5o8vyqsyxou15boypncpnnqmrfa31x4iydhefcxof2cso29arggmyv1xl5onkbrdtmokhqgh39u4yp2zxubu7x7tlicbtu8rmhtpcje34a5ylwcj8wgu4yckyjlgsyakcbk1iptkiecrkq</cfdi_digital_stamp>
+</hash>

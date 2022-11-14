@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>23138218-9ce4-4bf0-a7eb-fcd4c3a8eb8b</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Rogelio Ojeda Ortíz</name>
+    <rfc>AUS720905ST5</rfc>
+  </emitter>
+  <receiver>
+    <name>Ramona Barbosa Gordillo</name>
+    <rfc>&amp;BÑ790601IG0</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">389192</cents>
+    <!-- ISO 4217 -->
+    <currency>GNF</currency>
+  </amount>
+  <emitted_at type="date">2019-06-03 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-04-07 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-03-09 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">t62lzapitb2xhmnaa5zsdhandaptmcsm7el93c34puqxk1b2o0htgfd40d9m7z88ivn9ihgiz1lhuvn6gngw3fi2zgbn5mmqjzx0bsynu2qsayrmc386yug4snd11z4fz1ja4gcwgq5rx540flyojhv7aav8c43uo9hzmu6ga43g1muwnuhb7n1tx24f3i9hat9itlmb05e4z2bqood4punpk11mm7kdbzpwxucx5wlnyonpt5mc10rhst9v5hx</cfdi_digital_stamp>
+</hash>

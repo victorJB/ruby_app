@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>fb45b616-c512-409e-a691-c6c860fa18e9</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Adelina López Sandoval</name>
+    <rfc>LHC0006194BI</rfc>
+  </emitter>
+  <receiver>
+    <name>Agustín Zurita Ruiz</name>
+    <rfc>FBQ790603ZFK</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">955877</cents>
+    <!-- ISO 4217 -->
+    <currency>LTL</currency>
+  </amount>
+  <emitted_at type="date">2018-03-07 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-06-04 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-02-19 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">xaxszj16xff4dkpyirm57cffi74msxw2ckfcvmt3tzvu8ujp5q0swc1lkf4a875atu0kn0t64itd5rlexg1eqgchl4p2l8063a695drst8hx7il2rgwcp8ycmdg7bfay8aii1stg83pnd1sl5orfrbj1omg3rgefpj21g2ia3wzh3st1n1mvnno0z0jhs62lmo1849qdk2s3tzu7g49ls13a3y0wx29h2i2ylus5v89ierj839j5e8g5s3pmnku</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>6b5b29d7-a3aa-48ea-9014-ca5e3de76c42</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Hanna Quiroz Graciado</name>
+    <rfc>YRI890119SA1</rfc>
+  </emitter>
+  <receiver>
+    <name>Oliver Ugalde Covarrubias</name>
+    <rfc>KJE110502XET</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">888861</cents>
+    <!-- ISO 4217 -->
+    <currency>KHR</currency>
+  </amount>
+  <emitted_at type="date">2021-12-07 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-11-30 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-12-23 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">tfybqga9fp43fr0oo84coktldwmkjqtbinynfn3we7nvzrn1nei2c0g7d8o9ftqcjvk94e8z4wqk3ly1d4nvz6ltpeaxh6na2ysoo6wsj3yjqxyimjbfsv323y9d6uvojlwwepqioh0xmrxjni5ng048koacplwrzdgyc5szvnfl1uu7iqbu2unkwgc9llvxg3gxfwjd3qvflzud5k8qceo07546m103jl3fuw4hcxi2lw0oy4j2vdzmpspvsuq</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>f51a16e5-fe36-4250-aee3-ec77643b5782</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Claudia Ibarra Bracho</name>
+    <rfc>UFI101208G9M</rfc>
+  </emitter>
+  <receiver>
+    <name>Raúl Camacho Pedroza</name>
+    <rfc>XAD100319CL3</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">320492</cents>
+    <!-- ISO 4217 -->
+    <currency>KWD</currency>
+  </amount>
+  <emitted_at type="date">2019-12-29 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-07-24 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-02-03 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">1zvdmjdsxyk9ieeuaopwhk4ctxdpzt6kvai714y8jabyi1gthvdy2gp45kpmj8i6i4zxxy6ybpm1zik9326fy2a5467pwdl9bh50v7x8gpf844hnv2rdnbpi40urvs3fpkvg0g7fv2eyrp6ovjx6uyvt6bgvtkcm5npjf5980wmetmqrchas03dpja3z3af6hkz6n0z991gj4we3xtbjdvvr9xn1mizta51gdoma3l5vmd5g6uiklb4swi618zh</cfdi_digital_stamp>
+</hash>

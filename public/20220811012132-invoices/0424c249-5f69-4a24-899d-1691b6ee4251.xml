@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>0424c249-5f69-4a24-899d-1691b6ee4251</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Gerardo Benítez Ugalde</name>
+    <rfc>NJG070917FKL</rfc>
+  </emitter>
+  <receiver>
+    <name>Adelina Durazo Román</name>
+    <rfc>GXU121226MQB</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">794105</cents>
+    <!-- ISO 4217 -->
+    <currency>MWK</currency>
+  </amount>
+  <emitted_at type="date">2018-03-13 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-03-28 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-08-09 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">y7nznifzes8b47n8laqltgamfs6xa67c703onogjx95awd7wnjk077ebakl5l6gv7gbcggvqa80tkjabe4906ag7c1dnaf0q2ffsffosc5kwr3ju9hwjdwt5m3ubl75o0wbzm68ohcz9d0at74oclht54jpqurjegth6qkc4ayo45v434c9rxxl189ywbcw94ew6mxnikl4xsod8wlmw6oyrh687jvpwhxcxz5ijnb8m9epqnobselsgaxeff8e</cfdi_digital_stamp>
+</hash>

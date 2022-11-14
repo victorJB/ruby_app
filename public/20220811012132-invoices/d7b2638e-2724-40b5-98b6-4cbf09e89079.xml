@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>d7b2638e-2724-40b5-98b6-4cbf09e89079</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Marcelo Servín Nájera</name>
+    <rfc>SFE091123DOE</rfc>
+  </emitter>
+  <receiver>
+    <name>Olivia Campos Nájera</name>
+    <rfc>GJÑ1805180KS</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">510821</cents>
+    <!-- ISO 4217 -->
+    <currency>DOP</currency>
+  </amount>
+  <emitted_at type="date">2018-01-11 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-11-05 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-10-27 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">kqaib310atjgotc5yuneh7eje1705orjw1m1ku08i8qdtmd6fan0dk2sxks2vkd6vh7u6pmcspbna3w2tty15sv4z2hyvo5g4g1ztb0aomgkqs0jpsqfo34945tw6h36qc1yeybv3f81869djxg36x3cbifs45h7jvn59emw9708ekalkbc3k8rwawn7zi3os57b2lseq2ssl47m9xipgqvu2i9ad3r5z03nuw21si2k6sdvpaixfxnb9phs7gz</cfdi_digital_stamp>
+</hash>

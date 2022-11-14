@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>02d3eb02-8b13-4ef5-81d2-4126ba7f1a49</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Juan Pulido Durán</name>
+    <rfc>KX&amp;820915BJ6</rfc>
+  </emitter>
+  <receiver>
+    <name>Margarito Quino Negrete</name>
+    <rfc>WHN930827J20</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">763829</cents>
+    <!-- ISO 4217 -->
+    <currency>FKP</currency>
+  </amount>
+  <emitted_at type="date">2018-04-17 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-03-26 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-11-23 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">qzlhmm5v4p9j3gj4jdlglzrm5y6psh44uml0qmtbv45yz934qdu9oejgng1i78yzme8ok5wgvmuik588wekxgfi4m5ohm14aeh679g7jhgyaur51i1rwyw6bu4dkv5u2m83iqfleai0y37bunme79hxovm6wbemisxdik4mpc08i7j8mqn725xjetlrdwtvzgpg3y3gyl5ge996ahd1h2ldiokc39817xof4xee1lwokcnb4r9r4v1ma5tz4iti</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>c2754116-310d-4e2e-a01c-ce167154b5e8</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Vicente Silva Millán</name>
+    <rfc>DSL0008315DY</rfc>
+  </emitter>
+  <receiver>
+    <name>Petra Lamas Bautista</name>
+    <rfc>BAQ790531NZH</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">449471</cents>
+    <!-- ISO 4217 -->
+    <currency>LTL</currency>
+  </amount>
+  <emitted_at type="date">2018-03-12 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-06-07 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-02-06 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">mk34uuvni7tbafk9b6ed03dh2ys7jyotugawguxcjmqi9qfl3w05bsuw9wanr62oko7qxetjpp3xu9dzqp4kkuaz73skmo7oulaqql0i2gl4c4vnmmilj9668hic2h85cuj03ws0wtj3m3j0qss1utnuzqm0t9uu4n98om3x71aijrhnu42q76r2iq111mdnh9ctab72auqsgubk8uc4w0m6j8tdpkl4z71bzmseov4npf5pvqsnjmy4kvsfko4</cfdi_digital_stamp>
+</hash>

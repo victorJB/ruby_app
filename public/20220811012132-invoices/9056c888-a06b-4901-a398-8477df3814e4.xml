@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>9056c888-a06b-4901-a398-8477df3814e4</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Marvin René Oca Ibargüengoitia</name>
+    <rfc>GSW120623DPY</rfc>
+  </emitter>
+  <receiver>
+    <name>Augusto Leonel Campos Noyola</name>
+    <rfc>OPT06102467H</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">683515</cents>
+    <!-- ISO 4217 -->
+    <currency>JMD</currency>
+  </amount>
+  <emitted_at type="date">2020-04-09 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-01-02 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-05-19 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">xw1lju35nrziic4xbmjp15hli5en80l7bz3wdez0rr6u5vtqeibm26hfg6jzrlwhtfqisugixx7p5frbdbhwh6hg7vyprx1qnyno05aruhuj969jdmtktw2mziq37a361najfizkn494ryrhxidj5ofcesun3j786ozo98rcooz5o1bq266o176p4svx8hbhb6xwly8v09ay05oma9lia2e5jyvcd930nrc0i53wwhs8u89gikk1crc2gtpcl4f</cfdi_digital_stamp>
+</hash>

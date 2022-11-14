@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>3aee9c8e-038f-4378-bf5a-576775da94d9</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Alejandra Azcárraga Naranjo</name>
+    <rfc>EQK020325KYH</rfc>
+  </emitter>
+  <receiver>
+    <name>Moisés Abrín Bermúdez</name>
+    <rfc>WVJ9201290LQ</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">906577</cents>
+    <!-- ISO 4217 -->
+    <currency>BOB</currency>
+  </amount>
+  <emitted_at type="date">2019-07-15 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-06-02 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-07-15 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">3owpqj4tf92b24lg90m4yh1l43pqpwqrddtilmhd9ntvqi7xfmkfx5u6hn35c99y5fslclrd3m1vj48mo3usfylb6r7uhb70r2smxf6li1xupzsmpk9naujjanwjutr2hvxzf557gqfuedblschxteg1z5g2p7jo06mszmfspxyyefz3vdimkvayqsp1wgvio7xus0a5z3vmd2uwk7p7xasgs5p0v7c6vx3gdusbzab6cljtnskihj5n63oc2vh</cfdi_digital_stamp>
+</hash>

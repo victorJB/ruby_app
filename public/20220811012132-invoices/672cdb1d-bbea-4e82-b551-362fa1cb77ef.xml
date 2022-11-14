@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>672cdb1d-bbea-4e82-b551-362fa1cb77ef</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Benito Román Estevez</name>
+    <rfc>SJU880926S1X</rfc>
+  </emitter>
+  <receiver>
+    <name>Héctor Paredes López</name>
+    <rfc>HBE180619RAI</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">334228</cents>
+    <!-- ISO 4217 -->
+    <currency>TMT</currency>
+  </amount>
+  <emitted_at type="date">2021-09-12 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-05-21 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-08-12 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">jwhj6br2otbu1v2zrwdfzmn1d2u6ls7z245h3z1m2cnx1uinbzl8msreejp8iirkmp0dbmt1ppvxiypmbgbnhcura37hhd433g1afy97m5kaldkxilteo0p0xqmr7jzym44yxx2sfme8tr81ai907ceis11kkj8aeepob3q6f2it32do490gspwcl6idnqz06pr6j1dmnlmyjenvt9zefgvjtwr1nmxslq1kjaco0f8yqw36woiaxmrp78bvsz9</cfdi_digital_stamp>
+</hash>

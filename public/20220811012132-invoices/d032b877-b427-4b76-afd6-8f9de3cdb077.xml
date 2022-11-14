@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>d032b877-b427-4b76-afd6-8f9de3cdb077</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Bruno Oca Lozano</name>
+    <rfc>UXC1903050WF</rfc>
+  </emitter>
+  <receiver>
+    <name>Horacio Ledesma Bermúdez</name>
+    <rfc>T&amp;B7511014GB</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">223865</cents>
+    <!-- ISO 4217 -->
+    <currency>MWK</currency>
+  </amount>
+  <emitted_at type="date">2021-11-28 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-11-14 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-11-26 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">7gwd3aa13ro36nkso92a3uwr6mhnvm854shig4ou7goc2fozkxmzlj7vut476c5gwmdbb9xzpasbnxn4iip51e3xv3qbu9vzmb8fvqz21q01hxnvutfup2x06gxscmtxe1iym7t2wndr3bxfg085983hjuczljjwfyr8llfctzkzu7lsroyq7cvxvin4o49jaqs7i4hisrz9j3rf8l1zzina04cotwlcqbvgi7f4zjp7gt7z42f0mmqrd7mtaad</cfdi_digital_stamp>
+</hash>

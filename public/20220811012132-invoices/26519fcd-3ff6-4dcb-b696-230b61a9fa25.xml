@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>26519fcd-3ff6-4dcb-b696-230b61a9fa25</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Gustavo Dueñas Montes</name>
+    <rfc>WPN83082324O</rfc>
+  </emitter>
+  <receiver>
+    <name>Daniel Rincón Hidalgo</name>
+    <rfc>ICM811018LQ8</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">130285</cents>
+    <!-- ISO 4217 -->
+    <currency>XPF</currency>
+  </amount>
+  <emitted_at type="date">2019-03-09 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-12-24 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-02-09 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">h2hp9wg25qysoeehn0ie1qdvdndlnep3yneozuqac9aohjo03sfln03rt5pqhk3b1f5o4ycbfynalv9o3123dv0flgtzokzu51rd8p6yk5t8k74ovkxs556oo1i9u6557paxryqwsun1jc8vevunkcubb57m9ht2olhyjkykweoj08qllso3iy1eryadd096e7lq7eec1ecakbiorztbq89nbv2zp947zmzo4hava09gu8rvxvomes83ldas9w8</cfdi_digital_stamp>
+</hash>

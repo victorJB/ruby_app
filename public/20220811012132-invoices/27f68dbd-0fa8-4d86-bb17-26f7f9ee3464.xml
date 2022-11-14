@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>27f68dbd-0fa8-4d86-bb17-26f7f9ee3464</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Melina Laurel Lima</name>
+    <rfc>RKE811122CBE</rfc>
+  </emitter>
+  <receiver>
+    <name>Margo Guevara Jasso</name>
+    <rfc>GTB1011091O3</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">136640</cents>
+    <!-- ISO 4217 -->
+    <currency>IQD</currency>
+  </amount>
+  <emitted_at type="date">2022-02-23 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-02-17 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-11-29 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">4vhn78rgz8d33wubuqvaktd459z9ihx19k29tv860qlzu8i0p3jx7bjinle1vfpo9ju08dlyiwla8fts2w2hn3b2acmaa8hopglxx8z20a6pxn9gn6q7fohq609m4z4ou7xozbmooo7ahk2hv8133tf4xpsubohmzaixumnugezdt7tbxr7olqtswxzb04we6m60epx4ny7lepup9j09u56t1h98saxileopp0ix0u1v7ijjxlx4txetaq8il0y</cfdi_digital_stamp>
+</hash>

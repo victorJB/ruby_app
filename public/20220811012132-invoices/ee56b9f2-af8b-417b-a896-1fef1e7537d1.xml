@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>ee56b9f2-af8b-417b-a896-1fef1e7537d1</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Nadia Villa Espinoza</name>
+    <rfc>YAW190225R8F</rfc>
+  </emitter>
+  <receiver>
+    <name>Úrsula Sánchez Quiñones</name>
+    <rfc>LZN981025RN1</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">91480</cents>
+    <!-- ISO 4217 -->
+    <currency>GIP</currency>
+  </amount>
+  <emitted_at type="date">2019-12-04 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-06-10 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-08-08 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">xgh21jmygxrcjgxsjqt1k5g9ad0u8ya1za4eelrucnbz0702yjtqkbb28e426wid2jh8v0o9oznd15d8fwi3gvfmwnacwysjxujclaq49775vqi78atityq93ko4i84rbs5f9a18ff4bvbh2c2aynzzgw16eteiznl1maj76pu0x595w5xakkd4lra40xyjx5ckogqcr7020x0vb996kt1mgdwl14m0pda6s6h92zfv97iry9jdixc93dfctet0</cfdi_digital_stamp>
+</hash>

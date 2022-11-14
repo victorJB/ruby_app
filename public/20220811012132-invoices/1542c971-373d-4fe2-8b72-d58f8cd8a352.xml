@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>1542c971-373d-4fe2-8b72-d58f8cd8a352</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Gina Villaseñor Villaseñor</name>
+    <rfc>QH&amp;210206UAN</rfc>
+  </emitter>
+  <receiver>
+    <name>Esmeralda Orozco Enríquez</name>
+    <rfc>GSK010415DOL</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">128177</cents>
+    <!-- ISO 4217 -->
+    <currency>XAF</currency>
+  </amount>
+  <emitted_at type="date">2018-05-12 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-02-02 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-07-13 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">zref6dqv7phziuep2c0kbcv26vwkd8bith6o7405q457xkdc3ofs91daztdez5cfqaytlpddfgonxsnbebthrcn5ayrka468xl78dee1c54z3kgvbtplg2ygp75zg90i6oln4optnn920g1r7p6sdkkv7iew53yl3j766enfievpu030rpdqjp5xpcsr3hacmjd04seq00cvw29x7t2e2bnk62gpwkxkglzypl83s67a9jal5e24g65uuv0al6y</cfdi_digital_stamp>
+</hash>

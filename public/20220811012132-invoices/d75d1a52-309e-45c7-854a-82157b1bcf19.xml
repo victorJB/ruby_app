@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>d75d1a52-309e-45c7-854a-82157b1bcf19</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Silverio Lima Soto</name>
+    <rfc>OGN14080917F</rfc>
+  </emitter>
+  <receiver>
+    <name>Seferino Nava Pelayo</name>
+    <rfc>VKW9111266HA</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">465900</cents>
+    <!-- ISO 4217 -->
+    <currency>SCR</currency>
+  </amount>
+  <emitted_at type="date">2022-11-08 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-04-17 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-01-01 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">8rttuqnf7zmolyzvk8r8bmr395igvwg517rn8sc7y3gpv3xxmupzap1fhl4cc3tnq403ni3i3zql7j4gjqdqwtki6h10f14el53rdqbq6zdbgazrarpj7vmut40krjv4r2h9yznhtlqae0pwq8rmkv1qihf0ixvjukuwur59zd08awisj0g0cw3c2gk1xozble5y81y01c9xt0epc82xz59w2nnide71ai08wa5r2zuwv6l4wcdgqluaqi7yjuv</cfdi_digital_stamp>
+</hash>

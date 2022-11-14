@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>c907b283-ee35-41db-beb8-b83a1916cccc</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Elsa Valdivia Cabrera</name>
+    <rfc>MÑU170930LTE</rfc>
+  </emitter>
+  <receiver>
+    <name>Víctor Miranda Román</name>
+    <rfc>WYA770904TQC</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">68875</cents>
+    <!-- ISO 4217 -->
+    <currency>SDG</currency>
+  </amount>
+  <emitted_at type="date">2020-06-04 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-05-20 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-05-08 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">cwjls64a8fs0cv6fnmfqmnsqys2lzj9bh45nr96r9dcazdhlv7vazjxbmygivray5no67vjvxlqz5bl0qsvoxfb1yq8c3hlex1n1nor6r89zwnu5da1fsn2qzt1vgpuvwsmsgmkpwitrmlsgpt5ly0pxkxo9w6x0d1ll1tylg3jff0qdv84srbfsad0dmvmao9gfmckhkvffz1ddqn0hwolqu2tgqul12rixnf9nixk3on1zn7jf0185vo0r34e</cfdi_digital_stamp>
+</hash>

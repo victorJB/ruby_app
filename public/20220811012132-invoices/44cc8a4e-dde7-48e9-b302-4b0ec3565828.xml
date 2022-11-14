@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>44cc8a4e-dde7-48e9-b302-4b0ec3565828</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Andrés Fidel Pulido Irineo</name>
+    <rfc>ZMJ750328VK7</rfc>
+  </emitter>
+  <receiver>
+    <name>Olivia Pelayo Sabugal</name>
+    <rfc>WIM170731I3B</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">233130</cents>
+    <!-- ISO 4217 -->
+    <currency>BWP</currency>
+  </amount>
+  <emitted_at type="date">2021-06-08 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-09-08 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-12-24 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">idwuwhvdtfj4b7lii1m3o0c18k16ms83z6mxcu5m0cn9yuzfhn1yzi1xagzrtabm95kj7ms7sa3tfjiu21s438vrft1jz6wjxvczofatyqbh1hpwinzpd1xw1hfebcrbeq5jh1mccikwm89ncymlv13t1x0lk6u9xcgl9jz8ub0f4zbtxufa9cjbyil8sqgpp3m7sjj8385wq43c5yeuogr8d1wmsmhmb3nof7gj3bunlys0wwl4l0i8v6zxd6z</cfdi_digital_stamp>
+</hash>

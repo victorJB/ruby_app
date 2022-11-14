@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>fb4dc08c-d1af-4481-8def-83138946d3db</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Alejandra Joya Reyes</name>
+    <rfc>LQG0110200N7</rfc>
+  </emitter>
+  <receiver>
+    <name>Pánfilo Gazcón Castellanos</name>
+    <rfc>&amp;BU7703297LX</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">257922</cents>
+    <!-- ISO 4217 -->
+    <currency>ZAR</currency>
+  </amount>
+  <emitted_at type="date">2018-05-29 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-07-06 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-02-17 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">y39wmvh22pxl1dg6w3cdutpy7udf667wl5xqwdahotc1c6cm824jlxhnuw965nqhuy4yubhbrj6lok9tf70a2nf5kl69gdjvejjoe5dwhsu7n419boq6uek3yi3wx8zquqtqjpjst2h3ux8ats1bvpa32181qwvqx4fgb3ova4963nwvcim0lu4qjevk4pjo7ez6a11vvwixgwmr1ewewiwx9268cnynnd2h0lfug9v8mm9rx61q34u704ajkos</cfdi_digital_stamp>
+</hash>

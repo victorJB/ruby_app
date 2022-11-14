@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>cd9fc14c-d468-40e1-903b-a8d3404182ae</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Xóchitl De Márquez</name>
+    <rfc>BUQ820620ZFE</rfc>
+  </emitter>
+  <receiver>
+    <name>Rafael Díaz Palma</name>
+    <rfc>T&amp;S701224CTO</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">582257</cents>
+    <!-- ISO 4217 -->
+    <currency>KRW</currency>
+  </amount>
+  <emitted_at type="date">2020-12-17 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-04-27 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-02-07 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">k5y2rxzc2tkzzazmam5lo6vrltwi6bms2928mhn0z05bqcmv25wd59unsajo12k0el6i02mdotl3433ex6qr5jikfvi1l1l82fx1zza5r8eidtrghn0oxurr48gcau3uegkbosha2exxpma63ak3ewkw253vcjirifg5jd7el5gwa29nfukomukomylgnvyd26dgoqgu7v8vnrn7lvq97t77h84wdr7h4fhe74hojt7pxw6z8qmadaf1gmdcxus</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>50cee03d-0154-402d-9a56-f993f4a816a5</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Vicente Joya Noyola</name>
+    <rfc>SCX830118SE0</rfc>
+  </emitter>
+  <receiver>
+    <name>Balbina Mayte Pulido Canales</name>
+    <rfc>&amp;NX950705IFT</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">443887</cents>
+    <!-- ISO 4217 -->
+    <currency>IRR</currency>
+  </amount>
+  <emitted_at type="date">2019-04-11 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-07-06 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-06-16 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">kqjgr87f3pg57twdat9hf4x2na2z63jsapmtb9pp6nq1fs6mkb8df4rdur7qak3j2r12o7dld76flogn6u9k8e7s88h02fk6ttsptwtmmvgk7gkj7n7ovwo24oxuwbcc2kdcvgydt9ropjmhuwaolyyyr7f950qhvb0fkkhs4v4yv3lkqzmns03s1qbqj06m2sxhmsq2snh9q5pi1m0brzcco0ft2leb9o2qt4vpwefzk5k9kolh1051z5sqtlg</cfdi_digital_stamp>
+</hash>

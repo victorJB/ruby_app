@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>91a6ebae-ee83-435a-80d7-12b8430e02db</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Anabel Sambrano Arredondo</name>
+    <rfc>VNA200123G5W</rfc>
+  </emitter>
+  <receiver>
+    <name>Delia Lara Ugalde</name>
+    <rfc>YVL901104QS3</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">775957</cents>
+    <!-- ISO 4217 -->
+    <currency>MMK</currency>
+  </amount>
+  <emitted_at type="date">2020-05-17 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-11-23 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-06-27 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">tk40o1b2xcvabda4b173wxiaudj2i2g950io66heyur7z1ntunpqchxk4wn8yqoq8tzou831neil8o5o7frmoxc1xj0mbd8u6ps11teoiatreo2sd1l9ynni9c6t1jxwhz9tn6vkbgjb8seep8uaeat9cqv3qo1rov2vrhbu8bwn7x34j7x3t3b6z9u0oxfpxt2p1efkp2oecfr3vfnkt0qfzidauj4qajlc4jlrhtmbfk4traqnu30zbmjiazk</cfdi_digital_stamp>
+</hash>

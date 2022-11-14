@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>9c985b2d-4e9f-4949-bd25-a418907365ef</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Erick Miranda Acosta</name>
+    <rfc>ELN910819BQT</rfc>
+  </emitter>
+  <receiver>
+    <name>Jesús Alanís Mujica</name>
+    <rfc>XDY761003ICQ</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">484631</cents>
+    <!-- ISO 4217 -->
+    <currency>NIO</currency>
+  </amount>
+  <emitted_at type="date">2018-12-13 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-07-07 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-11-21 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">t7pfscqpnglbcz0442snyvo5sjtnqh9j181oyzs7piu7csgi5iiw53koz3pcdhescxdrld5rptau4dpmn775gqt7tn985538lsug66n9o9z678ig6jgfm0ivkm29r3yqmqa8qbl3w5k7cl5k0msuclscwnjd294pzb2u9bmlbu5qj5an6wibjq0jvs4vfvxzwlo6uet7yviwq81dqrzosfig96khm46jukup1cuen8e4v7hxyjtqvxktqjtcorg</cfdi_digital_stamp>
+</hash>

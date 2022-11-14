@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>b7fe4b75-24e1-40ac-80eb-e6a911bc76bb</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Paula Caballero Sabugal</name>
+    <rfc>E&amp;D710110Y3W</rfc>
+  </emitter>
+  <receiver>
+    <name>Karen Lima Nery</name>
+    <rfc>AGK8005266WT</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">468308</cents>
+    <!-- ISO 4217 -->
+    <currency>AED</currency>
+  </amount>
+  <emitted_at type="date">2021-01-31 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-07-22 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-04-29 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">3wq1wwbah7vesiibh8rn1r7i0ycm7ih5tyqlcpfi221qmhzni5e0p0ie68t7t0ez4tl0mcyc0vxuvf83qgu87vozrsmwlqoxn53yekz0wwkeswlnsvtqisyq3f126t3k45cv1ii25nzpyxshdg50qeftkyzanba8xnyt6xixqk96tphme2l026n9okg333q2bzg6em8nsx1vhy445ok6b1sou5fzlg8741y8h0pncwr6vpylyflxi8zo2ahbgen</cfdi_digital_stamp>
+</hash>

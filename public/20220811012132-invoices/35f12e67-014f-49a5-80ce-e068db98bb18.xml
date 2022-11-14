@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>35f12e67-014f-49a5-80ce-e068db98bb18</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Paula Dávalos Loera</name>
+    <rfc>FSO110503S3X</rfc>
+  </emitter>
+  <receiver>
+    <name>Daniel Quezada Pimentel</name>
+    <rfc>ÑEP710122IEU</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">161130</cents>
+    <!-- ISO 4217 -->
+    <currency>GIP</currency>
+  </amount>
+  <emitted_at type="date">2019-09-10 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-05-22 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-09-02 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">wttr5cbsejxq726vq54x8141ast9kwui90zq7magtyap0n6cvaasqy8c0u6iil6mygpw1u6n9no5e3cnf9pqk2ju1xllcpzxar7qwlkzek4aj2k2tg3fsr6ciipvvj4pymtd0e6gc5myabfva78h6wpbzfeblm286zp41ezo48lsay3huiarafyx6pb84rbcqmoi9m0pesrblggmtdmrw1be7s4zx2zbtid2xara3gxpj0css5i2p829u0b7flx</cfdi_digital_stamp>
+</hash>

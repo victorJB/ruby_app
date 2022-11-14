@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>30dd8a7e-641d-4f6f-a0a8-17203648ff81</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Camila Paredes Navarrete</name>
+    <rfc>ETV010424ZW0</rfc>
+  </emitter>
+  <receiver>
+    <name>Francisca Huerta Sambrano</name>
+    <rfc>SXV900530VIO</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">93572</cents>
+    <!-- ISO 4217 -->
+    <currency>BAM</currency>
+  </amount>
+  <emitted_at type="date">2018-09-10 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-07-13 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-05-30 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">ixo2q15jddxohz3j0onhsj7fehf3rlwmnooghummgjg5xinq9jqp2qtgi5pyfm9fczq26cwx6qtgglqyh93w3h7u74dsc7egwq0qho3jrrvaxzqscxdl8kco57s9ar4kmh23wre8jg3pymkqs31oep722xx20gxgdpied3zms1qntb4m3d7m24ewr92agw39olwp79vdseli0gzzdg7hkwgfmbsys6abibhcbxe14bladb2uk4g9bbh0wpdvufe</cfdi_digital_stamp>
+</hash>

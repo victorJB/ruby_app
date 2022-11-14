@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>afe12df7-843c-4388-9bea-e2556927bc01</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Julia Fernanda Pacheco Peñaloza</name>
+    <rfc>HBK150214ETI</rfc>
+  </emitter>
+  <receiver>
+    <name>Ángel Jara Sambrano</name>
+    <rfc>JCE7011084X9</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">561302</cents>
+    <!-- ISO 4217 -->
+    <currency>SYP</currency>
+  </amount>
+  <emitted_at type="date">2020-12-26 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-04-09 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-06-29 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">lyg9wdk0onirpp8rlio6ex5bkw3e349wlynmriitva4akowmj15yyzys5s5nznke1lbnz7mya9nhvwm9vcvelinj7yyjf4eq4ee7a6dfgj0uim11bfb66gkdu3qc935rbbif84730vrdnn7rvk6ukvt0t40f8nmvf6gjgrpkzk721khs4urfa5memf9grxuqnxo0qp3bol3jiusl6p2sbxnah5r7ydbenpizz25db5muqix45xx6tzac171bdfi</cfdi_digital_stamp>
+</hash>

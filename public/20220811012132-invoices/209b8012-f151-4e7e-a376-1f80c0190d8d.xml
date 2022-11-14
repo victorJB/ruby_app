@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>209b8012-f151-4e7e-a376-1f80c0190d8d</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Lucía Pérez Pulido</name>
+    <rfc>AOL0906010LD</rfc>
+  </emitter>
+  <receiver>
+    <name>Rafael Acevedo Rojo</name>
+    <rfc>HTW790815L71</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">866986</cents>
+    <!-- ISO 4217 -->
+    <currency>BOB</currency>
+  </amount>
+  <emitted_at type="date">2019-11-18 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-06-18 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-04-11 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">yw8wepcdpq1aywwat1pptsqvjg8sgadkg6obp0i52txslyl5ugukhoh9d343d9z22g7amz72tsotd8cdcsxnp8ezzllvhnca9csc078szq2c9dwhe3hxmgjw8en4azazo8vn142faoayw22p54nqf5ded4h16c8ucfa5nhuhebihoy113gxnb3zju00hofl2m8p4n5preeqnymh7ev5p2fmdh56gyi4k8j9c0i5q1y5hncpwkx94ejeu4orddj0</cfdi_digital_stamp>
+</hash>

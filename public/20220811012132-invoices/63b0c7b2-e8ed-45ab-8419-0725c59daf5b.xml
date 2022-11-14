@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>63b0c7b2-e8ed-45ab-8419-0725c59daf5b</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Wilfredo Jeréz Hurtado</name>
+    <rfc>XHA220409OYJ</rfc>
+  </emitter>
+  <receiver>
+    <name>Pablo Bernardo Roque Batista</name>
+    <rfc>XL&amp;191219AIO</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">685176</cents>
+    <!-- ISO 4217 -->
+    <currency>EUR</currency>
+  </amount>
+  <emitted_at type="date">2021-06-14 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-10-18 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-02-07 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">6ahdttabypr0zv3blb54z8o0lrb6fwavvz9z8a7qd7lu23gm7xo4wctk8q097nzbueaw8wascvr6pg50uuxbscjg601kueqdnio47ba9wd4vimridw3a70hf8xl7vqk1a1xfezj8z987y3ato57by67l1872nzv4nn2ysuxk1qwgwzmn8ebk95l6m6mz9jttqvdmdrid5tzvcc3gcv79e6zavis2dq1bnap1g57o5lprze5o0jt6p9yo5re2jbt</cfdi_digital_stamp>
+</hash>

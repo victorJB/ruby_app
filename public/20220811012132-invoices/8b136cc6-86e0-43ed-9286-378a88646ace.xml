@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>8b136cc6-86e0-43ed-9286-378a88646ace</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Iraida Aurora Navarrete Acevedo</name>
+    <rfc>JXM710329KZX</rfc>
+  </emitter>
+  <receiver>
+    <name>Paulina Nava Espinoza</name>
+    <rfc>ICD070924408</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">618309</cents>
+    <!-- ISO 4217 -->
+    <currency>VND</currency>
+  </amount>
+  <emitted_at type="date">2022-03-04 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-04-19 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-04-21 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">aq7w84wn8472rznunmx011eipmcbevyy27uan5n8cu9ba3k6mtj0xbansjk2ltpezrofid5nivmim6z10d2kt4zvdnc43jtjfoveo4yqkc9457rjndrf3n76at76w8g4zpsrmq40zl7l1rwywfhrldm6kox2ppy62xymjn02owd1dqjx1j6juksypx21b86plfpl9qw11ybskie7vpjlt3fgpqdsrfkezzjurmcrp7iy7a74ydx5nhsgz651cdm</cfdi_digital_stamp>
+</hash>

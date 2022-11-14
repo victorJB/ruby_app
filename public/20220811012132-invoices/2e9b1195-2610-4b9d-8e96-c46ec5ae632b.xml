@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>2e9b1195-2610-4b9d-8e96-c46ec5ae632b</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Elia Portillo Díaz</name>
+    <rfc>FEV990401BMJ</rfc>
+  </emitter>
+  <receiver>
+    <name>Oscar Baños Elizondo</name>
+    <rfc>NJT731018SVH</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">937436</cents>
+    <!-- ISO 4217 -->
+    <currency>OMR</currency>
+  </amount>
+  <emitted_at type="date">2018-07-06 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-12-05 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-04-29 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">vvks22j7j1xq129tmu6mtx49s1booaqdt9mtizocnkaxd0qj01hcbm57byse6on0xhn6eicof06xt2dozp7jdwdqkkoi5lsxv1hjizrs2qqe30tfd5he0z69m7i3hgscz2s5xyawdi6zg7raqkp4nuoii0w087sek2farkq060v7fjzthbgdsc80v6z2xtv30bzoa7dl5o1q6dajrms8hnccm1yhd13uhywym831i5vsrejmh8lu9z76zwrfdpm</cfdi_digital_stamp>
+</hash>

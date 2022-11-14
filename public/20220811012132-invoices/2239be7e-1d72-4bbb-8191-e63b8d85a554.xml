@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>2239be7e-1d72-4bbb-8191-e63b8d85a554</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Iris Sabugal Rojas</name>
+    <rfc>BVU980324V58</rfc>
+  </emitter>
+  <receiver>
+    <name>Carolina Calvario Esequiel</name>
+    <rfc>&amp;IÑ760712IOS</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">477442</cents>
+    <!-- ISO 4217 -->
+    <currency>TZS</currency>
+  </amount>
+  <emitted_at type="date">2022-07-14 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-06-05 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-02-10 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">ulj5t6ti335il3p0ii8o5i03c17enmtphuhecufuyf5zo7nxb1ti5nr8hy1y2ji5tkvt7mngyu2noavid9kl92io9b735yemkzjjzvcr4toz8gpy0byl29ayuulymepu2j02u6vsj045nzs3ass0z2jj8cupes8lrfdvn26elh2ealo75ct0ev379ykeohvszcavnjktmqixr45bzv2k0vq3x88apnepkrdiaoc7s04bczfsv3rijrndrmkdn32</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>740f10a9-0239-41df-87e6-11e38ed7b077</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Nicanor Revueltas Higuera</name>
+    <rfc>YVW7709224OZ</rfc>
+  </emitter>
+  <receiver>
+    <name>Simón Florente Barrientos Portillo</name>
+    <rfc>XNB780712403</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">165241</cents>
+    <!-- ISO 4217 -->
+    <currency>WST</currency>
+  </amount>
+  <emitted_at type="date">2021-09-16 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-02-16 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-01-15 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">g2uh5nzv4ryjwurdlcy7nyl9uyymgxcw4yzwzkjmv0pw5gd2nuc8po4zpty88h1qcjk9tza2ei7oflbzq1jvlkr8txh615yfdqoayey0bqkduai1lya2djwc6c2sugsd0jvkarvyt4u3o932vlw64fpchl7brbz6zkt2e6f3o3ypholum221irzamz7w6uu3toqck5km0sgn6f23fgp5e0dfqw4fd0d44fdo5gcsi0jhysdgwwzb8zls6rlcu32</cfdi_digital_stamp>
+</hash>

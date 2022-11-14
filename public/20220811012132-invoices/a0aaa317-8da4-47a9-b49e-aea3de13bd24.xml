@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>a0aaa317-8da4-47a9-b49e-aea3de13bd24</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Eunice Elena Pacheco Gavito</name>
+    <rfc>LAC871214YQA</rfc>
+  </emitter>
+  <receiver>
+    <name>Hilario Negrete Garcez</name>
+    <rfc>XKU1805054KO</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">904163</cents>
+    <!-- ISO 4217 -->
+    <currency>CZK</currency>
+  </amount>
+  <emitted_at type="date">2020-07-23 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-02-15 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-08-14 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">sqwz0mq667vga0prgd7hcmk50ffuose2i55g83lvyq90h8w88l02k2p74xb87ansyljyw5lnuxxnuiilh3de4hifxb7m06f1w6l26bjc4vxv4y1cdfgekiyw48nlf66firumslcx9k63o662rjwlod0fux6bd1qjawli7tmnu3z20ycy64myfkvv8cu6zfkjrh2s6xffnm9bsw321i8t1pfczibfktn36455qmp423ei3clchvbw81m50lwuqlk</cfdi_digital_stamp>
+</hash>

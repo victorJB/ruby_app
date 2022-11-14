@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>f2a3c8c0-8809-47d2-9430-ffd9bc76604a</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Frida Berenice Mondragón Méndez</name>
+    <rfc>FUV071117P8K</rfc>
+  </emitter>
+  <receiver>
+    <name>Benito De Uribe</name>
+    <rfc>&amp;JU0710018XC</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">812024</cents>
+    <!-- ISO 4217 -->
+    <currency>UZS</currency>
+  </amount>
+  <emitted_at type="date">2020-02-07 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-02-15 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-01-31 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">mqox8mgd0dx0kg10cwwlslj1p4q7alsbi1m16akik34aauvfg2pp65sddwueo9umqt67ed6jlx8a1grt8iqizmu7fei0u79afpj0h3nszokha6b26ntaa3i97y5hkbt2idpb11514jv8mloc16btj1jjzxpu4y6yic410b6dyqkh7w4cl5z67oq9n490xjz2jn8iwcwduhpgbys94398m3tcfd8tlx2fdu8j4uaapixv81nywx11pzbezcl33vy</cfdi_digital_stamp>
+</hash>

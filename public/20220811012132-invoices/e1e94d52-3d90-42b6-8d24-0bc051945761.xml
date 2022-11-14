@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>e1e94d52-3d90-42b6-8d24-0bc051945761</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Elba Díaz Dueñas</name>
+    <rfc>EOB881209ILT</rfc>
+  </emitter>
+  <receiver>
+    <name>Camila Loera XX</name>
+    <rfc>RJÑ201214H87</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">332664</cents>
+    <!-- ISO 4217 -->
+    <currency>LYD</currency>
+  </amount>
+  <emitted_at type="date">2018-09-06 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-11-07 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-05-17 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">exjxv1cfygx2lqm8idymerdm3jvniipt0oqo3qaa01d8b3tdjnkso4ia92zhkyov55phw8jsfhslx2r1609fhjgaztbktqtr4xfkujobqpbnhl449v1g5xuuwegh66gpf020wy8xh3n1z7x0u1szpq4cfoem2n27ist6jec7xh384i66ovduzipj4t3ntro3mn1ckjp5zqbrhx7d45ux2tmm7c58xjjgpvc3dlqpyharr2zrrxwg2k4v14w4md6</cfdi_digital_stamp>
+</hash>

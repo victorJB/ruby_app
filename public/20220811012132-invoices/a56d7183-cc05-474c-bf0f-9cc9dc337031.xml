@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>a56d7183-cc05-474c-bf0f-9cc9dc337031</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Mayra Ledesma Tejada</name>
+    <rfc>VGO710124CG1</rfc>
+  </emitter>
+  <receiver>
+    <name>Jimena Rivero Hidalgo</name>
+    <rfc>MXG200725KSJ</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">405586</cents>
+    <!-- ISO 4217 -->
+    <currency>LTL</currency>
+  </amount>
+  <emitted_at type="date">2020-01-22 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-08-02 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-01-30 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">2i0z4v9o8s2se63klk6vv76g5aohfm7iokyupkan89l9xbd571v6ttq208bcpwwupxzo50abc5m5k38fpihax6tx6ja170dd9p2ltf2yti1uo46vdi6434v2o8zjscwuqma0j2yirbenr6v3af0yo8gyu6c9fzdo07m1n22gd3vh3ga44tnjfpg8jvhq5fadglq7mgoc80258g5wxrbbcz0blkbau2ip6npbq14z2w3y98fnqr11200trrxgzx1</cfdi_digital_stamp>
+</hash>

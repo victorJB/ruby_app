@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>a61ccc09-75d6-459d-98c8-3c8ce4a9e071</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Bertha Munguía Ledesma</name>
+    <rfc>&amp;HY990526RVK</rfc>
+  </emitter>
+  <receiver>
+    <name>Natalia Isunza Velenzuela</name>
+    <rfc>KQX200805YBI</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">481773</cents>
+    <!-- ISO 4217 -->
+    <currency>MWK</currency>
+  </amount>
+  <emitted_at type="date">2022-11-11 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-06-02 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-12-03 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">hhrxneaman3loklj78cafbk32h28r0p1uxoddlug8oqwv76kexzjflhbzj1y2hl1rld82kuki7hyofex8msoc3exdl4b63wmonlzgpf00izbfqhk22penivsfsdhlwwninuyhbqv5pjtr88lglvfrfdq0w54gjnnvv67elm9hc4y54ucmioowfkkm9uhem94lq7fhilrd9udiqo84v6lt8tedc5tw4413mjm1j71gsxk00stuh9md77qq03oqdr</cfdi_digital_stamp>
+</hash>

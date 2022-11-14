@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>c8d177ff-21b6-4317-be33-58dec309dfbd</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Margarito Góngora Mosqueda</name>
+    <rfc>NBC76092768S</rfc>
+  </emitter>
+  <receiver>
+    <name>Adelina Ríos Sambrano</name>
+    <rfc>PVC900904HR2</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">975432</cents>
+    <!-- ISO 4217 -->
+    <currency>LBP</currency>
+  </amount>
+  <emitted_at type="date">2018-03-14 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-05-05 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-06-27 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">btihyvb3u35tntbezyf76c0x2yzis85am0yjz8k95umuhhe8t7ej75pu0zl17v0osvnbbk9sr3cumg3228nlpig9jcad5ukp250fcayzpa7vq90v1u8d933du98a2cdvxq4vx54oxj2sen9wk7hn752taa2s4etdfc9gd209rwyg7w1hbkzfs1cgdooioipf9y3dsdttx112o7zsbhao58kxz0e59rd6x44t6an85tvnr0i8uis9vtkal47fs61</cfdi_digital_stamp>
+</hash>

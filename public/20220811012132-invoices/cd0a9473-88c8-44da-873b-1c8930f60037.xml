@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>cd0a9473-88c8-44da-873b-1c8930f60037</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Mauricio Pelayo Valdivia</name>
+    <rfc>XMK150804AS4</rfc>
+  </emitter>
+  <receiver>
+    <name>Anabel XXX León</name>
+    <rfc>GZU740507U2N</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">236685</cents>
+    <!-- ISO 4217 -->
+    <currency>IDR</currency>
+  </amount>
+  <emitted_at type="date">2021-12-30 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-03-01 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-07-28 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">81sq7t5ad4d0g5iubyb53liwpwl2cj5d950xkgrloj0061hlns2dnbpzc017umxqo9maxsn78xfajrhjlz1aqa734aa2opbsnljtonhjx135hzrc0hn8yu7pw43j4b8igetmzullrdbr7y6i8983oggpucumirmvsyxo8ponrhri62lznfsf9g21qj5je4be8a3gocar7fd3a0pt21pb268ksj4jy4urf53famrtlqvpqnrrixptqrfadlznoe3</cfdi_digital_stamp>
+</hash>

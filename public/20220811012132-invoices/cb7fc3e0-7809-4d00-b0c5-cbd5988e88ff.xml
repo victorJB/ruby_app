@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>cb7fc3e0-7809-4d00-b0c5-cbd5988e88ff</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Jimena Aréchiga Rojas</name>
+    <rfc>TGS110203SMA</rfc>
+  </emitter>
+  <receiver>
+    <name>Emanuel X Aréchiga</name>
+    <rfc>UMT840604KH6</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">299914</cents>
+    <!-- ISO 4217 -->
+    <currency>GBP</currency>
+  </amount>
+  <emitted_at type="date">2021-09-26 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-08-09 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-08-07 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">3qz8efesgff530b708fqev0lk7e5u99daxuslfzl3a76ads3wpjb6reilpeg5tkohmaqhgf6tgl1slnis5m76abxls588ab38o8kx0wae372jco1nobuqla8bs9gterxwgnkibe8s1fl57tqyx9tm47q6yr63m7ym31vuvz1coiuf6z2aspo83o02j46snk0qq5znn21fyglj5xih2zktmtdcha3g89vrcdvib58x3uf2t0s4x9z8eeg6bdj8ty</cfdi_digital_stamp>
+</hash>

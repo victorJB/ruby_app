@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>2139dcaa-c3c8-4cd6-b305-060b040de592</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Román Rolando Vélez Jaramillo</name>
+    <rfc>XWF880917XTC</rfc>
+  </emitter>
+  <receiver>
+    <name>Rubén Eduardo Ordaz Pelayo</name>
+    <rfc>TMZ0004296W4</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">210742</cents>
+    <!-- ISO 4217 -->
+    <currency>TZS</currency>
+  </amount>
+  <emitted_at type="date">2020-05-11 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-12-26 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-04-07 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">r850ycp4e937nf0ak1weh3kbosol82ce4jvsxhxnose20ojpbxtuuzsybw8vmqlv2o5uhks3xi4gugpvl8kbis2q5xcgr0tl6x6e2a9ytqeyhya6h2wsyd8rmphwh6vfm824c4h35l9kzhdoyinq2p4j5r5b0iektb3v2wlvvrp56acyvyvn3famw8nt80lm1nto24autscunrdfxyaxr1pb6cuvtmfvt5rlbdj8lpy4n696d3ah86jcr3oragv</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>aa965989-ca25-4a82-b589-56c9e661e413</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Israel Campos Reynaga</name>
+    <rfc>BJG710128O8I</rfc>
+  </emitter>
+  <receiver>
+    <name>Lorena Quintero Rosas</name>
+    <rfc>WLF111210KC5</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">395752</cents>
+    <!-- ISO 4217 -->
+    <currency>MVR</currency>
+  </amount>
+  <emitted_at type="date">2021-07-21 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-10-25 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-11-30 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">wavbjt14bu00evmzi0i34oo29tx9qiopkd7f5vcl7xt9o5lqp7hautwxrhdf10tjvdud0luiv5g8r0h8j10nsr3d8cx2jeylnkjbphph6p910cjanm9eipohvhthidtl4uj2dut018a7t7xiqckbokcl1vozbekzjy4ujy5f1wcidv9dxrrdr6odmw0t0zs8vcftnoj314apryjs9jfrdwkeojxi5hxxmrmosbrs9vktcd8bn54ww0ti97ndfox</cfdi_digital_stamp>
+</hash>

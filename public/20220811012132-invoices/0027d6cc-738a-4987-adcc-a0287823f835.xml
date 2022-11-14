@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>0027d6cc-738a-4987-adcc-a0287823f835</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Ignacio Rosales De</name>
+    <rfc>KÑS110806AIN</rfc>
+  </emitter>
+  <receiver>
+    <name>Rodrigo Tello Bobadilla</name>
+    <rfc>OSC220724RMW</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">213838</cents>
+    <!-- ISO 4217 -->
+    <currency>MXN</currency>
+  </amount>
+  <emitted_at type="date">2022-02-10 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-04-22 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-12-15 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">jfwvrz9miv2ci7gqadopmisqc16cuyjnoliryl9b381qtl5oepy66mla9kal6wbfuaodhywzuuapw3uvs0qci2k53x79k5v21w7a30tdawww0j7zfncjez3q0hclc4qudy41ezenkyceye9jwkuhgxi6dlj06s7zsqxcovhyaht6ffj3cokjbtb4c2a0rrlrn074g7hvcb1ltozp4fdigh7fu44wz0b3yims5ulapi8o2jajm0zbnlfu53ycp2a</cfdi_digital_stamp>
+</hash>

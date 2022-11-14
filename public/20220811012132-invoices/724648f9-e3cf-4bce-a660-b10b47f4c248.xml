@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>724648f9-e3cf-4bce-a660-b10b47f4c248</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Carmelo Urzúa Galván</name>
+    <rfc>TBF020329J73</rfc>
+  </emitter>
+  <receiver>
+    <name>Noé Bárcenas Rivera</name>
+    <rfc>AXI851113LIP</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">733511</cents>
+    <!-- ISO 4217 -->
+    <currency>CVE</currency>
+  </amount>
+  <emitted_at type="date">2020-06-18 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-01-05 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-01-27 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">ning3ssqbl8ti4l94c6d3t4nagr3sedgnllo5pzswzb89jxpegocio7s31ii3z3q6tn17grdi1jizstawp3b03dxdzd6s5ogg48bpy4u76q2rn0hvbhopsdwwcjqqb710pfhr93ukuk8uuq0k4d2o4oqkn9ctmgb4puav1ia799wmt5e1ccdd74b4x4kbt1r6euh73ckrvrlvs3ksxszk20srqcr2tjxqz96fa5bg8r0mpql8pws3e6b8rs4lb4</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>353f0e40-facf-4432-9bf9-353ac1059332</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Abel Botello Yáñez</name>
+    <rfc>&amp;GD18070602C</rfc>
+  </emitter>
+  <receiver>
+    <name>Paulina Sierra Estrada</name>
+    <rfc>XQO971013QZU</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">309751</cents>
+    <!-- ISO 4217 -->
+    <currency>MWK</currency>
+  </amount>
+  <emitted_at type="date">2019-10-09 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-08-07 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-02-21 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">2e3swteqpps5x4726stkfawx196zg5119wk5ohfpttcf0njvm9yh9uhpi524b677o1f1p05sx8daszzqia0gzr0sf561sjuevr464qg81j4y0qqdrmpcnf4nj50st9mu9tbmu6552y390a4em0ifqtsfzfmp0474kab0mr5igjta95ghqewntbcnxcnreyyfgfgua1dodnra618a4vww4nj6xpo0eemghodudbca0mlt6mmkpmw27zmhqwaq1lw</cfdi_digital_stamp>
+</hash>

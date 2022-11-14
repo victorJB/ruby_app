@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>f172ffe0-d724-4a64-be26-b6324bda53a9</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Alejandro Sergio Rueda Arenas</name>
+    <rfc>JRT091103JB5</rfc>
+  </emitter>
+  <receiver>
+    <name>Gloria Hernández Fontana</name>
+    <rfc>FZ&amp;910702GV9</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">144752</cents>
+    <!-- ISO 4217 -->
+    <currency>MXN</currency>
+  </amount>
+  <emitted_at type="date">2022-08-18 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-11-30 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-11-27 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">rxka4mwj08twg9acgsjuw2mivp9wxsr7qfl0ner2e5gpz604plxgnceo90byi1nqmzosgztjutgmmax2ipak5pfm4sugz5o4yohamfgiqc4n3m1383g95vxr77u4i4bh6ffndiquczotbx8y5lo1r25r28vfggjsnps963kwzpcspb6in8dungd734ff7s4ugz7lbfhfab9e2yg8hnw4w1gtcdl6c4ol6s2lfyj2n5yxfp9kq7smmxt47jfqryo</cfdi_digital_stamp>
+</hash>

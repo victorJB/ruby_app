@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>efb306c1-b335-46d4-87a6-a021697eba68</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Lino Olaf Quino Pascual</name>
+    <rfc>CÑK0602140HF</rfc>
+  </emitter>
+  <receiver>
+    <name>Gustavo Manzano Jurado</name>
+    <rfc>NOB980504J03</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">858924</cents>
+    <!-- ISO 4217 -->
+    <currency>BND</currency>
+  </amount>
+  <emitted_at type="date">2018-01-31 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-11-20 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-06-04 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">0rtq1bgz81ekd75etja5vq41gsfnpq7mh4qwk0u56w18trd7pgovupa9nebxn01oewn4zt4w1aojmlsy1vgs16sfnxwlu9lmbr8kct5hl9c475ofettwzfl98nop5nk0cr22e0aqutjp9rclrsnlvqfypzb0x1xqhz36mcfjyvmnrdff45wyycvl2fi1tn0vj3709253w6drqatwxwscaw4n4olbj4h4xbnp91irtnnzxmmknox862zlrtf5f73</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>4e54a6d6-6fd9-4dd0-80bf-3b4efeccfeca</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Sonia Gordillo Limón</name>
+    <rfc>FCL830219E0S</rfc>
+  </emitter>
+  <receiver>
+    <name>Carolina Fátima Millán Oropeza</name>
+    <rfc>YLZ081025VAD</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">926087</cents>
+    <!-- ISO 4217 -->
+    <currency>GTQ</currency>
+  </amount>
+  <emitted_at type="date">2021-05-30 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-07-07 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-03-07 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">5ymld9oxc4zj2h1pks0ru98zzrag4am6smq0s7c99c4j5rv1gm3mi3j90ysjcvjlvw2bl9y70fv1g2n0ze7rwjnx87omo5tdvo5cmmxp5w89zm89gbrnz2umw4g2edpoweti58qen6mif6ibuc91ki75lfw59g3g7w3ym4zux1234jaetwexqrdy53kktbcfayods5il7n7h4882iggrtgcnxn81m7czbdn3ufcv90x9x57hjadegy4c21s7n64</cfdi_digital_stamp>
+</hash>

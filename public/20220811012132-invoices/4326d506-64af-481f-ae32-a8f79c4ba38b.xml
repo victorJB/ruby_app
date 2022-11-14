@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>4326d506-64af-481f-ae32-a8f79c4ba38b</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Fabiola Mayra Tello Cabrera</name>
+    <rfc>OAT000816T09</rfc>
+  </emitter>
+  <receiver>
+    <name>Sandra Suárez Montes</name>
+    <rfc>PEÑ960531KCV</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">197898</cents>
+    <!-- ISO 4217 -->
+    <currency>VND</currency>
+  </amount>
+  <emitted_at type="date">2020-01-16 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-12-11 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-08-06 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">v7ou7fs8ka4f58ha27wc19ytho657cn9r743h6889mwq7njwl9zlrknp5hx2ck54gdp5i3pbs4slb2fr8pss3ij1z98eb1c9n1l0k8u8l4g5r3rsthe2h8sq8khdwzxk0ryss5zta3wsd3kst77f4zpxh5f7q6br2pk690m7iuxcvwl7vzjbs20o8hyqwcrssp2ilunp3zk281xi9nz265t9buhl2cb3xhywy027uvp7f7vv7d9oaysb2raoiv4</cfdi_digital_stamp>
+</hash>

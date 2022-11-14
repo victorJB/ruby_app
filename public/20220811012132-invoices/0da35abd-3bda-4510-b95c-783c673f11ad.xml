@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>0da35abd-3bda-4510-b95c-783c673f11ad</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Rita Tellez Quino</name>
+    <rfc>EXJ780326GE8</rfc>
+  </emitter>
+  <receiver>
+    <name>Margarito Oca Salinas</name>
+    <rfc>FKP170215A83</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">89735</cents>
+    <!-- ISO 4217 -->
+    <currency>GBP</currency>
+  </amount>
+  <emitted_at type="date">2021-07-31 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-08-04 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-10-12 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">q5pp31p9fzh944varsei4kxqvu5x6av2r8fcbz2nrwvzmyjkzvepq37p4i5dvqnhnw2rs1l7j6rkpe0erz24idbmxi7aq3baduo1npkw9k22x4wghber35j07dumt0dx81vjv8esl85g5sdn74hy81by3pm0ss6d6q1j0xbc9oj9wanxvi6b30t1c0dr64pd1tvgky3qw9gs5dh659u480biy3pr9mt64wqxzzvmfi2rj7cklmml7dr8446wbih</cfdi_digital_stamp>
+</hash>

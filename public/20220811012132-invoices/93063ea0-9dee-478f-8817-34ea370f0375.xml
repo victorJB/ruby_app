@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>93063ea0-9dee-478f-8817-34ea370f0375</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Fernando Néstor Cortés Lomelí</name>
+    <rfc>SVA1608021MU</rfc>
+  </emitter>
+  <receiver>
+    <name>Yadira Mariel Feregrino Pulido</name>
+    <rfc>ILP1505210K4</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">817793</cents>
+    <!-- ISO 4217 -->
+    <currency>AED</currency>
+  </amount>
+  <emitted_at type="date">2019-05-28 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-12-02 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-02-01 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">w2gceyqt8ij0zrpbzh0dxf2m629e4nknyxibdzk8ks9yuziui67l565tmcptqrelcbr91hlhg4fx7wmx8zlo5xp386l39xipcr59vetjapclghg2vyrdr31uya2ptyv9ftl3ewseoknshkgxvwj47sq6ujusi5vb2kvnoi6wpjoatnsc3rgmp0weqi8l92n30fp4mros42w10jae8vgy6migtg3gugdvrx85teudktwy9czcudsnki8tmgm0odm</cfdi_digital_stamp>
+</hash>

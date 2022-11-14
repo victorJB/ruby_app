@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>e1f1ce02-8c10-45fa-b945-27d5fabbe373</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Javier Castellanos Pelayo</name>
+    <rfc>ENV920520XDK</rfc>
+  </emitter>
+  <receiver>
+    <name>Constanza Eréndira Rico Jurado</name>
+    <rfc>VQ&amp;200517HC1</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">50216</cents>
+    <!-- ISO 4217 -->
+    <currency>SDG</currency>
+  </amount>
+  <emitted_at type="date">2021-01-03 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-02-19 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-02-24 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">or5b160t0jicu6b6npqrr2z3sf0qa3cv4q0bsas7b85uzxwqdd6i2ld4ixfob3l9chxkwq1i1x2xxl3a9d2kl2yqn9y7e7dxvprd1mce0yx685i3wvs65ma9icw6xziml2hb7kx5lusve02h9z3zqsq1zd6vlta6bvze5tfjsts5o0r7c5sx8uinw0eyc9ii7i61y9le4pwyk1xcc06uiubqvhm5f8mi1vt3jf6y9hd5g6dl7y0xep8u17gyih4</cfdi_digital_stamp>
+</hash>

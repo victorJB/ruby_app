@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>31cc10db-932d-4c8c-829d-bfc62fb8279d</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Auréa Paola Rendón Rosas</name>
+    <rfc>IÑL030109HGB</rfc>
+  </emitter>
+  <receiver>
+    <name>Martín Osio Franco</name>
+    <rfc>GDK79123091X</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">396117</cents>
+    <!-- ISO 4217 -->
+    <currency>SDG</currency>
+  </amount>
+  <emitted_at type="date">2021-08-14 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-12-23 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-06-04 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">kwgsozjvncfjqrdpxrzdiquwsh6ok1zi9sr5kq5ii335c7t24qv84fx6jh1uj5tm8u9cixvmmlbl1dnia3j9ftb7obyweq6qmnmtiblfhkberv3q6wjbwkuz3dlpedm4g4hnkdohe58hgvl556vfenhzveh8wlzp9hh9vtx10rrwkx2rh3ennjstirer4hpf5zdj639y8p6t1ha5qek85r8omdlefudaxj07vizxod50hlcb46edkz1t43rhvmd</cfdi_digital_stamp>
+</hash>

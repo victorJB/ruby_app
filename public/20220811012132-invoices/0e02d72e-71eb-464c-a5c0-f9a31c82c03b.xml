@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>0e02d72e-71eb-464c-a5c0-f9a31c82c03b</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Dania Navarro Lucio</name>
+    <rfc>URM06022250R</rfc>
+  </emitter>
+  <receiver>
+    <name>Isabel León Manzano</name>
+    <rfc>KSL010329C35</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">318969</cents>
+    <!-- ISO 4217 -->
+    <currency>GBP</currency>
+  </amount>
+  <emitted_at type="date">2018-10-14 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-11-16 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-11-16 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">4h6it12th2eqy2psxqcja1pcdgc59mrrafv31gtsnjdyeqkyh64g1cksr2kvt7bnmin46dtvnxwlwq9s3m01150hfdq129ubc8vvoyyfxtrmfdrfucmefnovpu1fa34vpckthjp5hnme5lqo593335c3krznvowdhoekx6zhbwohomxb6cirbgfszn9o7ern9vpv1mbyukk6qgp84je7r7a1k45js7n5dg2u7v602q6dlml5i3jyqzsio6vu1d0</cfdi_digital_stamp>
+</hash>

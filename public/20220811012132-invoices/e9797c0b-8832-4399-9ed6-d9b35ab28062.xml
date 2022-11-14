@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>e9797c0b-8832-4399-9ed6-d9b35ab28062</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Xavier Lamas Durán</name>
+    <rfc>ZUV930315AT6</rfc>
+  </emitter>
+  <receiver>
+    <name>Rubén Adán Acosta Mosco</name>
+    <rfc>ORÑ09021061D</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">877013</cents>
+    <!-- ISO 4217 -->
+    <currency>BSD</currency>
+  </amount>
+  <emitted_at type="date">2022-04-24 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-12-03 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-09-24 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">90xeqo3yu3t20yobjikf9qydr2cjv80aaiyefp8hu6xfxbv2q1yx6bmiy69anxb2pl0qk3vxk86lln0t18vnerim6iik9qe8rbcid4jw6olmhpwi7no5023fh647ekzgdx0zbcomd634o3hj4dwwfwnuyigcyjgrww95to2c82c3u2sfjprostu9e7amfo28qnty7gidsxeaofz2aktrr3zsx70wl5gh3m22876446qrolxv7340rrqvairw69t</cfdi_digital_stamp>
+</hash>

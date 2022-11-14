@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>103a487d-5ac4-4617-99bf-7366382773a7</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Eva Paz Batista</name>
+    <rfc>JKE950221KDT</rfc>
+  </emitter>
+  <receiver>
+    <name>Alonso Arquímides Carmona Rodríguez</name>
+    <rfc>WGR930530H7Y</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">84023</cents>
+    <!-- ISO 4217 -->
+    <currency>BRL</currency>
+  </amount>
+  <emitted_at type="date">2020-02-11 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-08-08 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-08-23 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">eg5zajiet12pt1syki7vftxla7a8djudt7kqjme6at03r0t2nmfdt3g1jffa75f9b33ycu0zy2yf5izqao5i0z6kt76j5s7urbo49r6ifjtllgw9akwenh9ceepbnt5ri5kpv3suqf71cviqays9ymitoq11k4ivocetsb9367w3wgavlju0b0on5bf9vfpiyds3bsrzqng3pkgt1erp6rne6bbu1va4je32l0x94yceyk6781z1tishe78ndwc</cfdi_digital_stamp>
+</hash>

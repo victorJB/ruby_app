@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>ad933824-f75e-45e3-8d10-a84bcdd9ba57</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Lucero Olvera Munguía</name>
+    <rfc>BXD920703364</rfc>
+  </emitter>
+  <receiver>
+    <name>Ramón Eliseo Orozco Mineros</name>
+    <rfc>PQD880128IFC</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">56064</cents>
+    <!-- ISO 4217 -->
+    <currency>LKR</currency>
+  </amount>
+  <emitted_at type="date">2021-11-17 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-09-27 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-02-23 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">rdy6pfxjqypdc37ejyeeehtyk4x37r4gh9qwrdkxxq0uq04lup7czkvxpz4jyafrnexrp2f6rf5k6ocukoasg4g6ymc4zerhbcissbrb2qersyusmn2r3tiisn4rryoz8fncq13dayyw48ecx0aldgfgzaa6wjdzegp9fzetsoh4p0z8u5atm2f6l46nj3j6pvw1mil0ok9g2lbzrr4g8de10ul3vco5wsdov3l3xijg59a5bj4cxw28wxq2z3q</cfdi_digital_stamp>
+</hash>

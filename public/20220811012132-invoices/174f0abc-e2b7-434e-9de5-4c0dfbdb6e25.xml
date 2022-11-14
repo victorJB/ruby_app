@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>174f0abc-e2b7-434e-9de5-4c0dfbdb6e25</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Arnulfo XX Palomares</name>
+    <rfc>FAB840324IXB</rfc>
+  </emitter>
+  <receiver>
+    <name>Bertha Lomelí Quiñones</name>
+    <rfc>CAK01103063J</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">157507</cents>
+    <!-- ISO 4217 -->
+    <currency>TTD</currency>
+  </amount>
+  <emitted_at type="date">2020-09-07 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-01-18 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-12-30 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">ymgh8lq53233bbg5uk1smbmnfec0c1maqbm8wd8jv6qnl8qxhaysser0xc961w44ff3vxfk45dahdysebtd1lthmjudd8sek555g5valgkld0qu8pnjtbtqjyg97tpiffjyqmfdoym7kowdyuopevato626cj9xadewwa0924kra60k14rlnv9lgcqw2jf8quk3onsvt2t4wclon26bhclo2tinr8dpib0xpl5f2nfohvizaiule9h9sorbc015</cfdi_digital_stamp>
+</hash>

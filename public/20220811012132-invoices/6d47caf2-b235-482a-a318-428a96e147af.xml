@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>6d47caf2-b235-482a-a318-428a96e147af</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Emilio Paz Millán</name>
+    <rfc>ÑQS770327740</rfc>
+  </emitter>
+  <receiver>
+    <name>Marisa Balbina Pimentel Alfaro</name>
+    <rfc>ÑEH1004061JH</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">955547</cents>
+    <!-- ISO 4217 -->
+    <currency>XDR</currency>
+  </amount>
+  <emitted_at type="date">2019-09-25 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-07-24 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-06-23 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">rlk9lr9ari1jjbikvqzwolx9xbusj9jyfei3bc89gnaxogxibvoyvcxcut5fvxgr1hv6gw0mfwkdu4a7hcapis0na18022mtsyhcbg4dwjloz8rj9cr6wybz8t6cpl7ler71vyitkaxgh22qpqp9mtwm7y3vn2ysykopya58snhcmej8twcmlvt2s9874p3rsj8a33ui6jvq329jrolnjsczv8uy8ss9jhpwoooppfzy5cq23e12i2iycf3dm9o</cfdi_digital_stamp>
+</hash>

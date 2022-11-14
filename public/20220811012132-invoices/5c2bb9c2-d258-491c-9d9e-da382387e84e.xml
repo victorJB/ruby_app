@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>5c2bb9c2-d258-491c-9d9e-da382387e84e</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Hanna Núñez Escudero</name>
+    <rfc>KDC040401M8G</rfc>
+  </emitter>
+  <receiver>
+    <name>Octavio Pimentel Jorge</name>
+    <rfc>SWZ0110048IO</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">190354</cents>
+    <!-- ISO 4217 -->
+    <currency>SHP</currency>
+  </amount>
+  <emitted_at type="date">2019-10-13 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-09-02 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-03-07 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">pzj4utk0h5xbacy4kv4ajxtupjgg9f28prsuacypxzwn6rmx1v0ah0f81djftd4ru0w6idng6cuxb93sidox4j8w1011elqk3neyk5d2n4nsda8x95ok19nhyvap2csj74s585yfmnajymhiagz3jkjvtd0a0kuf4gl27vnbhfuqvazxmdyjm2fg4mw569nmjn9t1wb0jahl104jsnihvcgpahg887t1oidmw3t3p3b3cxwakh3s1ddtipixi1m</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>4c3a6466-85f7-4b32-8185-fdbbb1e4c592</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Adrián Cordero Nery</name>
+    <rfc>ZTL11070879O</rfc>
+  </emitter>
+  <receiver>
+    <name>Adolfo Sánchez Negrete</name>
+    <rfc>EKW850120J24</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">932607</cents>
+    <!-- ISO 4217 -->
+    <currency>KES</currency>
+  </amount>
+  <emitted_at type="date">2019-07-03 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-09-25 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-02-11 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">czw1lkkrrg1ny1ra2k0pv0vrsldjmd62r1sn56l88i0d6ss45e21ilxhc1h1ttkw409jqpozq8zv64ddgw4odfgwzvgzrv0xsb9fwsfjdbw8jgvkfvlqsil1zh78hqh5o7gxa7hlhxp9ly9azfox8b3uxrrvuz0qific8n252plyiq6cv3s22kwo0k62opbo5t924r9mo3k0l0qje2o304vtfnocbbgnp50y2em0wckaqdyvuhq6ty12dptrno0</cfdi_digital_stamp>
+</hash>

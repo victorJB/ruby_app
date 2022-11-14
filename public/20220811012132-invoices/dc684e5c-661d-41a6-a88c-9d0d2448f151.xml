@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>dc684e5c-661d-41a6-a88c-9d0d2448f151</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Olaf Joya Estrada</name>
+    <rfc>XT&amp;100130T1V</rfc>
+  </emitter>
+  <receiver>
+    <name>Abraham Ezequiel Duarte Rendón</name>
+    <rfc>QF&amp;9104010S1</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">845464</cents>
+    <!-- ISO 4217 -->
+    <currency>GNF</currency>
+  </amount>
+  <emitted_at type="date">2022-04-11 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-10-15 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-03-16 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">4b1t0w3slhs5mbpkns6xjeg5noluunu12d8lmvhb6ycg20b9xr12jtgho3bx5ehhvkfir4x6czyn89dazhy53oc1ynamjrqk9krmrn33pxxnsi8cp1kac5r4ofsnj1fmg43ijj5o7sxh9lzwhq7u21173is3cpugvws50pvqb6kr0w363892wbdekxniad7w0v7h63igp3vey8pk8i52vocr2vzko2u2i5l1zlq8i8lgg3grazykxkud8l8g3iy</cfdi_digital_stamp>
+</hash>

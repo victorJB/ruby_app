@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>7d701765-d552-41dd-ae32-b7103d7be506</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Ignacio Saavedra Guevara</name>
+    <rfc>SYL8504082T8</rfc>
+  </emitter>
+  <receiver>
+    <name>Emiliano Vilchis XXX</name>
+    <rfc>VMT7602109BA</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">686609</cents>
+    <!-- ISO 4217 -->
+    <currency>BIF</currency>
+  </amount>
+  <emitted_at type="date">2018-08-05 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-10-28 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-05-11 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">cjuo5k382n8nq9hdxxr9wiahb8esad6bzc3al2o8xr1h7ms3t2z0vf2x2344z24wx2drr60yexjsugt5x65geaxptwmwz4643m21kzwv4j848ylbwvp23i0vu1a6hlz537dnnqytlzkgcc8tqbsccnbmm2ikx837h4ks47qp2csd8p7wyvdkxsjyksqbpsi7i3xwk5ai12jqc2ne98wzubdcwrqt4p079e9kzgdmk2gyq9jmfp0rqdk1439ev73</cfdi_digital_stamp>
+</hash>

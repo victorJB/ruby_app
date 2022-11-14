@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>3b773036-d9c1-4986-a166-f683c41dd19b</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Germán López Revueltas</name>
+    <rfc>VMG020208Z5L</rfc>
+  </emitter>
+  <receiver>
+    <name>Lisette Álamos Jorge</name>
+    <rfc>QCK9708316OQ</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">446306</cents>
+    <!-- ISO 4217 -->
+    <currency>ZWL</currency>
+  </amount>
+  <emitted_at type="date">2018-01-08 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-02-08 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-08-21 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">vnhv8081rzkn97gzllsgp88nlbqc0np003w1qy7wuluni8vvftv9y54ojrkq2nacwnckkwgkuzieknlbqel5eqtbpbg8y3g2qyqgqlic8bufjuss8bxu7wjgau97hybhooowss9xe8jq6x5ux18pqizicxahow8e0ozosxinl20exmwz2fbv9isfl7cyfballg1bmm7jchohklm6f57ea4sxpvu7z2wygh5xkf5z9dugq7yzckqx5pkpzxp0tp4</cfdi_digital_stamp>
+</hash>

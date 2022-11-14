@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>fad6e707-b5dd-40fe-aca9-17023bf2753e</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Nayeli Sifuentes Villaseñor</name>
+    <rfc>&amp;BM110620R3A</rfc>
+  </emitter>
+  <receiver>
+    <name>Antonio Batista Montes</name>
+    <rfc>RHÑ881221US3</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">788101</cents>
+    <!-- ISO 4217 -->
+    <currency>JMD</currency>
+  </amount>
+  <emitted_at type="date">2020-01-04 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-01-17 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-02-06 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">dcqy23x6qmizl0v8nb5zi8uchfdeznev32f0zv2nukpxpjsr0pwk9r1xsa68tx4mu9vn50jlmqsdkpbs9kta0v6j9z5nojykq5dj0t8i1rsjrabm427g96psrnadn9lx5xy12p32x5v6545uevkni237akmgpp41prxbdznnesfzerxxi1hd6hz5in43rp5vd4kywrsee24mw7xisea6hg47vgs7xl7n4fqb8im28g6gvefvndfghx2j2qr7sbm</cfdi_digital_stamp>
+</hash>

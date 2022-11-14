@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>86637fda-e97a-4a37-97c1-cba138de684c</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Gibrán Rivero Rendón</name>
+    <rfc>BHR000314CLX</rfc>
+  </emitter>
+  <receiver>
+    <name>Francisco Salgado Bernal</name>
+    <rfc>HIV780625ZA3</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">781887</cents>
+    <!-- ISO 4217 -->
+    <currency>MMK</currency>
+  </amount>
+  <emitted_at type="date">2022-07-14 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-12-06 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-12-11 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">qvq8ilbmzeg7ufvzen82m5ewvqqbvfhw4odrtc7azasgkqjwwvpxatl3b9ou0fhie6kbddzrzhle4n1gw5qws0k0raqm0gi9p8qjo26fbgv2pufpqs9h5cj5czuy8jlm5gyj0w7ttp85mis0uv44q2pq718m4ghfouye0jw65g87x3aqcya324gjd643oh68m1d5zp18sqcn7sru2q33t6bvyixk8prm2mol5khyps47037zk1klid34qd842zu</cfdi_digital_stamp>
+</hash>

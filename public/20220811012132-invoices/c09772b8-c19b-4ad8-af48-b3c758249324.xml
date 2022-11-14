@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>c09772b8-c19b-4ad8-af48-b3c758249324</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Mara Ledesma Gordillo</name>
+    <rfc>DJB760716Q0O</rfc>
+  </emitter>
+  <receiver>
+    <name>Eunice Aura Vaca Pascual</name>
+    <rfc>UZO040126BK0</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">96370</cents>
+    <!-- ISO 4217 -->
+    <currency>PEN</currency>
+  </amount>
+  <emitted_at type="date">2022-11-14 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-02-15 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-01-08 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">t2avl3vzxbpvi2hxyu9sbsbs8c8kqz5y7djaisz4h0sb4iejedpgovzrlvaczcs9v6s6b69sqtb4kkjekmjag104eiyuyofr2twc72gp7t9wxked0a5bm1sl6uj3g309l0jdpcr2wzslv3a2zw5kfkr3vrn2vpii414bs062ttwviat74gjc873gvwvegbrmzv3xqmzess4znakloos0anibbdadyfjw00t8923ss97ht3ctz1226dxj5onlcbc</cfdi_digital_stamp>
+</hash>

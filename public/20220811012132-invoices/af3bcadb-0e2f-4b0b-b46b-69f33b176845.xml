@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>af3bcadb-0e2f-4b0b-b46b-69f33b176845</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Olga Jurado Márquez</name>
+    <rfc>F&amp;K0702114AH</rfc>
+  </emitter>
+  <receiver>
+    <name>Fermín David Ovando Jeréz</name>
+    <rfc>HVS0805119SH</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">352108</cents>
+    <!-- ISO 4217 -->
+    <currency>AMD</currency>
+  </amount>
+  <emitted_at type="date">2020-02-27 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-12-18 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-09-30 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">8pop74hzc7bzuc2e60nuzeln0hlxu846hpnasudaa605v9mxtqm2peh2iwpeiwgd0pxwg91q4yull264t6i9czuyzwfdalhwa55mcf05axh6b3bdzlnby9qgcrlv8uq8cpwnkite3lm5ucj60saxwjwzv28yo1uo1czt3zgtmrp1ky15sb4o2vesbazxmx2je8kqmje63wy3uv84z4745i1g96qu4jk0t6fvay21y19i3zb741pdmxfy2l3v1sq</cfdi_digital_stamp>
+</hash>

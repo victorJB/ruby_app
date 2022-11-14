@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>ab1ec1e4-8dac-423b-8db6-6dba2e17491e</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Denisse Gil Ibáñez</name>
+    <rfc>XAN750314H1V</rfc>
+  </emitter>
+  <receiver>
+    <name>Brenda Olivares Roque</name>
+    <rfc>OBC860125F3I</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">124389</cents>
+    <!-- ISO 4217 -->
+    <currency>ZAR</currency>
+  </amount>
+  <emitted_at type="date">2019-10-20 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-02-03 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-02-11 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">y96yzg519o7o9mrozduuth930bsvwmwq2aregjf7vnnl0vlwqbawd8e6y63gl717t3g6scqc2gym9mnoqkr82f0g82jmyc29ei69zuo942tnoi7592fdugqomni0k0feotwu7bnthzpqxyf7m41fswn9596o9a73zrlaxbghjckpb1jhsy2qb54elgg72uwyiahgdib6be0c7rq7lh2t6su5ovnsw389xc3zzb7oudincjrwu2vn6ans0y5l1vm</cfdi_digital_stamp>
+</hash>

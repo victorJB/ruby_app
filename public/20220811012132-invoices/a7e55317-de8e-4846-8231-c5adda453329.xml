@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>a7e55317-de8e-4846-8231-c5adda453329</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Virginia Mosco Tejada</name>
+    <rfc>UNM960907YSW</rfc>
+  </emitter>
+  <receiver>
+    <name>Yoshio Quintal Negrete</name>
+    <rfc>QKP760127QZJ</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">335360</cents>
+    <!-- ISO 4217 -->
+    <currency>PEN</currency>
+  </amount>
+  <emitted_at type="date">2020-01-21 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-05-19 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-11-08 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">9m4dgsmuamabd93bs85msi4u68n8f2rh9viwohj2qwen7os84iuafxm5twqv9xim6cn0zo4z2e9lg40s3hddjxz5jkvouyaqgmsuu0cknjizv7htotfmimk3w2ljwqjkf691ox9eiyq9cgmw7hvgmh7v03g2p67idj7wwdghnepo0ba61uwltfzmr4u4jwoqqrwiidlwf7uwd9ffdjqz1a8zl7fhgx76639u2u7dfdgze9hiwlsnbcki83n5e7o</cfdi_digital_stamp>
+</hash>

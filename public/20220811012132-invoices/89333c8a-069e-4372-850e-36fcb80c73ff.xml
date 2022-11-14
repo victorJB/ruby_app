@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>89333c8a-069e-4372-850e-36fcb80c73ff</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Joaquín Osio Dávalos</name>
+    <rfc>KRE030325O5X</rfc>
+  </emitter>
+  <receiver>
+    <name>Germán Ríos Higuera</name>
+    <rfc>BPA160617QJX</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">205937</cents>
+    <!-- ISO 4217 -->
+    <currency>MKD</currency>
+  </amount>
+  <emitted_at type="date">2022-09-12 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-08-09 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-09-28 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">4izrh3n5pmj1fqilgv5bbwrih0ejqhp0x4ud7l2clhzlijuom7xov3en3vwa0pszpsro4y4rd52xpq9btenazpaebadk1ut3wmvr0ww96fnb8ert0fomo6ee0zefvq31ln4i4ttdxiidy7o5z0xj9c9a6rqgf1f7s10cw26j2lsk10j59kikzvtsxszqbo40ie1nwrncenh7wpeg3q6ekbjejtcfc0uiy76yhzao5uvm55nm6icegu29zba4344</cfdi_digital_stamp>
+</hash>

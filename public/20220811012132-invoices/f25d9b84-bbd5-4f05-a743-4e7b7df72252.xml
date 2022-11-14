@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>f25d9b84-bbd5-4f05-a743-4e7b7df72252</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>León Ortíz Ramírez</name>
+    <rfc>RE&amp;061204CIT</rfc>
+  </emitter>
+  <receiver>
+    <name>Valentín Barrientos X</name>
+    <rfc>&amp;QA960306LFX</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">970899</cents>
+    <!-- ISO 4217 -->
+    <currency>HRK</currency>
+  </amount>
+  <emitted_at type="date">2018-12-23 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-07-14 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-09-08 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">esb8secgnscq40ja1h7xvgna24cg9xpzhscdj2kydahr2v10traxg3ebswc37g6n3dwn0l6inxjk3axj606j9qxq8vh3mjrbeqqzfkxh8nhzqfl1kk4qpuc0grlltyemikwfkkoa1cmd9c7m0x2j6t5zfqmatp88dhyunb73rbjtyjwy9pqiistwj43pkkfutjmreckqglhai4ennmzefhp44uyj4g3hs39e3e075jhrhvy8f2uivfp720mm3ur</cfdi_digital_stamp>
+</hash>

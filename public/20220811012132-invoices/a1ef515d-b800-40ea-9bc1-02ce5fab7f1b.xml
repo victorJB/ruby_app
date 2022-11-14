@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>a1ef515d-b800-40ea-9bc1-02ce5fab7f1b</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Israel Nuncio Ferrer</name>
+    <rfc>KJR9311215V6</rfc>
+  </emitter>
+  <receiver>
+    <name>Raúl Barajas Baltazar</name>
+    <rfc>AÑM1107282Z4</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">62614</cents>
+    <!-- ISO 4217 -->
+    <currency>BSD</currency>
+  </amount>
+  <emitted_at type="date">2020-11-06 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-02-16 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-08-01 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">sksf215rgtrfe5h873pcx85gugf3443sruzpvn6wr1zpob0sauyrtitdmfviefu45vi95jjjn7q1bkpkcgeisuu88mh96r0z4q8g65n2fb3bla12v5fvl1ddenefbbcm3mpl2iqnnyfhmorp3nf7u0x5fz8rqfescidm1vssaqj0mtd82uex3ad3lntlkam1wjp4cyyeijl6e2z7mxstwzueb29pw1l00iexu9w7l76wvf4qrs0vq26emhxsld4</cfdi_digital_stamp>
+</hash>

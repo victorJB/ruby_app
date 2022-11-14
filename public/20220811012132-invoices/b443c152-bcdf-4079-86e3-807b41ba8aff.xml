@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>b443c152-bcdf-4079-86e3-807b41ba8aff</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Aura Estevez Patrón</name>
+    <rfc>WSF010627562</rfc>
+  </emitter>
+  <receiver>
+    <name>Iraida Funes Guerrero</name>
+    <rfc>RSN8103151Z6</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">846931</cents>
+    <!-- ISO 4217 -->
+    <currency>ALL</currency>
+  </amount>
+  <emitted_at type="date">2021-05-08 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-11-22 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-01-13 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">xcgeod9yw79o7aul4rnkpradky3tbyo3vmld9yle8ol3v4ioq696tl310udqh8pdqfz8i9nxnckqjull5mxrcmur722cyjrs864a4520avterm5xdzrgy2qex374z7jx6gd4kf01ttjdyiyiftrsykxgvae7xjwyydv0t8zucfpygejdk8qygqsyw1iqwqv01qz5usnl7ubxlqh1j5mu5ppgesp2upamciw3t0bstrdkvrkaa7f7qywfwylmcfn</cfdi_digital_stamp>
+</hash>

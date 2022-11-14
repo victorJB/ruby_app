@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>80943d34-85ff-453a-8827-57af6a8d23da</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Norma Uribe Gazcón</name>
+    <rfc>NTK070522NXC</rfc>
+  </emitter>
+  <receiver>
+    <name>Gerardo Baltazar León Muñoz</name>
+    <rfc>ZXQ19032893I</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">790250</cents>
+    <!-- ISO 4217 -->
+    <currency>XPD</currency>
+  </amount>
+  <emitted_at type="date">2019-07-07 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-06-27 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-08-25 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">47f7xv0ba1brx34zwvrbun47juvknvsthc50xmrektlkpxnshkwp020p456f6ngea827bjztl1aqw8zb1tzl6r7iduks2opewjief5694j6jjh9k4n0sn72ppgs6to6zaiu9qit06b62wxsw3qzcbswb7827qimitgsdc2vlu0vlu9q5so0fdg2s0yczez18adqmwlvgmyejs2v2zsgzjprh01rubc9n74h090hixqs813hayqgbokhpn4xh5el</cfdi_digital_stamp>
+</hash>

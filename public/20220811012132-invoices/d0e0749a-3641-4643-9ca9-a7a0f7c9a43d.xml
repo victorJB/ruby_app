@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>d0e0749a-3641-4643-9ca9-a7a0f7c9a43d</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Xavier Moisés Noriega Nieblas</name>
+    <rfc>SX&amp;221021W7H</rfc>
+  </emitter>
+  <receiver>
+    <name>Nabor Iván Ochoa Mosco</name>
+    <rfc>HDI0008212R3</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">332742</cents>
+    <!-- ISO 4217 -->
+    <currency>EGP</currency>
+  </amount>
+  <emitted_at type="date">2018-08-06 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-03-31 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-09-20 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">w48umac4g19vxkb7qjgzvh3pcl7o98tpox43rmyhjg85356jj21x4kpzcnvabhbpxnmnxpe0esf66x2xxriswwy1mh7uvfni02kk2x86zliqpkq3tz077fyb4xhhrz0qbmyqnn7xva6tuvmfo7tzkf8mcmr1r73flb252m1k02uqw4ueiojjafblqz3sxo6xrxi001oucir2gyteyeut2yvc8xujd43cpr2vzwhupjnqodklfau6by3gyjwp1cx</cfdi_digital_stamp>
+</hash>

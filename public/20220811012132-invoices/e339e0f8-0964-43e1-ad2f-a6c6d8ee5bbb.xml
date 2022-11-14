@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>e339e0f8-0964-43e1-ad2f-a6c6d8ee5bbb</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Braulio Nicolás Dávalos Simbrón</name>
+    <rfc>JBW9505215GQ</rfc>
+  </emitter>
+  <receiver>
+    <name>Mauricio Santiago Cabrera Márquez</name>
+    <rfc>WYR880914CZ5</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">871368</cents>
+    <!-- ISO 4217 -->
+    <currency>NPR</currency>
+  </amount>
+  <emitted_at type="date">2018-06-13 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-04-07 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-05-08 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">gpkxne7e3liyctvsyao6dzq5c5is4o98v3kxooxc5jmhwm6i9895sgvob04f4ejnbef40ooqfu99mm6klfkpqncfw3nmki7se8arkrqoog09fz45pdl2t6eicer3f0tkggs2r37m22hger9di6vu8f3r63gbihh0qoa013g8nb52rbln8x6n627siymtkfmxf4ecay3rlm5vs9mdjjpquahtiex822kovcacugkegmmblkuv6g9xrz9xmm5kjb1</cfdi_digital_stamp>
+</hash>

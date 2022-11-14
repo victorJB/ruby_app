@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>03b5309c-fa24-4c80-a780-5526d2f27469</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Dulce Nieblas Maldonado</name>
+    <rfc>HGQ151109Y24</rfc>
+  </emitter>
+  <receiver>
+    <name>Omar Macedo Holbein</name>
+    <rfc>ADY1601210L3</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">30475</cents>
+    <!-- ISO 4217 -->
+    <currency>NOK</currency>
+  </amount>
+  <emitted_at type="date">2018-03-16 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-02-13 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-09-27 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">uxlmezq0gsqgm0v9knuqw6ztnuc7tbe2z6k8r427plpga4ttwzsd9y85fs8vtcj3uq29kn2n9spjt4bzsy5xmr895afi23lnvgjvhytxl3p8em42mk9jkjg6tc6bd7yfdn9fg66xnaukyngy90zttm9ddjshoq4m4048s80u7d36d7kwvfhpfr22zchw1726evvdiu1zx71h98ri774gzqtsk5hj67z95l0c40bvrs8navl2o8odeoxeqtdfb8j</cfdi_digital_stamp>
+</hash>

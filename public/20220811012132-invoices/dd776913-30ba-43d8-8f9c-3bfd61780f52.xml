@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>dd776913-30ba-43d8-8f9c-3bfd61780f52</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Arquímides Suárez Roa</name>
+    <rfc>FIL080210USL</rfc>
+  </emitter>
+  <receiver>
+    <name>Cristina Barbosa Barrientos</name>
+    <rfc>VDK210831SDA</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">246820</cents>
+    <!-- ISO 4217 -->
+    <currency>ARS</currency>
+  </amount>
+  <emitted_at type="date">2022-01-28 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-06-29 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-10-11 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">3wsfq4mn1u3mmfs309ya3vdao4lrymjktmivvgrzqz8yhbb3picwhear45ljl9g8tuu3bukhkp09m4j41757yvxjq6dsay2rn7u4l8x6n6tmgus32imjedmikbq0ss0llv6jj6mnvldowc7rae5wdks5cop8hmughaim5qh3kbvqzwcfyoburraa4m0cbodr8cyl9ggh3nqjqvfz2set5llpblgndczteutr5l3i8lo7gtaihtbxi8lhgsjjknq</cfdi_digital_stamp>
+</hash>

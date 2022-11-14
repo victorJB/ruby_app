@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>70143a86-aeaf-4cee-92fc-b480e2d01254</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Ubaldo Romero Iturbide</name>
+    <rfc>CZR030314UHX</rfc>
+  </emitter>
+  <receiver>
+    <name>Jaime Nieblas Noriega</name>
+    <rfc>GNK9002278LU</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">610820</cents>
+    <!-- ISO 4217 -->
+    <currency>RWF</currency>
+  </amount>
+  <emitted_at type="date">2018-09-29 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-01-18 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-01-15 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">1qt0wqhjrw8f4waok07054p1deay0u5922hucp0q127to4z4r1pwg6m9vc3xmkktcknt6h1puis0pt72yj3e77roq4fbnk2ywixp2jc3ock37rkiuc59ppikp52gsbkldz1r3sik68ec0tqv94735erko0hldhboetv3vc3wiu5scjls1bqo9uvn2oprc7ij9vdqwrn3a9cdfchh5jbuzfdfzzrv5yl1wu62brw6a78r4mu1ddcat4lyqw14pg4</cfdi_digital_stamp>
+</hash>

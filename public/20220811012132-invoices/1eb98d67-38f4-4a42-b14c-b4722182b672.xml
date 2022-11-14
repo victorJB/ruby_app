@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>1eb98d67-38f4-4a42-b14c-b4722182b672</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Leslie Tejada Jorge</name>
+    <rfc>XYC210830N0H</rfc>
+  </emitter>
+  <receiver>
+    <name>Xiomara León Sosa</name>
+    <rfc>L&amp;Y981101LQU</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">987301</cents>
+    <!-- ISO 4217 -->
+    <currency>UAH</currency>
+  </amount>
+  <emitted_at type="date">2020-05-04 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-09-22 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-08-13 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">9lollhylzfc1k2ciuufv09dwep2atnvyhnay74v8iq07k4aygd6a48jnvpe1qdygtxzg4edjjv0soy0pbwfo6nua5mie7tladroukoaikoa8mpvld2vxbksu28axazmq2haxwm9inoppq2focrj26eo7smz197ahgnnc16sbai5x8darjwo4ynldct0mojer3t3jja0cpihvgvdjdq4z8m1pkeinyhx7rtylqymc88l2unupwofkyidl3s45num</cfdi_digital_stamp>
+</hash>

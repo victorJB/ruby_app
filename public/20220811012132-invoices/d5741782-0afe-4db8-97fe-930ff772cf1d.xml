@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>d5741782-0afe-4db8-97fe-930ff772cf1d</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Giovani Ignacio Escobedo Tinoco</name>
+    <rfc>ZDN970524K7F</rfc>
+  </emitter>
+  <receiver>
+    <name>Auréa Bobadilla Ríos</name>
+    <rfc>KGW000901C0H</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">961589</cents>
+    <!-- ISO 4217 -->
+    <currency>FKP</currency>
+  </amount>
+  <emitted_at type="date">2020-06-25 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-04-23 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-05-17 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">2tl6a8sr0n57e9nozchttatfa3huncrnnvf8gt1u7xcrop3cupixxpbh9cyalc0g9bo232i30rbvpt2hc3j6rq13pl67h9gew0tff0j88d741gvp9v59h0fd11d680hklin32v3eflvp6jb8mtlc0edmlg8z39uleon16fhih7qf6h7p7s11pxu8lw8oqqjvgut0jp27eyy65mhr74cyqrrrww9ey7gzhs68pz9qfhhptohu5qko4bz7kjuh630</cfdi_digital_stamp>
+</hash>

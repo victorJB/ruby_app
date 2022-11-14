@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>edac40d0-f1b2-4d53-ac1e-e22e07181859</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Lucero Rico Tamayo</name>
+    <rfc>BWM7701220PZ</rfc>
+  </emitter>
+  <receiver>
+    <name>Yordi Naranjo Nava</name>
+    <rfc>QWP140601FS8</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">466542</cents>
+    <!-- ISO 4217 -->
+    <currency>GEL</currency>
+  </amount>
+  <emitted_at type="date">2021-07-13 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-05-02 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-04-27 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">1c9cxon3gk7xs9z9fxsw5msyiccq72fht2hfkuu32gqmjie36408sxconqx0c3e0dycs1znture42hcbyr0urlfrkufwol0a3nq89aledf099koglm0zyr6v9kno7zau9bft322x38t1ez8s209wk8n7uay2yozl08348ei0vzlaz94z7t0l8vefdfqvolthn008ron8zfcqnfhy2k7ypmgsvscgw4uzktyus56sj701ikd2ef8yaxngrnd71u8</cfdi_digital_stamp>
+</hash>

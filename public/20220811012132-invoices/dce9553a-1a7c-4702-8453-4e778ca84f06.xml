@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>dce9553a-1a7c-4702-8453-4e778ca84f06</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Lucía Angélica Arenas Arjona</name>
+    <rfc>ARQ2109078SV</rfc>
+  </emitter>
+  <receiver>
+    <name>Matilde Carolina Ibargüengoitia Holbein</name>
+    <rfc>KLH111001M97</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">721845</cents>
+    <!-- ISO 4217 -->
+    <currency>SZL</currency>
+  </amount>
+  <emitted_at type="date">2019-06-13 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-08-17 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-06-03 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">l2gqlspv7rr62b1y7kl8amqhcpumhwsi8o8nycb7a7o3sot5rrqjsmb4xiozwir5rhv1w95131aed6wth756p498w4fms4gqqrhzj7mzl6imo3buyhc524zif70t3wecgonxzofq97gbi96b10pzfxvyvia1up45fscki6k3kgku3ox6naxhn8kg0f1b3ig0etvzyzqt1h0mmhnl4al69aav4ck3d6sozf3d7wb3d742gl8hktdqw7k5tsu075r</cfdi_digital_stamp>
+</hash>

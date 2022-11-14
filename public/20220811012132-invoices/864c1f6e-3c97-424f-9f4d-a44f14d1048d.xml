@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>864c1f6e-3c97-424f-9f4d-a44f14d1048d</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Jovana Rocío Negrete Loera</name>
+    <rfc>XUB7308298X4</rfc>
+  </emitter>
+  <receiver>
+    <name>Ramona Salgado Zavala</name>
+    <rfc>JND990302SG4</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">259628</cents>
+    <!-- ISO 4217 -->
+    <currency>VUV</currency>
+  </amount>
+  <emitted_at type="date">2020-09-27 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-03-01 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-01-12 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">uythrq1to0wyae7dpjppe3huiv4rvdhd7plkn88s8mvtslka5zjmko3iheyy71mgi39v8485zmnu358gcyjh73gh0v6pmu2169jgn88ex1dohfl7yra7r1uhtoi6vn1gjdmd9iwqx1vm5lcgso2gpifyoa8m7cbo0ccxggcppv7s9qscoe7y938tlez9ur99xd1thmm02hf2ak5j8p247pbi4eb5kvy593iv4i0bf6j54ufmncj6dem9he8v0fh</cfdi_digital_stamp>
+</hash>

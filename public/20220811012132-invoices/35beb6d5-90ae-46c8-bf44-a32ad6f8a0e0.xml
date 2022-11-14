@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>35beb6d5-90ae-46c8-bf44-a32ad6f8a0e0</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Nohemí Adelina Osio Bracho</name>
+    <rfc>DKX860502HS8</rfc>
+  </emitter>
+  <receiver>
+    <name>Enrique Tolentino Otero</name>
+    <rfc>UJX951222DIU</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">659615</cents>
+    <!-- ISO 4217 -->
+    <currency>BZD</currency>
+  </amount>
+  <emitted_at type="date">2019-08-16 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-04-14 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-04-29 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">z1yft5ndmqm02vicin5wboxg6z2a1hhsj9906oehv6isgd72ap3gakfvkfn1nx684l8vr6z5c73e4ei7gnn62vnykkg676zy0vaztp4mqm0gurpjeg8knuw6bge7lq5ukz1feqnxy0lv3obq5mxzb8a7vulloycbrpchqr6ot0ttk9w8we2zxhu1hw2sh16ck4knxxz38fzif8sh85kgoce7gsxdodsyoxb4um4advnb8kg8kt569jpmiyvj7ew</cfdi_digital_stamp>
+</hash>

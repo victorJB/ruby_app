@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>250b4f74-84eb-4785-b423-ed6002519859</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Gloria Delia Barrientos Lara</name>
+    <rfc>RU&amp;850521OHV</rfc>
+  </emitter>
+  <receiver>
+    <name>Noé Villa Fuertes</name>
+    <rfc>UZH860222SAO</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">220835</cents>
+    <!-- ISO 4217 -->
+    <currency>PEN</currency>
+  </amount>
+  <emitted_at type="date">2020-01-13 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-06-01 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-05-04 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">m7xqatvvypq3tdkd3g2ie6m8s40fnowikegq00xq2kxyl3j17obi9c2o1ryb4noihulnvpe3rf9cff3dow8q7qkwdy13vue3lp4icgmtdqaspcnca7xv4y5evfvv60320wqzadoa2kca1qgjfu20p1y1y78w8mi24ii0gp6cdd95r0aeyd3z5x5efh194lmu7ab7rznbaqqr4vytle7lhoifrvkl39ylpwnc3gacxps8umv8mznif7sgd2f9gaw</cfdi_digital_stamp>
+</hash>

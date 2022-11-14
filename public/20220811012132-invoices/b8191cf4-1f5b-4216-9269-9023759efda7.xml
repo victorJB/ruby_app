@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>b8191cf4-1f5b-4216-9269-9023759efda7</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Viviana Soto Rosales</name>
+    <rfc>DTZ120901GSY</rfc>
+  </emitter>
+  <receiver>
+    <name>Mariana Calderón Cabrera</name>
+    <rfc>LTM901117DGY</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">146443</cents>
+    <!-- ISO 4217 -->
+    <currency>ZAR</currency>
+  </amount>
+  <emitted_at type="date">2022-05-25 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-11-15 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-09-18 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">hepcg9ajunimtds3z8ri3l4s8cu9zfckvydsst0xr70vun49ms8jzh30ecw7xwzv6zl19kkmotrfku5wmek5gz2yes20fmuysqzg7zkd4200cxac1bz0ww75tvq2e27yeeod2tayckjlmotvfca0m5np57n6hyeu0sea6s6jht3csbdztq8sfp0ka4bgamt4vencnvsx35hvm6yd0idwthtik0g9tyb0wsyfw0l8jgnbonookuo6n7ekqgok354</cfdi_digital_stamp>
+</hash>

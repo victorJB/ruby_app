@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>734356c1-57f0-4f5d-9bba-5e43b1b54c58</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Berenice Carmona Feregrino</name>
+    <rfc>NAX8210256P5</rfc>
+  </emitter>
+  <receiver>
+    <name>Aura Martínez Sierra</name>
+    <rfc>JXF120907D1G</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">942938</cents>
+    <!-- ISO 4217 -->
+    <currency>PYG</currency>
+  </amount>
+  <emitted_at type="date">2019-12-18 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-12-17 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-11-21 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">sz2x8qicw7n1hvh0x4bxreeja258ck6gndz0unfucoki5l24rqehedoob22aqcfoweqprith04dyhlam6vya9c45jrn5tikedgun283klnkx3paiqc4j4gew3ro75lyovk1519hl2pwv85cp7u324x7x6qt7dbol73aspy0gest6n0i165tvz2057i8lpl2qdez4144pp5p0tnxkw95ypcjc9ikzoqir4djrysrfnvrpu35td31lgmu80kei8bd</cfdi_digital_stamp>
+</hash>

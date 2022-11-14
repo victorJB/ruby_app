@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>068a442d-1c25-48df-a5af-21ac0f33c7ce</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Emma Resendiz Quezada</name>
+    <rfc>WOG7006258UY</rfc>
+  </emitter>
+  <receiver>
+    <name>René Durazo Patrón</name>
+    <rfc>OD&amp;9804100IC</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">69251</cents>
+    <!-- ISO 4217 -->
+    <currency>XBD</currency>
+  </amount>
+  <emitted_at type="date">2020-10-20 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-08-22 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-11-21 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">tfo8foxnpwhqmltlr8zrr0pd8rc1933ryzgnplfwlnicscq89569k09tgfc5av7y70w0g1v1xggmb9ymfwel5xpcx78abs476n8co8l8ogynspil9z6yheoxp3y41nueo5ltsiq31pc8dlgkowbqeqk12l9heh7tounozb1uzpu7japizj4pgohgv3wodnqq28n7s21lmq60fzwi4f2gkyfnr2c4e1m8kaqxmswtoymlfecv8vluigscw3g1q8l</cfdi_digital_stamp>
+</hash>

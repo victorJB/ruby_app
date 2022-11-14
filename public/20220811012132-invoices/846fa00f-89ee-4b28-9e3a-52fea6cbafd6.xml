@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>846fa00f-89ee-4b28-9e3a-52fea6cbafd6</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Fidel Sosa Hinojosa</name>
+    <rfc>MWÑ8908244Y3</rfc>
+  </emitter>
+  <receiver>
+    <name>René Núñez Mercado</name>
+    <rfc>GMN711117V76</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">409357</cents>
+    <!-- ISO 4217 -->
+    <currency>AED</currency>
+  </amount>
+  <emitted_at type="date">2018-03-29 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-09-14 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-03-24 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">pk4bcplhtyfqd6t7jhopkah3h136yvq80s8wwm8it3lqxkfzeg67usvoxg3941voa68q4q92qadaq57neggnrvsy4ky1zhvwtrewn8z0p9gtbkj4zq7c1sofoj3dvd2hdlz2lshoaswh8x4ymtcjgzgsz1kepmqjydustbeltxvszcofs084q8w8t437qwr734u56u8wjh8lknshlbv240f3nmqhw750v9ecp1vb9xs7vuyostrpry2m3f8285l</cfdi_digital_stamp>
+</hash>

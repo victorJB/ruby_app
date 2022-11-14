@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>f57ce6e9-dc82-4484-9cf3-3d704ef39bdc</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Edgar Nieblas Guerrero</name>
+    <rfc>NPK7610284JV</rfc>
+  </emitter>
+  <receiver>
+    <name>Alberto Villa Macedo</name>
+    <rfc>TDF991226NO6</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">699237</cents>
+    <!-- ISO 4217 -->
+    <currency>JPY</currency>
+  </amount>
+  <emitted_at type="date">2019-07-04 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-04-13 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-10-21 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">x7687mmzn915ezzki0l6arxe43j80f1mrlotkb4lm6j7akbziu6kgzhsc82z3ar0sg19368x7n4b7bg147k4b14gnu0o46pifxjhm1o335atlal3algks1u4nuw9mwwp907ceft5pti9x8mwpg6j03dy4carqrjqtly1h4r75z3msc02if7qblykovu5971lxxf922iotigyfiwkz4hr7y9qg8pmdgbb0aih9gvn72hnawcd2jl4kbj5qnytxnb</cfdi_digital_stamp>
+</hash>

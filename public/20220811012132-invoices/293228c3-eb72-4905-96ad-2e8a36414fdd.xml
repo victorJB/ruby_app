@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>293228c3-eb72-4905-96ad-2e8a36414fdd</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Lorena Arredondo Vélez</name>
+    <rfc>CES9904213DB</rfc>
+  </emitter>
+  <receiver>
+    <name>Patricio Guerrero Sierra</name>
+    <rfc>FVC940712HKS</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">584158</cents>
+    <!-- ISO 4217 -->
+    <currency>MUR</currency>
+  </amount>
+  <emitted_at type="date">2019-02-28 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-05-29 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-10-30 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">rk1uutbbld63dtef32z2u3b2wruzoa4urzja6782sbwze9txbrcyhillmgnrtt1o0pnhwb7kn295tbrzhzsu70dgzeyucn0bahwwu4620koegrvv851cle6sk57zqlfjhm5blatae8ecworha6auefnzbmjnpz3uiejy1ix73auqntmvk6u5tcd6amchf3xxxphn0bjkmhccaz680n0pmais9paaaluxrp70gfbcpmq9es8ez1tvglho9cpohtt</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>6b0dd7ea-0180-4f8a-9452-1f9643ac1672</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Julia Alanís Pimentel</name>
+    <rfc>EKU730618K2T</rfc>
+  </emitter>
+  <receiver>
+    <name>Lorena Fernández Roque</name>
+    <rfc>FGY1307180Y5</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">798935</cents>
+    <!-- ISO 4217 -->
+    <currency>ZAR</currency>
+  </amount>
+  <emitted_at type="date">2022-09-04 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-05-25 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-01-20 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">otwgpkdtreyzl7xxo2mh4znusuog4b3bxhvyc52achya6t2hy6x228vukfqu2so4zc57mh6y57v7sclt91b0uvaz5bveajkwnnaqergy78uw7d025qbusz12ujfmcb77qt30qi71qjdm8hjakuj60gt7owwfiawj6znr0ro2do6zc00rv4nek43vvxhi9qqepfcta63dioyyiwlhielxcg5cxsrrypm34tdrafefqc7gsm0gqi7e8f1s2tfzt2c</cfdi_digital_stamp>
+</hash>

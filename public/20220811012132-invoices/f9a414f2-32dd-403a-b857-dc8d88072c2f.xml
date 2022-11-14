@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>f9a414f2-32dd-403a-b857-dc8d88072c2f</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Héctor Botello Macías</name>
+    <rfc>TSF070612A8J</rfc>
+  </emitter>
+  <receiver>
+    <name>Eréndira Lara Campos</name>
+    <rfc>DBO810920TXK</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">303071</cents>
+    <!-- ISO 4217 -->
+    <currency>GYD</currency>
+  </amount>
+  <emitted_at type="date">2022-12-31 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-05-23 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-06-08 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">16yat1b6ookycae1t7furgz0b1limv6i2rf2e9qkget0ec60uiuc87u4c7mdvrcl4q3g5op4wicmoc64h7hw193bnvb979yyo40kfz5rrxgmvz75qkkqp1equisf83mzad5091ckf2guvep3lba905wgnh7wgawp86970m6weqrtth59d8xo5qr0nd6vjwoc4vj4sg6wcm4pdrb7n8wcpduqzalh8nmxeqef6zc7ql5eqdbwyfs7jtxndb6dv9z</cfdi_digital_stamp>
+</hash>

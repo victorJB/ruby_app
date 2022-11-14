@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>69960555-a493-405b-9c5f-d4bef0865eca</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Ubaldo Mantilla Vergara</name>
+    <rfc>TÑA750407J7O</rfc>
+  </emitter>
+  <receiver>
+    <name>Zoé Joya Bobadilla</name>
+    <rfc>TAÑ7301132LO</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">650822</cents>
+    <!-- ISO 4217 -->
+    <currency>XAU</currency>
+  </amount>
+  <emitted_at type="date">2020-08-12 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-03-29 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-10-15 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">o7y6itebz0x66d54p14ayfgh5om8sf2itzqhnuj5n8cwycnntqnw47dxdgf8jca3fnu0szhe012f6wbuwi8z9z4tr2w1ob0d7sk1tkxkoul15qgjfva8wrm0w9fnvevc3dtx3hqf0t2f2g1j86nkvsite8gjzwd5qjcxlh8gztbl7r99h53cvz0xcgzlbjz4rxfh1afrf3aquyxp4zvqkk2cp04ysleikdbpf6oba1wr64go6b5ocl1qou2js2a</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>cf760d65-e08d-4e44-8a7c-70b3a8b17f15</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Jerónimo Lara Miranda</name>
+    <rfc>&amp;ÑS920215465</rfc>
+  </emitter>
+  <receiver>
+    <name>Ezequiel Márquez Ugalde</name>
+    <rfc>PSÑ980526R1E</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">697080</cents>
+    <!-- ISO 4217 -->
+    <currency>LRD</currency>
+  </amount>
+  <emitted_at type="date">2022-02-02 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-03-08 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-06-03 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">uey1arx7iij5i36h8teg2rxwzymnafd6ysl7z1m744egr6sfjw1k51xqtqjeudoz60efiq94gei7lzns4xla90hyv3620pead5gaqhr4vr81gcdm88lespjkry4349k45fgx7bycr83h2jcctcxgyvhr07ikw1pae6wvapr0hkpdrrz3y2s576jmvity96vnmn5o0tkxmr1b0q81mhgpy5urhyhj6r2cfjywlcqq6679z088oi3b7mslvx5ife3</cfdi_digital_stamp>
+</hash>

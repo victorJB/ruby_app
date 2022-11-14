@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>dec4c7a1-49e3-4ae8-9355-031bb56a4510</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Ramsés Robles Garcez</name>
+    <rfc>ÑVQ8812190XR</rfc>
+  </emitter>
+  <receiver>
+    <name>Moisés Patricio Silva Nery</name>
+    <rfc>GQP7602180RN</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">237237</cents>
+    <!-- ISO 4217 -->
+    <currency>BHD</currency>
+  </amount>
+  <emitted_at type="date">2020-08-03 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-03-06 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-02-11 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">16b7ki73a0tfttinn535ktnz0iu0todh5gdw7ys2odw9o9b82wg6fj004x5uyi0izaibk1nuknrlq4eaclhrqkmzbaz8tevk8rzkuzv1iz1l0qw6wyt6xwhm8fddw9e92bb1aeczua42xrs9i1lohudjm1f7muit2xtpt41veyng64yfxviv1kysb6yigqwnap7pv8dj5ibkrmnffrx08urg8omwhjiboep11mtsx91zas5jd0orhgh1h8tnnfz</cfdi_digital_stamp>
+</hash>

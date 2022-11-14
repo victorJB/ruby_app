@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>f817a497-56ae-414a-a09a-3364a91496d5</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Anabel Rincón Patrón</name>
+    <rfc>XWQ961020VWB</rfc>
+  </emitter>
+  <receiver>
+    <name>Donato Blanco Tolentino</name>
+    <rfc>MXF830830V26</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">606580</cents>
+    <!-- ISO 4217 -->
+    <currency>EGP</currency>
+  </amount>
+  <emitted_at type="date">2020-03-07 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-10-13 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-02-18 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">ljj76uwi4l8o7re6z0tyb0nj8e4j5v3k6vumqsn7krq2ayoocuzodu9z4n0xc2mr6f2purx3l5uglckjrnwmx70jr917g1t0r9kj3k8egv3ykn193uiv37fpt7kaopbdq96i5lalxb0ov7fq0f6g1077599fe9bprlaf5h539x300n7or85uockb9el1us8uhclt1khzevys9uj7wtfhnmsr1ftrqe0ef1mto7gn45b1micmnmq7pl8f8tvacqj</cfdi_digital_stamp>
+</hash>

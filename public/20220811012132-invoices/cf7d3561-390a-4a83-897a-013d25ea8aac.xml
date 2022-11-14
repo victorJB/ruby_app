@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>cf7d3561-390a-4a83-897a-013d25ea8aac</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Anselmo Ojeda Isunza</name>
+    <rfc>FPI811214AI2</rfc>
+  </emitter>
+  <receiver>
+    <name>Emilia Baltazar Rosas</name>
+    <rfc>QCY211002TL2</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">824966</cents>
+    <!-- ISO 4217 -->
+    <currency>RON</currency>
+  </amount>
+  <emitted_at type="date">2019-09-23 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-08-27 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-01-20 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">h3sx2juhrrtl77euybva6e86shevxbcjl3yfmyyu0ytx9lnitilmdc0w2ngd9kbnli90qdlvf87peetjootr3m9oxsywc9y96s7q9svg1qsmv4ddafwdxt6yrilrfunjg3pl5nr53nvwwsk2tiyps1xsvci43t6wk8n9gmxbrskbl8orx0bhqqspgxkgaf8vrnvnxyqz4pn239d8bjobozxpqi8l2elyzrha6wyq9mh52hppd891dp887f8xpze</cfdi_digital_stamp>
+</hash>

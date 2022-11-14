@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>c6573363-9c12-45fe-b54e-21bf1cd94efe</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Selma Espinoza Onofre</name>
+    <rfc>ZDT9711218TB</rfc>
+  </emitter>
+  <receiver>
+    <name>Roberto Azcárraga Simbrón</name>
+    <rfc>UES751103EL2</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">940792</cents>
+    <!-- ISO 4217 -->
+    <currency>UAH</currency>
+  </amount>
+  <emitted_at type="date">2022-04-30 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-12-15 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-01-31 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">98rz2hobi8xs76akn6kiarhw5vbrnnqlbl3qf6jfiy24gcy3j8cknmft31j650iaagagiw01zmnz1pyo8io8b4dpa5av764zawc9ksqv7khywjpgpv5jomjr32ve8jmuscdpn4hwsfqk94gbzbgg63eda32hys4gaxkt6wpigupgnghtqa1wlk7jkr3swrw2up9zsw0yd2xolb3v6xv7oilm2nia5vqt4mgqzjxey4uyel4i3dguh3hp1mcf9xo</cfdi_digital_stamp>
+</hash>

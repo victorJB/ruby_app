@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>0ffba4ca-ca5a-4165-a81c-2087f0067829</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Judith Aguilar Ibargüengoitia</name>
+    <rfc>VLR781120UPO</rfc>
+  </emitter>
+  <receiver>
+    <name>Rogelio Onofre Ballina</name>
+    <rfc>FWK731229A07</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">332925</cents>
+    <!-- ISO 4217 -->
+    <currency>GIP</currency>
+  </amount>
+  <emitted_at type="date">2022-02-27 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-07-07 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-12-14 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">7wrlpwx255q8di2q089juv3q9ot4q3qwjpcnem4pt7isqa8gk4lbor5p39x3e8d3fo2yltknv8dlxydsc5e5d5da0vh4ifyec51j17dt62zkdnb8mqebm7rvrfay7rvtgjp6kc4apejane45w6kxbgsvsgxdxolgc9c7mksjl9zsgitoqrcumh2r6fpy1540nudkjcr54u7z9k3mlxi3pwe776e9e1jga70ad7g8vz910elm646w36cgrl0qycm</cfdi_digital_stamp>
+</hash>

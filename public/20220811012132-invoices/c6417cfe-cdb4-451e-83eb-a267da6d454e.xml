@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>c6417cfe-cdb4-451e-83eb-a267da6d454e</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Arturo Sepúlveda Herrera</name>
+    <rfc>UMY170607HSP</rfc>
+  </emitter>
+  <receiver>
+    <name>Temístocles Nuncio Aldama</name>
+    <rfc>OCG860103TSC</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">820748</cents>
+    <!-- ISO 4217 -->
+    <currency>EUR</currency>
+  </amount>
+  <emitted_at type="date">2019-07-05 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-12-01 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-03-19 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">slchod0sfqyiq0kyxd3hvzn6b7n9uo4k0wjemzs8klci3e3p9vh7nvftpphnepr4gt33ltb9e4xwnindprpa8lk9ae8h18cjgomxrhftf3iauwa8vyiknq8j7jbz3cvurofnxn4yf6d9h2yitkxa2exx8byp5fhhjvy0t1bnx009wzy8f8yui6u62pn6tocldrxwmnkhnn3zz6bfpkd36vjevvy6webxsvhwvdyum6qpgetlyvtnmzw3q42fxwh</cfdi_digital_stamp>
+</hash>

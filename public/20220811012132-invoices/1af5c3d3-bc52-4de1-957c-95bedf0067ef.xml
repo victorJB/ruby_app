@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>1af5c3d3-bc52-4de1-957c-95bedf0067ef</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Gibrán Ruiz Hurtado</name>
+    <rfc>ÑAO74070253C</rfc>
+  </emitter>
+  <receiver>
+    <name>Emilio Alvarado Irineo</name>
+    <rfc>XBV890309I1M</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">371539</cents>
+    <!-- ISO 4217 -->
+    <currency>GHS</currency>
+  </amount>
+  <emitted_at type="date">2022-02-09 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-10-14 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-09-15 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">wlme47sejphhozmie030doq6m9ni1vptkfhnxwpic3h9p04pm8b2tdaxl8l7yf3ap2bj3naqo9u9ct3acnqh40r6ubkr1p7216j9sucdvl4wnyxpuaqghexevm88cskww5sjrt3c8eh4370g74bbjhubhaysj6r0pg3xd6vvhkt6gzhdf1ikdwa9g8cxfwjg6p52od8zm7imopzkcy4bmz61m5piavtstoms9novozceolsbhwrhrmi5qut6tsz</cfdi_digital_stamp>
+</hash>

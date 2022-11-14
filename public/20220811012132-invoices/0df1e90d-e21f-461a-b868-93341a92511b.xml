@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>0df1e90d-e21f-461a-b868-93341a92511b</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Marlene Roa Morán</name>
+    <rfc>CAS820910HTY</rfc>
+  </emitter>
+  <receiver>
+    <name>René Gil Valdivia</name>
+    <rfc>XEM181207A5H</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">957479</cents>
+    <!-- ISO 4217 -->
+    <currency>CDF</currency>
+  </amount>
+  <emitted_at type="date">2018-12-03 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-12-22 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-04-11 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">7ry1aooaoq64rtl8tr931f8vvxqd51hjlhw4gou2woetvj6lg4ophnzp1w26i4lhx9qrkun7i3pldwd3sxf8rzviugf21eteuqlvcjvznnehyxb7rdb5bumjw2vmwabxm9ou86eqx8rdgdpyjrqyzs2lpuh1at9dk1shnpo0yk6uf15r3m177uz4gotsav1ro1plegk13yopu3r44wyngwxekjkhvgybphx9ft5jk2tvlqv7jme8wcvv8kqypbg</cfdi_digital_stamp>
+</hash>

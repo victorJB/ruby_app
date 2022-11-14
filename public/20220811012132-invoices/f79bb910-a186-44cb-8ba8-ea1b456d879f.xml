@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>f79bb910-a186-44cb-8ba8-ea1b456d879f</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Benita Vera Bello Fierro</name>
+    <rfc>OVA070613N6U</rfc>
+  </emitter>
+  <receiver>
+    <name>Karen Ballina Mena</name>
+    <rfc>TPI881212Z0P</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">39983</cents>
+    <!-- ISO 4217 -->
+    <currency>MRO</currency>
+  </amount>
+  <emitted_at type="date">2018-08-03 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-08-29 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-03-01 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">mn1xwsxhca45ssoiwwkrrls2s691ondvuz6y1svhig0im1nfisbl29rhzkwqo60azzmzzwfg03svr65r2crnc440yq6wrl1n0lczvktxjxvundkujsp9q9wvr43uvp57qmef6kxxvh9e2kuoacgkar0cz9dgz8u3btau7zc43ntbxst4yl0nqj07tq3kwjlajp9vfeh35rh0w2c885t9r1wjv3t53xiachdx83ewcr7en1q3j60kssqpn16i4bj</cfdi_digital_stamp>
+</hash>

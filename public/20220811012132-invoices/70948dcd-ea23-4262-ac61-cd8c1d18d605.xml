@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>70948dcd-ea23-4262-ac61-cd8c1d18d605</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Alejandra Ana Saavedra Sierra</name>
+    <rfc>ABZ820119TUM</rfc>
+  </emitter>
+  <receiver>
+    <name>Georgina Fuentes Campos</name>
+    <rfc>XFU180818NHS</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">878255</cents>
+    <!-- ISO 4217 -->
+    <currency>USD</currency>
+  </amount>
+  <emitted_at type="date">2018-10-31 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-07-15 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-04-12 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">rmkqenjegjwea6m2hte0wwcwckrky985j6w0fbb6d3mi0xr8c1z6abtsrcygap7rz29oifu7iysx4kxtkutjnnt9hyq0ezku7qdanbmf3jb6dmdc6cbybpkdabz6bpflvx2u80eppimwy3y8qvjrxxfa41gxggpdorh4takzeg0u4276fgg2wckf9vh20pba2621pmuypu9p07pkc3k0fqvj3gjbhln893pva0e256trrkbkgg8smgfcfzzlqpk</cfdi_digital_stamp>
+</hash>

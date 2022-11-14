@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>698c2d09-ddd4-491d-ae73-22220162698e</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Ignacio Esequiel Montes</name>
+    <rfc>YBZ021222DN2</rfc>
+  </emitter>
+  <receiver>
+    <name>Bruno Quiñones Higuera</name>
+    <rfc>GCT860717IQJ</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">727380</cents>
+    <!-- ISO 4217 -->
+    <currency>MRO</currency>
+  </amount>
+  <emitted_at type="date">2020-06-03 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-01-07 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-07-21 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">qmml7n9b3h1g10lquqoyzvwvon6yo4ykcr1fv4wnlyqse27y2cpb9pzvf9w43n9o2g69kdfrk2xpwni7z5x2akr4mtsknqndhu5cr3jdez5vf3fxjva72qs36virtmm3zcykaumyeeldnma72gt9ir4g6ijdu9ifjv2d6u4084ibcfizjzwfqd18lek7y3pj42jc1tdnglhpf8kl2x3dp8sb7w2gg8mjjeh715q5rty4wtx96tcfqlkj3z7a2cy</cfdi_digital_stamp>
+</hash>

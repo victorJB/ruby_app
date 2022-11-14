@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>ab307d6c-e7e5-4a16-8076-4558aa7d23c6</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Rodrigo Jorge Revueltas Oropeza</name>
+    <rfc>CSJ760210Y2Z</rfc>
+  </emitter>
+  <receiver>
+    <name>Irene Ocampo Lamas</name>
+    <rfc>CBK7307199VB</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">154633</cents>
+    <!-- ISO 4217 -->
+    <currency>TZS</currency>
+  </amount>
+  <emitted_at type="date">2020-04-17 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-08-29 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-01-18 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">j6jxegc70b3k6rbs89ug9o03omewtbe7e1k0bsmf83wl5lygapjr7xrjits5gyreo2h7qo66mensbv45huhv8amgfbb8em8khjdo4nsqdy468u0qgdnwd73xe7du0r7swqt3u4vecx5nlrbflhvr357e7x4qfyx73z1s5082k7twogitjvr42wu501ruz0x8b8x7r8aktujarr23fy4whsljyeqzwu5d1nvf8qg8psjc9kvbrosrloqzr7ury8e</cfdi_digital_stamp>
+</hash>

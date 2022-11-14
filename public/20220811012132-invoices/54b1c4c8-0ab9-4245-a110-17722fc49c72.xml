@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>54b1c4c8-0ab9-4245-a110-17722fc49c72</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Eugenio Emanuel Mosco Lamas</name>
+    <rfc>TBQ72012372H</rfc>
+  </emitter>
+  <receiver>
+    <name>Axel Seferino Ojeda Hurtado</name>
+    <rfc>AMQ151122YJO</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">373631</cents>
+    <!-- ISO 4217 -->
+    <currency>MVR</currency>
+  </amount>
+  <emitted_at type="date">2019-02-15 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-04-12 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-11-22 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">bwsrumnz7yua9eesmihpu8o1mznxxskk42yl57w9k5c7vj0e68b3dv1is9crbspwlz6slnqrksr302avw42vu3my5dc8zh06oop560hjoutpp0z55y1baqwca4xh7hi54tl51izcrdsdve4dfbixcyy3qgm2bbxbpl9soqiaxk6e8us1uuj05y2xwika1fthm1r4u8uqifm88hy303z76o1bsapiv12yfv6l94vq8pgph6d3iualktn9fbqtojx</cfdi_digital_stamp>
+</hash>

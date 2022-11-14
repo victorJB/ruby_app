@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>ecc92d26-27be-4693-9cf1-192ee770bdee</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Pamela Domínguez Aldama</name>
+    <rfc>AVN9207163SY</rfc>
+  </emitter>
+  <receiver>
+    <name>Eder Ibargüengoitia Saavedra</name>
+    <rfc>LAE88112170X</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">770235</cents>
+    <!-- ISO 4217 -->
+    <currency>ETB</currency>
+  </amount>
+  <emitted_at type="date">2020-01-22 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-11-08 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-06-12 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">8tl803gp9weev7zt4gm8iwrxbphcvbxn8f7bnqfgh0g91j85kpyqk7kclphote17jtax6kwbwujkxj1ybnrbwovafmmar7s9awun5dfmw4iykqx82fav9piyqaj99dbgdaxu9r3u0thg4exjk2i6thrtl1ofc4bc1mbgxq0pxkmk1evsrqq24hztjrsz2a61au0xq7f55bi2yj9rks5qbgjji7jomjhugu9l5gsmiixa1cixew6olze6ln3695r</cfdi_digital_stamp>
+</hash>

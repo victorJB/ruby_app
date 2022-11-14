@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>9138c74a-5798-47f6-8798-526499b395f8</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Rubén De Estevez</name>
+    <rfc>DIE900513TOX</rfc>
+  </emitter>
+  <receiver>
+    <name>Benito Yordi Bernal Bárcenas</name>
+    <rfc>JPN140302ER9</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">479031</cents>
+    <!-- ISO 4217 -->
+    <currency>BIF</currency>
+  </amount>
+  <emitted_at type="date">2021-03-16 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-06-11 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-10-03 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">digxclerddsm7t7uabebgmf3524f1t3h68jzvru4h6c9xs89sshhxpto4ubegjlykdixdvtcevpoj2s83vwed2suj1rxr3vz5e9kllbiyrkejw21r5tr8t3stw49j6jmrpvysyp6dscfr5zxfbgztk4umlb6s50yykst67jtczayymixm2il3kwvuxbhcj210z5uzemg1ycrpjo9j631pott01xpoesdf452uoy3etcm0zw7sttijapz9fzpow8</cfdi_digital_stamp>
+</hash>

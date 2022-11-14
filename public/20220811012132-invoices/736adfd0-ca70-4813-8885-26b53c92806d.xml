@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>736adfd0-ca70-4813-8885-26b53c92806d</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>José Marcelo Mafún Nevárez</name>
+    <rfc>YNF060723KX4</rfc>
+  </emitter>
+  <receiver>
+    <name>Darío Delgado Hernández</name>
+    <rfc>XÑZ200331GNL</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">355517</cents>
+    <!-- ISO 4217 -->
+    <currency>ZAR</currency>
+  </amount>
+  <emitted_at type="date">2018-07-17 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-12-01 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-12-01 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">26wxsmhdg6m73w94gld6ial7wyh0g80gfer4eg5n5jfmp4s8ohdbywmaw6imyfy1oypstjq5v25ryht4c4esp5x0s27a1ncftuh5aqwvq28hxu80qjiy0e63orq1js9x253jp3a28zq1mkn7yt89a3s01m970kub61o33huhdild560a9jo9uvsajrqumlrtonxil2w6g7jlnmssfrprx1swe2j2rvceby3bbz6jvi54t46vsljrt1469f7wz36</cfdi_digital_stamp>
+</hash>

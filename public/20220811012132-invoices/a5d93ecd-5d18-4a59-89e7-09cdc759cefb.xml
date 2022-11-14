@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>a5d93ecd-5d18-4a59-89e7-09cdc759cefb</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Néstor Sosa Rincón</name>
+    <rfc>UAD130723BFX</rfc>
+  </emitter>
+  <receiver>
+    <name>Aidee Fregoso Márquez</name>
+    <rfc>LNO220604SQT</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">956359</cents>
+    <!-- ISO 4217 -->
+    <currency>ISK</currency>
+  </amount>
+  <emitted_at type="date">2018-06-02 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-07-26 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-04-21 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">7p0rs0ip4mfpv10jrqc9nde4rea8iw1x4kfmjqk5achv6yldvlwulv82j1fgu40y98s8siedo7u57pg3pwzdhckumdshz0a9zvvsmp1tnv6mdu5t39tpq5df75ic8stnzzob22jayavo8ap9rfihd5ezh8rdyqq2m63kbdhgrzfk8msonji44baqpvuvt3o8qnigvb21skfiflqcvht4tzdpxvp3yqgb1ls4rox65iqy6qs8j25vovzosmbn6o0</cfdi_digital_stamp>
+</hash>

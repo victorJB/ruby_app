@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>9b908411-3d00-4bd3-8303-cdbddcd49f34</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Berenice Flores Calderón</name>
+    <rfc>ASF730325CFK</rfc>
+  </emitter>
+  <receiver>
+    <name>Jovana Nery Gazcón</name>
+    <rfc>CLA121013TI4</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">187794</cents>
+    <!-- ISO 4217 -->
+    <currency>XOF</currency>
+  </amount>
+  <emitted_at type="date">2018-11-09 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-10-15 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-05-22 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">2doy01q7hr6cgmyrb9gg1s1ayaulh30or8intkctcnyuomsf12u3kofidqhvt84lcfns4meb066qvogs10xws635ugnbs3ndannf3kw6xbtmyz8h3hyq85w6nxrjnnl2etgs33vvthc5ue3y51y599r7s31wycgonqeq8ar64ax9q4vug21a1st4qye888johoyoh16kg3bsmjvl71d73ngmecm7ifux7ccitwy76bmlwc986mdbzszwrgajt06</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>8062ddb1-b1de-4f63-8b7e-eea30de85b65</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Otilio Palacios Domínguez</name>
+    <rfc>TQR010116HLV</rfc>
+  </emitter>
+  <receiver>
+    <name>Aurelio Servín Palacios</name>
+    <rfc>JÑN8810119KR</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">740739</cents>
+    <!-- ISO 4217 -->
+    <currency>RUB</currency>
+  </amount>
+  <emitted_at type="date">2019-01-06 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-11-08 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-12-05 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">hpatpqghu3jdl16tt19ysg3uc9uis7sb0k4fns4nc24rb7hps6akdiibnoy9pz4jjmns3idopezg1w7grzp6x49b3v0h7769e284slhq93rn6w9ekonoe56y30nh34vjjnhyn4vx8z1t14sus8gv3a3hboo23oj0tjubejvtyrv8660xknuajxe61ft129h3piris0yrrfgdrw8a0b46e7vs1vesgwoz7u1jzz6hp168s9w07360cebf1kteviq</cfdi_digital_stamp>
+</hash>

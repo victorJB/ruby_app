@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>69a908b0-2494-47ce-89ef-094599168f5a</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Tatiana Macías Castañeda</name>
+    <rfc>XSL1306216O5</rfc>
+  </emitter>
+  <receiver>
+    <name>Armando Balderas Aguirre</name>
+    <rfc>ÑTI070619N0X</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">389692</cents>
+    <!-- ISO 4217 -->
+    <currency>MWK</currency>
+  </amount>
+  <emitted_at type="date">2022-05-07 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-03-21 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-04-22 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">1eb7ji9z1ap2g9c1uuicsebwntyyhufl2fig46nh6evaonvrykyf4ld4nd9rnxhg64xhit3h84jum6tbrjon8a8k6mdr6ncuuy1v5fwo7i6oof1848kvic9kk55w5mv74sz7fm1bm4kk1lpl9rirjk2v4ya5j3qitisbat5kk4tlhionkc3zuapjvonskrd2lkgdh0y8doxlays1749votzx4i81b09rr1obpxtzhdkdyatp4fr4t6ovkriirtl</cfdi_digital_stamp>
+</hash>

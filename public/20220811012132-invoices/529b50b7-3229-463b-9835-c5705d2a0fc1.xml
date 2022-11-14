@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>529b50b7-3229-463b-9835-c5705d2a0fc1</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Pascual Ochoa Soto</name>
+    <rfc>&amp;LD150611CV9</rfc>
+  </emitter>
+  <receiver>
+    <name>Bruno Román Méndez</name>
+    <rfc>BIT7909085JI</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">528274</cents>
+    <!-- ISO 4217 -->
+    <currency>SLL</currency>
+  </amount>
+  <emitted_at type="date">2020-07-20 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-11-27 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-01-05 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">mtjfym3zb7fqs8hmm77lqnsgbllbsokc3ut1v41uqa98uzrbakrn59hv5n54gr9eyfonc14464zbdv05ftmich51x0zeywf47maea89l5og7bvqq0le315phcsvtma3ly199sbjydml8ingj4nm1peqrnn7r7mhl58jrrk0u8fg0dpwstqetlji55rxmlg5dtwqwbo7v8zwtfl07ojhqgiuwuu9e99u6bx5iznxko8b1qv8chx1lhn2okm6fijm</cfdi_digital_stamp>
+</hash>

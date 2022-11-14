@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>a54cbd02-5838-4344-a50e-7bc1d6e13f58</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Néstor Manuel Ocampo Cabañas</name>
+    <rfc>ILZ741006ZNU</rfc>
+  </emitter>
+  <receiver>
+    <name>Francisco Aguirre Mota</name>
+    <rfc>QBM08070569D</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">134657</cents>
+    <!-- ISO 4217 -->
+    <currency>BGN</currency>
+  </amount>
+  <emitted_at type="date">2019-12-29 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-07-09 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-10-15 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">of2xrphv0xvhegb9h3yb1kjqhrrzffrf01x0n2793e9xtc9li8cr15i5jmlwylpnju3anr27f0h98e1k8dlz7kjrje7fk4poe7wjk22po7s4yrnxs7tuzffrhqrq3rrg5bo5r22v00nghvwe62e5klc3i7tdccovf6azeqxxme0u46vej8ai2mm18g5tj2rwze0lxknkdsi27lbw9w2lhtm1b31oxuhn1jnnb9vtv1pvfhhg1ewwv1tl5ycs9cd</cfdi_digital_stamp>
+</hash>

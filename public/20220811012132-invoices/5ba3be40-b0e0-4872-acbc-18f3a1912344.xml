@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>5ba3be40-b0e0-4872-acbc-18f3a1912344</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Roque Peñaloza Cabañas</name>
+    <rfc>LBT001107CB8</rfc>
+  </emitter>
+  <receiver>
+    <name>Ingrid Ubaldo Graciado</name>
+    <rfc>IÑT8703175FC</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">689918</cents>
+    <!-- ISO 4217 -->
+    <currency>XPT</currency>
+  </amount>
+  <emitted_at type="date">2019-10-20 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-07-17 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-06-03 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">hwb2x5qareu3wy6uty5d7ahsmw8tpl8996upi4vahk48myi8oo1aramux7frucimrezq9kmtdzbbazcwxawwb4356zwydxfc8z1pbvwzsqojaaq7p9wwig7akzptb095fso0t1qlb8djt3hnan3ufv2qjom83cdtz4d31yfqhr9jib7xrvsdmrvydmach5k409ppf17ofsrcn80q9kj2fsdr7kwbmdtrml36k0r62itricw10llxzdtcqtjsvbj</cfdi_digital_stamp>
+</hash>

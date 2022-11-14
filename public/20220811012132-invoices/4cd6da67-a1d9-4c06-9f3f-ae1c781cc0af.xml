@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>4cd6da67-a1d9-4c06-9f3f-ae1c781cc0af</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Elba Viridiana Vilchis Fernández</name>
+    <rfc>ETA881102YK1</rfc>
+  </emitter>
+  <receiver>
+    <name>Gabriela Gazcón Oca</name>
+    <rfc>IWV171202XY6</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">84361</cents>
+    <!-- ISO 4217 -->
+    <currency>LAK</currency>
+  </amount>
+  <emitted_at type="date">2022-08-24 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-06-30 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-11-01 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">mvhbian32zt4pyub039aom4k6qujnt7n7q0if9u11eghdi4beqymzr1e4yh8gvi8mbgwozvw86n10echmw9rmt124g5pbyy6jtexkva2tmr6ymdfbx9cyybbpf5g4904mw0u5f68yxzv3edttyw8x3760qy2txl6450ra9dzu9q1wkt9mic55vcvrzfdz8dsqu6wr9a2gb9l9x72j0le4o9ihjjjyoiwulz8g76fl0i06xqgo8lba8owyk6jpz6</cfdi_digital_stamp>
+</hash>

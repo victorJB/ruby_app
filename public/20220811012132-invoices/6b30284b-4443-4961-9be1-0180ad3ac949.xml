@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>6b30284b-4443-4961-9be1-0180ad3ac949</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Raquel Sifuentes Sánchez</name>
+    <rfc>XPQ791015CMA</rfc>
+  </emitter>
+  <receiver>
+    <name>Isaac Tejada Zamorano</name>
+    <rfc>SV&amp;750223WH5</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">838843</cents>
+    <!-- ISO 4217 -->
+    <currency>KHR</currency>
+  </amount>
+  <emitted_at type="date">2021-01-29 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-06-12 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-05-16 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">10kygjzz5n9ef9rs973hj5jjqhb4s2yho9w9pi9q0bjoi9x5bdvjbuak4qzswpv6bswkgbl68hwj499p1se79110batz6kliar8f5zy59clai6pzg0ucm57o6cf2sbuoyadmzaokm9rmu7ljrgfkj3bla9d0vcziykzfr7wnz41wqoit3ctianjfwm656m8v9e7dcm6h81crjdoi7qknzz05uck5vs3jl0u9h0j7tupvlae7xwa5m83xge550ff</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>2e90712a-1da4-436f-b459-e3ca5b9d422b</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Xavier Miranda Ramírez</name>
+    <rfc>NPR811207GWR</rfc>
+  </emitter>
+  <receiver>
+    <name>Brenda Dávila Fregoso</name>
+    <rfc>KRZ960920XHE</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">110670</cents>
+    <!-- ISO 4217 -->
+    <currency>GBP</currency>
+  </amount>
+  <emitted_at type="date">2020-07-24 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-12-08 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-12-28 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">087hafm46hpqq0g0dj3w303b4fhlh6hyqaehue5fwxrco95ygpqxd2nno1o3nlgui57h7bor6ykqfzr8ma33o90ef4a5cizdqg8fzkfiprqjou5ssov71o7tlskenvpym7h02nexfdit9h52qo34v8cans8l1n5leqrqdf9lwut4dqwr9zawymj29sfnecwbrvv2p02gojkhhs0hskhs8d45lta29bm34rxe6uohyp86149v8w7ckudpzabmtq8</cfdi_digital_stamp>
+</hash>

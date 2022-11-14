@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>5e85600c-4070-494f-b295-19c4cb3cca4d</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Ariel Acevedo Gazcón</name>
+    <rfc>DPS870321KMJ</rfc>
+  </emitter>
+  <receiver>
+    <name>Lorena Marisa Mosqueda Zurita</name>
+    <rfc>HAE181218DWF</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">486918</cents>
+    <!-- ISO 4217 -->
+    <currency>HKD</currency>
+  </amount>
+  <emitted_at type="date">2018-06-15 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-11-02 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-11-08 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">bsocwl3oswi9nuv66tltlhchk4faaak7qlt2hnmpzl5tz5ozmx4i58nsxba06aiqittfbrw1vkx2ncsf7dv7q76xv6lav4ewilpb5n3qtbfwbu97bk8ew6hjfdn3cjlrrdmgzlchaj87bf2x2i0zuqc9wzuhi4si8hp0sbw0ujjvvuyah4gpsxzwvdksy4h5xops491hurt78hfnywy1se7udg141jmkb5fa28ilqa1hh24dtfoxmf10fo5kppr</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>590b2398-79a7-46ce-91e5-20c6376fa23f</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Fidel Mena Fuentes</name>
+    <rfc>ZWS02033164Z</rfc>
+  </emitter>
+  <receiver>
+    <name>Gil Morales Ramos</name>
+    <rfc>IGR10101021X</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">582190</cents>
+    <!-- ISO 4217 -->
+    <currency>SDG</currency>
+  </amount>
+  <emitted_at type="date">2022-06-16 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-09-19 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-02-11 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">g7rdmillw2g86z7kcn0ph6xwe5x3xhnozvtdx0lrw0chgtlgpd95fwp7ydd1a5ut2y6xpu4niooq5l1lcxb4qdx8ue0ntpe00tlbrekg21qxpwxdxre2wtcil320n2g9hhkvqt883eyqvslb8d03p9kuyjkjdg139mbrmmize8tw7chqonvm7arnrhtqsdkedrifyvphtcq3ex0l5xwwagf4c85geijszffg9rlo586slij81kjnl318st0ftdo</cfdi_digital_stamp>
+</hash>

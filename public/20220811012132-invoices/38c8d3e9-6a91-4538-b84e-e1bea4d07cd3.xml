@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>38c8d3e9-6a91-4538-b84e-e1bea4d07cd3</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Constanza Lisette Ugalde Lezama</name>
+    <rfc>MJN9106030HS</rfc>
+  </emitter>
+  <receiver>
+    <name>Rafael Gómez Velázquez</name>
+    <rfc>TSX970706A0X</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">618463</cents>
+    <!-- ISO 4217 -->
+    <currency>BRL</currency>
+  </amount>
+  <emitted_at type="date">2019-07-16 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-05-18 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-04-02 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">8k2pmyh8kgudrbdw2lookolw1gyzftrkivgh8tlswmnb8635ivl156982iiqmiyrfwf6hukkruxem6nqkim8lg49vzheghmlxzmu9bjb7i7danmw9zf4i7aujpt2l521xp7to3w68t4d7ptdfovu9m42ochjhoqt57d6nzg37va12zw0snmnkrvnm2bidvjikjj831votf0fz2uxnlwl4ji4ssvv8rkmvcwi1qccnlpyjk9b2qfgdku7pohugwz</cfdi_digital_stamp>
+</hash>

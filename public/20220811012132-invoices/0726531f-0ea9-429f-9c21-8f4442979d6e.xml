@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>0726531f-0ea9-429f-9c21-8f4442979d6e</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Dulce Irineo Cabañas</name>
+    <rfc>QSA771030YVN</rfc>
+  </emitter>
+  <receiver>
+    <name>Fabián Arredondo Velenzuela</name>
+    <rfc>YBS810410WM4</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">621611</cents>
+    <!-- ISO 4217 -->
+    <currency>TND</currency>
+  </amount>
+  <emitted_at type="date">2021-06-22 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-10-03 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-02-04 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">cs8qbp3sf3u89ep8a03n3f5648q2zp22sfjhtei4lnxl90d6dcvbjxaqb8ibmjrxg4cz86cqtzsvculwnldw02i4twmphjfnsd7x68olt0twxclk2glgdox5qlfs0wc78v7xzizr6hbi6j6pnyp3u6k4zwe31j1ctki3d9isfnrm9g8sc1lon152aqj71dg9853twq038fvomggwb9orgbuqlozu5qhabblmtxup8plwd0mtjxytoyv1lxphh05</cfdi_digital_stamp>
+</hash>

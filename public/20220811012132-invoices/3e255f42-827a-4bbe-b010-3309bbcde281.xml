@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>3e255f42-827a-4bbe-b010-3309bbcde281</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Lucero Izquierdo Covarrubias</name>
+    <rfc>EHZ14120854L</rfc>
+  </emitter>
+  <receiver>
+    <name>Leonardo Hernández Hoyos</name>
+    <rfc>VNÑ851201L5E</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">390821</cents>
+    <!-- ISO 4217 -->
+    <currency>LBP</currency>
+  </amount>
+  <emitted_at type="date">2018-06-03 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-07-07 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-02-16 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">n3zn81fmm3bcrxws35w686pg828pamsox7md0plu2pbnq57d99milrozmwvkfjr7l1upcbbpdharkoc0p5dtiwslat9nghf8nmcxji9zr7as42n928u3lsyrk4dmh0qnzo0inrytcc5lplnv9b7nc9ewcpmqwco7w7mvyycd78b56vo407v54uymhufshxvvtz3pdl4p4slwuczj1wnxjdlnplzjs9oo7x8yc8jv11vgiihpg35ujinrlos6qup</cfdi_digital_stamp>
+</hash>

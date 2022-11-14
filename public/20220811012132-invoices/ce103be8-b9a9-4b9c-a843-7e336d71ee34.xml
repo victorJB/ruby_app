@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>ce103be8-b9a9-4b9c-a843-7e336d71ee34</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Emilio Arnulfo Mojica Munguía</name>
+    <rfc>GAC830908WS5</rfc>
+  </emitter>
+  <receiver>
+    <name>Oliver Félix Lara Velenzuela</name>
+    <rfc>L&amp;B870204ASU</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">351830</cents>
+    <!-- ISO 4217 -->
+    <currency>TJS</currency>
+  </amount>
+  <emitted_at type="date">2022-12-22 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-05-18 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-06-10 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">f2aax1f9szs58exod6neil8pcu0dws42vt4ds7dr2401eicjwl7yrdtztkelyekmlb9u0rx6cjo3zlyfujyveogg9zg0yg7s7lscs28flq31ahcklj9a6tnpbnp710mhqsqkopni6gt3s0gpm9b00fep3xo5ikuiw9sk5e7e5jywmk4073hlsy5nqjoii0v0mnm7icot6ngi7tvx6wdum6k94lrwz84n48uo2w6ox59j4nxlin6m25vzhfgrzto</cfdi_digital_stamp>
+</hash>

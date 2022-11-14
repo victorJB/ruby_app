@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>472d3ffb-7068-41da-a4c3-ee23d029ff04</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Virginia Balderas Salgado</name>
+    <rfc>KVB12030946S</rfc>
+  </emitter>
+  <receiver>
+    <name>Julia Palomares Canales</name>
+    <rfc>JT&amp;880612BCV</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">378815</cents>
+    <!-- ISO 4217 -->
+    <currency>LTL</currency>
+  </amount>
+  <emitted_at type="date">2019-11-14 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-11-01 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-11-30 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">kpt5sayv58zktjk959t5afkufh84ftsrd1frbqew863f3qo5zqm3fey4zhmnjeru2ma9f6wk9ti8fd80naposel8xxn0c1hpizb71rt804a8ic4jw3dnjquhz1drbj02xji3paq7jyd4xt5bys2i5iiuk7ajnz7novvla0nq1lb4jpcm6jfuhumtctlbzdctxno6fk7cyzvg7ec17j0bnyd7rjz8an927de2zvex30zatf5dl59dkjy51ee5gfc</cfdi_digital_stamp>
+</hash>

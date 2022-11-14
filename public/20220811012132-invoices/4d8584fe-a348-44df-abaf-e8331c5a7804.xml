@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>4d8584fe-a348-44df-abaf-e8331c5a7804</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Rita Eréndira Tello Joya</name>
+    <rfc>WUA840818WIT</rfc>
+  </emitter>
+  <receiver>
+    <name>Apolinar Cortés Ibargüengoitia</name>
+    <rfc>WHF070803F12</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">152986</cents>
+    <!-- ISO 4217 -->
+    <currency>PYG</currency>
+  </amount>
+  <emitted_at type="date">2021-05-14 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-07-13 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-08-16 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">phewcqi0eqrshu9tf8xobvro95k9dt7wy6xwc3i23u0cyiuyg5um76gpn1ft4mx414jwq18gxbl37fhuxbzfg6dfzomlb1n31wn0ilrtjd2f9sl7siqlarzx21qw6ndxwriec6go49u0xfu2v06vdbmz0khtoqgl9xnkgjwrpf06gemva6sdsxwoq8qq4qaugbfsnze8noiud1dkintop6bmfgepbxgejmkcc1x01e4kqi1brvl5kg7rc1da8ig</cfdi_digital_stamp>
+</hash>

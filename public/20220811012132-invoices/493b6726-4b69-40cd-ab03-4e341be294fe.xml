@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>493b6726-4b69-40cd-ab03-4e341be294fe</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Lorena Salinas Saavedra</name>
+    <rfc>MXP210801W6Z</rfc>
+  </emitter>
+  <receiver>
+    <name>Sebastián Linares Higuera</name>
+    <rfc>PFH920430TJP</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">908231</cents>
+    <!-- ISO 4217 -->
+    <currency>BYR</currency>
+  </amount>
+  <emitted_at type="date">2018-02-02 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-02-05 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-06-06 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">9r6cksd5ban0wl2g49gef7psl3gdoel0x877fptgrz6iy10aq1bfocv9j3ee7ovnolz6humqy95qd8ppympki9z3u2pum5tkk149wfv0b0tm7u6c0ll64qbdjds80kyw6rsc261bdn11musq4ncf0o3m0rvhunbxstwnmscwn9iafuibetymkc99rvllfrmjcomttzfdp17kvoxwxu9re3hek00x2dr1z8be9oklgxawisn5g0ht6ompla9ysuc</cfdi_digital_stamp>
+</hash>

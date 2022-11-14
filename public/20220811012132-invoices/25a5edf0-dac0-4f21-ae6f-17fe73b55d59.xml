@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>25a5edf0-dac0-4f21-ae6f-17fe73b55d59</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Denisse Bairez Rueda</name>
+    <rfc>NJC77020764F</rfc>
+  </emitter>
+  <receiver>
+    <name>David Feregrino Simbrón</name>
+    <rfc>PKG7404156VB</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">916697</cents>
+    <!-- ISO 4217 -->
+    <currency>HUF</currency>
+  </amount>
+  <emitted_at type="date">2022-01-18 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-03-03 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-04-30 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">7likdr4yaoo0d47smtcgvpnv2qbuxx7bvz85ddzjsr3dppakaa604wm0r29rrbspx0duu3f3hdeltmg8tputenya86w196n1indy11sqz0ul4b111ehwnnqr4eleur42lqq4eiwonjjbqkmfhl67jijhu6e1cydusem61rgvw6i8qjrsg8cwbo74q0jnc9qyystgr51y9q20vya7pdtyfsrlep0mqbzoxrt1w0zxy6gt16grn79qvp3y7pvcaib</cfdi_digital_stamp>
+</hash>

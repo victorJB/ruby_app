@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>6b7b5fea-b716-4210-86a6-d46032d88597</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Eliseo Claudio Cervantes Zetina</name>
+    <rfc>ÑRL800628ROZ</rfc>
+  </emitter>
+  <receiver>
+    <name>Alfonso Adrián Viloria Navarro</name>
+    <rfc>ZLM030228G1W</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">145530</cents>
+    <!-- ISO 4217 -->
+    <currency>SAR</currency>
+  </amount>
+  <emitted_at type="date">2018-08-19 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-02-27 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-05-31 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">ep6hpwf6fpx6bwocwhukaha1gx8ylyvtgy5izvk5vs49k3ej5a6bunxbgbjoya79a3exdeebf9zet47nl928ol1dfwx0zlussci3syst7a5oquv91galtighp3x2cmjozd5owpgac0q2sz5plfhupqq798oo51hhaq8a6gygije0ftxvgn3zflyluwqwmtfrcwkbd3s2rny9cia6baez8cuck9ts57yvz1amd9fng372lfktxh8dn6dp7fdppt0</cfdi_digital_stamp>
+</hash>

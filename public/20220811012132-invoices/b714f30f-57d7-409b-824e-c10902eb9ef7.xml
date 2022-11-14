@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>b714f30f-57d7-409b-824e-c10902eb9ef7</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Aurora Bermúdez Romero</name>
+    <rfc>QUW9007083NC</rfc>
+  </emitter>
+  <receiver>
+    <name>Paloma Tejeda Pimentel</name>
+    <rfc>HLO900421LSP</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">812446</cents>
+    <!-- ISO 4217 -->
+    <currency>XPD</currency>
+  </amount>
+  <emitted_at type="date">2022-10-16 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-05-12 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-03-19 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">pdtohg5ehs8hdqj34pk2y4z7vtsr5qa8dbpyw4j3g5xb1ysooipj5i1boxrgkd5vin3iaiizjxvge383hlq3whdi11kmqwfhlx35sfe8jknjrt0u0h6c7c33qw7p4sr19up5oavs1fw7e7ir4xvpxktji1l6kraol4jumdxa912mqfnbpqjb155hcn2wi6cvop7hqc6j8js14zsve0zagtx7ozi2sqlo6uewv5l0ryahvc5z3x287k3lg6btfdh</cfdi_digital_stamp>
+</hash>

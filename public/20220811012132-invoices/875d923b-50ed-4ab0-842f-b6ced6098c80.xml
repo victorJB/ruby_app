@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>875d923b-50ed-4ab0-842f-b6ced6098c80</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Adrián Acosta Fierro</name>
+    <rfc>YSL190311W1H</rfc>
+  </emitter>
+  <receiver>
+    <name>Osiel Covarrubias Tejada</name>
+    <rfc>DRH9412105Z7</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">897793</cents>
+    <!-- ISO 4217 -->
+    <currency>HNL</currency>
+  </amount>
+  <emitted_at type="date">2019-10-03 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-04-03 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-06-04 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">mr0uoejp3s4dvkcn4nvl8yky15hda47qupva1k5g4qcgifi29yqnbm84zv1hd1gg7bxoichlaqyee8vbotz892okyve75x26u825m83z9h9rqin1mxoq1pp099lgikvg1ulnl9oomi2ppcsxr4e0jqkhgj8k77jiu9gey5jhmxqc6hrthmdt9szsk1hwxqj5be2lbhlr9bvcotv2fjz2yl3ly5nxy32mhlf5q9va7gn9x9tkqzlk7h3rq36cqgx</cfdi_digital_stamp>
+</hash>

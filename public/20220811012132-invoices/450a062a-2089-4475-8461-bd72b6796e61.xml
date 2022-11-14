@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>450a062a-2089-4475-8461-bd72b6796e61</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Odín Preciado Alfaro</name>
+    <rfc>ILC920827THP</rfc>
+  </emitter>
+  <receiver>
+    <name>Yoshio Machuca Salazar</name>
+    <rfc>MWS910428LKM</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">534479</cents>
+    <!-- ISO 4217 -->
+    <currency>EEK</currency>
+  </amount>
+  <emitted_at type="date">2019-09-13 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-08-16 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-04-08 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">7ul7luuhkqmkr8jo2sugnbh5l09s2fpexnm9ic52jedhylspr6v5gxivsd9ro91wuu9940698ugy4hrpj5pf8skyydmqzyfkh3ikopebdt10jpvcwtazcdglqp8ljv3wazfe9znfrmqzg1zvnn5lscfjd3ywzo9ryf7trultqikcy3d51vagoas5ju2cedeviftokqafylqozcjxav2vejros93xem5aqzu2fukq0t30qi01u2v3vvh2pw88g13</cfdi_digital_stamp>
+</hash>

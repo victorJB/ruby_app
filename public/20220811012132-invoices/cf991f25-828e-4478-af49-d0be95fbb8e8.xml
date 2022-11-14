@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>cf991f25-828e-4478-af49-d0be95fbb8e8</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Rodrigo Ignacio Irineo Trujillo</name>
+    <rfc>BZS1209294W8</rfc>
+  </emitter>
+  <receiver>
+    <name>Bernardo Pedro Tellez Jara</name>
+    <rfc>VSÑ150728107</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">652232</cents>
+    <!-- ISO 4217 -->
+    <currency>STD</currency>
+  </amount>
+  <emitted_at type="date">2022-12-30 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-03-30 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-08-12 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">yr2plz3lrj2k90bvr47r4uc27disamfkte55sq8uev5fk654zjt7oyi17dbj7xno28sykkzyljd2rjvy27o6tkhtds09zfplbislvf76wma3xpo7i6f29rn99ollzrdzj6f5kc6iwa996muygrqmqy6e5hbcjsqqc06efriii024npfa57r02sp9lbefo1b1gb92z5gsv75k81umedbemdldzdahlbxl6mfjz3c940qnyh42yyt3lvpbfj5b8ie</cfdi_digital_stamp>
+</hash>

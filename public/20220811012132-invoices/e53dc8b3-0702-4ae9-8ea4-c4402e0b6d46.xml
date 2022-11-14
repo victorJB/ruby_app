@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>e53dc8b3-0702-4ae9-8ea4-c4402e0b6d46</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Ángel Velenzuela Balderas</name>
+    <rfc>MÑJ1909284GP</rfc>
+  </emitter>
+  <receiver>
+    <name>Rolando Roberto Ledesma Moreno</name>
+    <rfc>OÑJ8104010YF</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">109580</cents>
+    <!-- ISO 4217 -->
+    <currency>BMD</currency>
+  </amount>
+  <emitted_at type="date">2018-09-05 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-11-12 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-05-12 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">9fnenpwqg0e2kf40rjdlqvz7l1bvhgxco9c2lf9f1xo5bh1eio2mhbz4lkh1yr6wuhekiv18vr3q2ela21fpmvh9ru8xwqi24ok1agpw7cy8a89ifbi9ocoerb4i9t84ci23obcp8vcc5h2x9fv1mp6yi1cxag7kztnnxy06mux49qo5vgjw0wnls0b7ho2qfpp7ud2419uazu4dngq8oa2jltbs4hoh2xr70vi7aqk7xlmc0yhu0d4vqft33e2</cfdi_digital_stamp>
+</hash>

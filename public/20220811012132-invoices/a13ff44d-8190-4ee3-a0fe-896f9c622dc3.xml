@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>a13ff44d-8190-4ee3-a0fe-896f9c622dc3</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Tania Sierra Mena</name>
+    <rfc>FUM75102538U</rfc>
+  </emitter>
+  <receiver>
+    <name>Rocío Jara Maldonado</name>
+    <rfc>LRP8507246CF</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">842859</cents>
+    <!-- ISO 4217 -->
+    <currency>KGS</currency>
+  </amount>
+  <emitted_at type="date">2018-09-17 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-03-22 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-08-01 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">rqn9kq3kossh6u0nsp5p2pp6g6jzi853lcwohrkft3609wqtkbfl0aj0ocnciy6sf9t9d33pvuqv435zh03sbrxh6oai2rjol9a6v96oqlxn32mqee2da7jdei3sydfdc7myxwkintt1e7q5ta94xdz2b0dtmyoe5wfn6jduoqjr6ke2onpdksw3thzbrd7l8s7nx7nxmkkpcq2jtrik5fbtg7o840n11tr7eufq2pqbxf45tsordwx2xf9gyie</cfdi_digital_stamp>
+</hash>

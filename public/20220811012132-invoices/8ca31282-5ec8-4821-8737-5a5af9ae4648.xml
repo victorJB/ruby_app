@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>8ca31282-5ec8-4821-8737-5a5af9ae4648</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Arnulfo Elizondo Arenas</name>
+    <rfc>FHC041003WRC</rfc>
+  </emitter>
+  <receiver>
+    <name>Rosa Covarrubias Mujica</name>
+    <rfc>TEV940620CI3</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">422191</cents>
+    <!-- ISO 4217 -->
+    <currency>KES</currency>
+  </amount>
+  <emitted_at type="date">2018-06-17 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-10-06 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-02-17 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">ojw1q7947nrqauxnlr9aatcerqrw0jy7ko82muwti2ppxp7p77lty8xq1qizo8jkajst18r4soghciuci37003vd7qbhpdv3rr56v2v45bvo1x51e6hb8e10o1k89dp7y3xagj6rqdlkafibib10482soyurtyygyltztwk8fndv0p1kr6zdyo5eol24uoifuae32j0gaihca3hta5q30obupz4yf0qj00vszqe3yzz9md39ionx5gwdmvy9tj8</cfdi_digital_stamp>
+</hash>

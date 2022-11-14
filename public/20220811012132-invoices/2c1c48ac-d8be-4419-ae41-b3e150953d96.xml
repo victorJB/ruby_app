@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>2c1c48ac-d8be-4419-ae41-b3e150953d96</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Ramón Marco Zúñiga Estrada</name>
+    <rfc>PTB860424GKL</rfc>
+  </emitter>
+  <receiver>
+    <name>Nancy Arjona Mineros</name>
+    <rfc>VUJ930704I2B</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">269408</cents>
+    <!-- ISO 4217 -->
+    <currency>RON</currency>
+  </amount>
+  <emitted_at type="date">2020-03-11 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-10-08 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-08-20 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">p4pyx1nnquft8rlookncwfl3oog6v2iqscpik26h4473zbylhzcppkcwpsg7oipkatbqvje6h3v30emxwhpaxwj2dtu3swmxtydxln3tjwgbkh2890rb46s4x55kxgs7dwbjp67l6wgdgdlx5i2sjj20q5k0g8fe6vgiyhj48o25ztxqw2dwqj67410e8n8nzlqnuld1ywh87v5rxie8i98uh2z32g0q0o7aibcaaemuknjabzz2geeyglvec4g</cfdi_digital_stamp>
+</hash>

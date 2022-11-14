@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>90f99324-f7ec-4ab7-8dbd-036e8a20daea</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Matilde Daniela Palacios Silva</name>
+    <rfc>OKL021209WV4</rfc>
+  </emitter>
+  <receiver>
+    <name>Marco Onofre Santos</name>
+    <rfc>HTB7802063Q7</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">77046</cents>
+    <!-- ISO 4217 -->
+    <currency>NPR</currency>
+  </amount>
+  <emitted_at type="date">2022-06-09 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-08-02 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-07-16 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">3tfsw65cw8uowfvsg09i9i1m743j1c4779rnwzv1t7l3uzhl84mnkkki44bvgbjfvogecxh7om205hcl8w8c89somtj7wzlcy5jh2g9e4xqldwwj2y574jxy7nq92pdevaxkv9oq2k45anuklyw9gxshuot6a222wngtsvhrq4b3sj5qfhqdfqm7g3yjjqwmqmni4qefq3gwcslf35vi3xbisi7ohtuiptjvbc7rp0sx85ckgwdcd83vtsi3vay</cfdi_digital_stamp>
+</hash>

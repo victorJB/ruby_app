@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>5bf0d7eb-e24e-4a72-a0cc-5aadb3645897</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Jimena Pedroza Cordero</name>
+    <rfc>NHQ010605WB1</rfc>
+  </emitter>
+  <receiver>
+    <name>Argelia Nohemí Arroyo Maldonado</name>
+    <rfc>XYA780718KQ5</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">396973</cents>
+    <!-- ISO 4217 -->
+    <currency>RUB</currency>
+  </amount>
+  <emitted_at type="date">2022-11-02 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-01-29 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-08-12 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">7uas7kyz6elyu5n444q92yejkze1yvxcfjgnvfkesftvnjufuq716nsz38m2yqd3k6r7sitxosstnjqqqtriekug8z0yuuksgi9oxzuhrm639j2nbcjztl6uowtx4t83lr9tgh57h637n9jsaomv23dstpvlllnhldpryl2g3u4irn8wttt4wuitxv03tfr18hwd9bw8an3qqj761guzqw7kqx23pvb90oc5t5nw2hal4ilaqofwf0iybeokhi3</cfdi_digital_stamp>
+</hash>

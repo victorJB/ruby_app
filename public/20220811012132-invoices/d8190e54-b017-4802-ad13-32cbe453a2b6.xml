@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>d8190e54-b017-4802-ad13-32cbe453a2b6</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Matilde Jezabel Merino Isunza</name>
+    <rfc>AJÑ081119KH8</rfc>
+  </emitter>
+  <receiver>
+    <name>Nicandro Vega Izquierdo</name>
+    <rfc>ZCW031111B37</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">733931</cents>
+    <!-- ISO 4217 -->
+    <currency>SHP</currency>
+  </amount>
+  <emitted_at type="date">2021-06-12 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-12-15 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-06-25 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">fik6er4qfny2pbpdvgilfumvkzmffgpqzwtpdol22xjre3ld79v91c6i0z6vnoy3qf2ui1lq9yq6nbuky4eijn25427zcfa1aayvgkgnqhcftk2fltvmg0kvjtyjdru98d9qf2rq33tbjetw75r0frb5q9nspkrgcqxxsk6stend05rmnuc8ph2x3j5u35o4mhchmjywxjnb5jjpex2ww0tjh8uazgs2x8bpwd4ja9xb3k24bpd07i1k32xqfzi</cfdi_digital_stamp>
+</hash>

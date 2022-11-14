@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>b1ec53a6-ffbe-4eff-8357-19c985d21d10</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Vera Zetina Linares</name>
+    <rfc>HJA150426S7A</rfc>
+  </emitter>
+  <receiver>
+    <name>Ricardo Ibargüengoitia Espino</name>
+    <rfc>BGÑ220419YDI</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">299784</cents>
+    <!-- ISO 4217 -->
+    <currency>HRK</currency>
+  </amount>
+  <emitted_at type="date">2019-08-27 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-01-29 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-03-30 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">1pblaf4wih4mc0utrkm96rn4klr8lq9zu9p4kjmfszx93d0n9a6pnyxq6wfwqip8clx06wkohwb7l94gjgxrhtprf8hh4ehir25mnfllkngwrf7kpc23091xpe4p4xj7llzex5htd7pardhljmy4n5ebpza6mk9l2avo96f601su0n3o1vq8ex1fa4dv6lj0859bquw3aw99emdoxqy5sdbpaolikgo4fe6gbgfspb6qh8kn4mjvf9c7yudmj66</cfdi_digital_stamp>
+</hash>

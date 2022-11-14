@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>b16ec776-49d8-4893-95ab-2057feedec5f</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Feliciano Flores Guevara</name>
+    <rfc>NEV220823XNJ</rfc>
+  </emitter>
+  <receiver>
+    <name>Néstor Arroyo Sifuentes</name>
+    <rfc>OVM881213JXG</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">244271</cents>
+    <!-- ISO 4217 -->
+    <currency>SBD</currency>
+  </amount>
+  <emitted_at type="date">2020-01-28 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-08-20 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-12-24 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">28suxw6udq1d6lql9x4jmzrrgzqpq6j3d17ddvk7r9s8140qzp5k9hf1e7nliqca5xltbxopkinlo83p7trf5hgxockjfhtq30oxfch222idjxngl8lb5zptg3r2d7zbz98m15hkdgupcuspljw9gj91wzmi07clwowpvfzgjk309p6irhqcossyp3yfcu72p5k7rxugfrtqhrlan01jdjwye67ztda8d4dshfeakch5pjd4lb7ztzuxecp0g3y</cfdi_digital_stamp>
+</hash>

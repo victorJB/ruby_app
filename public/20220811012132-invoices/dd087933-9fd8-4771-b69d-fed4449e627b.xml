@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>dd087933-9fd8-4771-b69d-fed4449e627b</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Camila Mondragón Esequiel</name>
+    <rfc>VMQ840319OTX</rfc>
+  </emitter>
+  <receiver>
+    <name>Marlene Sambrano XX</name>
+    <rfc>BRÑ110920YU0</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">61788</cents>
+    <!-- ISO 4217 -->
+    <currency>CVE</currency>
+  </amount>
+  <emitted_at type="date">2018-07-26 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-11-17 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-12-10 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">hwehph9wfxfezhl53e7wn6vxq9vpsraz45c5ukviueje89h9cwsztbk58v6etiz37uffodcm5i2ozjb4ab5kfv0xhighyefiwqhjkmkwgcqwsmx7tknuvjqaaa1xxxtwuqt3un4ite1v1jhc894rhmkvf53uwvyqtvvb52bde7tg0k6iyvrn49uu3exxbyhszyc5x4a9zr5r9ujzb11v5dczejz8p6affp7kzpu5zzrjycthq5jfh11ntu4u1y0</cfdi_digital_stamp>
+</hash>

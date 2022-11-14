@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>2ab4b9e1-a64b-4f61-b64b-3d64fda34462</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Tamara Uzeta Ocampo</name>
+    <rfc>PBU81073034W</rfc>
+  </emitter>
+  <receiver>
+    <name>Otilio Ríos Montes</name>
+    <rfc>GME151231YBT</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">297728</cents>
+    <!-- ISO 4217 -->
+    <currency>KMF</currency>
+  </amount>
+  <emitted_at type="date">2020-02-25 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-08-28 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-09-04 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">kbics16ntmdqznbfi0smge4dpsw5gxz575cezdhn1ji2w133b7ounbri6rb5vnfutntwulk4lzgkssgl70ax8simk5gsx280f2ord2sqtvivm2l0snxa35fu8luc5uaaicv2ia5t43pky7c72i3ozw9ik5dxkcg4vonec1apryp7thdcoo3slikietchq733szjj9y6v2ozerdkfjwo08hp6e4vc1kx9nq7bmpupzxhzp04f99j7cby3glu1mqf</cfdi_digital_stamp>
+</hash>

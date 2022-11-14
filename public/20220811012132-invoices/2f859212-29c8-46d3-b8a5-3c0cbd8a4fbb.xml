@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>2f859212-29c8-46d3-b8a5-3c0cbd8a4fbb</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Eva Carla Mojica Flores</name>
+    <rfc>QG&amp;1607027J5</rfc>
+  </emitter>
+  <receiver>
+    <name>Alba Valdéz Morán</name>
+    <rfc>JSÑ821027CHB</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">883214</cents>
+    <!-- ISO 4217 -->
+    <currency>KRW</currency>
+  </amount>
+  <emitted_at type="date">2019-01-29 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-01-26 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-10-07 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">l6qppi9wjs9sglnjufezc7k325l0myh3sggyr9402w6y4aj0qk0w5yz31ocmnsku2j1cjfsoybm5ckyajzgbccu7jdhsv7f3h92u51ee0qsfql29jh7tua22z61fxs99eekatuhlrtxv4tblqks6s29d20045t70voanips7u403lw0wn9q1aewnfvjs1wg1313ar216or0833my0g9u366i4b6kwayitdey47vt8700cx4lcyeqefawyyq3nfd</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>4982d84d-9027-4354-9cb0-6f4b0f0f49a0</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Daniela Bautista Mota</name>
+    <rfc>OPM9107052WV</rfc>
+  </emitter>
+  <receiver>
+    <name>Fernando Cuauhtemoc Esequiel Lomelí</name>
+    <rfc>FTD901018A6D</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">267706</cents>
+    <!-- ISO 4217 -->
+    <currency>RWF</currency>
+  </amount>
+  <emitted_at type="date">2018-12-27 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-03-11 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-01-28 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">wqvlo12evmbb02b3s3b0fxsf1lfeai5up9uu970uos4wqciv4iekadhgrdzp9erjptmdi1umhca3b6itum6njtolsiwx0d2892segrvto7vr3vynvwpzmgbhh5vwqnpnw854peitn21oxfrj55sdfy2trxr10zkofs50wk62t7t59yn8js1y04bhwpu4ixod75z6anr6wxfxywzqdym57mh65d9faxj1ocgta4bigc14vmhrynmazqp0amu16gq</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>9addd1b3-2ea9-4df7-962f-1478ca78f377</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Eva Malpica Leyva</name>
+    <rfc>ÑSP900928W9R</rfc>
+  </emitter>
+  <receiver>
+    <name>Ignacio Ruiz Rivero</name>
+    <rfc>JBD080615SE3</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">526234</cents>
+    <!-- ISO 4217 -->
+    <currency>XAG</currency>
+  </amount>
+  <emitted_at type="date">2020-12-13 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-01-21 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-12-26 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">ruga534p7mr3wp20cobpiu8sb3eu92l68tjevbg3pjodvk2qks9lmzf80ct37bemhymmjytl1ftmcfvuwfps451gkcu1vkiorwdmzum37y7olpua54sseerd4q4d2y990wros8yszhg094bic2ghblsr3yvprorznro4r75rfsa8bqwkau43d5p3ufuid6oqqjnnisagxeg6xn0ebe4ngy5n6d0swxbl90y8kgdaqrrghixa9vm0qf2hnkfxv2m</cfdi_digital_stamp>
+</hash>

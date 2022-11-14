@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>b18beb19-d5a9-4810-8b30-d4f95a983f13</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Silvia Quintero Quino</name>
+    <rfc>DQT010304Z9M</rfc>
+  </emitter>
+  <receiver>
+    <name>Mónica Alfaro Lomelí</name>
+    <rfc>TZE850902JRW</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">101067</cents>
+    <!-- ISO 4217 -->
+    <currency>AMD</currency>
+  </amount>
+  <emitted_at type="date">2020-07-24 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-07-18 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-11-06 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">khp82j2atz2038n4n3zb1rmeh54nr2dqubbtbr8r33mwnkhb0ro9ebmaaz39dkk2f2magoj5hygws9a56cjirk83qto58k27xovt7hm3h17jt1qzxl3xy2ixnaa73dcl3xqtgmt2776la16vvacvw5vgtbf3l7i9ma25ebvxlwixic1pqwpghc56hid7de2buruzjrfj743zayg4wv7fifl605vijvfe0es7h5em4h6skh8w39j9h94xnoziqz6</cfdi_digital_stamp>
+</hash>

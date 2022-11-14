@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>e3fc9006-7fe3-419a-90e5-83bbf79b9146</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Alondra Vera Dávila Zurita</name>
+    <rfc>QLX180629SI7</rfc>
+  </emitter>
+  <receiver>
+    <name>Aníbal Cervantes Urzúa</name>
+    <rfc>SPL080121WQP</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">870511</cents>
+    <!-- ISO 4217 -->
+    <currency>ETB</currency>
+  </amount>
+  <emitted_at type="date">2021-10-31 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-09-20 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-03-31 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">r3q7d9ml30al58l6g00juqy8po5pyss05jz2zvf79eocqrlpyv0pp8tg8u8i5fivd6h2l0epvpjs34zu9drvxm3f1ccxhd2mp5f9lfbetznw6jwab6yvr4icktvwraxtdhjknp2eemx7qumsc6hniy4ud2okl1aqv8nf97inrbn86wu00jz2n5x5el25p70xt5y6ppkv96nd1dzazw9n4tozrj6b39okauf4117rffpc03rmduxdichkj0wb23z</cfdi_digital_stamp>
+</hash>

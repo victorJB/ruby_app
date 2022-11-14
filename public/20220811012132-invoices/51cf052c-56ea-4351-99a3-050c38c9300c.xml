@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>51cf052c-56ea-4351-99a3-050c38c9300c</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Felipe Nicanor Monroy Mojica</name>
+    <rfc>VTH180107NG9</rfc>
+  </emitter>
+  <receiver>
+    <name>Horacio XX Linares</name>
+    <rfc>SE&amp;2206035SY</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">899776</cents>
+    <!-- ISO 4217 -->
+    <currency>BAM</currency>
+  </amount>
+  <emitted_at type="date">2019-08-16 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-11-24 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-10-28 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">qz1si4gq6d48guvs5i2uumtxsk53mzpjvjj8f8fcqoyfbrigq3rpbyxsv42xcns9if0gb9byjtmlqnuyadzyjnl685dsze11zisa6t1yr3a2ie4rayd0fb9tpirb8p77wh8vqm4schn9bq4052ae6llfihbn4xr2h48fy7ndb4tsrerfte0j9qvv3qw9cinxhfuf3fz9szjficlwr4bguxkjuph1nnhes4fklrl8uarutlxce9gri8oft5dkfve</cfdi_digital_stamp>
+</hash>

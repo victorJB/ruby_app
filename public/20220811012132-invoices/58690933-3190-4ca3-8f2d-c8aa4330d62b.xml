@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>58690933-3190-4ca3-8f2d-c8aa4330d62b</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Rolando Borja Rojas</name>
+    <rfc>WAJ01031787N</rfc>
+  </emitter>
+  <receiver>
+    <name>Sebastián Mario Castañeda Yáñez</name>
+    <rfc>EAS030614CS3</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">604096</cents>
+    <!-- ISO 4217 -->
+    <currency>ANG</currency>
+  </amount>
+  <emitted_at type="date">2018-03-27 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-05-01 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-11-17 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">2ayzcu0ngot1euu1djk96afd12fc7mnngsk50jn4sinn9ioupnh4v0r2q4lq7r0w8me3ifrk3dt8a5dh5jhx24dclf7sbetlq1fm930950z48o9romzqp0zejrktes6c6lfiouy6x8x1av0v5zdl5xxe37md5h0n6roogd8y2jn13de9yuazuf24ug6vm7zaqgq8lxhvrh6pk2p76lpqxfi0e5zw1o7wr2og0zqsd902155l9ka7ew5nk7hn1cg</cfdi_digital_stamp>
+</hash>

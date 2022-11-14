@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>a00b50e8-701c-4d94-9616-799fdce0fbe4</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Igor Pacheco Ojeda</name>
+    <rfc>TED12112747U</rfc>
+  </emitter>
+  <receiver>
+    <name>Georgina Maldonado Zepeda</name>
+    <rfc>WZA730318FRL</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">345224</cents>
+    <!-- ISO 4217 -->
+    <currency>XOF</currency>
+  </amount>
+  <emitted_at type="date">2018-04-24 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-02-04 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-02-07 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">el48ot0dkcs42vx4vg4uz17jzo03909i1zswn4vnp6luxfg0on9te4r7c8xz11y9m81kxu7j5tb6t70qjxobn0u0ififenqil1oxkeq7ikao0hyh4ue136qu0nlo6mbmnhh1rlxgfk3va4i0gpbt3hjss5634imklf3zqfntdcafkpkygryooa6ud1ylnpjo6w95a5006iyev729dcwci8510atttfj5vf5ami5bla12bb2c4mcsp1suvmxy6lt</cfdi_digital_stamp>
+</hash>

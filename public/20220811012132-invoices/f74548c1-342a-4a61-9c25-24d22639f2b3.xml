@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>f74548c1-342a-4a61-9c25-24d22639f2b3</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Heidi Zamorano Millán</name>
+    <rfc>YLH170106DJZ</rfc>
+  </emitter>
+  <receiver>
+    <name>David Fierro Naranjo</name>
+    <rfc>QXZ8209159XY</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">403796</cents>
+    <!-- ISO 4217 -->
+    <currency>INR</currency>
+  </amount>
+  <emitted_at type="date">2019-10-16 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-10-26 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-02-03 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">wj2dlmgm7cnufflaggxcbu7z4ou8uvt6k7vxwp8o70jntpxytbt5kbyy5fmx0p57jhbv01qr2lk91ey4wvsytuvnecw8gkyiev8dk6jpd3svtmo78yfc7li7o8ty9wjioxvph6v2h255i12rjxunynqretryz8evfkqeaqfxv8jnizfs1wgznpgoymgfsw0bxtpfuwg8jrs8vvqmlcc6a3pvo39n602lxbhrlmo1yoyi4qn0e0n7p8wmdbkiuef</cfdi_digital_stamp>
+</hash>

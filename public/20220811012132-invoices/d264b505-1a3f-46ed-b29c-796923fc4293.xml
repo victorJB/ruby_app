@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>d264b505-1a3f-46ed-b29c-796923fc4293</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Rita Campos Paredes</name>
+    <rfc>NEP960523CDM</rfc>
+  </emitter>
+  <receiver>
+    <name>Ana Roque Guerrero</name>
+    <rfc>UKO150201RDU</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">528223</cents>
+    <!-- ISO 4217 -->
+    <currency>CHF</currency>
+  </amount>
+  <emitted_at type="date">2021-01-23 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-07-14 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-05-04 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">cqk37geatastuoz1tk9nowfz9scxlfxplzuahm8xrnt0ck9ni5iie8hmtp1t1vzvrv6ewdd8qtikmd99qr6161ds9wumhl5q9nmkwfllkj00b2ht0jubtihqjao9i81orqt93ct4fwx5p2j141wqlfrf279qnsbp6hqqrsysuy8gbqkejjpq4ldl2aq6o7k8nczimqsufyyr352aok9315y5ainxuzpolqc78t7xhof4ebptsezi143cq11wmej</cfdi_digital_stamp>
+</hash>

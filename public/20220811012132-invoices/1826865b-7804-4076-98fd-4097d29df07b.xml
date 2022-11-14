@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>1826865b-7804-4076-98fd-4097d29df07b</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Fidel Muñoz Guevara</name>
+    <rfc>YPI970920YOJ</rfc>
+  </emitter>
+  <receiver>
+    <name>Mayra Cervantes Figueroa</name>
+    <rfc>PUD0201103FD</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">838944</cents>
+    <!-- ISO 4217 -->
+    <currency>XBA</currency>
+  </amount>
+  <emitted_at type="date">2021-08-09 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-10-10 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-01-30 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">d4q4e7cwpby3j05fbcmpmjiyi4uqne01hlbuz4futr157yl8cn53cqfnbp2bef0k3lypphyooth4s7psmilsitt89tv7jfz8z6s4keie7wzc2z050jnohggo5ly7ewc3xetojegzxjxxgjlvnwgqkqojtd3we17rhb8op9653c18vygqgzx9wadtizy1e3aa8dl9ofdewb8311x4wlj2qedi9hyitlwukhhvggobtulom6jcecg0cv6zkaple8d</cfdi_digital_stamp>
+</hash>

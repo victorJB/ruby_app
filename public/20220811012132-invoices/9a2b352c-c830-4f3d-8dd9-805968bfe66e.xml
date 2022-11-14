@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>9a2b352c-c830-4f3d-8dd9-805968bfe66e</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Ariel Fernández Pacheco</name>
+    <rfc>HRA730124031</rfc>
+  </emitter>
+  <receiver>
+    <name>Samuel Gil Patiño</name>
+    <rfc>BJÑ120909F3P</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">135310</cents>
+    <!-- ISO 4217 -->
+    <currency>MVR</currency>
+  </amount>
+  <emitted_at type="date">2018-02-27 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-09-04 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-03-04 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">2pfbmnpusto9082h10tm90dgo49neqy9912ttlbmlunb0lxxmzyf1o887xutxtnymg1xfbyl2diu0cvh6f9j5sg66jmaksrsqc5st64900mnxsdc9sy33fp4zo77mvugnnpvlovyp2jan1qz7coif1568txrgmkn2xst2f09h4br5kq7q1peltcjvxm96agvtytmenvtq91nrb5rrola3gcr8ffzg6mojaaljsylbciw36c0shw1uwopjfdy4oc</cfdi_digital_stamp>
+</hash>

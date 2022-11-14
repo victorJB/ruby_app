@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>d328a99b-3a1f-43cc-b2b7-774f4b147ab7</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Ezequiel Iturbide Ballina</name>
+    <rfc>YRE810413TC0</rfc>
+  </emitter>
+  <receiver>
+    <name>Leonardo Fuertes Rosales</name>
+    <rfc>VKW900501ADN</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">23375</cents>
+    <!-- ISO 4217 -->
+    <currency>LTL</currency>
+  </amount>
+  <emitted_at type="date">2022-01-19 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-11-04 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-08-19 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">5mjffkjy79yh7ox1n3c14qzz3xyawmfcd7sgjel9jdn53cg2x1zzeyp9yg25m7indrk5wc5ti3ccg0ezg5ts2nfmm6mjp5uq7od8g6tmwa9ml4u1nyr1l4lilc27r2m0c8utijugv7brvl2odoroez9753amk58gmm3oua8dnlhmue09ywwdi58cd4ijg46unp42t3ut4q0wxijd0janainkpyof3a0wvxj6o0hqn8n4x32419y7761cks81zli</cfdi_digital_stamp>
+</hash>

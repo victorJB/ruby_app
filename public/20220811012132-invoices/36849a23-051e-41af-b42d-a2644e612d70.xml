@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>36849a23-051e-41af-b42d-a2644e612d70</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Rigoberto Simón Borja Sambrano</name>
+    <rfc>HCY850511QUC</rfc>
+  </emitter>
+  <receiver>
+    <name>Margarita Duarte Alanís</name>
+    <rfc>XBM760406S4C</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">160722</cents>
+    <!-- ISO 4217 -->
+    <currency>BAM</currency>
+  </amount>
+  <emitted_at type="date">2018-08-02 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-06-08 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-07-09 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">h7elsqeq7o6ya61sdsrzjhjg4fmmx4tsvptyahyol4oaygeb0sbjey6mra9lwadeokeqernc5wh922f9nrjvutelu9jb5tadgzw9rh6nha6ceb6srnp231ealt23vw9lwksq4md6n1dgfsgen136ee3csln8uzqyx2jrgwd42d8rvn9irggbi081mg0wrpncjmfqa3fab9cjoynfciobzvddjlm6vvthq7scao8x618xho6fetswwl90s4poqmm</cfdi_digital_stamp>
+</hash>

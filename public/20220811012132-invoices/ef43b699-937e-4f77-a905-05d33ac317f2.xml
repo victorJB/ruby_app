@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>ef43b699-937e-4f77-a905-05d33ac317f2</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Wilfredo Yordi Jeréz Miranda</name>
+    <rfc>H&amp;S000617UOQ</rfc>
+  </emitter>
+  <receiver>
+    <name>Rafael Muñoz Suárez</name>
+    <rfc>MJ&amp;8803268B5</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">125252</cents>
+    <!-- ISO 4217 -->
+    <currency>ETB</currency>
+  </amount>
+  <emitted_at type="date">2021-09-22 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-04-10 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-03-08 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">8hpe4bz4mv558rmpj52ms1k4pvmg13qrin65tr3jgdm385pt2bu6kusd6mfot346lmkq6zi3tyqqgig6g4ovl152wtu9qtyz0eazxowouk0q80pbli30dufa4jjs0z2s8nndxu0p3m7nzkn6ifun4p0klrwtlv87du7c3a5pb1rgw6be9js9cfqd2cithn6igh0tt6g7cdl1hr9z14aykfevc25gomv8c0vaalhoafjq0xem1wwi8g0auhsgq4h</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>f106b9a2-e3f2-48da-b89b-f3fba93769d9</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Ana Karrer Osio</name>
+    <rfc>KYN751031P8N</rfc>
+  </emitter>
+  <receiver>
+    <name>Fabricio Roger Paz Vergara</name>
+    <rfc>TDV870111KH7</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">177</cents>
+    <!-- ISO 4217 -->
+    <currency>SYP</currency>
+  </amount>
+  <emitted_at type="date">2021-02-09 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-09-19 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-11-23 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">bjreav7zgda62iz29f89r9c4owguei0d3yuttb9hir6wope9yxixg3gjjpsc3bpdi8lm5u67w3iwm8yw5480ld6ipggzy5ok45c3cf8jok4tilre1s551e9ktmwzhbzswja5698n57kkw03v5j0mv7c0l45uc9rms6zs1btuw77148rxxc52wff0orab5yxpgj6wkre1urc5vkjutzhy216nr2wl5auxdh61rc0j98fcgtvivmb18dyc8926v58</cfdi_digital_stamp>
+</hash>

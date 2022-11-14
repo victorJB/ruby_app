@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>a2df20b4-7cbe-4ad9-a05e-7fd7f0320e3c</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Teodoro Rojas Fuentes</name>
+    <rfc>LÑY1306124Q2</rfc>
+  </emitter>
+  <receiver>
+    <name>Benjamin Izquierdo Navarrete</name>
+    <rfc>OHR820921WIC</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">768017</cents>
+    <!-- ISO 4217 -->
+    <currency>CZK</currency>
+  </amount>
+  <emitted_at type="date">2018-08-09 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-06-21 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-02-19 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">8cv954e2ox5izeupptxym4s5gk2eujrbla2wjhlvy9aho6m23fetifalq7i1no74tl8bdilmiomqtqdhyy01zudou7okyj7vc16ac5al3lp1fdzyg7v7sttdhtst7ikq7g6puv6jmkv5z0epfr6ufjoarywavab5hlgpw7ym1sykl4uztdhyg3z3pp7kldggwjefs5onmgiaylzxndywup4piy2aqv4gq4ws3ghqggcl4az4l3iik3ke2ksdtd9</cfdi_digital_stamp>
+</hash>

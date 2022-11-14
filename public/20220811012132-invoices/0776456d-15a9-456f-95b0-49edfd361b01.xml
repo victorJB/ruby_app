@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>0776456d-15a9-456f-95b0-49edfd361b01</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Elsa Quino Yáñez</name>
+    <rfc>YFM000208YDT</rfc>
+  </emitter>
+  <receiver>
+    <name>Isidro Alvarado Zurita</name>
+    <rfc>CPO940621E1Z</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">626089</cents>
+    <!-- ISO 4217 -->
+    <currency>TZS</currency>
+  </amount>
+  <emitted_at type="date">2019-10-26 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-11-03 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-10-11 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">7qvz4shkc7btdhs0pdswd1et34n6d7m1645mfr16slgdhaeaoh9alefbi21ynh7zlo8qw5cj54ksjpvab9nbubj37qyke0ca2w3807v176xqoir6nxvpobfrddd7tvz66c14d71u07ti1hzzabsxz9b8chwfrhl9e32lg3kcihy3ft8t56tz7ohfx5yvezsinib94j7bt653ljvafno1mkkn4tsutx181rtq814ppulsmujesbcf6rm918fpdno</cfdi_digital_stamp>
+</hash>

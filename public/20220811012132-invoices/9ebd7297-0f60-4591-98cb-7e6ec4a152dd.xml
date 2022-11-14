@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>9ebd7297-0f60-4591-98cb-7e6ec4a152dd</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Eugenio Anselmo Álvarez García</name>
+    <rfc>JSG130318AT9</rfc>
+  </emitter>
+  <receiver>
+    <name>Abril Rosado Mineros</name>
+    <rfc>WDM970608N3G</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">482792</cents>
+    <!-- ISO 4217 -->
+    <currency>CNY</currency>
+  </amount>
+  <emitted_at type="date">2021-02-25 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-10-26 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-07-27 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">qon1qj3fhhp3d1ikykmyitv3y5zhaaut0x188ga0xsogjbj2v6022qe6bczgutlt37nxtqo7n2js2d1ot3o93zz8xmhh6i42zr539b7xlwovhpvf265bza90ougl6gag3dxl41u449pj8h5yj1epzwdhjkunzpqbxfo3ogs766gdvtuplw51dgmz959mpqmqv81jvai7acwbpjtpi5v6awhis3ygu27r8xfkmom7itlmua0hakal86kglbmwfsx</cfdi_digital_stamp>
+</hash>

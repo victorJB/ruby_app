@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>9649d748-3ce9-4502-b442-42d2c7b23569</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Rafael Batista Graciado</name>
+    <rfc>K&amp;B990705EM6</rfc>
+  </emitter>
+  <receiver>
+    <name>Daniela Guadalup Ortíz Bobadilla</name>
+    <rfc>VRG731022F1L</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">604457</cents>
+    <!-- ISO 4217 -->
+    <currency>UZS</currency>
+  </amount>
+  <emitted_at type="date">2021-10-26 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-12-08 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-02-06 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">3ux1owvrk9qf46gz48i6dgk6kdsjgh0ujxuqxiwd06bbpccu0asbgb8tymg4gzwqfkayspacao55udkoh42hfhx4oci6qfwvt1u6ni6fvluto78s5rc15dohmwewouoixm5n0lkmobfxnfr8zwqehzs8lhovgrotvm7y55eo6lbx99pm04sbd88d4652ncoi6pdi147o51t3bwe0ezkhfib5jbavz5zjcmvdfbcd9jzt5zbqjqlc6v8jz0lpbfw</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>e8177c71-2688-43f6-bf3f-b736fd5677c5</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Israel Quintal Martínez</name>
+    <rfc>ÑWB990104WM2</rfc>
+  </emitter>
+  <receiver>
+    <name>Daniel Arquímides Domínguez Márquez</name>
+    <rfc>LEW001104ETC</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">819915</cents>
+    <!-- ISO 4217 -->
+    <currency>CRC</currency>
+  </amount>
+  <emitted_at type="date">2018-01-04 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-10-11 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-11-19 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">roq3lq03z7s0syuqsfq9km27mnspfk87fzdn2v39z1hxp0a0dihkw4hm71unn1g0ljlwoiii1u66m1p5qiddm1uzviw8xq609zrekemtlm5ssqgujtwgo8r1n5og9keo0u3ly764ge98c8kl107g13ypp7za0t2zcdua9b9w7ty5l1n1csoaz1g21eg47pcxqkj47fudj8fxst1wmvfib7w6wkgo95qu7c49nozcx924vgymk4fjxgwhniw1ku3</cfdi_digital_stamp>
+</hash>

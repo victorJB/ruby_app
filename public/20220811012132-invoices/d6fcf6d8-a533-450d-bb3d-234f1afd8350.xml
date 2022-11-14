@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>d6fcf6d8-a533-450d-bb3d-234f1afd8350</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Sebastián Alanís Velenzuela</name>
+    <rfc>YQZ8102047ZY</rfc>
+  </emitter>
+  <receiver>
+    <name>Leonardo Gazcón Loera</name>
+    <rfc>UB&amp;780330FNW</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">79302</cents>
+    <!-- ISO 4217 -->
+    <currency>BWP</currency>
+  </amount>
+  <emitted_at type="date">2021-09-14 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-05-15 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-02-07 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">1oleti2uaw3v68qoyr1c3g85xvo37ure7h0teq7gt3aglse064ykkbdk2lfrvw4p3l5dal8xdr8x5fyx7x9vs6ti4xoz1fwehoonqkhbsygu87ofod8fxg1v2yfn9o11toa08ugnx8doxsraic828ptxhpz9bmijdhjb5f03464wremo0xwqoi1z2rxir829jpka4inr4k5i826gvrcxgznaaqrtinvmoh8hjsaz0hswg6gasdy543rawunx477</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>75f888f4-6e79-47e7-95e6-df2d6da4b163</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Lino Huerta Sosa</name>
+    <rfc>ZEÑ860813Z8C</rfc>
+  </emitter>
+  <receiver>
+    <name>Perla Mujica Reza</name>
+    <rfc>ZMV9712195PZ</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">782350</cents>
+    <!-- ISO 4217 -->
+    <currency>XAF</currency>
+  </amount>
+  <emitted_at type="date">2021-02-18 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-09-21 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-07-05 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">jiq5gankhs0zmhjww308p686dynra3lj37stm43g613liy4tco3qn7hgg4f9lp2kvnj6fylzzxywxtmq6gkrhm88w5ne6cmaxciintszgj8kwvrkka6gkt3wp40yh78jk1phrixt290oge738hsr77mou9llr7vcapix4suy7bg1gh3y7dvvx99qyedcidmk9r8e3u3zvnumb2t5gk6rlsalj6rydaj664gs0rmmj22plwfbyjtk2k85x6jz2s0</cfdi_digital_stamp>
+</hash>

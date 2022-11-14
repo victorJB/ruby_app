@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>857406a4-afb3-45ba-b373-027aaef753da</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Joaquín Fausto Machuca Valdivia</name>
+    <rfc>ZVL20071361V</rfc>
+  </emitter>
+  <receiver>
+    <name>Patricio Domínguez Barrientos</name>
+    <rfc>DMQ780726CIQ</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">15270</cents>
+    <!-- ISO 4217 -->
+    <currency>XAG</currency>
+  </amount>
+  <emitted_at type="date">2020-02-06 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-10-03 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-11-16 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">5hotef4f7ujyzexzlluzq4gabidyssoibiscsr7t2k9z7pmg61ldex6g7k6vjvxwfu3bzy4l1c8lbislfckehtdt8fzsj9ixdl8t579squxunylhk4se5d79tqxzkpxxog6lr4u73x7dcbt01n25n66qe58ovjowkpyv5xt3a0ai16yj563jacsqlv2q3qeavsxz8ffx93z77hj1xd6ax6yia6aa6v8ns5htbmdisl3lfkn9sl5m8d1vogujzbs</cfdi_digital_stamp>
+</hash>

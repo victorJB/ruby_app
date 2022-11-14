@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>f7414faf-0166-4a75-960d-b269cca47dd1</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Margo Olga Carmona Castañeda</name>
+    <rfc>LCS950411S37</rfc>
+  </emitter>
+  <receiver>
+    <name>Domingo Víctor Rodríguez Tolentino</name>
+    <rfc>SUP840315PFA</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">933568</cents>
+    <!-- ISO 4217 -->
+    <currency>ETB</currency>
+  </amount>
+  <emitted_at type="date">2018-07-12 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-03-12 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-04-20 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">zfti3ouigkq5vw92csi0xd5yfxbbx2fnswlbwfscjzsasth4z8umn90dojnx5444yszsq4iqbndklu7jn7fyhngontg8qruqc4n6m2rvtj4wm2iukau5e1q4wwfew35xiad42pk37q8moppdb91e1bh65yyrfnluovr0cuohi7y78u169pj4a3ba9wwa16940f3ycahabnru6nsw8c8n17ab2a8f4b7epp60wletr11zf2mbmiuef674ae5ax3w</cfdi_digital_stamp>
+</hash>

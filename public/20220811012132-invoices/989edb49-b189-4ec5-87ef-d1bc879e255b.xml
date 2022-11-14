@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>989edb49-b189-4ec5-87ef-d1bc879e255b</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Homero Holbein Ponce</name>
+    <rfc>FJR840119MNI</rfc>
+  </emitter>
+  <receiver>
+    <name>Ubaldo Ramírez Franco</name>
+    <rfc>T&amp;S07050246Y</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">539079</cents>
+    <!-- ISO 4217 -->
+    <currency>TTD</currency>
+  </amount>
+  <emitted_at type="date">2018-11-04 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-01-17 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-12-18 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">fqo0rvy6ep5djqjnetuywton9o28ztasjb5zqijgdzek7di5lh198h2sgwip8smc0f4z7hvlafxjynretwwslvgimdj9abit2dd08vafikvla7ovu94q3jwwfxa5ap4934c4moenq6pz2li1mh1erz3a82iinuothe7770efgx728n61y9g2zgw618n6t50ivyi1cz6kvkw80kfbfgl0v17trgs0vfhq2am6qo8b7q1jpxalrlvgrxgfvzzo53o</cfdi_digital_stamp>
+</hash>

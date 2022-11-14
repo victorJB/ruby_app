@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>cc55520a-5170-47db-b566-6e77d1ad795f</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Rita Rivera Merino</name>
+    <rfc>IWF761202ITO</rfc>
+  </emitter>
+  <receiver>
+    <name>Víctor Zúñiga Colín</name>
+    <rfc>PQD170318T4U</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">933304</cents>
+    <!-- ISO 4217 -->
+    <currency>ERN</currency>
+  </amount>
+  <emitted_at type="date">2020-05-08 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-12-08 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-04-15 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">mp25v74r02h8c29d2td46cykzam4viw19270kwv681pcolwvrtc4txm3yy0fl9ie3yd8gnheojg4done0hehwbh2y1ir2xztz9fhy04k6kv8kf2a0sm0b1lg6xdhxx8nvg2hkzfg3huv760e4dibfjsj95cem9fubw9rkp9c6fzn0ur55u34uejbwhhcwrbalymnw2ring0672t07vefzokqf3kgl7oweo2ur0l94c21osi2lpcfx35bcocnc5v</cfdi_digital_stamp>
+</hash>

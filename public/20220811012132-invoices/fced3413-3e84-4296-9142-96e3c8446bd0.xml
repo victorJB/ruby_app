@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>fced3413-3e84-4296-9142-96e3c8446bd0</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Olivia León Osio</name>
+    <rfc>DRW201001ANT</rfc>
+  </emitter>
+  <receiver>
+    <name>Elvis Gallegos Pavón</name>
+    <rfc>MWT821004QJY</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">720086</cents>
+    <!-- ISO 4217 -->
+    <currency>BRL</currency>
+  </amount>
+  <emitted_at type="date">2019-03-09 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-10-05 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-05-21 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">v64yh8c0awvm0xdcwndprcd4zvixn4w1lk2gn1ek0fivvquenddrz87ujzcmalykfp6zr4oj4br7dxsi9mieynsxs2qypa3odp6z75zirbd37g9tgo4tuo8mfy5e44tdw3rajb9359jxhijz01486v2lztntsaiq040cd04n58uatapcxb7x3g82nd7dlfyavzc16a0pu8lbu1rsi6gtinxhrmx4kwt9eovtt9kqq432fgoa51kr4uxzx3tyrz2</cfdi_digital_stamp>
+</hash>

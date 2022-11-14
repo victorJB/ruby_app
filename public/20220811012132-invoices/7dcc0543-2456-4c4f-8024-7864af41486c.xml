@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>7dcc0543-2456-4c4f-8024-7864af41486c</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Felipe Velenzuela Colín</name>
+    <rfc>NKZ950208YX8</rfc>
+  </emitter>
+  <receiver>
+    <name>Brianda Selene Nieblas Higuera</name>
+    <rfc>EAI1406056NX</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">474668</cents>
+    <!-- ISO 4217 -->
+    <currency>SEK</currency>
+  </amount>
+  <emitted_at type="date">2018-03-10 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-12-06 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-06-27 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">eb9j8fmhhnn7vpt9oi9mgc96ygkhruddic0kbu2uk98nldkw90ntt97k9ksms0g0lp7k5fhomnq4euyztg6gp1mn0fq07hedum7sinax0nh3ddl8co4ca9g62ajamipr8rmdvarekd7mx3ysebzz1rm240p181pqcucx756lntkznysrbzqiug58x6px3kcwrtxyus8y1qwgxm85eqo7iddconpk2q4qut3yly95bs1zqocwi35e7unf8zg0yp9</cfdi_digital_stamp>
+</hash>

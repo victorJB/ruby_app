@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>9b598281-459d-4aca-9dae-df456f76fc3b</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Auréa Sandra Ladrón Román</name>
+    <rfc>VCQ050307IW7</rfc>
+  </emitter>
+  <receiver>
+    <name>Marcel Echeverría Jasso</name>
+    <rfc>OWM8002200TN</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">234225</cents>
+    <!-- ISO 4217 -->
+    <currency>KWD</currency>
+  </amount>
+  <emitted_at type="date">2019-03-08 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-10-02 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-04-19 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">npjb773t4c271y4rnpvmivyki0n7k26budilshld0m0sio87r402s5hnp7dv4t89nsp7uiobby7ejgn5ssvbkbaeh1xtet82ww49s81t3nyrsaia5bpp664ziyu62f6mfy78rowzy5qrmd974hgqkz319vdznrf8tx0jm3deukmmbhpzmjbpbbdllpqrtfsgap3t1ydy0byofwc1kmd8gli71pplsx4865l9k4qqy3mwy0bn67o241kaspb4kov</cfdi_digital_stamp>
+</hash>

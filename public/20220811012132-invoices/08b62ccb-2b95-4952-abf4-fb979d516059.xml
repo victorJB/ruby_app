@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>08b62ccb-2b95-4952-abf4-fb979d516059</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Ricardo Jaramillo Salinas</name>
+    <rfc>H&amp;A800423YQK</rfc>
+  </emitter>
+  <receiver>
+    <name>Viridiana Acosta Robles</name>
+    <rfc>PÑS831229M2V</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">611003</cents>
+    <!-- ISO 4217 -->
+    <currency>QAR</currency>
+  </amount>
+  <emitted_at type="date">2021-03-17 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-07-01 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-03-14 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">vffz0a81haph21kv6dwnexpkkqrppgvygk6t0ev99gzr552o0f65apkd8tucxbv6vty2p305xma743pdvwf5qp84dts5bmlk8a03q6l9z1pn0xi411k6rkxr73lpcwqw5ygyhl4e3oht0f3ezxrfoqg39315fsbmue6jhsftp9pok516kv1035qq6v8vgmxtl0tjm425tjnko2vb2o3es6bejjryjpt0zozah4npb28wya58w4lhmqaehvufjwi</cfdi_digital_stamp>
+</hash>

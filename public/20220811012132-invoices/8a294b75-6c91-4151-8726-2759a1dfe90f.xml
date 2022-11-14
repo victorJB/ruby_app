@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>8a294b75-6c91-4151-8726-2759a1dfe90f</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Fermín Homero Viloria Hidalgo</name>
+    <rfc>QVZ011004QVJ</rfc>
+  </emitter>
+  <receiver>
+    <name>Leonardo Lucio Nava</name>
+    <rfc>WEK710426PE5</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">52465</cents>
+    <!-- ISO 4217 -->
+    <currency>XAF</currency>
+  </amount>
+  <emitted_at type="date">2019-05-06 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-07-20 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-12-02 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">mtr25unl5zr59dlpsoc9xpdtk59u5e2pickxrpk4hqtn1v2529gj1fho56e834p7dbbidc4hb92ggjkuiwxwqvsn86z9wwq5fny9cnyokbzkc6f11k57zh9xvulph8nuuvs4c5nmm2iy92oubr0ucatd3x9awj1ularyo8amqawhppnne2mgc95jv9p1e1v559zqyphehpiip61i4xz50wm2jbs0ztjci0z4f6shuyj0xyn1gfvwdiopeu0z9b0</cfdi_digital_stamp>
+</hash>

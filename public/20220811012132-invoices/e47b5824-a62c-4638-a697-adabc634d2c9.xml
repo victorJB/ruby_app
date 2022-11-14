@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>e47b5824-a62c-4638-a697-adabc634d2c9</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Emilio Samuel Palomares Iturbide</name>
+    <rfc>ORG050415M9A</rfc>
+  </emitter>
+  <receiver>
+    <name>Marvin Palacios Mafún</name>
+    <rfc>WKG870127AFS</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">92467</cents>
+    <!-- ISO 4217 -->
+    <currency>ZAR</currency>
+  </amount>
+  <emitted_at type="date">2021-05-16 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-06-29 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-07-20 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">qr3bhkldj28a4gsgzmhdc69ua0hop3ukqn2bjf6k81d0shu6qp04gw45v31q7c4x5ekbrv8yi2gli3c3oc4e3wkbm0nwk4c1eonij629m97wy6161povkya59kcxis438coomotkkzxy24ujuvg7up1vf53fseh0pnyf0503s64034j4jeca2k0k4i4i3j03azs86713t6j6ooki555jaah0zgzyj61u8x6dhktfx3c8xhdbzocro5y9itzxed7</cfdi_digital_stamp>
+</hash>

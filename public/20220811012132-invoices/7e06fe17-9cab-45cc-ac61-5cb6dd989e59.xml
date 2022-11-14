@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>7e06fe17-9cab-45cc-ac61-5cb6dd989e59</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Obdulia Krazowski Reynaga</name>
+    <rfc>EFB721201NYL</rfc>
+  </emitter>
+  <receiver>
+    <name>Vicente Efraín Peñaloza Ibarra</name>
+    <rfc>WLT7111027I9</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">898641</cents>
+    <!-- ISO 4217 -->
+    <currency>HKD</currency>
+  </amount>
+  <emitted_at type="date">2021-01-27 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-07-01 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-05-15 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">tivvwo5anazzng43qznfezce0gs7w4j0smti20s5qqnmd7imahmrh7532a7n7tcjl8p0i694sd2g7vvww7yxk8or162t8pr0iw4rj6jru05165y0m59aa69vrqwyfwriie6pln6u3g9x5p0xvh5asj618jp0dt9oj413ewxemzcwg7hun07mui90clurbt6d68cpbkoh4ixoj29kx64u9x11n3gi2b2ibu46kql8y3sxnclc8cfyscwikqo9jl1</cfdi_digital_stamp>
+</hash>

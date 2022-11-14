@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>6666fdf2-9d69-4d43-8c0b-525051047bfb</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Eunice Ingrid Luis Tapia</name>
+    <rfc>ÑER7407212DS</rfc>
+  </emitter>
+  <receiver>
+    <name>Temístocles Naranjo Sosa</name>
+    <rfc>FSK730217DXJ</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">899838</cents>
+    <!-- ISO 4217 -->
+    <currency>BAM</currency>
+  </amount>
+  <emitted_at type="date">2022-09-08 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-10-13 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-12-11 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">j8xq2svdvhcbwmybb5mqo2r9f253gu28bih3auid0lghfmjcsvdwwdbyvxumly6zctol2z3t4bnhyktamcxiod81lkhaz0o9exhvati37tlgygj4d01cdvlaczu6yd23qu631pfkolc7rkb4xte35rrwx8fgw4j3ddk1sj7kxaawlnl2mjjszqvxqsi34bfd0sqn49nllvnoxs83571l58p15ydnt1gsc8pky26nmn5i8yyydqmgltmu27n168m</cfdi_digital_stamp>
+</hash>

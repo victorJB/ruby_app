@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>f38e2fb9-8e64-4b8d-a031-5e157ccc9ee3</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Edith Garcez Mota</name>
+    <rfc>M&amp;D941121LJY</rfc>
+  </emitter>
+  <receiver>
+    <name>Alfonso López Mosqueda</name>
+    <rfc>FEB780411HO9</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">398662</cents>
+    <!-- ISO 4217 -->
+    <currency>UGX</currency>
+  </amount>
+  <emitted_at type="date">2020-11-17 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-01-30 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-09-27 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">7taww8texx1ikk8kr4c0mo94hmihgpz7tuhqsnyyzal4dfoagxs1pv8mh3wz6zanu76idoqj7l7ark2bgn9cntx4gelj1cicapcaui8tvjvafe5wj5g3lpla30yp41xkv133c5kp7jvn9wx08t9c3yjmrch7tnx8qusv123kot69vcgqugv6whqdavp3assmugzf7c2k5tknc6j5mo4alggg82p7s895ka4bg4tu94fxullwkkl3r493tqo5jkm</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>bef235b9-3265-4451-af76-1a43de4d2621</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Diego García Villa</name>
+    <rfc>ÑJP000305ZC1</rfc>
+  </emitter>
+  <receiver>
+    <name>Zoé Ladrón Lucio</name>
+    <rfc>LIC780928TU6</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">714757</cents>
+    <!-- ISO 4217 -->
+    <currency>FJD</currency>
+  </amount>
+  <emitted_at type="date">2021-06-10 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-07-15 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-01-11 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">nrxbm6jsdg6sckae3c6f1klzi8imu0nbtwp3nuqnixmcde04fz4zwrs27j550bp9tvmtvl9cwtxxt742bdplvusivc9vi5a134qkmtowqxf8m0uaz8mgw5080sn4vyj85zfrle6km100uprxazh0i4qw9zx96uj14kyck53iqicw89a2obd7noxg1vk5dle3yel1ww5zxk65hzwq8ys2wpgcoacen9l0i5yrdq82htjwprxez5nalhlvwz72v7w</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>5069e601-9185-4075-86d9-4f4a1d0ae713</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Olaf Escobedo Muñoz</name>
+    <rfc>DXV070801ESC</rfc>
+  </emitter>
+  <receiver>
+    <name>Armando Mena Canales</name>
+    <rfc>RZW190411L9K</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">40680</cents>
+    <!-- ISO 4217 -->
+    <currency>NIO</currency>
+  </amount>
+  <emitted_at type="date">2021-12-03 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-09-29 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-07-13 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">9ator6oorswa26vbsxjv44l5c7ux3xevjtm8exsm65bv6u9g13mpkfowx8lgk47fx94eo8p9n6wbtschfmwanzkdqz4h0wxk1vvwhhw5tyoiu2iyjjbnnmd40ht4x6czavm2ftqdk3yxsg7n8b8nax5athogkmij67mkdtmnyts02du9lmmmg3hf8oznok91crbmfchgjuwd7oz7xdi9zim3p37axzdotoavi1mbnbrtlpjrm6b95c6jd9coh6q</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>79b47f3c-24df-44e8-a74d-c7169d763fc8</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Aidé Ramírez De</name>
+    <rfc>YQJ761029KUT</rfc>
+  </emitter>
+  <receiver>
+    <name>Ricardo Patrón Bobadilla</name>
+    <rfc>WÑE860612UQT</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">341596</cents>
+    <!-- ISO 4217 -->
+    <currency>EUR</currency>
+  </amount>
+  <emitted_at type="date">2019-03-15 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-03-09 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-05-28 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">gzisy57nif4swbss5ltmi3u8albg1wy0b0bm7j3l239cw67rmfsb1fdugcv2eql5x595z80nlzvmw1qsoitmxj9fnkzksxkd2mo76nmb1vw6osxuq3y7r3eb0l6rq54so9oupk6w37jb4uukh3sngwo25zuvy3oz39hhqktflc270l2w656y06auksoxp8iivb8r0wuw25g3p56vysmo4w2bwrkvo9tqx8utjn94bzqsqlel9ut54tcoufet9wr</cfdi_digital_stamp>
+</hash>

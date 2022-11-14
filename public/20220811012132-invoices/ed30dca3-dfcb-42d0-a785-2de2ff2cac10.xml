@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>ed30dca3-dfcb-42d0-a785-2de2ff2cac10</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Marcelo Calderón Alfaro</name>
+    <rfc>XLH95122964E</rfc>
+  </emitter>
+  <receiver>
+    <name>Rubén Ávila Rueda</name>
+    <rfc>KWB960806P28</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">878610</cents>
+    <!-- ISO 4217 -->
+    <currency>LRD</currency>
+  </amount>
+  <emitted_at type="date">2019-08-03 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-05-12 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-07-01 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">j1hlceargbm9yyd6zozg8tzf4viiakh0waf7aoy5sn7jhfpoaj422oavwrtcldn1qya4qmdpuu2tv3vuxbde8dzn12kfsik0ww6xidlk10q5fwph8xvu6k5j93shhd3z9hs0j2z4t4y75ld0puj83aaj59px61zsx6o19499g8y3fgs91hygddzjxpmb0frdugjd7thzd3hqi36mcj3uahsnqglkhuvgtvicwy7e9v1wcuuvr0ac0tbxrgeyjs2</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>37f861e7-851d-4667-b013-16d2ffc540b5</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Rafael Jorge Mantilla Sánchez</name>
+    <rfc>EYA1901165ZQ</rfc>
+  </emitter>
+  <receiver>
+    <name>Eder Tejeda Dávalos</name>
+    <rfc>KEU731129EJA</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">526247</cents>
+    <!-- ISO 4217 -->
+    <currency>ANG</currency>
+  </amount>
+  <emitted_at type="date">2018-06-26 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-07-20 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-12-20 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">kbgkfxxjotq9u7c7wem3bh0iepbhoq32o405xelsuxy4cw25fjsqdu0tz46y8adnbujbfnocb9pavt1eitkle9u2memg70lqzgqp3inny2faumcypst34t9slfyao0nmnqepva98basva8ygmcaafk0bna8d3dwdhg849zmz9i7hhzb1r8786vne56tc9aohnmx4giwj57baozu3zgv09hnqetzh27xia53qsih8hbsksftm5g5e2c9z9m4y0ae</cfdi_digital_stamp>
+</hash>

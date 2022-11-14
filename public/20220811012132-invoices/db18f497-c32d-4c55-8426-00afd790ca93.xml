@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>db18f497-c32d-4c55-8426-00afd790ca93</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Jovana Fuertes Barajas</name>
+    <rfc>AGS960613Y28</rfc>
+  </emitter>
+  <receiver>
+    <name>César Paz Mena</name>
+    <rfc>ZNE760628WL7</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">491991</cents>
+    <!-- ISO 4217 -->
+    <currency>TND</currency>
+  </amount>
+  <emitted_at type="date">2022-04-04 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-12-07 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-11-07 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">gx82suxtkfqk7emg6gopqtdbj5m3licu3zy54qq5ys93dnb3hihhccolmvwz9jfce7x8j72mpdfpj37zwd5lvvo095whviscgfmtdmckknjxaxkzwa9e9rxhn15gd52o552zxi9uhn0ljoee9pwfqtvovwm8pjwx6h2r1dsjag4zgvvjx6qtnuuyuutizajs9pnx41y6oulplwsnvdztwoqxinjvlmavkpngz5bps8efoorcsn60d18cbgtbcef</cfdi_digital_stamp>
+</hash>

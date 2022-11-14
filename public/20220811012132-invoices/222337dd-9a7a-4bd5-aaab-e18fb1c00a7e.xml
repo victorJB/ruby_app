@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>222337dd-9a7a-4bd5-aaab-e18fb1c00a7e</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Braulio Herrera Duarte</name>
+    <rfc>GQD9901136YP</rfc>
+  </emitter>
+  <receiver>
+    <name>Agustín Ibáñez Figueroa</name>
+    <rfc>VP&amp;841218AUH</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">516031</cents>
+    <!-- ISO 4217 -->
+    <currency>PHP</currency>
+  </amount>
+  <emitted_at type="date">2019-04-09 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-04-20 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-02-14 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">9fr0fl7feafadcr3ej0xi27bkbws3zg2nb83in1lezdl7s04vibzy2zfoom6mip3wg4egtkkm9e53la6vtipccsc7a10unhvo7ywgm1wirrgaf1osdn8ulsapvprzfrw7mlu8ixysh2w8wrqai0q3ahucl7wnee4eawqodosyadgxipc1x8situc2rd5lhnfbvsal9ybrza5el4v7ke67c3d3dcr37djwbipnv27zp6j1vqp8bc9wrsx2ay5kx1</cfdi_digital_stamp>
+</hash>

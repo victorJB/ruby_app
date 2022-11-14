@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>a7fa4a44-08a6-44e7-bfa1-54ab25678415</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Mayra Fernández Vergara</name>
+    <rfc>SDR941209L9D</rfc>
+  </emitter>
+  <receiver>
+    <name>Santiago Francisco Manjarrez Quintal</name>
+    <rfc>WJN180614C82</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">102960</cents>
+    <!-- ISO 4217 -->
+    <currency>FKP</currency>
+  </amount>
+  <emitted_at type="date">2019-10-04 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-11-18 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-07-19 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">q1ztosl9fixjqon3yd12ifvcdqb7a7wni0w2luug6f171adicjm6amoe5vd81j0tgzu68zqgkqo0tj7wi549cysmgc4mri7znsje1en1z1ewqr8gueu7a2jhc6pc221zt20z9m150pta0e6wrqc8mm5dudxru0e4rk0a88poy34jz5feauynuyeszwq84md19viwtlkieyiluf25adzblsx2lvd2ei729404etslrdlgnf295x8zziyjcmsoy1n</cfdi_digital_stamp>
+</hash>

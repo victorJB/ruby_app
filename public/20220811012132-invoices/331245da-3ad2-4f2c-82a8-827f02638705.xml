@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>331245da-3ad2-4f2c-82a8-827f02638705</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Alberto Patricio Bautista Manzano</name>
+    <rfc>S&amp;B7008050S6</rfc>
+  </emitter>
+  <receiver>
+    <name>Catalina Pamela Krazowski Legorreta</name>
+    <rfc>OEI700704WPG</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">477954</cents>
+    <!-- ISO 4217 -->
+    <currency>XPD</currency>
+  </amount>
+  <emitted_at type="date">2021-07-16 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-10-04 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-12-17 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">xnxinddn90q497hdyrqavhyczrtd4cnifphljlgru7cfscl7g7d7gogh438yx55fzklwq8aosas1lh3i03rupwgcjwawcmnmzq784ofkfe7u0m7husfit4cy25iu76oao1aymhmy76hoiky5md9f7gx3wgnupza8owa1bbul9mo6sjyug842muvfkiavquja4swqgka834ryrdkro74t2l0amofqhd6upsjf8o28c6985mkcofqms5fmtf26bmg</cfdi_digital_stamp>
+</hash>

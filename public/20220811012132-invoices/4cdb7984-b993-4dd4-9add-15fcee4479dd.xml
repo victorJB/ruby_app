@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>4cdb7984-b993-4dd4-9add-15fcee4479dd</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Luis Pánfilo Tamayo Nuncio</name>
+    <rfc>ULH790626QDW</rfc>
+  </emitter>
+  <receiver>
+    <name>Isaac Nery Botello</name>
+    <rfc>&amp;BO871005HXJ</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">296484</cents>
+    <!-- ISO 4217 -->
+    <currency>CZK</currency>
+  </amount>
+  <emitted_at type="date">2019-12-21 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-11-14 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-02-22 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">lwvunafzlh6diy29q4whj4zvvrq3a5rav1farhyuntp2w8es9do2o16hbyaxlthd83yc3qcbec48vz379oqvme6grz4tmfxn8vo0zap17fdo3qrr6ectxjwa2eiz0ot8mvourj5xz3blhysc4wj379gfhati80vgf68y6lhp7ugav08sn59q27h6mqfm417ukud1qyxfrj67nq1c3pclesyeide6we4w1zkgswwe2nyhpq57ly0sionmeh2a4tf</cfdi_digital_stamp>
+</hash>

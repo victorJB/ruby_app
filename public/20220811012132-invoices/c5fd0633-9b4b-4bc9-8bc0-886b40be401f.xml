@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>c5fd0633-9b4b-4bc9-8bc0-886b40be401f</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Jimena Jacinto Silva</name>
+    <rfc>Ñ&amp;N700106H3A</rfc>
+  </emitter>
+  <receiver>
+    <name>Margarita Ocampo Bairez</name>
+    <rfc>FWN090123A4V</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">812625</cents>
+    <!-- ISO 4217 -->
+    <currency>ZAR</currency>
+  </amount>
+  <emitted_at type="date">2018-07-16 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-11-22 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-09-25 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">n1axe72ezec3zadbwar5f1els4pfpoj79y6445k6tqwtsch82kupelcq9phlaytztr4ahtdux82qhqtc68ngo3qb1z1f86hyarbb1tkqcqetrpyc5e4fe28mjob4dhxfdacpz0bsoxz2g5z17tphr1286dfzzdl2hxhjdnb1cvj2prnu0uu1axtvlz3qnfld0l06cmeafgpanu17vc6hko5jn6klxg9fwoya5ovhh8yq2kevljspcqla2nskgfu</cfdi_digital_stamp>
+</hash>

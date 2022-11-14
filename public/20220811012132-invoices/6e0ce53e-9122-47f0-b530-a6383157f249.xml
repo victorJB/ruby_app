@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>6e0ce53e-9122-47f0-b530-a6383157f249</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Obdulia Uribe Laurel</name>
+    <rfc>FTS891001CUM</rfc>
+  </emitter>
+  <receiver>
+    <name>Emilio De Cortés</name>
+    <rfc>AZD77052434K</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">219826</cents>
+    <!-- ISO 4217 -->
+    <currency>EEK</currency>
+  </amount>
+  <emitted_at type="date">2019-02-08 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-12-11 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-09-01 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">dol2ow4qjmm913j1sfzcmepsmnypc70ufqmz3eyco0avkksyuvx17emtdihk6hz9u0jz0oclms09pyos2csqexteyheolauklt9x6aakrstbzdowklyxi4du82wo7kwfwdrtyzkmvgvtxpd2w2f5sl8f36qaefys2lphlwbrvk9nzyoallx6tgsj7l6z0d8ao5lo9p94k5vmlzzymbpbnbgud1u4q9wvjb8qd3nacyx5su2ekyrbl09j3fkh9q5</cfdi_digital_stamp>
+</hash>

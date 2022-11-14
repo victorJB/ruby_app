@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>243a34cd-ac76-450f-bcf4-e3eeb18a40bf</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Luis Franco Ubaldo</name>
+    <rfc>IYP980220TR4</rfc>
+  </emitter>
+  <receiver>
+    <name>Elvira Mosco Benítez</name>
+    <rfc>&amp;OY960209X7Q</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">843848</cents>
+    <!-- ISO 4217 -->
+    <currency>AED</currency>
+  </amount>
+  <emitted_at type="date">2022-08-15 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-06-25 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-05-10 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">pqnixp43t75110u9shr22eklpas0j4h1vf5bx0zkvhljfrd7rt2d2y6955b4vt5hu5cbozpg2tfiav03wke1qlahq20ylw2u3uzjzyqtrw3b640n317ej9p63x6ycr9sbbby63pjj5agj6nuek0wf62c7tplpjnzc63sqj2p7vfhlxv4n6n7nuetvbl69gkvzeotbykl4ymkgwltt925sfogklkz7anoz1aikogcegyfqy67ivrmu0flm2jdx2m</cfdi_digital_stamp>
+</hash>

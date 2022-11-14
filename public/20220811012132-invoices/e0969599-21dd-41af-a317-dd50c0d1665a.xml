@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>e0969599-21dd-41af-a317-dd50c0d1665a</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Diana Estrada Muñoz</name>
+    <rfc>SIU7505058AD</rfc>
+  </emitter>
+  <receiver>
+    <name>Erick Altamirano Fuentes</name>
+    <rfc>OAY700529TDG</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">381897</cents>
+    <!-- ISO 4217 -->
+    <currency>UAH</currency>
+  </amount>
+  <emitted_at type="date">2021-08-07 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-05-07 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-01-05 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">uxrkc5oksw173c6q1vvywf01ibhv0tfktktrsvyr4x02f6hys4jnogdx13ig9ugpkiebxbh8fy2rtgv48tm4ezaryp9pvvrvt3kmab2xoriikhokcouiv6wz6oe676hg5rc4mkj38ode684ieippbv31khtvl6qvsnszz26snf0raak3qg9e81jia823uclkujh1uh8wqywgpvkuewfl88sx7jkmljmyrwhhqq5ynjyddu62du8cgom83siktfl</cfdi_digital_stamp>
+</hash>

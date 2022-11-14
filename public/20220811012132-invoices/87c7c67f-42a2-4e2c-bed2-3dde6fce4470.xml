@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>87c7c67f-42a2-4e2c-bed2-3dde6fce4470</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Octavio Ávila Mosqueda</name>
+    <rfc>RSI8510142CM</rfc>
+  </emitter>
+  <receiver>
+    <name>Natalia Mujica Velasco</name>
+    <rfc>R&amp;J8404259YE</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">305157</cents>
+    <!-- ISO 4217 -->
+    <currency>UYU</currency>
+  </amount>
+  <emitted_at type="date">2018-01-07 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-10-30 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-05-06 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">camr6nc0d52ja8g6bb93dlo0ocqrrut4deoo5v6wfwzqnzsm620nla32d1tgco1rff03b2ovfstehh9rteoz1eh34al7046r9lw6eri01arvbmfz7fwbv0a9l14legienyhe2zootq5e0frg62vsoaq0i6djxxjwuu9tr9qwl6jqc4h98enw0hyj4mvywffip6cie155wxlcjj6in0m2kctrewdrye95phxv9sfv4che35nkrzi0rs035ijavqg</cfdi_digital_stamp>
+</hash>

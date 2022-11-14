@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>290f7a49-7d3e-4348-b51c-9fe93789f899</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Irving Lamas Zamorano</name>
+    <rfc>RCM810907W9O</rfc>
+  </emitter>
+  <receiver>
+    <name>Isidro Rodríguez Legorreta</name>
+    <rfc>TES220409YTK</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">286641</cents>
+    <!-- ISO 4217 -->
+    <currency>TTD</currency>
+  </amount>
+  <emitted_at type="date">2020-11-28 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-12-20 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-12-21 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">qoj2kkt3jboxdvy402bjxwchk73nr2dcph05s6jbwn8j2ip1p5g3lmjr7nko759ry9gk9xyms7iuf69otjhp2c7fnei2er9z1y5yki3weg8ird3wpcxcfpmja1cn5qfqoeby88il9e7bcc8m35kuipurflxdc7rtxlchifpdyva53gyl0hooic6sb4w2akr2kxetdnpq6nebqm5d3e7rtd5oqtaql4m7tyfppa50tircpk2k9lgvx55ttxbljmr</cfdi_digital_stamp>
+</hash>

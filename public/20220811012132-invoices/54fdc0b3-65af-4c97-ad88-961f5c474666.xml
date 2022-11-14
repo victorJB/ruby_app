@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>54fdc0b3-65af-4c97-ad88-961f5c474666</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Pablo Barrientos Sandoval</name>
+    <rfc>R&amp;T8103055M1</rfc>
+  </emitter>
+  <receiver>
+    <name>Patricia Arjona Altamirano</name>
+    <rfc>PWQ890803MFD</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">993244</cents>
+    <!-- ISO 4217 -->
+    <currency>TND</currency>
+  </amount>
+  <emitted_at type="date">2020-04-07 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-01-03 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-07-10 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">u7b4yikmqf5f3p329lu1in69lisj0jgxokz7rtpwfc8kuh44wqzp4okyqe056y7g1jsyfnlk300jku1w29kpzxdpda75k354iyuxzjko7ihhgjcegq4py4lnsgmsc78poaao718xgsrd4ggp3f94y3zpwig06cva3xeeueom9bmawawnyy9z921lsgxmzc1x9i0va63mzyuljb64xz72et73tk0b82mthrblckcxt68r2er2v270a8gfq3fc9ag</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>87975262-f927-4dfe-a256-570890dec0e4</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Citlali Fátima Domínguez Olvera</name>
+    <rfc>KWC830311KYF</rfc>
+  </emitter>
+  <receiver>
+    <name>Andrés Anselmo Moreno Baltazar</name>
+    <rfc>YSR100616HXD</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">815721</cents>
+    <!-- ISO 4217 -->
+    <currency>GIP</currency>
+  </amount>
+  <emitted_at type="date">2019-05-22 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-12-21 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-09-01 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">rk5ez10cmndzq3anv5s4tl5vfpr1q07a8l7mx1f8kkr7yjs05viaxirn14ril131aw79u3k2wfd4zvwxs099b6o98xllfyoeln4vg37hrsdrsm1ywwhg8f367uhfxvupv5vxy8zavof4q1ss1stkwqtdt8otc940tvpmu8wkt2kg4varcqs6dqn9zjykzhlg3qzpez217u9qfi9vuxscu680l2sts4rfigncjq8vvi5gcox2qka7qo7d6xqni7d</cfdi_digital_stamp>
+</hash>

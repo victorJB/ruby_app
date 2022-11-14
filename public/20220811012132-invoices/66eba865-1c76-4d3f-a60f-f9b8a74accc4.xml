@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>66eba865-1c76-4d3f-a60f-f9b8a74accc4</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Yoshio Cuauhtemoc Loera Navarrete</name>
+    <rfc>&amp;GB911225X34</rfc>
+  </emitter>
+  <receiver>
+    <name>Amador Vladimir Tellez Jeréz</name>
+    <rfc>ZSÑ10102610E</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">343555</cents>
+    <!-- ISO 4217 -->
+    <currency>ZAR</currency>
+  </amount>
+  <emitted_at type="date">2018-12-29 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-12-11 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-10-05 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">dg4owrb60hae1pc59ggwcsxvra42yz9mgytqvwiwhao5w2dsqc9spdj7jt5citacvff7087vrmvd3ejtsj31o241hjfn7ae541gqmv0wbc52d4ajdkjjqt2rwl98z7aftwq4z5220z5kimqaa60oxp2dfsabh0yh4e5yqxzsemxh2aq97nawgtsyggg849yzityrcfqzlad3ok9qvz3p5dwrhymn76h1hma7k2ei1x90z5epn046ymwaig1o9d7</cfdi_digital_stamp>
+</hash>

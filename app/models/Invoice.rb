@@ -11,7 +11,7 @@ class Invoice < ApplicationRecord
     end
 
     def self.get_user_invoices(params)
-        query = "emitter_rfc = '#{params[:emitted_rfc]}'"
+        query = "emitter_rfc = '#{params[:emitter_rfc]}'"
         query += params[:emitted_at].present? ? " AND emitted_at = '#{params[:emitted_at]}'" : ""
 
         @invoices = Invoice.where(query)

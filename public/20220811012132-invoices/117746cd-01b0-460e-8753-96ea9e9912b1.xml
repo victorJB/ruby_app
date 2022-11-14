@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>117746cd-01b0-460e-8753-96ea9e9912b1</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Sergio Marín Cervantes</name>
+    <rfc>EPQ211105JNB</rfc>
+  </emitter>
+  <receiver>
+    <name>Clara Cristina Arroyo Quintal</name>
+    <rfc>XYE850424L9X</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">184517</cents>
+    <!-- ISO 4217 -->
+    <currency>RWF</currency>
+  </amount>
+  <emitted_at type="date">2022-09-19 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-06-27 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-02-17 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">evuemlfh3r4e1h8ldq9f59l3gfhgcvteowibb5as52qah8a8lrqa7hv44w1klchufyt9xye0rwkdivxm666uqwmktjaldnxofscaudkv4eenxzy7cuiozziqqize2isxzpg9y00dil4gxvtyzqwz1vx0wu1kuiztjt7j0r13pipavk00ve5drlkhiozynt6ooep5tzh74vjr8xf0j5llmemppvacmz65q3fxe3chrn2i14z8wbhk7nnivmo94yd</cfdi_digital_stamp>
+</hash>

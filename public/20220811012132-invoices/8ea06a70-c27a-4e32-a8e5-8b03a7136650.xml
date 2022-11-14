@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>8ea06a70-c27a-4e32-a8e5-8b03a7136650</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Iván Osiel Ugalde Montes</name>
+    <rfc>KOX950725DB8</rfc>
+  </emitter>
+  <receiver>
+    <name>Adolfo Muñoz Soto</name>
+    <rfc>YFC200102QMC</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">691825</cents>
+    <!-- ISO 4217 -->
+    <currency>CDF</currency>
+  </amount>
+  <emitted_at type="date">2021-05-15 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-01-14 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-05-17 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">shm9hwmrs8b7zhaz4vw95gilollqtcl7lud7rl7q9st9l9tjdxouql0zxdm41s94wlwa6lsro75z37jdotsj9in953u4y0b5231q0a9vjtkd16gs7rjizosvj0uhkz3jjky7amvocdlb302u56vs1n6cm29ty8m5f8qom9imjub6rltd0gsly0ff0966gdg29cbwfiro889db3l11tx5nl33o7crt8x961r74dtchnjh3x2oq69sl9af0dpgpdx</cfdi_digital_stamp>
+</hash>

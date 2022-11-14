@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>c0e7c72f-82cb-4823-8ce7-9a4e145a0dc2</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Benito Orozco Reyes</name>
+    <rfc>ROE001106IB9</rfc>
+  </emitter>
+  <receiver>
+    <name>Patricia Aguirre Gómez</name>
+    <rfc>NRB7502275TC</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">436355</cents>
+    <!-- ISO 4217 -->
+    <currency>XBB</currency>
+  </amount>
+  <emitted_at type="date">2018-02-02 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-04-22 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-12-27 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">nhlavph43mo2vm6myjx29hb4druci8m2w3qfd7vxb33rzhdpe7dvl76pgok0j88qscjiu58ejew451d3nfel7nffs8uhs7j53sovmm7a05pn8ijyux0xzt7b17k1ya72096easapj6v648sub1hyy1797x2eg8mlzn808ljwr19eikr3b6taxcg2nxttxvoxcjrbtyimpjav6yafjmjbfedr5e7swyfm3v75rv258vg87y4htsc9x30akjjc52c</cfdi_digital_stamp>
+</hash>

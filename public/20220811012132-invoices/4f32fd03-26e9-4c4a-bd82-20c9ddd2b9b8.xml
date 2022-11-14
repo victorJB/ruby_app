@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>4f32fd03-26e9-4c4a-bd82-20c9ddd2b9b8</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Viridiana Ugalde Durán</name>
+    <rfc>QON140120QYM</rfc>
+  </emitter>
+  <receiver>
+    <name>Aurelio Fontana Tello</name>
+    <rfc>WUA881222CZQ</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">728542</cents>
+    <!-- ISO 4217 -->
+    <currency>AED</currency>
+  </amount>
+  <emitted_at type="date">2019-04-24 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-11-08 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-05-31 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">3w4lotszpzl08sba25x7f561yyog64lht29wgwvtdhqwqjnk4p27c88cchvzvam75flcii0rsnr7b4zdo01zj29rtuk56kltaolod0v7ociaimxjtgo1e5t5m2y74yg14spykf1g2jmvpqndhokwd198t3irpoes3ajgky8loyjj0xwiisufnmil0gwl4rfu5leu9reh491fashf4oo4g4t0kb9iiv5z4wo3klwh0o646yd8o7b7j1rcbz7xo47</cfdi_digital_stamp>
+</hash>

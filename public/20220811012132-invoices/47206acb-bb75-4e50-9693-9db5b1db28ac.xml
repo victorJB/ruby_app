@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>47206acb-bb75-4e50-9693-9db5b1db28ac</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Eva Zúñiga Estevez</name>
+    <rfc>ULQ09013069X</rfc>
+  </emitter>
+  <receiver>
+    <name>Olaf Tejada Roa</name>
+    <rfc>RHI820221WE2</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">155232</cents>
+    <!-- ISO 4217 -->
+    <currency>CHF</currency>
+  </amount>
+  <emitted_at type="date">2021-06-14 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-11-10 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-09-10 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">2hw2j8jiyry6n47etrlyg71f3gq1hs2odb8tdbg7o8j6utubo1wywzuhx6j2rs3ywh53oiigxikf1t5k2ej9qjttqwhfbrax7vjmyg14ubxg372h6puf6hpplu8jrhkg1gi7soztss1iqn6mqwmyv3fpsu8rfw4l4alo77zlpa9dzakm8g0dgbbc0mh998zgnbfr0q2qjkox1jb3ngs40126p9zjusytrwlijitcam0p9powqa9eq4pev72eqgd</cfdi_digital_stamp>
+</hash>

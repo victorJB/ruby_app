@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>4473787d-13c4-4264-8f0f-301332daea11</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Elisa Sabugal Fuentes</name>
+    <rfc>VBE851226U6C</rfc>
+  </emitter>
+  <receiver>
+    <name>David Montes Rubio</name>
+    <rfc>VQZ930909J01</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">509660</cents>
+    <!-- ISO 4217 -->
+    <currency>FJD</currency>
+  </amount>
+  <emitted_at type="date">2019-05-11 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-06-16 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-09-23 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">v4dwylzypxywsbsfv57hhbqa5i50dw7dmjvyw3xw2n5g285gi53tudcxiu0gpb4s7urimftf7gytte5d6799fvyvorrwbn99rsdf83aa1fx8zz70vliqmcut5idwweup9xh6vybey72xltfd9utcapzdgffxmz6uhbdfq9r9cual13b4sryc4u8xw4r0xlcd69gqua97gjx1t6ggtx43r5yiwvii8h1vdi4oxb06vecfh3kyy25wx4hihpz8uet</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>68b10eac-8907-4ca3-abe2-1d39823525f6</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Igor Limón Tellez</name>
+    <rfc>&amp;WE820313D28</rfc>
+  </emitter>
+  <receiver>
+    <name>León Ponce Estevez</name>
+    <rfc>MKN000730ZW7</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">769949</cents>
+    <!-- ISO 4217 -->
+    <currency>BMD</currency>
+  </amount>
+  <emitted_at type="date">2020-02-05 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-08-04 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-04-27 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">6zy08d1wh90r6q9ugspzcgvtytg39zp5dxa243fja532rptbc888bvbp2a6y6ixlnrq0aaidyr419vh46z7xk82e9u0zs50mqz0ic39i2fiq5cx4bkped1pnvt3mn4yt0iixsjyy0w0vbltb354tc1yd5owzdpv9gnzefi5ik5vjcsc54gfxop82ivvo5jczf7i1i6b9wb50avuocdkud5jq1x8kjzvck78skfgg03rsvj91zi7wiy2309sasnt</cfdi_digital_stamp>
+</hash>

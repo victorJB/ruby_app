@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>85510863-a1b1-4593-a347-3da7a735e52c</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Braulio Meza Rueda</name>
+    <rfc>KPA700712R7M</rfc>
+  </emitter>
+  <receiver>
+    <name>Octavio Ferrer Rosales</name>
+    <rfc>HTI830327NDH</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">639578</cents>
+    <!-- ISO 4217 -->
+    <currency>IQD</currency>
+  </amount>
+  <emitted_at type="date">2022-01-28 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-09-21 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-11-17 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">tt0m0mdg4xl4wjfko4houcneca4yswux10zv01v49xx4b03h59rvo3c8meyxg2mil7lkg0ly5auza2i82d7y7w2e11oxc6qti7rz7eavsy7g3wht4wcnmou2911j5wgsv06zwscj1x9c58zo6yeuj66zlvcj1nimta9c1wyi5w5cridvmnvp6brzyhowrurtv58yc39oqruwa7uxakoa7k6oaeu9peyu7hyzw558fqrgochsv4dujkd68ql7qu9</cfdi_digital_stamp>
+</hash>

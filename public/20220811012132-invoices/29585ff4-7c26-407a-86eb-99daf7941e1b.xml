@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>29585ff4-7c26-407a-86eb-99daf7941e1b</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Yordi Peñaloza Paredes</name>
+    <rfc>WCT721024EJU</rfc>
+  </emitter>
+  <receiver>
+    <name>Saúl Valdivia Juárez</name>
+    <rfc>FJH040923O2L</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">39407</cents>
+    <!-- ISO 4217 -->
+    <currency>NZD</currency>
+  </amount>
+  <emitted_at type="date">2022-07-10 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-09-30 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-11-10 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">cpidbp500prsnjjj9lj10ap8linvdyzxe39q2wxgtm8m9ixp8tutrxsk8gih0fd98y7ah97ztunskgj2aov0mgmbkzdjxn08im4s1hmwlpmd790r29q15ymh8b5bi6q1avudsgbw8dohtm1l4ph2q76t8nx0ie1lvygakrh81plujvozn5wrv04f42mnos4rygvnmtzl45zls9l32qa2iwz5617dq2yzx298mqy20tb14vimahk44v7abt2e8ex</cfdi_digital_stamp>
+</hash>

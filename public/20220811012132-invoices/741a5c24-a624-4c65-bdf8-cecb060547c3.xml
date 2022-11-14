@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>741a5c24-a624-4c65-bdf8-cecb060547c3</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Paola Herrera Mosco</name>
+    <rfc>VEÑ720910YC0</rfc>
+  </emitter>
+  <receiver>
+    <name>Dora Sambrano Linares</name>
+    <rfc>YRM9712313I1</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">907947</cents>
+    <!-- ISO 4217 -->
+    <currency>KYD</currency>
+  </amount>
+  <emitted_at type="date">2022-04-20 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-04-21 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-08-30 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">qwd4c5zen0zle9fpnys5phdcshb2496zwm85lppsvcefhobnumf8wa4qnsfamd5gn7897cgjf8og4t0sxtwqufglpzlxui18yx0oz64i929iizoqt3t85gm1e4mo6cdjpl4ugeaigsinlw0vxa1f2ujvgzih0mo1306kxnozj8spfdrw8bozybe3y93nlv74qc84356jrr14ii12oskxapquao823u1qxvimv1ys7vsuznjyocdpljodkphtz1z</cfdi_digital_stamp>
+</hash>

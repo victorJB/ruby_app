@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>671483a6-82d3-46d5-95f8-553930985c09</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Brenda Ubaldo Carmona</name>
+    <rfc>DCM970808P4X</rfc>
+  </emitter>
+  <receiver>
+    <name>Wendy Úrsula Zepeda Peña</name>
+    <rfc>UXH880114UMH</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">191934</cents>
+    <!-- ISO 4217 -->
+    <currency>KPW</currency>
+  </amount>
+  <emitted_at type="date">2018-02-22 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-10-10 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-02-13 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">idyxgp463id9e0w6qtxz8aei3ffjr16ibb45cqbhkz2zs5s30fjdgffnb6kkkb87xs7759q5don8q46brkt3qnxqrutani4srp7tqyh1xio8h2118tjizu5hit3xnf5q1yq9e2ri4zqcq59dgf0ixvvtsp8d0aydz8jnj17sz8keskh0jdpz0ry954le1uw54ffgkq21hsqinch0ioqohheebuztmn6j86tmadvb5mt4x8fg4uzyykxejh9jsld</cfdi_digital_stamp>
+</hash>

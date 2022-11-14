@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>69454712-8b73-44e3-8a4a-e74a063a12c6</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Demetrio Velasco Alfaro</name>
+    <rfc>ÑJL760221D1Q</rfc>
+  </emitter>
+  <receiver>
+    <name>Alondra Mayra XX Ávila</name>
+    <rfc>WEO171220GV4</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">676876</cents>
+    <!-- ISO 4217 -->
+    <currency>OMR</currency>
+  </amount>
+  <emitted_at type="date">2020-06-19 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-09-14 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-05-23 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">kmwjuqp5wjel27kgyokc77egthg3nrbz6s113ob9kcx0ppr4hbthj5mrvczwwcnpfqre2l1wtiyg9z2pbvfrzn8vc96ncwzmx5cpgxaec5loxqi2gpu4f7809v87kit5krv96k1fv9nbk4xwr8s0pia5pretxir2izz4kgwrm12ltdkpea922na69evr2k77w170lf9v4bouxuum4abmmliqn9u6x0mrpmf0vx7e2avpvvyg685miif400ml6iw</cfdi_digital_stamp>
+</hash>

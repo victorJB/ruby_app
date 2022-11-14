@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>5e916ff7-6263-49c6-a90a-6f69c3834bfe</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Raquel Luna Rico</name>
+    <rfc>ÑIY030130052</rfc>
+  </emitter>
+  <receiver>
+    <name>Ramona Jacinto Rosales</name>
+    <rfc>PRI811015CJ4</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">971299</cents>
+    <!-- ISO 4217 -->
+    <currency>ISK</currency>
+  </amount>
+  <emitted_at type="date">2020-07-14 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-07-31 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-08-04 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">go7sd173vnoewompqhuvpx191x807wm0oq6rr9jnrhar9imbbeacp5alkysol9jk7l0uockn5cd6ubcg8lmg7f2na44mma3563y55bnzlm1fjwb0x0prjwm5dmuzzf2rqm4gc51m8lhlw05ixxu10ewrp1gku51txc6ip4bun4xj2004czmbzi3i04zwv8q84qa5jsaavz1glnapkzk3xvswkp3os6jxpbfjshi75nlql5mnqzr5o9774vwpw8d</cfdi_digital_stamp>
+</hash>

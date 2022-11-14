@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>5baaabe7-7c8f-416c-8edc-725713433f21</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Olivia Simbrón Rojo</name>
+    <rfc>JBG991123IM1</rfc>
+  </emitter>
+  <receiver>
+    <name>Azucena Juana Montaño XX</name>
+    <rfc>QOW040426O0H</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">622279</cents>
+    <!-- ISO 4217 -->
+    <currency>XPF</currency>
+  </amount>
+  <emitted_at type="date">2019-12-10 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-01-14 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-07-10 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">32o5llcdpe3uwtut3vnwydq7d99nb1041ecq8e9bnpbjwyk57bvpt0h989r7ais2j6vsqlzbdcwaxu7jm8ddkkd1ihmr4p907ekjtbvxupi50gzgzol92hkzo2izu74gxe2pxqmluk0i8ebpafe1zbsdot8den2ch2ur2xfqydlcyzl1i6y4az2t96sty4t0exmf3ec5f8e97b4isjaddyi8cwdltjh2wg5i5255oynhgphzpe628hsu3t4lqt3</cfdi_digital_stamp>
+</hash>

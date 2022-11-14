@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>f7916fad-a850-4672-8ea2-443d460658f9</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Simón Lomelí Roque</name>
+    <rfc>&amp;BW180629NHO</rfc>
+  </emitter>
+  <receiver>
+    <name>Gustavo Feliciano Salinas Ugalde</name>
+    <rfc>SFN1406170HA</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">212850</cents>
+    <!-- ISO 4217 -->
+    <currency>SEK</currency>
+  </amount>
+  <emitted_at type="date">2018-10-15 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-02-08 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-06-28 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">oxpwirmt63d56efz2oq88n31bm9e80wvlj7s7efji7y6vv2tizta4jrsj7u2ct275y04hpl5fqrchr5nffb8y3dzul7o58qxdx3wmtkkn1h6oxl9lrtinxx7yjm63msex9ers9sltwjbptdz6xweho0ki38azi07v8zremq14vm79nya33hrlaj8zwez90dxb5fb1pzjqk0l0dum95uxqnf5eb6ko80rg35s5jlathz509xhtx27ru6ln2dfdk7</cfdi_digital_stamp>
+</hash>

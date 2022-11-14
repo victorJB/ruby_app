@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>68f6426c-679e-44ec-85bc-ad44015359d5</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Mara Quezada Salas</name>
+    <rfc>DUK7511146DF</rfc>
+  </emitter>
+  <receiver>
+    <name>Argelia Mosqueda Alanís</name>
+    <rfc>ITG770923X5H</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">503641</cents>
+    <!-- ISO 4217 -->
+    <currency>MMK</currency>
+  </amount>
+  <emitted_at type="date">2021-11-12 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-01-13 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-11-08 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">vbqni0v3uxa9sn6ouk2s4cb5ayjxeyr9u48vbq32r2q8qppahe1qmpkipxohd8y9qbyfiamoesrunc5x9qhhxeateo23y56x3f0hkh74oogt1vf346shvncntpk0zrwhairqltxe5djyt1qtnbwd8o8tl7aae51jebih2b9nwxicbv0cppceb4gkkz2i96zfrbqny7vq6qhhwdcekd2ph1r9y8xo7a7bteqb1ezimcloigbo53y7ns0y03yrapx</cfdi_digital_stamp>
+</hash>

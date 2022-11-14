@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>72ecd0aa-2b6b-4dda-9a97-55fc1946f6eb</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Julián Arjona Sepúlveda</name>
+    <rfc>NAG940113MHO</rfc>
+  </emitter>
+  <receiver>
+    <name>Francisco Nicandro Ortíz Aldama</name>
+    <rfc>KOL140227U54</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">326974</cents>
+    <!-- ISO 4217 -->
+    <currency>MGA</currency>
+  </amount>
+  <emitted_at type="date">2018-08-27 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-10-10 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-05-07 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">b394ui31znvlk3w4r779idgbz36o7bt8xnpeweu4fb7z05i219zg7s6w2ntdlwue29c50anvjydwrhppshtc4cvug2bwwetdjjq1cp5iwtxwdlgkslanupow387vrhhdxwxeqtvrx1jhk9k6gf7qkg96vttly7446ccved9a75yn7gwid3ukssyrdscnpbh82msadva62d5nqd5i4sjiqhayqxkku3e399638s477f8fx6se9xvgw7otaf7i9bx</cfdi_digital_stamp>
+</hash>

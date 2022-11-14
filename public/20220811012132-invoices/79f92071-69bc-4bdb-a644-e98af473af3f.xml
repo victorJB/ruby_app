@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>79f92071-69bc-4bdb-a644-e98af473af3f</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Diana Alicia Lozano Mojica</name>
+    <rfc>WÑI221007X6J</rfc>
+  </emitter>
+  <receiver>
+    <name>Bruno Saenz Tapia</name>
+    <rfc>CUY990417X1F</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">394074</cents>
+    <!-- ISO 4217 -->
+    <currency>TJS</currency>
+  </amount>
+  <emitted_at type="date">2020-05-27 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-04-29 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-07-08 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">bx3r0bh98npf1ifvipens7mt3l4t43sbi6y8wtme3xm6uqpmyqn4szstzxtnrtuyr4c59nlk0sui42qje124bibbk903sgkh35f35z8dg5sojylda8dqlwf2weyxkvo4xu8lhu8n7uikv0e378yt310wx023p5vyoer37nkve14pfhxuxrevwvb73ptv0qv1eafw1lt5y15nb7oqxuiffn2ejf02frt7n36n9emrfmhpu9csmg6gsonv2k2ifxy</cfdi_digital_stamp>
+</hash>

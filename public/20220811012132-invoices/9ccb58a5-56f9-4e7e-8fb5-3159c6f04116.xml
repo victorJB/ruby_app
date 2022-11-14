@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>9ccb58a5-56f9-4e7e-8fb5-3159c6f04116</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Arquímides Bairez Hidalgo</name>
+    <rfc>VDC731002OD8</rfc>
+  </emitter>
+  <receiver>
+    <name>Igor Emiliano Calvario Núñez</name>
+    <rfc>USH900811KIH</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">711338</cents>
+    <!-- ISO 4217 -->
+    <currency>AED</currency>
+  </amount>
+  <emitted_at type="date">2019-01-13 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-06-07 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-09-25 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">1o4radwri130oawga05a0b8l11tlr7u2utiuvppsdcv3meo62y0qylu7lbb8iievu1yqe8cds7n8koeqrij9tgz40p7rcbm7fjohidnkhl3rm5w2o3ml3y0umu5u0ya7mdbmlb9kykkezk06a2aeihtw423xzwbtb7h4uronoc7msth95jx2yijskz6tb23izw0xw3l60srhfyc8qiia5us3w6hwplplyzxwdtmpfzjfxl6ypx9nl1avw5xs626</cfdi_digital_stamp>
+</hash>

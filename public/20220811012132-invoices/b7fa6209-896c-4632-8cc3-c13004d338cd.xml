@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>b7fa6209-896c-4632-8cc3-c13004d338cd</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Abel Tamayo Balderas</name>
+    <rfc>VDW070116LJ6</rfc>
+  </emitter>
+  <receiver>
+    <name>Jovana Matilde Revueltas Iturbe</name>
+    <rfc>EXQ9905072DV</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">718874</cents>
+    <!-- ISO 4217 -->
+    <currency>NZD</currency>
+  </amount>
+  <emitted_at type="date">2020-05-16 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-03-07 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-03-02 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">csdlhuzaboh9h2qi1smn02swsz3zs1vynj2f0k7q13uz7o55d5vza51lqbsxm89dsee6j9tsjzn36a44fy294b1yjj9qyekaeha0x0yozymgc3av58n14h5ylpr6q0aaxeoid8573xbar31hueo8w9ldeodwuhz5pp1glsrlh42qfl7nouj2hkf18ubbpct8u52p0wzbttc8tzi8iaarn7gyn403612k6oyprk74gjowt9yxmrjxrrpqer0o6p7</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>e53e0b73-4ff6-4372-b724-bfbab7ef9f47</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Heidi Luis Funes</name>
+    <rfc>RQC87033026U</rfc>
+  </emitter>
+  <receiver>
+    <name>Rita Paloma Palacios Silva</name>
+    <rfc>GIL051107W4S</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">306250</cents>
+    <!-- ISO 4217 -->
+    <currency>HTG</currency>
+  </amount>
+  <emitted_at type="date">2020-08-25 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-12-13 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-03-07 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">mribrhgico9n7bg15k5vveebz4ev9vgz1gysr59owgslqcy859qwbtd4iqwivg9f37og2uxr9os2nibaqizyblw00jw68n2urmn1tl0gssnksmz0dcl25rhenkpedlfpahxuqntkkzkmciownu2d8rv5u53h91b4mqkxj5n7r6hp6avin7fa4ef6redgvswhsnbccvol7ctexmup3b93w8h2lhnhy8b11zsi3ua0av3j3watoig8vrp1dggdvlf</cfdi_digital_stamp>
+</hash>

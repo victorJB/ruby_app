@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>f49a2a86-5548-452a-b61d-040b0f0c9967</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Mauricio Yáñez Negrete</name>
+    <rfc>REL0301231HT</rfc>
+  </emitter>
+  <receiver>
+    <name>Silvia Irineo Ríos</name>
+    <rfc>TRK9807024YE</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">204794</cents>
+    <!-- ISO 4217 -->
+    <currency>WST</currency>
+  </amount>
+  <emitted_at type="date">2022-06-24 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-09-29 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-10-11 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">41488c4rj3hvjtskdwzxww8o2a6ff7xbyh2ilb74vdzb8l7pdgcpt49pakz1nkpbdmkj0o7buypw3k4zcdr11uruf5dx1x3jp6or8lwlz7s4bna8tzktwhlhojejc07gs9nm3rpti1ou1v9dhbwv41c3q4hdr5lv9kvg2abgnm3y69pz8t94k4sc9w8rae6lnvro6z5y52sh9rl9bs8hjepjjjaoccqedgxqie02vw7rpn1gbf56drkro265bv7</cfdi_digital_stamp>
+</hash>

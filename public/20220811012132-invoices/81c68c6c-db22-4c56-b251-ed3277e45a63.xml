@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>81c68c6c-db22-4c56-b251-ed3277e45a63</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Jovana Iris Sánchez Izquierdo</name>
+    <rfc>ESM2209212SU</rfc>
+  </emitter>
+  <receiver>
+    <name>Marlene Machuca Oropeza</name>
+    <rfc>MIK190324ZGL</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">78400</cents>
+    <!-- ISO 4217 -->
+    <currency>JMD</currency>
+  </amount>
+  <emitted_at type="date">2022-09-20 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-02-27 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-02-15 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">kp2jltor8ajy2too29soatvfyab6qjpnq5b9u3xz9td0t0wlowyse86x98vznqe8r3teaeylj2t1fceiaskl1b5aj9xmzh1b4dy3kddepu99oyoldxitq01do5cu05ibkwtciy8f1rvqh08wkcu5jv5wfde9nmqysuik3don0vi4a074er4iyzoispql62tnm4f9fvgd5dlytf3jnluxnatefy35qkjpqujd8z488gvaqkjolr36o02bcg0lxx7</cfdi_digital_stamp>
+</hash>

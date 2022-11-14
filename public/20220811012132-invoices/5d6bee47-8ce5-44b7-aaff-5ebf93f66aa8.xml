@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>5d6bee47-8ce5-44b7-aaff-5ebf93f66aa8</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Feliciano Reynaga Ledesma</name>
+    <rfc>ORZ7105185FM</rfc>
+  </emitter>
+  <receiver>
+    <name>Carmelo Gustavo Soto Barrientos</name>
+    <rfc>NMÑ80040159P</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">64512</cents>
+    <!-- ISO 4217 -->
+    <currency>BOB</currency>
+  </amount>
+  <emitted_at type="date">2021-07-28 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-02-04 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-04-23 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">x98jx2kaftxuncytkwj234wjm2m9esd6x66xjmvlx26ybv3l7rwq48q0sfm3m6obqxvijx9pvj0xyywv6l90nt95c1bu7zkq12as54cj2n0rvzskih2cxd3ft3bwaij8mpqs87p2wdv318h8e5kfz1hljk8a2y4vsemxi9qfrkeog96nit7njvvcaq8g9ashwcaant8lb5noss9s2adkemky9e4auj12lj6z4tbavlkx2190g52t1fiagc17vdb</cfdi_digital_stamp>
+</hash>

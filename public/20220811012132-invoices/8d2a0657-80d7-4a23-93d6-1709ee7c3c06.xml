@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>8d2a0657-80d7-4a23-93d6-1709ee7c3c06</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Alondra Sambrano Irineo</name>
+    <rfc>X&amp;F711125Y7M</rfc>
+  </emitter>
+  <receiver>
+    <name>Citlali Martínez Salas</name>
+    <rfc>AGP0807069Y0</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">739809</cents>
+    <!-- ISO 4217 -->
+    <currency>SDG</currency>
+  </amount>
+  <emitted_at type="date">2021-10-04 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-02-27 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-11-26 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">vwt6vozxgyj40jie0bknmqnt46t9aim6835bwct80pb7ymyk0zh358n3jlximrtje6g9b99yjkomi1bkbonk8qpvfwfi26ryhshbgb728b8wii3l3ick540evzjkqm8kmolsb1to23r5bdh5kqyzwpdkeqn6o59lfldr2d18uit70zftolgqe62bfjrgkaict6ufvy2p0cm9r6sjeqtgg3a1d3nbza76wnimk8g7map6v3lyqw3193ppms3ob8q</cfdi_digital_stamp>
+</hash>

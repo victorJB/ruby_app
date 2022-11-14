@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>e3c0ec45-c268-439e-ae23-cacaa9431061</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Emilio Saavedra Nava</name>
+    <rfc>JMR030704U6Y</rfc>
+  </emitter>
+  <receiver>
+    <name>Natalia Luna Bracho</name>
+    <rfc>PKO8309177JL</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">313108</cents>
+    <!-- ISO 4217 -->
+    <currency>MUR</currency>
+  </amount>
+  <emitted_at type="date">2018-05-17 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-02-04 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-04-08 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">o0ibdcapb6a8gz97ano3rbdcpmrxd5md4btckpkakuga0ltpy0nz1btp2qwdmodmb2j7s3swjci4qn0l4kjsmkcy7oknui7kr2tz2a36f0ww4kkk36irkaf0h2y5qqezp6zla3tqqiv5k05y06riozahndoxogw0ftzttw2gxtmlef9wk6fikcrhhi3552whu53yzobxkulkz9q2fvb5blwm93vshwuqdsspl7bqcjey03yzha95n30bgves1wy</cfdi_digital_stamp>
+</hash>

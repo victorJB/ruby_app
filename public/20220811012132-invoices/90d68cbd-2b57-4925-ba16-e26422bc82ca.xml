@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>90d68cbd-2b57-4925-ba16-e26422bc82ca</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Mayra Noriega Hernández</name>
+    <rfc>UWA170401M4T</rfc>
+  </emitter>
+  <receiver>
+    <name>Anabel Fregoso Palacios</name>
+    <rfc>IZU1003121GJ</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">253710</cents>
+    <!-- ISO 4217 -->
+    <currency>CZK</currency>
+  </amount>
+  <emitted_at type="date">2021-11-25 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-10-10 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-04-11 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">5igdcgf6nfttogzm4r0hdj8ggsyrvzs88jiy7zxwoyb249j3ccwrdjset9qml6x8i0u1ltw6z2j10kxvu9mj8veiv4s8kbr355fmx3u0jmig1g5u9ut57lwxb7j7v3x8mobvex9ldd7i6mnvpg7lcrc06r8ugcfjehkq86yly5eqg48ucjy469jrxte70068n60l65fdorbihnop4hux56dztnfhrmgl8q15vs2dhaxox0rksv2dgx42thayoi8</cfdi_digital_stamp>
+</hash>

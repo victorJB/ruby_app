@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>b7568e29-178a-4003-8bbd-fc0f17566f61</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Pánfilo Erick Sambrano Flores</name>
+    <rfc>ÑRY7104270VO</rfc>
+  </emitter>
+  <receiver>
+    <name>Victoriano Saenz Hernández</name>
+    <rfc>HLR090320X5Q</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">986868</cents>
+    <!-- ISO 4217 -->
+    <currency>KZT</currency>
+  </amount>
+  <emitted_at type="date">2021-08-15 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-01-12 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-03-28 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">gzs92ix575d97y4yjkhh34mhdwsubp4bap1f5ad281h4u4f9z4hxsqamg4zbq61065p0jeuecgwf3prgoy0qt2gxk05nlovk2gtq7j78mj1tpsjp5i05nksoeb859aqnpfksy3qwt2gt0a2ea6eu6n3tnu9t9u07gvr97mwdj6c8zehglby9g9c5mqvb8md1gnc0sc0idns9in0hta2xoiiann23xw4ktovpgjfquot89xhoy68rhnwo3ni1mia</cfdi_digital_stamp>
+</hash>

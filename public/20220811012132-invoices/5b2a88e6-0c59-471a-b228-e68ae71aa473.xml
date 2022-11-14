@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>5b2a88e6-0c59-471a-b228-e68ae71aa473</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Guillermo López Silva</name>
+    <rfc>AGC810614HZX</rfc>
+  </emitter>
+  <receiver>
+    <name>Liliana Gallegos Rosas</name>
+    <rfc>TÑC901104BOF</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">931290</cents>
+    <!-- ISO 4217 -->
+    <currency>VEF</currency>
+  </amount>
+  <emitted_at type="date">2018-06-27 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-06-08 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-02-10 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">9tn4wl5xtrn7bwvuf3loc0muvdsddmk3jd3zbkkq9mqc499hrpcvkc2tna9f6kfxj6z3w7qdqxgkikqknykz7bqvp2ze4yzpzjf3tueebanr9z0csejvx4zj4m4kvwscu2cy2y1fjqs75x07r44o8al9hu2iloworaehei19defyxubvfntk6dopzkvy1ac4ns6i3nmtrm1xnzl77x2fzyq7hk06uswho9ckamwq7r014imusjnnyq6cr73hge5</cfdi_digital_stamp>
+</hash>

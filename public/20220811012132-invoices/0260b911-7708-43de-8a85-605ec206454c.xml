@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>0260b911-7708-43de-8a85-605ec206454c</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Moisés Rubio Mercado</name>
+    <rfc>HLZ761218254</rfc>
+  </emitter>
+  <receiver>
+    <name>Selene Arredondo Estevez</name>
+    <rfc>YBM760906QFW</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">138374</cents>
+    <!-- ISO 4217 -->
+    <currency>CLP</currency>
+  </amount>
+  <emitted_at type="date">2019-10-25 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-12-23 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-01-28 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">1349qhy1ezn78oo147jk1kuecxjunkcigyjekfpc8bnorgh0jy2psqvyo5e5k04w1gz1r6rbfl59j2fzt22scn89hmafhiq5u1liomdmra938ud340gzakwwcob1hbced1lqzi8j1ppg7hp3zjxw89w645gtu3mu28ovzvzdkqplano9br458gw32kb8k5fxkkf5lhi8sv4evgoy2d6vl02yuuk2nb479f5g6ygg8jr4lvxvyy9dedd0fsv1i02</cfdi_digital_stamp>
+</hash>

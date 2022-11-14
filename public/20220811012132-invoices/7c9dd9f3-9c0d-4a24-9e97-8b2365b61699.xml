@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>7c9dd9f3-9c0d-4a24-9e97-8b2365b61699</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Alan Velasco Torres</name>
+    <rfc>AÑF990627V78</rfc>
+  </emitter>
+  <receiver>
+    <name>Priscila Domínguez Noguera</name>
+    <rfc>CÑR7907285M9</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">715562</cents>
+    <!-- ISO 4217 -->
+    <currency>AED</currency>
+  </amount>
+  <emitted_at type="date">2020-02-08 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-12-04 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-06-07 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">49e2vx8tct08f7u0br87a00nmnvlynbzg8tgqlgchld9q0q8ynhycv2l4u2snua3ev6gaosjg8qc2salx5fkbrnjkz3c5zhsf4q96mklxnl2w1beazmwatcgtaiz73c6799j35y6f5qnoaoy8ako6928xiguash3eantgbg15mju1xxzime1i4t3tktejw83x19bxwz7tjolzde7wav5cvhowxk9p17xrggim4dfra9i86gqveojib70l1g9ch2</cfdi_digital_stamp>
+</hash>

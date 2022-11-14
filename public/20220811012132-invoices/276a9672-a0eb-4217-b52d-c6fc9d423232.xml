@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>276a9672-a0eb-4217-b52d-c6fc9d423232</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Eugenio Cabañas Ortega</name>
+    <rfc>SGZ9011034KD</rfc>
+  </emitter>
+  <receiver>
+    <name>Raquel Escudero Manjarrez</name>
+    <rfc>IJF791123F4N</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">643172</cents>
+    <!-- ISO 4217 -->
+    <currency>XOF</currency>
+  </amount>
+  <emitted_at type="date">2019-07-22 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-05-22 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-09-08 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">c1du74xrmi6p3q0yhydtzxpvt1vtrr0h1u92i795ehjq1x8pmm4deof312fb3wx682mvij5y4kplm3g3dq2jub6nm4econsmxeszeg7mcjpv5e4gnxnfps0m83m8ynfgdtz2sxuxexy5nzwdbwzt4oamoylgvgjnf3snqhqui5yyg13hysw2lp2dqlhsxzvw3ixyaydte8o0aggr855nsqz1i8e2ncy3k6g6g8jtm6l6ov6y16fbsz68dn217to</cfdi_digital_stamp>
+</hash>

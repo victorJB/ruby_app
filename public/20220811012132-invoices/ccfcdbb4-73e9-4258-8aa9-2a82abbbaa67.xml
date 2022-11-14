@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>ccfcdbb4-73e9-4258-8aa9-2a82abbbaa67</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Eugenio Díaz Bello</name>
+    <rfc>PCH000427FSN</rfc>
+  </emitter>
+  <receiver>
+    <name>Linda Machuca Álamos</name>
+    <rfc>YTF160619Y2P</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">482241</cents>
+    <!-- ISO 4217 -->
+    <currency>IRR</currency>
+  </amount>
+  <emitted_at type="date">2020-05-14 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-10-20 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-06-25 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">rfpz4296y9uo2ht1vwgcy0120chftkbj5h1up45m5lry9h5o20pxd931dycms3dwy0c0ttelmzmjqblz93ne529jzpmmltvyc8rgwrmmrsqiyumsvv0w6k83f5hjuok2cncob2cwgkma6mg1lfjwumd7b2deu19tslfoi2brmuc018ln0bwh01jf2n1g3a0sutlozx287znau7xujtvq5cpso9elfevnlonvjnd0tgwd9rmzs01edemtmrqixnm</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>940c4bcb-b556-4ed2-a057-5e86a6aa7081</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Hazael Munguía Nava</name>
+    <rfc>F&amp;P110826A4B</rfc>
+  </emitter>
+  <receiver>
+    <name>Fernando Alvarado Hinojosa</name>
+    <rfc>V&amp;Q210225S2M</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">762475</cents>
+    <!-- ISO 4217 -->
+    <currency>MUR</currency>
+  </amount>
+  <emitted_at type="date">2020-02-28 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-06-27 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-04-14 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">6121kr7du5v9u60w22qvja232yws7jg97x6a32paux3wg1ezjhpusgahb0s5ssc29cdfyjmzx3vzuqqz7gizuymsbl0vs436gkwgnspyv2cfhkvm5e06nvowqqcm65achlhmcfiktunuripofztnpiadh4gw75v1k0isknozcesm7fa5yuq0co04su8kxvy49j521snh48ldblqck7ex7pu43n6ug4xrgzt6cz7ovcau0g5q6qohbzjp5n0wgxl</cfdi_digital_stamp>
+</hash>

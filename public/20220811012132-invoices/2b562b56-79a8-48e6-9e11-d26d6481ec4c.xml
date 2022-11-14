@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>2b562b56-79a8-48e6-9e11-d26d6481ec4c</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Jerónimo Díaz Góngora</name>
+    <rfc>MVX790201VNC</rfc>
+  </emitter>
+  <receiver>
+    <name>Oliver Munguía Jiménez</name>
+    <rfc>EKO2107158EM</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">41460</cents>
+    <!-- ISO 4217 -->
+    <currency>DJF</currency>
+  </amount>
+  <emitted_at type="date">2020-07-04 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-04-10 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-11-12 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">za93a0fzz95ofl7zq49wyvv9gco8eajukxu6mlhqjo65h6rwpq0zpa9rky64geqdyhdgyqkqfmrjlgxzyb9q9wnbdg5w7r29i8gojwchdr8n11d2xmmafy88krwzjkrh72eeozszcfj2fk1ngot760yln0g7dzzy0y9gq01tzfmaktkwgdf5veqvt1s06e0g5uteizlrwb1n1c77puwhb74y009e3rylvsfl29pzyb4s92tsirksiil59z481bn</cfdi_digital_stamp>
+</hash>

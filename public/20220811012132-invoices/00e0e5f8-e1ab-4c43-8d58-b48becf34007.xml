@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>00e0e5f8-e1ab-4c43-8d58-b48becf34007</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Paz Calvario García</name>
+    <rfc>QMZ911210FOS</rfc>
+  </emitter>
+  <receiver>
+    <name>Iliana Limón Vélez</name>
+    <rfc>XYN1907106KJ</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">972983</cents>
+    <!-- ISO 4217 -->
+    <currency>AOA</currency>
+  </amount>
+  <emitted_at type="date">2019-06-14 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-02-22 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-12-18 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">y785ah50hux885501vwx2mo7hjdgp3w4j6x1o3vl2dgojwaj0y6zca2vz29rpc46vi4r82cku2m6dpkwmrobbxkqb2kjuzcehbs3t0g11ku5z95ss3s7dbwj8tba4o9e2iksc87ge0ev1kafz3q8ejmk28rmnszesp13i2nhq83vdwnlhgt40c2wgul795ckqesiq3rj8xkwrj167rhigk5nhdoz42c2jo57do5q33hgve1j0w9jfpw0pyt22iw</cfdi_digital_stamp>
+</hash>

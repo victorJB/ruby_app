@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>8ade1dfc-69dd-4ba6-a9d2-fa2b2e049bd8</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Carla Pascual Macedo</name>
+    <rfc>ZJÑ830403KES</rfc>
+  </emitter>
+  <receiver>
+    <name>René Jaramillo Fuentes</name>
+    <rfc>ÑXF1503258PS</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">673587</cents>
+    <!-- ISO 4217 -->
+    <currency>LRD</currency>
+  </amount>
+  <emitted_at type="date">2020-12-25 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-08-23 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-06-04 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">64fvsolaporsfouagji4vuo1qq2vr67i5mcxbru0tv9abpl52kqthciw5akdsrlhvph5gh0bg73enogruqwxi50drcxt04fg6neko5c2kjno0xif0urb6ozqsp7epm5b2zepgz8xj9vjfv0al7bnlw0vhlbxjifuds9qbi4l8z1layjuqw9a8dm9we3rz2grvuumq8hpk8oksfq5h2yl1vu8fkys8ai1zq57p1e8ttqr0m5h3i55xf83mmhxdmy</cfdi_digital_stamp>
+</hash>

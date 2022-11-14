@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>0fabdd3a-a932-4c75-a15b-9ff1b45dfd61</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Manuel Colín Covarrubias</name>
+    <rfc>EGO97021968B</rfc>
+  </emitter>
+  <receiver>
+    <name>Uriel Noyola Franco</name>
+    <rfc>NOÑ871002VJ3</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">64259</cents>
+    <!-- ISO 4217 -->
+    <currency>LAK</currency>
+  </amount>
+  <emitted_at type="date">2018-03-26 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-06-22 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-03-26 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">yukgalbruzhtzymfibrkxy1e6qxlkww1qsqjehibb8etkhx3dwnlt61jl0w8efo5xc0hkfmjraoh21ib9yu0h8b1amw31rr7vyenyzy9ynr6zg3zpcyohkqnupak46dpymm3etjc4qvkwssqx0f12o52mybgp38n4b5ke8tzpyrszafljr0fqqs3r8o0gnekhm2unzpqh2l8yiot2yrc5rtbelbsktlapqr9n9ni7r4g8k6ba11vp4mjx4gxooz</cfdi_digital_stamp>
+</hash>

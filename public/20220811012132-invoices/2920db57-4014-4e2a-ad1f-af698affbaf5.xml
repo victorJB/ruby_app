@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>2920db57-4014-4e2a-ad1f-af698affbaf5</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Ricardo Bernal Soto</name>
+    <rfc>XEV830904LO3</rfc>
+  </emitter>
+  <receiver>
+    <name>Edgar Emilio Zamorano Rubio</name>
+    <rfc>LSR220519P4E</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">853667</cents>
+    <!-- ISO 4217 -->
+    <currency>HKD</currency>
+  </amount>
+  <emitted_at type="date">2022-05-20 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-05-28 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-02-04 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">qis5qqmff4pgl1bfr3rxw12nj40vcoddhpb5plx3koxvs6q5nff2vxkxjfd9ojgxmg5kflb3tliz5uru96wwpnhltqfuajnebcvwn1kozsh4l5929c191e9uaq0hkubkq30aai7ubf2ckuiclnkoyzdg6mjc5si4fafhp6zig3pls1dd0wisjs5dunwf248esqfr94vj7dj5fcgetodrjz7brhsukx0ly2nj6psoy8l8f3vchj03zop87ji45sb</cfdi_digital_stamp>
+</hash>

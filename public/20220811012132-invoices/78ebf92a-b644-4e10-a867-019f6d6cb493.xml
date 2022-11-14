@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>78ebf92a-b644-4e10-a867-019f6d6cb493</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Miriam Aldama Santos</name>
+    <rfc>INM121225Q0U</rfc>
+  </emitter>
+  <receiver>
+    <name>León Adrián Aguirre Nájera</name>
+    <rfc>&amp;UT140307T5E</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">566577</cents>
+    <!-- ISO 4217 -->
+    <currency>SVC</currency>
+  </amount>
+  <emitted_at type="date">2021-12-18 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-07-04 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-11-15 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">xrbu0zfycp4a439eyg4d8852gs8qv3a7fk0sa43e0algx2y4fsu6zrdgg2ukaexrwvn5qzl1gscpxalqmldi1qtyvw6zxqo6ij8buysc64vhsrmvo74039k1w2lww6pzfkpg0sy4wici0jjy9eq36mg89d3j4v8d9pos26gkr56ogrz9d97fkii47cuz3817jrgye6rmogn3pcx67aalbib912wgqccai879stwhmb4l70thtpo41v6r4cz6xl6</cfdi_digital_stamp>
+</hash>

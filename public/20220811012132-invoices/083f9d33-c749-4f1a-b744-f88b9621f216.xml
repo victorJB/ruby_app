@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>083f9d33-c749-4f1a-b744-f88b9621f216</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Cecilia Arjona Barbosa</name>
+    <rfc>BHY7005026DI</rfc>
+  </emitter>
+  <receiver>
+    <name>Angélica Trujillo Guerrero</name>
+    <rfc>HPS890108B4R</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">852854</cents>
+    <!-- ISO 4217 -->
+    <currency>MZN</currency>
+  </amount>
+  <emitted_at type="date">2021-07-05 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-10-19 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-07-05 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">1zyr0jff24kz6n1euue31yjsejbtl6qdi5pnmefgwgrugwoofg227sqmu6udxsw0ib0t0ipipf6iiftg2t8axw5p4yhy15f1lxo0uqrt15xcqe16f0dqwi1oqtqh58l5v1de87kyoo4bqwve2vgnsq94eamhgswcwve8fbmz8kw9ctosw7oy4jynnt5io59zi8r1r1zreylz91y4k1x6mqbim8a36ylptpk9wxgsen89u7gjdaojdu6a6suzayc</cfdi_digital_stamp>
+</hash>

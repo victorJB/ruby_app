@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>0b38f3ce-93a2-417d-8e65-dcfe871aef65</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Susana Palacios Sosa</name>
+    <rfc>EWI0305296DC</rfc>
+  </emitter>
+  <receiver>
+    <name>Seferino Calvario Soto</name>
+    <rfc>HCF9804146Q9</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">616672</cents>
+    <!-- ISO 4217 -->
+    <currency>PEN</currency>
+  </amount>
+  <emitted_at type="date">2018-04-23 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-02-21 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-06-25 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">x5l0as0r35bz2cswuawn45etasurm92t5mm1qwf4v90ptqnhcr3x6dq9nlwgydok1am3wuh0erllagqimlvyray0kmp25bv2lq3tjey2gqr9uwgx5wns50u9i2linwpebmk7hibmfo3voi3xhug413en1f49ainpnbvx0i5mj8uz3pcdjyv1gfva73198f9ky0trx4xsv5gq3fy748guybdsbfgasvwqok14fdt9x2k88g22rz0k6c9u2czzgoz</cfdi_digital_stamp>
+</hash>

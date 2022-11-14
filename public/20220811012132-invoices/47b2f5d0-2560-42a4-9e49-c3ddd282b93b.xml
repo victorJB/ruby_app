@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>47b2f5d0-2560-42a4-9e49-c3ddd282b93b</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Karla Baltazar Holbein</name>
+    <rfc>SMA860503BLV</rfc>
+  </emitter>
+  <receiver>
+    <name>Elisa Batista Rojas</name>
+    <rfc>JRF881115JF8</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">243094</cents>
+    <!-- ISO 4217 -->
+    <currency>MOP</currency>
+  </amount>
+  <emitted_at type="date">2018-07-14 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-02-28 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-05-29 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">7yfa625gbht9oni5dd5bvgelpkvt3ebuzgqb2a5t65ou7qm0ylpaw6zknr23cnn4lunnymzecx6a7evt0bgd2soqipq5ol6qr0fe40krjwqccakph2djewcqhyieq6622mnk728tkphernz4u21zodmhh9cdz2k9hec0rr9yb8sdnrv5vuwrtstnfl25vf9v7hfxmjnsox9dfajwnto4hze9iyzubg0hm9dn27zg9nz0icqxrvf45nmz6ytrqvg</cfdi_digital_stamp>
+</hash>

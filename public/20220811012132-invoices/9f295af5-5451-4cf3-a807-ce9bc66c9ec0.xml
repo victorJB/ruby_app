@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>9f295af5-5451-4cf3-a807-ce9bc66c9ec0</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Itzel Uzeta Bello</name>
+    <rfc>QRU1110104VF</rfc>
+  </emitter>
+  <receiver>
+    <name>Sergio Gibrán Tapia Macedo</name>
+    <rfc>JTB000121876</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">884101</cents>
+    <!-- ISO 4217 -->
+    <currency>MZN</currency>
+  </amount>
+  <emitted_at type="date">2018-06-01 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-05-22 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-09-08 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">49870ue4obsoz6yu0cijqmlc9tvk0kiopdwiooampd5ki5jdswixc06sczvc6c0qlngllwlr4h18u3beurzem4zatshtpgvi5ge985kykjlm4jo505epa8049s3zmt8z64tocpp5kedziflzn2q5yi5sr1go81iptxaqjq8z37fhvekwxkwkpiwuwzoo39imq8o11zz2r47uzj2rvy5xobaqmkqf75sadgsmrqvmz9o6v4fdzscatxelzbkyhdh</cfdi_digital_stamp>
+</hash>

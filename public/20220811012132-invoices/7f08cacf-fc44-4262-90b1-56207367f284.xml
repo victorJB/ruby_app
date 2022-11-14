@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>7f08cacf-fc44-4262-90b1-56207367f284</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Héctor Palacios Nava</name>
+    <rfc>U&amp;X130402YE6</rfc>
+  </emitter>
+  <receiver>
+    <name>Andrea Gordillo Navarrete</name>
+    <rfc>HÑC910304YZT</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">470096</cents>
+    <!-- ISO 4217 -->
+    <currency>ALL</currency>
+  </amount>
+  <emitted_at type="date">2022-06-06 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-01-11 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-09-17 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">kr6uhlks2s9o27w1gtgmriv6ebuoc0c32nv512ea8r3xv9ve4syxkj5tpdauoftmp5q8enpz509xoomej1mxup7m779qpleivek8nd6ctn9s5rcgj7uvj98qlw2gvhi4w420lygp90c3skf2zhupwjkt710ob9bwv4peiptfjjt29nm3vwxrim9rt68ahdvtm54n5ze00j091v8t8uzn4wndywdob5r12dm6h49uwdk8wlxfld6f72u95coa9jk</cfdi_digital_stamp>
+</hash>

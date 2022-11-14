@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>4cb4327c-426a-40ff-81d3-dd6367177b52</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Victoriano Apolinar Monroy Villa</name>
+    <rfc>WJE700424BMR</rfc>
+  </emitter>
+  <receiver>
+    <name>Perla Sabugal Espinoza</name>
+    <rfc>WXV040210TC0</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">992436</cents>
+    <!-- ISO 4217 -->
+    <currency>SZL</currency>
+  </amount>
+  <emitted_at type="date">2019-10-18 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-06-24 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-12-09 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">xjgf6bgbkubamnxnfuf6vqgnazftebcoskd5fdaq79oby6e17ra9dp21x1d4willg8ghgzn9atcem4rdl6s23ukyvu6hexcwxpys2rcp5br43koyqkee9zdthfrh3ct7jjv3gm6dstth50z3jb0q11qomv3b4fi6x01wnw7ccbaivimcf7veta63a2j1jsj1o27r2qdmqjdq7rqhbd7nvu9c6x9p05gtdhdv0rrvyu2jyc4lbz3da6h7rdjbmix</cfdi_digital_stamp>
+</hash>

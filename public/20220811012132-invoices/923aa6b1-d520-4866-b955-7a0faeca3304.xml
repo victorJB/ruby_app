@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>923aa6b1-d520-4866-b955-7a0faeca3304</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Adrián Cabrera Tejeda</name>
+    <rfc>EGU800812X05</rfc>
+  </emitter>
+  <receiver>
+    <name>Itzel Duarte Salgado</name>
+    <rfc>NTO050712614</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">709219</cents>
+    <!-- ISO 4217 -->
+    <currency>KHR</currency>
+  </amount>
+  <emitted_at type="date">2022-02-08 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-05-14 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-06-11 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">r6gsgk935n9jt5lhaam95kmdd1nkn6riy84zydu6f31etvatfe66m140nblo8h0hk6uo1esfp1rrclsvwjr5y3qslf5n6oouunctfsarbtd700oy1j7nehzu54rx0gtl6lvgwmkrq090rx1pimyyaxr678urxujma6idsk5b14sew190rleuqg6tqwmveylnecerdiq3c37m35boshakar0miz0mypqtljmhhqxpf9ze2cm79hct4p01buqfskn</cfdi_digital_stamp>
+</hash>

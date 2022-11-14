@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>db56bad4-ae58-4bbe-97d9-a98df4c8faa6</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Augusto Salgado Portillo</name>
+    <rfc>ÑYE020708BV1</rfc>
+  </emitter>
+  <receiver>
+    <name>Alondra Irineo Nava</name>
+    <rfc>DOP171212QV3</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">614445</cents>
+    <!-- ISO 4217 -->
+    <currency>JOD</currency>
+  </amount>
+  <emitted_at type="date">2022-03-27 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-12-19 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-04-14 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">tsl6bewrxusfwy916bhx5mo464syew3itk1klnamivr1ecl3qbcr2216zbcgjzsqobagbnv2npp26rox7ezf33ydeqznyqbp1qxotc3w90sr8wtazsh8mlucasynca2vwg4gu2vlwijufe3d81j9ko9atl0nxjfo8xcyri74tcu0nxk7ficly2jrikdutzy9pdxl331s72a5bbsqjfxw24gh5ee2c1vd9ehto1ta8hlbchustn3y0aqfk6awct7</cfdi_digital_stamp>
+</hash>

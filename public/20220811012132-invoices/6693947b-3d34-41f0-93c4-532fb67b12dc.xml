@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>6693947b-3d34-41f0-93c4-532fb67b12dc</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Salvador Torres Elizondo</name>
+    <rfc>DGP020105ZSO</rfc>
+  </emitter>
+  <receiver>
+    <name>Paloma Robles Ochoa</name>
+    <rfc>DTS200425O27</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">878180</cents>
+    <!-- ISO 4217 -->
+    <currency>XAG</currency>
+  </amount>
+  <emitted_at type="date">2020-04-25 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-07-26 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-01-30 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">nw0s6kh1blg9vj2cr6h94d36m409y3jwu8yc41mg456489v79usj5vprprlqtaf809y7bfkkn3hil3kn0yfrrf7is4fz8phuu15hru6ebge7dwxo88jbbix77s2qkqwvnk0vywdjebcm4b8kxoljdfe0cu8xode7w3eevh1rgt14tzw5xwr57ee3je3tw5hjues8vkbhm858y9c6pm8mp5rqtrrihofeeu5547c0x6ruo3s0aml1uk5l9p9lxj7</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>2e3c0e32-3a32-4cbe-9396-fdd285f570eb</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Juventino Adrián Rojo Carmona</name>
+    <rfc>AMR8906173RT</rfc>
+  </emitter>
+  <receiver>
+    <name>Cosme Leyva Simbrón</name>
+    <rfc>MQC710628BW5</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">472254</cents>
+    <!-- ISO 4217 -->
+    <currency>TMT</currency>
+  </amount>
+  <emitted_at type="date">2019-12-20 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-05-21 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-10-09 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">fsydne56r89vpzk423p45ik3bfukzq47b441fh2w2019coe0o1t6sh56rq6dhcqgxkqsl3j6a4ni8n3xgtsv0q9cfh1o4mnqvfpgd9faaljvnqt1eiaatgzwdnysy0ifz262d182cq0t1cw8lolqdemme83jm1yfc6doclckpjm1vp6kb2omv2qjtga6tenm003t0ilgvi55tk1o1h2sr5qomu34vy9vbyrpspwt3pgfss3yj77yc0i4a6vc63q</cfdi_digital_stamp>
+</hash>

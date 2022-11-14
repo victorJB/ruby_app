@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>ef4bd485-095a-4591-8ad2-74af71620e77</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Angélica Luna Rueda</name>
+    <rfc>NIK071002QRU</rfc>
+  </emitter>
+  <receiver>
+    <name>Irving Alfaro Jardón</name>
+    <rfc>EHW750104C1B</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">289659</cents>
+    <!-- ISO 4217 -->
+    <currency>THB</currency>
+  </amount>
+  <emitted_at type="date">2018-10-13 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-01-16 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-12-09 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">dv3x8bezy93l7ckxl2xkn4oshm946xtb8ypqmv1c1yr0p3z1ft1i4ki1wj96nzp86k8423qka2d50f8cckc8ho6sxlll3hzwedaw2ekjwd29ollia94gtoj2a7osipwkjl8rtkgyd70ri7xfuwbtznsxjldbz84h8iys4wsp0hhkgs1wcsgtusfgkar46j2npqcd5qye04kn9y4uunvw9ebxt5s75kse9pyf2ryezf53guhiohygblmhwfng7i1</cfdi_digital_stamp>
+</hash>

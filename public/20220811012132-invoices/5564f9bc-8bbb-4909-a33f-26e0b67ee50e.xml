@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>5564f9bc-8bbb-4909-a33f-26e0b67ee50e</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Karla Zamorano Durán</name>
+    <rfc>DQÑ060105HNG</rfc>
+  </emitter>
+  <receiver>
+    <name>Humberto Germán Orozco Gavito</name>
+    <rfc>AQO8506022FU</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">141613</cents>
+    <!-- ISO 4217 -->
+    <currency>WST</currency>
+  </amount>
+  <emitted_at type="date">2018-06-17 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-09-15 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-01-13 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">k8wk5awt2ihe7dmniftcnzh2hnqwq053vdne7sjtfrwf04z1gh8iv3x7wm09wqqy08kg5rk1am1qjm8v6tk77c2421395jalxnprzg6mrb29ez45rq2n58z1ex9pmlg8qj62aewa4nwk81np09jqqpfz2q7rg6d6bjaeu6l4m42lrzvtjnlylupzlcr42ypvbz583o6ctszc26f0m7pjdnep39rfl274s3zwwhib46ei8qqrx754igarfvigoyv</cfdi_digital_stamp>
+</hash>

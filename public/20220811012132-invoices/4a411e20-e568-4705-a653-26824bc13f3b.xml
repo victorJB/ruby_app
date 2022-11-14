@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>4a411e20-e568-4705-a653-26824bc13f3b</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Horacio Pascual Lara</name>
+    <rfc>RQV990223GY6</rfc>
+  </emitter>
+  <receiver>
+    <name>Zoé Patricio Fuentes Silva</name>
+    <rfc>BKÑ010406LBX</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">693737</cents>
+    <!-- ISO 4217 -->
+    <currency>MVR</currency>
+  </amount>
+  <emitted_at type="date">2020-10-27 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-02-23 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-11-28 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">8ylefnwmizxwspc2sbcckr845uzkzfy8kxj5d06hpq4fmjn45adttxqsqebvcaddtbaqmzq00nyrdjahk75vlamu978jnt85z9k514mv58je2lsbmselhgy03wr67oywk4zph1ez9a7vtyuvd49fl2g07d3y379c4wt7lundxdnfmv2gmnjf94ft9aauof8upeqirl5n1yl4cgbh9vksg349hxp03fy7aipa565bxzfo0hfu0cbadrmmvgsm9ws</cfdi_digital_stamp>
+</hash>

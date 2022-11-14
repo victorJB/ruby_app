@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>1d9d962b-7bf5-4032-a309-6bd983ebd988</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Araceli Pulido Simbrón</name>
+    <rfc>LSW900803YBV</rfc>
+  </emitter>
+  <receiver>
+    <name>Félix Simbrón Velázquez</name>
+    <rfc>OUC780808WFN</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">169640</cents>
+    <!-- ISO 4217 -->
+    <currency>XBB</currency>
+  </amount>
+  <emitted_at type="date">2018-02-24 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-04-12 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-01-13 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">lyszkbbh4aw0k9iqnt4mi6k15mgrrf2unrrutmfws95cyhq9q04zr5vsbv8ikvg8nhs1irzc3rtvhx0ovm6h10vo12voxhf5biebf7ee2wgnti0ys8uys3agalwg0nqwbsa85wwcuwz1xxhaz67japwjgssnxmvxf3u5y7c0zb3015njqsng2grq5n9e23ojichp074wb1zs1sekg5bzi1b7odq9w6kc2n41cx1ahe19asrmiwbqn4oyfv46sa2</cfdi_digital_stamp>
+</hash>

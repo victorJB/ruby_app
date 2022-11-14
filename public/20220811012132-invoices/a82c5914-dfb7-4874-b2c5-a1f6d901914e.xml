@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>a82c5914-dfb7-4874-b2c5-a1f6d901914e</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Vanesa Domínguez Noriega</name>
+    <rfc>NXH9506278JF</rfc>
+  </emitter>
+  <receiver>
+    <name>Iris Rosa Morales Jacinto</name>
+    <rfc>KIO830228HML</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">825584</cents>
+    <!-- ISO 4217 -->
+    <currency>BBD</currency>
+  </amount>
+  <emitted_at type="date">2021-02-24 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-12-25 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-07-28 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">n0ck08ftvzwvf3vfpkfd1zmh5o8vaq369hb9h9yk7h3e8ndw5sge2h41u7ioe1t0vvmsk75fcbll59mtadxrcjc31vi3dzh5b61l9ag6z9y8vffghwxaw9vs6vj4buct2ie8b6qzihlvvhsqkfegufzvet7jjz6jfcybpfivhfso6ssqdrqq0m5fgb9qy4kz48st5x5w65u1hwou9e73lgumlfjwz2m7ib0k2lvlbzjnodwxdzbl9frgp45bvk1</cfdi_digital_stamp>
+</hash>

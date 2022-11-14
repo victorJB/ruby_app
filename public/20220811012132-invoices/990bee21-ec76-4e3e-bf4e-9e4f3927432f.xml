@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>990bee21-ec76-4e3e-bf4e-9e4f3927432f</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Marcia Emilia Rubio Aréchiga</name>
+    <rfc>ZFG961231DU3</rfc>
+  </emitter>
+  <receiver>
+    <name>Juana Dorantes Domínguez</name>
+    <rfc>MU&amp;770525A6R</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">131786</cents>
+    <!-- ISO 4217 -->
+    <currency>KES</currency>
+  </amount>
+  <emitted_at type="date">2018-01-16 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-02-04 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-06-02 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">qzmt2nttk43fa170mnre30kzj4dobcxotdfz5b0941agjx9z1tx79q73wz1jnekqa8d4ovjiawxfh3rlh2ic95okjnu0s5ka8bnuprsref77yhj2ckd8q2s2uc81jkgltk76wkkoswm5did7r0ycg7vclyxjn5p1rakfp6i9hlazrxuc762cue8e9taw6460mtdk2btbb3bat3m2k22docg403pbwyepi4za37pf1bj6xfvohj7ud2qigmprrcj</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>3ea485d8-8b11-4af0-9b60-75464c44074a</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Ulises Jasso Merino</name>
+    <rfc>VHJ810329ECV</rfc>
+  </emitter>
+  <receiver>
+    <name>Jaqueline Cordero Arenas</name>
+    <rfc>MTK780209A3N</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">74194</cents>
+    <!-- ISO 4217 -->
+    <currency>MRO</currency>
+  </amount>
+  <emitted_at type="date">2020-11-02 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-12-27 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-10-19 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">awj1kc2udn7u56or7n1srfgsgldu3fw2nqz8b8p7v88abzlfq8krbv7owiuadz7d6gibavhwz06znyvi7qy3nmxfo7s0hlew4sqwyf4gtrdv6l9omq0g8fg5yshycicka4hr39w3js7n76og1hrkiq1mpyrm8igggyqnraq7xjvthqoqf95likvza5qxjtm35dwwsszc4f99g0nog6fzrx8z17hajonnxxxeh2fusegv1zwyamq0q4c8m6ohf7v</cfdi_digital_stamp>
+</hash>

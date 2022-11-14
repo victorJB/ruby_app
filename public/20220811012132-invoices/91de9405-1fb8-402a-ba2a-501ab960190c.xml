@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>91de9405-1fb8-402a-ba2a-501ab960190c</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Ulises Huerta Alanís</name>
+    <rfc>XCF200724RUS</rfc>
+  </emitter>
+  <receiver>
+    <name>Fabián Botello Meza</name>
+    <rfc>SÑQ800318T90</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">251186</cents>
+    <!-- ISO 4217 -->
+    <currency>SHP</currency>
+  </amount>
+  <emitted_at type="date">2021-10-20 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-03-18 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-03-18 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">jsfprg0t726rx4a8o0ckjel7d1ly5ij1afhq00oh2choo1q1sfn3kulc8wi7cy5xq4uhkvxilzdjy48mpm0p0mu2tsit22yckpixd5g9z3ahs65fywbvaid9hjikgjjig0sq23cfg72idebpxlu2t2ha3l1zh2rm5w7zs2jys386u276zulid0zcfjsano1yx65adcz7hpsz7u3p25d7k56dlh4w6hizncovg7cs5uzbkziptqrkp0ox6rpr3cy</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>90739156-0563-4996-9270-587cda2c88a6</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Laura Calderón Pelayo</name>
+    <rfc>ZQH030113GVY</rfc>
+  </emitter>
+  <receiver>
+    <name>César Rosado Jasso</name>
+    <rfc>F&amp;V760303KM5</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">583588</cents>
+    <!-- ISO 4217 -->
+    <currency>KWD</currency>
+  </amount>
+  <emitted_at type="date">2021-03-28 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-07-02 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-10-07 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">rcm091vrd65u432e5gt8hynmyqwt70i3clmyodzg5jnrcozdpus18815l2mp7yf4hz5qrn1kn8auvf5taab5yfwud4qaiwo0a0d3rt99s79z5o12xrwy8mex4kc03zcfds4ggw6jrp67lswfjn0xr1bo0sks0p3o1vumqw5yi7btpqfblktlgzg9phg7tolm4v93hv7rkaau9folh5jiuzisj7ae5bpx585giqqo33bdkp5vlgulckim6m55u0r</cfdi_digital_stamp>
+</hash>

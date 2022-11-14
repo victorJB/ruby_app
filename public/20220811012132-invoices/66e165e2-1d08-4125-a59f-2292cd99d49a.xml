@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>66e165e2-1d08-4125-a59f-2292cd99d49a</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Adriana Jacinto Galván</name>
+    <rfc>YIQ14060453X</rfc>
+  </emitter>
+  <receiver>
+    <name>Fabián Emilio Jacinto Hoyos</name>
+    <rfc>VBL810221G6C</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">50271</cents>
+    <!-- ISO 4217 -->
+    <currency>NPR</currency>
+  </amount>
+  <emitted_at type="date">2019-11-23 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-01-09 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-05-04 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">rlj26lr1k9ua0ekedbdvpqz16mld165ypswxz7die6y8w4p69xa0p1fep1zedxnym7t9zed3cw330ihch1obgzhac75gue8leq1ampy5ktt0x6i0mcgf91sg7tncwrjp7oxf0i8m6a4gtkeuv6lvb1900ly9cy1uomjqydg9d8dp1zn2lp8b20sm1yha4zi1xidkaspf3m0r8vz5lidkvraf9cil67ojoqlyo3p6ii47ixiw4rt0jyen0ldm8dz</cfdi_digital_stamp>
+</hash>

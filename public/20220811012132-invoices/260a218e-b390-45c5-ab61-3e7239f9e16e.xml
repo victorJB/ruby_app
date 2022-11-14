@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>260a218e-b390-45c5-ab61-3e7239f9e16e</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Norma Sambrano Montes</name>
+    <rfc>HIJ920622NBQ</rfc>
+  </emitter>
+  <receiver>
+    <name>Heriberto Mondragón Marín</name>
+    <rfc>RJX9911182C1</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">696456</cents>
+    <!-- ISO 4217 -->
+    <currency>DZD</currency>
+  </amount>
+  <emitted_at type="date">2021-01-13 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-02-09 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-09-04 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">t0nhzrl1zvdlt05ty9zzed6y0ihvxvo2h3mp62zhxn0gdnwpli063l788jl3qgqbz1x2g04ns9lp6pywxoi3zqwg0si0ussuvorjjtyln7i5gkla8psnw6r9zj5h36qmmalsz1ib1m86n13zp6wro64biyno2l2c5utxc54bp2hpbi1seh81il7gh6j5nqtmpehnme8kzlk4u79a0w37vg3scnmkf732fwoah0r4pzfq9caclnivmf7xcpgmzag</cfdi_digital_stamp>
+</hash>

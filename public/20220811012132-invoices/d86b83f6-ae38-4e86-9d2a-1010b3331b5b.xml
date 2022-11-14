@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>d86b83f6-ae38-4e86-9d2a-1010b3331b5b</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Leslie Dulce Funes Delgado</name>
+    <rfc>&amp;HF100117NVJ</rfc>
+  </emitter>
+  <receiver>
+    <name>Carmen Nieblas Rivera</name>
+    <rfc>KBD071114P9C</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">295856</cents>
+    <!-- ISO 4217 -->
+    <currency>AZN</currency>
+  </amount>
+  <emitted_at type="date">2018-03-11 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-01-19 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-01-04 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">woc59m39m0r73moiq6cbud7ke0es51w68qtsbcib0a0chfns9g4qfxv9w3ai7bpsloxot1iv6ddto3orajywynpithmo1t1gvfxg2axdtekba3ow75acoudst7sdd1bjqhz9e2ipy9vaxme55rg9df5669jgtkz64pzk6kot0nwsgegzbvvvek6v3uxa8v2rujcmcta61a4n9nvftarxy9mniyze3sxo4wie8jod6syxptbqao09b6l0kp017ms</cfdi_digital_stamp>
+</hash>

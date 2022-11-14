@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>5a445995-5e9d-4856-8ac7-ad5830fc7e3c</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Arquímides Domínguez Malpica</name>
+    <rfc>HIU920707MAS</rfc>
+  </emitter>
+  <receiver>
+    <name>Anselmo Pedro García Gallegos</name>
+    <rfc>KÑE140323CW8</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">719132</cents>
+    <!-- ISO 4217 -->
+    <currency>MYR</currency>
+  </amount>
+  <emitted_at type="date">2019-09-12 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-04-06 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-02-21 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">2m2wxm1pf6rp5n01jsxwr8k6hzetrzfqyqc9hoyfdll7m4cak9u1pm4ng1os863wb39226on6j9hihbbvc7lfdoqil3irwjas8z4supy3j9ry8wpt1b38mwuqsjleiersvrpxpxqa73qp1wx5tp4sqrgt4i6aeljzx2iwvxxj0777dy2h949kg1j3nlyrvha1aexyaifd4ls7kbp3f76lnnhunl0ubofl8fq9pg4d0mb8wwwu851wg5wvxba8ur</cfdi_digital_stamp>
+</hash>

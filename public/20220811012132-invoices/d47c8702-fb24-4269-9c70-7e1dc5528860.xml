@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>d47c8702-fb24-4269-9c70-7e1dc5528860</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Silvia Hoyos Duarte</name>
+    <rfc>JFS171030IK0</rfc>
+  </emitter>
+  <receiver>
+    <name>Isabel Nery Dávalos</name>
+    <rfc>ÑJM821115EAI</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">194304</cents>
+    <!-- ISO 4217 -->
+    <currency>AUD</currency>
+  </amount>
+  <emitted_at type="date">2019-06-04 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-12-23 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-02-10 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">2dh30k144px0n7xiccqyzjgm9t9hy69aobwe6lepq4ig0d61p4xndng32se4eqcwkza2z832um3t05p1zqrcg665n07jlz0bde7e3d9pvj6dl6vful7gl3ab1yx3vdi1uv6lknks00q4eu67pl7xb45cb3ms2byyfkce3z5e9snkd1lxkk90n3q64tawrhonmjkzm6xh8avpwiqs5n1obgiu9wuwvxhvb2vjila56ddcpv4bqt9cip580o2f9mv</cfdi_digital_stamp>
+</hash>

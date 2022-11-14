@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>a3f6c073-2916-41da-b08e-f8730544746a</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Fernando Israel Orozco Rendón</name>
+    <rfc>QDL7305041MC</rfc>
+  </emitter>
+  <receiver>
+    <name>Oswaldo Colín Revueltas</name>
+    <rfc>PAO001003AIX</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">759940</cents>
+    <!-- ISO 4217 -->
+    <currency>CNY</currency>
+  </amount>
+  <emitted_at type="date">2019-04-10 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-01-29 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-01-07 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">77yk949mj8hbwaaklx2hmsd0fzbbbbpjqijg12cnlkyuq2jew117gbqulijn7labno1wwfjc2ba16z9o5601z00ruekmvq2iciuhif7xkcaknov324ytmmfj4hzntne4a4hsdihanoh1i7f7hwbik4j2308wxkgk9x6q8xx3wzbrg5xtc3qch328c1q09li6k3qvvd9lie8f8rnxmv1mtky93cj60szr08r8aqzk2ixb40hulwuur75sdlkiles</cfdi_digital_stamp>
+</hash>

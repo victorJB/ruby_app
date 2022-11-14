@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>d4fedc5d-4871-499b-816f-94f55c307b13</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Vanesa Espinoza Calvario</name>
+    <rfc>QIZ930304FZ1</rfc>
+  </emitter>
+  <receiver>
+    <name>Elba Miriam De Vaca</name>
+    <rfc>JKS0311125VQ</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">462334</cents>
+    <!-- ISO 4217 -->
+    <currency>IRR</currency>
+  </amount>
+  <emitted_at type="date">2019-04-05 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-04-09 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-07-27 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">fyjhy34pili0zukomiadv8skjirz5n7fivuc435yiciloojh2nqn0detpv47hc41u8ja9c4jrqu0qqp9zy5vjz4lc7nojsrr4r11r48l4e43ep7mwcwbufw9m1mgp3xttbrsf0dy1tnto46rj3n12i25l4a2woizmp7mfhltgahqg57o8tkh2wypx10h9e9x6lcs769k502wjj1g4aqf5mvx0of62coxhouy5kml2ut3p795jo297n5foz8rosx</cfdi_digital_stamp>
+</hash>

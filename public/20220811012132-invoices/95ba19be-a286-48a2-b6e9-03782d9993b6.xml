@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>95ba19be-a286-48a2-b6e9-03782d9993b6</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Itzel Álvarez Lozano</name>
+    <rfc>VHE200815U7F</rfc>
+  </emitter>
+  <receiver>
+    <name>Benito Moreno Dávalos</name>
+    <rfc>KXQ210709CB0</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">403833</cents>
+    <!-- ISO 4217 -->
+    <currency>ILS</currency>
+  </amount>
+  <emitted_at type="date">2019-09-10 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-09-28 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-06-22 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">133z3naxbkxo4ryghxi7uzqf8kdbfx284fbv445g52xku4c7t9keutyjen40lelf9k5kfydoljajv8a7rtuzfy7gydjjsmb905ydijl27ozxyyok25685q6l43szafbu6ulbr5n2bobbry0orf47omk54ikwyr9g4xvf158g3sv07fngtq9q9hdit8zfilxsqnw4a9il0zejactc4jdqukhmlzy9vyv303gu3ngb284x19vmdyprfcgz5sikd9k</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>00655af7-323d-4b76-a855-7d0a6d6c2c53</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Humberto Fabricio Bernal Mancera</name>
+    <rfc>HGR8901121IM</rfc>
+  </emitter>
+  <receiver>
+    <name>Benancio Hidalgo Valdivia</name>
+    <rfc>LYN930404OPD</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">184470</cents>
+    <!-- ISO 4217 -->
+    <currency>BSD</currency>
+  </amount>
+  <emitted_at type="date">2021-06-05 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-05-03 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-10-13 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">fbfkt01sl6o08umnkke4o0fws8yok7skjhoqrb1fo55sjwymkrk9sbd983vo82lq1okjfqfka9idxyl1zqht9ynuecn567rd32ndm8o3d2gjdriz7n8gi1236gwe0iyiygsnh8lyn9pex6549z2fwg69mwdp8rr4ubrgw7m0rkzwh19rjb2bofxiq219grns0u837n1h88d37hbr8jfdvbtl4edjadkd438ar62e60peuc4mnp7kyt5eowb3dt7</cfdi_digital_stamp>
+</hash>

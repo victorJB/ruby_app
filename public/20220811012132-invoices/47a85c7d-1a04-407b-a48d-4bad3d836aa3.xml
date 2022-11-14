@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>47a85c7d-1a04-407b-a48d-4bad3d836aa3</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Valentín Delgado Fuertes</name>
+    <rfc>DNX970309JWQ</rfc>
+  </emitter>
+  <receiver>
+    <name>Paulina Vera Hernández Pavón</name>
+    <rfc>IPC840720M8S</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">84824</cents>
+    <!-- ISO 4217 -->
+    <currency>SHP</currency>
+  </amount>
+  <emitted_at type="date">2022-02-16 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-08-17 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-06-13 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">dbh3bp23oy0w9cbonbymw3924bddiv7tz4h0bbhusbhrgg8sl1jiitsuy6wmyntdxgce6m7sosxmr0pf6shl3a16r2uvv8w2ky4qfdpoxql63kbwi6os4abzozpn9qjjf3vd886385wpq9gjxj5n4hqe1u568p0m8otgirlbb03mq2zyxl39tuocsixu7dr7m9x6q9nxpeqydk24izdznm22icna49mmjmwrln9lxh21rdtpnl7oo15f8yh2nyb</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>e1bb42fd-534d-4408-bef0-f8a031ca77db</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Heidi Machuca Merino</name>
+    <rfc>OXP8010218TZ</rfc>
+  </emitter>
+  <receiver>
+    <name>Mónica Pacheco Tinoco</name>
+    <rfc>KOT191116F9W</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">901379</cents>
+    <!-- ISO 4217 -->
+    <currency>TWD</currency>
+  </amount>
+  <emitted_at type="date">2019-03-17 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-04-05 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-10-16 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">380gsu5k29tcriq9p166ijjo7suytw4sz71xmc3gov3w0ie4vugpkp0iypdlnilva2unml1m62e1vkbfspdfyef4rupev9tjddmwrigmrp2ex5ljslb1hg2lfebpmsi4ifgi93fbogf1h9b93w8c4el8f63qedhnvdcs08lfwppl5ip8zcz5dbuax12ekbpgbirf0urvujf69rxxhk0ccy3i44i8iyuzoy2n45tv0ioyibaonw0ipa1kaoxnd72</cfdi_digital_stamp>
+</hash>

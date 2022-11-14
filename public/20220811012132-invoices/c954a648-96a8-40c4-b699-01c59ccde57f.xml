@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>c954a648-96a8-40c4-b699-01c59ccde57f</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Guillermo Rojo Gil</name>
+    <rfc>IJQ171216CIJ</rfc>
+  </emitter>
+  <receiver>
+    <name>Lisette Brambila Preciado</name>
+    <rfc>EBH211120UV4</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">570703</cents>
+    <!-- ISO 4217 -->
+    <currency>RON</currency>
+  </amount>
+  <emitted_at type="date">2018-08-24 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-05-27 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-06-06 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">srfi9x09qithxm4suekkgdkp43819q78fca9tsl5bigbycxem4udehf5jmetca1qhbf5ezf6y8tdd82c68iy593u5pwsx159mzs6lna76t5uz5bc3rz1hjuzcfp4bra8taxxrxh5d1603gvdxes4qggzll88fzbr9opp7mg3hp3131oyf21kcg7u2s9w1ln9n4sk5h6k8ysmncdb90y26ojajs1k30wxz4bsuhcl4tth20hfbqfjfba1ugkbgk5</cfdi_digital_stamp>
+</hash>

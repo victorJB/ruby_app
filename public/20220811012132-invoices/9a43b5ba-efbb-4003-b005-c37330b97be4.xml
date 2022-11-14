@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>9a43b5ba-efbb-4003-b005-c37330b97be4</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Elvira Álamos Oropeza</name>
+    <rfc>WLD020514DBP</rfc>
+  </emitter>
+  <receiver>
+    <name>Seferino Escobedo Salamanca</name>
+    <rfc>IFE060701KZL</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">930840</cents>
+    <!-- ISO 4217 -->
+    <currency>BIF</currency>
+  </amount>
+  <emitted_at type="date">2020-01-17 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-02-01 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-04-25 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">5m008xcvnstu5htq57rcsik567zm2arqp5rrlzxh9fmc23rbv5jfp3qyby8hmmjty9q5huntfwij710nzpkhjoczx4dbvedxc4t03wrxvjyj6lywp91vvlpd8wjmjo021z4qcqg7djceo6w201qbomto5u4anyje6w7meq4l77w7ebp06njeqdejz99m2pcl0xxy398ox6uu7a4h4u4mw5itjldrd3vujlk40h11ag76v10ywm4r7jf2jue4iwp</cfdi_digital_stamp>
+</hash>

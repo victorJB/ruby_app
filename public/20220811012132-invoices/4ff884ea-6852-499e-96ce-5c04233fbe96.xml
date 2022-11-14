@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>4ff884ea-6852-499e-96ce-5c04233fbe96</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Ramón Figueroa Cordero</name>
+    <rfc>ZIR821129USG</rfc>
+  </emitter>
+  <receiver>
+    <name>Marcia Iturbe Durazo</name>
+    <rfc>AWU850226DSY</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">847589</cents>
+    <!-- ISO 4217 -->
+    <currency>AFN</currency>
+  </amount>
+  <emitted_at type="date">2021-03-17 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-04-11 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-05-06 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">y06p4gbxmn51ympjxnzjaqyf6gortsuk4xi94t7u8yiuz2errjh45nt2tpremhndd94pfos82t5sbs6u5bwhynrd7xcdtxk37v3vjiwdgye5cvgtogp3p1xolnbzv46oeqo2ne7c1exx02v86gzwz0xbes38rfkvkit35v8r0nohq7lqv6vneow91a6qxxrzjxtak7ohg6rl2p7hd99lfr6q84uuvwrmlpgrrbzgcqbgbp1i8gevn1x56xtgosq</cfdi_digital_stamp>
+</hash>

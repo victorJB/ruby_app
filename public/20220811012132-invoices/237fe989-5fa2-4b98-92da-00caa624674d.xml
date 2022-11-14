@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>237fe989-5fa2-4b98-92da-00caa624674d</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Miguel Gerardo Pedroza Sepúlveda</name>
+    <rfc>NTO871031CK5</rfc>
+  </emitter>
+  <receiver>
+    <name>Baltazar Kevin Mafún Servín</name>
+    <rfc>ZSJ7108167VQ</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">556841</cents>
+    <!-- ISO 4217 -->
+    <currency>TMT</currency>
+  </amount>
+  <emitted_at type="date">2019-06-24 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-09-14 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-09-01 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">ii4gb8d7fxdpbzulds9bhwsgsymbf677zow2tqeql850vaaqcx2s0bbf565hwmw6pu0jdgoty1xjmjzxufdn4pj8cznkfysvznrav3834gswtpt7690egunue7k7346o5n8v6qsv90pfws1sxk1q5mmiykb989ux1xodiqm9edobhqhekhkqtkl3wyto4d5p68b1dp91m015ctwc4cgp2ttbwyl8fpd8lkcn92taca39ogiohe3h9ueq4suaebq</cfdi_digital_stamp>
+</hash>

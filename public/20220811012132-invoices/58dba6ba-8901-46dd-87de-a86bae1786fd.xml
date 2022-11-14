@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>58dba6ba-8901-46dd-87de-a86bae1786fd</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Ruth Fabiola Lima Ruiz</name>
+    <rfc>OAR8312124KL</rfc>
+  </emitter>
+  <receiver>
+    <name>Carmelo Pérez Mena</name>
+    <rfc>OEM191216032</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">411086</cents>
+    <!-- ISO 4217 -->
+    <currency>RWF</currency>
+  </amount>
+  <emitted_at type="date">2020-03-30 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-05-30 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-11-20 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">tp4y2w03qdy064uiuzfff1iy3oj8n2s3bloqv2phomiqjypzozzqeihexqnxad8akz1cvzhs2q0ae394jcd14nxl2eom1mpcvdwhkdsry6jb6k94aym8w82mdcktuhq2ihckl7q9cc52rnjl12ap5kinpc6qftogyae8hxunrunqo8jbciu7bpn945qo9aspqsf7ktr1fypaw2jc1msfegfp3d3ayud0g0pcvaga26nk1jfh4mg6cn87au020r0</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>5a25c67e-e381-4daa-88b1-c62e4a50a246</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Horacio Quiroz Hernández</name>
+    <rfc>JVP980401TB9</rfc>
+  </emitter>
+  <receiver>
+    <name>Clemente Cordero Fregoso</name>
+    <rfc>PTK090531CFD</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">847409</cents>
+    <!-- ISO 4217 -->
+    <currency>ZAR</currency>
+  </amount>
+  <emitted_at type="date">2022-02-24 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-08-03 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-09-18 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">3h31e38mwws80sglo0v6sgijyjswetge6nre1zhfg88ppkf0afkg29hw7w5gy17ubx0i6jhsr7oxkdj0rdkodnjw76nswdq0ccugen6cxuqt9qymrmqcpja0ptggj7sejw9vz5ghw2m6t7c9kqp568dntbd4owe04gegnd5f6l1drc14mg95g3z66ypvbgirw9j4mesbvbit1u16ozgclta95d3d63d4bdbuylpefjl43dudyvua415qwrftzti</cfdi_digital_stamp>
+</hash>

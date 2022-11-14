@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>32a7a43c-9c19-4582-bdab-f88b0124b98e</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Vladimir Enríquez Batista</name>
+    <rfc>HJS730630KX5</rfc>
+  </emitter>
+  <receiver>
+    <name>Nayeli Espinoza Franco</name>
+    <rfc>ROZ860130YEA</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">457620</cents>
+    <!-- ISO 4217 -->
+    <currency>GBP</currency>
+  </amount>
+  <emitted_at type="date">2019-06-02 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-10-13 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-10-17 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">7xve2utw4idrx7kkeh0eiftw9elmdeejxkvg3u0rt8k5m8xx3zmroi9hau89hq86nrgzvxpuuubjrminfa03h7m9gm5lnvu8clbebu063alxs7k1qp1h1ukcb8h7xyvjdb0era4uzgcoj87tmgbrtpifrfu6848k5d0b72gse05rhzk8gecgz2f1q0plzu8xmxwa5e4lkwo3ovzqyylcy11ibqfxu95q32yphpz3wdcu9vr8b8iqyghtupduc9n</cfdi_digital_stamp>
+</hash>

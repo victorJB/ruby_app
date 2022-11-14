@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>fb669f1c-e916-4daf-af7a-e90c53d02449</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Hilario Blanco Otero</name>
+    <rfc>A&amp;U000418F2Y</rfc>
+  </emitter>
+  <receiver>
+    <name>Adán Camacho Vilchis</name>
+    <rfc>TDW900911M2Z</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">391097</cents>
+    <!-- ISO 4217 -->
+    <currency>NPR</currency>
+  </amount>
+  <emitted_at type="date">2021-01-15 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-08-07 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-06-04 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">3bo5a9kvag352kua7d82ajw7zbckqvpmwhoqjehoxrri8fesfmutk6s8o3sxpx51sl48540o5vydpygoqyq8hjhygv1dyyt9zyhh5uij5djtawslaew5u8kq5hh4tkbk21rex5hcmu07v9xdxl0qfasvm5dfd1w9i4jfvqrj1ii8ykzgt6fef8imy1q6nip7mj5xxpruvhhg14un0g69ttah3d3mga8vbftpskveztg5fhbxn16uiubllk1q0l3</cfdi_digital_stamp>
+</hash>

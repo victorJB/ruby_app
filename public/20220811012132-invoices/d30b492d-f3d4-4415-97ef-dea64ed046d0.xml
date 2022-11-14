@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>d30b492d-f3d4-4415-97ef-dea64ed046d0</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Linda Marisol Jeréz Mojica</name>
+    <rfc>KTL891113MA0</rfc>
+  </emitter>
+  <receiver>
+    <name>Margo Góngora Uribe</name>
+    <rfc>YXM8109071R3</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">855642</cents>
+    <!-- ISO 4217 -->
+    <currency>SEK</currency>
+  </amount>
+  <emitted_at type="date">2019-10-14 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-10-04 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-10-14 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">f2yfhh8a6xcmzu2ofgot5sdp0u98n5b52w3w3ejtswbube98jr29j5pbl327r79ciz4oykkcqz4auau7pubd4zubcjwqpmro5ch23oa8rlobcv608a1ma8l7uz598xrflq0uh10gcz06czthnmjjs71c1cka6s2pl3j8e2tl6nb0ul9wfrnpuk4gmddpiay9qpbzsbsk6vbo63yvkpkjtastjuggomhir715o5xu42jlucbna0x2ik2b5odk8r2</cfdi_digital_stamp>
+</hash>

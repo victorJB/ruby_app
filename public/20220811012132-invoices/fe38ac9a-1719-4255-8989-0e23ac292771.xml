@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>fe38ac9a-1719-4255-8989-0e23ac292771</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Rubí Hidalgo Espinoza</name>
+    <rfc>DUF860120Y0J</rfc>
+  </emitter>
+  <receiver>
+    <name>Linda Sabugal Elizondo</name>
+    <rfc>R&amp;U0305097QE</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">223207</cents>
+    <!-- ISO 4217 -->
+    <currency>USD</currency>
+  </amount>
+  <emitted_at type="date">2021-04-29 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-07-09 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-05-25 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">xyoxdk46ycvxr7bhw53mrrt4m11591j8u0aa4trte9b63suebaetlij600nes46up7sr02s2alg6gjk01t2vzzddnqwuddx75m1u4pb8hbdvwjnnkeo14faog1wel6qat9o2gpi66feeoz0o3x14orazen784rw5md6g62lt5dxn6iu7bg90s6kgoldvuyr40vgw0tdkm7w4gx5j6ujmln1slehhcv6fjrr52tiuzkw1gk7sque7m0217m43chz</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>dc05af88-3759-458b-88e1-a5ee03d22ee0</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Geraldine Núñez Machuca</name>
+    <rfc>LF&amp;9908018JS</rfc>
+  </emitter>
+  <receiver>
+    <name>Tania Limón Díaz</name>
+    <rfc>N&amp;S170406TZQ</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">68269</cents>
+    <!-- ISO 4217 -->
+    <currency>ETB</currency>
+  </amount>
+  <emitted_at type="date">2019-10-03 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-09-28 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-08-13 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">qm8cfe8rl6bucgnu7y0bm3ltsezclhpsl50ars296e512hgpqv14yetcpucatj64a4dg6mt0n8lc79irznmcrw8vki9v960wz2z09t9r97dah18qdutprzdh9owa6g3natbhy1smrb82zqv8ogb4i4ovgbsiqdito6vu3kxypxfxpuq49u4o2jup8pqdes9iwgnrm8yifi596a33j200xv4awuktgulbfxdxs92x3wxhwgku9ll6v44j0oos865</cfdi_digital_stamp>
+</hash>

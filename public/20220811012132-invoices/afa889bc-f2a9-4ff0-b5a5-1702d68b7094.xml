@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>afa889bc-f2a9-4ff0-b5a5-1702d68b7094</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Lirio Krazowski Feregrino</name>
+    <rfc>LPS140424KL5</rfc>
+  </emitter>
+  <receiver>
+    <name>Geraldine Gómez Ibáñez</name>
+    <rfc>RXY091029TAF</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">570414</cents>
+    <!-- ISO 4217 -->
+    <currency>GHS</currency>
+  </amount>
+  <emitted_at type="date">2022-04-21 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-10-08 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-09-06 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">rxq6m8qx3g5yq6u5jk1ou2zo7nsz85ydmnl9tqt2fp7a4jgyptnsf2y7wydzwzx3015rjvk462ntoy1910dak17sdx65m552i0lygtyztw4f84jqrzty0t5tid21tvsp76au3ts6xgjye45nxwmvpn2ur2i35beuzlfm8m6t6t61ynvspklihvtgonj01bko5c3zmk1ix43c3n0rnvc9w6h7xodqm14zt9s92rrjpb8r20w8eptl3yatwru8lfz</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>163c104c-e1c6-4794-b055-0e3cf5a4701e</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Elvira Millán Rayón</name>
+    <rfc>KSR790818HPB</rfc>
+  </emitter>
+  <receiver>
+    <name>Silverio Ponce Aguirre</name>
+    <rfc>WT&amp;8401054NF</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">733639</cents>
+    <!-- ISO 4217 -->
+    <currency>CLP</currency>
+  </amount>
+  <emitted_at type="date">2022-10-22 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-07-21 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-07-14 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">kc3t1cgzkumt1eqyb9hcbw45rniizea4j0hqacqiuge9vmjs0gey2zm6lrbif3mqgb0933jiqt33aw6o3in0cihymrprzqaqhdx3u8skgzqszfqbm2f72hkxi44sx2fdqox6xddi760uqkll1alsaogin7c0ro59col2ue3sfmlirk156utlevl01cesqfrq71dx8vxhg6pblwz6tioqhpqmblqyg4ss2h731dild0f3x9a80n7861m0crvyzdm</cfdi_digital_stamp>
+</hash>

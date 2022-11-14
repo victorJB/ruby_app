@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>0fa3d67e-13e2-4b41-aab6-4550c5c48389</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Marvin Salas Ladrón</name>
+    <rfc>BXF9605124QX</rfc>
+  </emitter>
+  <receiver>
+    <name>Paz Rosas Ortega</name>
+    <rfc>MUZ071031DC1</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">863032</cents>
+    <!-- ISO 4217 -->
+    <currency>THB</currency>
+  </amount>
+  <emitted_at type="date">2021-03-22 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-01-15 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-06-30 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">fpc6q98kd0qt872cnxrh2sgnleu4gw6kq65nivze4fcp1bgu6ud1qa7tx6839u86efqg3upx9cd137i04gi5215g19tcl8r430fozkad51o2kl2m5thyr7p7a0rm6l1nohzbablxezhlxw9jz1w9hyfhwo4ozzzkvbeym3p26vfhzik1z78kmxg7retnxr2numtwt0vqn9ok4nxph7pmg7l7z5mz8srr29s0vha450zoury89bxfjkoj0q4fpgr</cfdi_digital_stamp>
+</hash>

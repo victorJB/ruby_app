@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>e2337bc2-6102-4490-b804-f6ca90e014b4</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Abel Daniel Mosqueda Palacios</name>
+    <rfc>VPÑ840606453</rfc>
+  </emitter>
+  <receiver>
+    <name>Eduardo Acosta Mosco</name>
+    <rfc>VMJ040618A8Y</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">443678</cents>
+    <!-- ISO 4217 -->
+    <currency>CRC</currency>
+  </amount>
+  <emitted_at type="date">2019-04-04 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-12-05 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-06-07 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">xe3xeuikuvad62y2ahznnw6rrj9u1tq8dz80f6a5dl6h53daoge96lul4grss65eh2q9de97mmldwevycz3tgqu6rzo4jfm9fm76cod6afnhujf1kvdmos0y8duzcxbd4mrlqd4qs0ip1vyewe0gfffy0544xjlbzquimhy54l9vzcmka7bv7y38arjt2v115bqvloknyaot4gp6qtlb0bkkzjcsoxrzppihgt7esizla31y2icfpzvlepby87g</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>41711fda-0f17-4840-9728-5c3175ff2751</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Aida Baños Rendón</name>
+    <rfc>I&amp;Z141228M0A</rfc>
+  </emitter>
+  <receiver>
+    <name>Arquímides Peñaloza Gazcón</name>
+    <rfc>UDV910910HJ6</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">471696</cents>
+    <!-- ISO 4217 -->
+    <currency>TWD</currency>
+  </amount>
+  <emitted_at type="date">2020-06-05 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-05-30 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-09-11 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">prjylm11i4eujye6bt05ycnggw2uxyib91hbfueyh6oaqj4bssbsfrjbdpye2hnkamsp5r6d208ltcm8gj4s70afecm3r5zm60h36ga3g8804jdubbjsuf4hogxyzyxi0e6c4qrygp26flfewlv5uvc9bc28zjzv7gzk3aujwwca3tn8mh1sdenarnsbw9su7u5c31eechn5qjh5hqg76pr1a9jy6wekdr3uj7267dp7pgfe3rzdnksbnfnhb6u</cfdi_digital_stamp>
+</hash>

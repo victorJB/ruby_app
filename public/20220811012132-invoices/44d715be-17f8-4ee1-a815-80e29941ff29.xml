@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>44d715be-17f8-4ee1-a815-80e29941ff29</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Brianda Morales Chávez</name>
+    <rfc>&amp;VQ900116XAG</rfc>
+  </emitter>
+  <receiver>
+    <name>Elías Dueñas Rivera</name>
+    <rfc>VRM8307135VB</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">981560</cents>
+    <!-- ISO 4217 -->
+    <currency>JOD</currency>
+  </amount>
+  <emitted_at type="date">2020-08-06 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-09-08 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-04-06 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">0y1rxxfuahmpnhwmafxmzw47jc7543yqvs1xj5sccahy03kka8fd4moy8pltwkxpcr17kdggkr5d2a2yd11zy99bsmwxjbps9j2kihmtj37y9f9xekwoy1u5v4siq7ftcrphyz4ldl4i08assrjo8niplryeghskeqya33tzmxs89kzhw1iovr5kwsbemub7duc1rz79omdujc2f2dhnluf30fl74n109a4kmvfomtoabrobywv8d5jdq0itzaa</cfdi_digital_stamp>
+</hash>

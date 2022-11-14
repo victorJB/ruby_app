@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>aa661979-4aa6-414e-b5d9-a0a7a4ee8bd3</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Aaron Pascual Rojo</name>
+    <rfc>VSU0707083SA</rfc>
+  </emitter>
+  <receiver>
+    <name>Vicente Irineo Mosco</name>
+    <rfc>ILP751023XCL</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">587662</cents>
+    <!-- ISO 4217 -->
+    <currency>KZT</currency>
+  </amount>
+  <emitted_at type="date">2020-06-14 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-07-28 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-12-27 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">cfk8ty5x5xbjzeq4xl2u9x01jujg0q28vtlgvl9ad6vm4o1mqk4xo2mglqy0goq0yz72rs84m6hf2bpd2tig5qbuki2sbr3tim6h2qqsibxluf3d447fiudmou8d09a69yh7t0jcbsv58m4cik5x0scdp8fkeel0wv749wkdaxjexgapb6tji3ntnvtj2ppqele9p639uccq5l7b15xl20hu5n5icrnqh7bh14xc4upvya6es7w30dfnwbabi8h</cfdi_digital_stamp>
+</hash>

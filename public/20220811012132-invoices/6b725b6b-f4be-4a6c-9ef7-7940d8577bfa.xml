@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>6b725b6b-f4be-4a6c-9ef7-7940d8577bfa</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Marcel Millán Pavón</name>
+    <rfc>HAQ8606127RN</rfc>
+  </emitter>
+  <receiver>
+    <name>Dulce Santos XX</name>
+    <rfc>XBU030329PC7</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">935433</cents>
+    <!-- ISO 4217 -->
+    <currency>MOP</currency>
+  </amount>
+  <emitted_at type="date">2022-10-01 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-01-13 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-10-07 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">yzj89ng8u14ifudl30j6grlv9ti59g9ndh7eoks6k3osouwiepjym5espuqrsmy4fjycfmxfobwv6ny3mv6w8haylnvulwhccy9xrfkdvwvxkedh8d3hrn1r0vaenj5q4rt8ul8xhe5ct6br67meb5k8bo2m2g5caspthwe8n6rf9bclf0icdwxumrrdkgiujluks4a40el3i33xzaz620zpxfrs8rg1zcma8taow1hrzs0gbbbf5lc9ppsy5x1</cfdi_digital_stamp>
+</hash>

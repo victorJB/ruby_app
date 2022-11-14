@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>4a692c80-d7ae-418f-aef7-55f9d00f584e</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Sergio Christian Estrada Tello</name>
+    <rfc>ZBN701008DJP</rfc>
+  </emitter>
+  <receiver>
+    <name>Valentín Salvador Estevez Meza</name>
+    <rfc>ÑOZ060305GHX</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">689425</cents>
+    <!-- ISO 4217 -->
+    <currency>INR</currency>
+  </amount>
+  <emitted_at type="date">2020-11-30 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-12-30 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-03-30 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">fvogh02dfi42qhxdd65rk58rmqicc0nawv1cc4eskbx5elvsgomekb9qfb21fca0dtsh5jawfpcdqxztptejgi2qgmb4u84tps0r3vv5ixfqlnre9yga09llq3jhbsl0gwid6u9vfk4plnnmfn8892f65ne6xo00ud9eknc5sz6im4ra2fb08nke5l3oa0918p500t05bojbl59scqws7olh30ake9rqbpmjnyyr8cqodbg9eh6d9qhc6231dlk</cfdi_digital_stamp>
+</hash>

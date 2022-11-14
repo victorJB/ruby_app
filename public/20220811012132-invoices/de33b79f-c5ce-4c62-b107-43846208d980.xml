@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>de33b79f-c5ce-4c62-b107-43846208d980</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Iris Ríos Lomelí</name>
+    <rfc>FZT130509184</rfc>
+  </emitter>
+  <receiver>
+    <name>Alan Torres Rojas</name>
+    <rfc>NLA801201V21</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">730490</cents>
+    <!-- ISO 4217 -->
+    <currency>TTD</currency>
+  </amount>
+  <emitted_at type="date">2021-10-03 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-08-08 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-04-28 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">0w4neyxcwhr5fv1qnyp0bemz135wnn9rwqurbkzyxvfykd32ohq9dlk9t100esjwx5klphk32tw86778ulh61gnm5mc74ufjy1zzgr5y13a1oyqrjm7lixacjirpjsyyp5ctwncacyxcxidtjv1gvfdqpndgypckojltims1b14yoymwz7kebr7dr5te8laf8xly9pfato7te8y6884ug1icl6bu46je21tuq9pup50uhanwl2h1v8pgmln2oy2</cfdi_digital_stamp>
+</hash>

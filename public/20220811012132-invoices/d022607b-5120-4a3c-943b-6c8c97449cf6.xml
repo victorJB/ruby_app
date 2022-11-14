@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>d022607b-5120-4a3c-943b-6c8c97449cf6</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Ubaldo Malpica Zurita</name>
+    <rfc>DXI940821VPM</rfc>
+  </emitter>
+  <receiver>
+    <name>Virginia Gordillo Olivares</name>
+    <rfc>OSQ931026X63</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">353334</cents>
+    <!-- ISO 4217 -->
+    <currency>XPT</currency>
+  </amount>
+  <emitted_at type="date">2018-02-05 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-07-05 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-08-17 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">of5l1r27ro88lockf364kn8qldb0pzwuyjzsfznz5s27c8onkltx077qc6l51jcab7ser4mcpizl6r1v9cwjchlula7ik30oz0v2ow0nbb7r3vthe1h6uigxgdyfjrnly7h6rs2ulfa581ekx9lkfaoehta7tj39ktwsranrmok10oa6q5zuodfsjzj0t88h3mohch5h0m697v4wg3xi29ww30m0sztrhpu3nt2zcpsv58hd5chhnrfbd2r9wh3</cfdi_digital_stamp>
+</hash>

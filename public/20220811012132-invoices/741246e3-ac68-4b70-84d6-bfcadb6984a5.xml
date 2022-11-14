@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>741246e3-ac68-4b70-84d6-bfcadb6984a5</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Sofía Gavito Peñaloza</name>
+    <rfc>KED220416G3E</rfc>
+  </emitter>
+  <receiver>
+    <name>Wilfredo Gibrán Quezada Botello</name>
+    <rfc>TXB810213TF2</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">226768</cents>
+    <!-- ISO 4217 -->
+    <currency>MRO</currency>
+  </amount>
+  <emitted_at type="date">2020-05-19 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-10-31 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-07-21 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">jwt2ovp9qty6xflysg5h8pnmmq1o2wm4sn7pn7rw6s0bgvk0iq7unad0tjguwmv9gccnojc48f58ac2usgytuc722kwxcnffbeya5duxf4l0vkbpsqgv7rdrqy12zcqad8u4plrj7hvgmspj8vgig1k4uen7fjvyttm9as03bnoomxm16sbzr6uqro24we1u5vudja9nensp0qtxx6d5xpzf3ql4iv1mnt62odpg8mc7da0fm01s2lh4a3rry4s</cfdi_digital_stamp>
+</hash>

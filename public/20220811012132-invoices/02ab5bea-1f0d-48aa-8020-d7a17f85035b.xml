@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>02ab5bea-1f0d-48aa-8020-d7a17f85035b</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Roberto Quetzalcóatl Pelayo Botello</name>
+    <rfc>PUV871118MWL</rfc>
+  </emitter>
+  <receiver>
+    <name>Itzel Suárez Sambrano</name>
+    <rfc>PJE970226MC7</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">333830</cents>
+    <!-- ISO 4217 -->
+    <currency>XTS</currency>
+  </amount>
+  <emitted_at type="date">2019-02-10 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-05-25 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-03-16 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">ukqcfoyqp8fpy39ikycquis1i4uobmv0msnrw2mh2a7ymltz7gewk16l37fumpvdswg68jc0835reg43nmzsw5hy8eg69d8e3y1bjrp78c41lyc6twbxgup4bbm5phrmqtl6n70dvyz3rv3g54wp14x4barfo7v5vt88e8tmyuk7rl0rrpazfcynkolo4yftkiys0r3zi3v7jqgmyaab91becd6obh5y3rymrkz0wb85mnjszqtrhcj2n5zxhnd</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>94f17539-bf09-4876-b298-9330b111dd06</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Amador César Ochoa Mujica</name>
+    <rfc>GVE970211TDR</rfc>
+  </emitter>
+  <receiver>
+    <name>Rogelio Barrera Acosta</name>
+    <rfc>PAR7202010YS</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">788992</cents>
+    <!-- ISO 4217 -->
+    <currency>GYD</currency>
+  </amount>
+  <emitted_at type="date">2018-06-20 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-07-25 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-02-21 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">ekt8webi4poqikvtv4ney8kjz5o5nl54nbmxuqe875kpn2bec5nf5fpm3r4fd673kzc8r0i1wfb39ir8x6w9lic4wh2om1qb85hljznuzt8dzlxj0gxeinb3lwrmhlwv6jkot2vnydnpgehgcyzr3wimupatuc639cnmrjayyk73761k9eft9c8r8sgdjtngreozo6fz11pdywk07d1g5jncv5bs3wab2gylgpxft8lelw3c1qt5t13wtxkhtne</cfdi_digital_stamp>
+</hash>

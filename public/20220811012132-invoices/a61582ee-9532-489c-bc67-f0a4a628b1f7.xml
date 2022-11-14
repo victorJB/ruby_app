@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>a61582ee-9532-489c-bc67-f0a4a628b1f7</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Elia Maldonado Zetina</name>
+    <rfc>JXC83120197K</rfc>
+  </emitter>
+  <receiver>
+    <name>Oswaldo Mancera Jardón</name>
+    <rfc>DCU941202W2Q</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">11023</cents>
+    <!-- ISO 4217 -->
+    <currency>RWF</currency>
+  </amount>
+  <emitted_at type="date">2022-06-14 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-01-04 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-09-06 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">m208itpsfymwbgi3zbupzeecc8h9yubo3amqf5xuwfzu7h9ps987f4h1683rgsljph5nw9rdtsb86jdxj1b2j8mm17rb2h3rk0o9gsm9p0zn8hn2llcvoe9q2iereefg3xu74swu1mwpenya1mym05cvvodptcyq8nlchxmn1q7eb0i4ajkyxfp5uv5j78gz0n8p176jyti346pk9jydaz8uyegi7unhcaptcdl3fz3pupzhbuefr0a54eadm56</cfdi_digital_stamp>
+</hash>

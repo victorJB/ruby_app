@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>9f311ff2-de10-4893-abfe-76b55da4d0b9</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Camila Iniesta Rayón</name>
+    <rfc>AZW820320YA4</rfc>
+  </emitter>
+  <receiver>
+    <name>Darío Salamanca Jurado</name>
+    <rfc>RIX8406186LV</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">230495</cents>
+    <!-- ISO 4217 -->
+    <currency>KES</currency>
+  </amount>
+  <emitted_at type="date">2020-01-22 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-12-23 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-10-20 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">itbph1aaiikrrvvm82w9plj5nvwsg3sf7rq2a0muj1c1vwyjf3a99ivk6yy5i6m0y4vyzcw9lu67u1iigwq9pmfhr7c2zkr0vk91w9i3x9li7vtafpxercjq1rl415my9h864ec2rj8vkdq0o0ea60zzgoqpp889il2qg9otoj6z45izpgnq8bcbhkidaxspmlr436dk1lasx3cry6jha9ir66eoj32bvht7tf5wgsbx10u75hq1ow22jy13ky6</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>c7b9b85a-841f-4b4e-9034-22138417d3c5</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Ezequiel Servín Noriega</name>
+    <rfc>FXP7903173N4</rfc>
+  </emitter>
+  <receiver>
+    <name>Raúl Heredia Roa</name>
+    <rfc>JHE830408FE9</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">917379</cents>
+    <!-- ISO 4217 -->
+    <currency>KGS</currency>
+  </amount>
+  <emitted_at type="date">2022-06-24 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-03-21 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-10-24 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">zbze1vsakksahebn6nro73curcejl4mb90pq44gz43rlnsjj0ngklhn6bbphddotqgqfi3fzbovlmq3llcgwehuujbat0xzqanycgydjdb9dichg2aq2cjtrsbov9fb1epnuft2xzow7tatuy1nszw77gn1ljvbn66rh2kjait58hc9s6eyrhlbhvkdeq0zlgupfbxlt9vopzpfotog5fammfku0bxtlo0hshkeivfe2inpr4p1tqn9we67o3vw</cfdi_digital_stamp>
+</hash>

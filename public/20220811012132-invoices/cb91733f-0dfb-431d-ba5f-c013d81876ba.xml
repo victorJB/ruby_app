@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>cb91733f-0dfb-431d-ba5f-c013d81876ba</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Aníbal Bairez Ojeda</name>
+    <rfc>ÑEL0611032KB</rfc>
+  </emitter>
+  <receiver>
+    <name>Yadira Rueda Estrada</name>
+    <rfc>QGL700812V7L</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">244636</cents>
+    <!-- ISO 4217 -->
+    <currency>PGK</currency>
+  </amount>
+  <emitted_at type="date">2018-09-16 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-08-01 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-05-10 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">yvkxcv25n4j2lgd548v81c309jcvwypsw90ko6mczvfgm6v9bppcpkjtccku038n5j8zvez2v28vbczb66bq65n8r24hp666m1hc3lrijr2rtqxcetkwsw8djyw0h5kx89kqp28ka1i301p91prn11qhsi1zv8nrqjbcqpk53svawl35679rkqvqenrifptm4440yuaiven0gjmdrzllirmgn6kfwdujnzqn2kgw93gzavgbi4xbhj819aysyum</cfdi_digital_stamp>
+</hash>

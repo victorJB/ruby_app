@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>134434ec-d3c5-4730-a47a-6a79c58ef96e</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Ariel Garcez Brambila</name>
+    <rfc>&amp;XD801029EYL</rfc>
+  </emitter>
+  <receiver>
+    <name>Vera Oca Jaramillo</name>
+    <rfc>VBA960126Q81</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">696497</cents>
+    <!-- ISO 4217 -->
+    <currency>XFU</currency>
+  </amount>
+  <emitted_at type="date">2021-08-17 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-04-15 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-08-24 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">hbx2zxi1l1mrkcspftgrkamz98fzavfrmihe08wedge34f8swdof1oyvz2dp0blluzpiovhwsdnl8101vw2xbxjz79vr6kv48ckavrrq8s880ygd1dheqjowepqfm64jr0mri6yq5r1nyemya2r1f2mpl94r0jo7my20coawmgpohnlsqwvcf28b0z65pdwvnc6q7nkhjgztslppnfplow054q5lhi2pu9o9kpmqdhomhauxv21zpgooe85wp48</cfdi_digital_stamp>
+</hash>

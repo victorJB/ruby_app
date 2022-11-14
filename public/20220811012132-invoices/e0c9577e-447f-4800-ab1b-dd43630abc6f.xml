@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>e0c9577e-447f-4800-ab1b-dd43630abc6f</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Octavio Guevara Jacinto</name>
+    <rfc>QÑS700426DLY</rfc>
+  </emitter>
+  <receiver>
+    <name>Ángel Sifuentes Quintal</name>
+    <rfc>NHB180831N9W</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">772517</cents>
+    <!-- ISO 4217 -->
+    <currency>KGS</currency>
+  </amount>
+  <emitted_at type="date">2022-06-28 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-07-19 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-01-13 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">la6jw3q77s4cwx7wb9mm01n15hp1srdcy5fs2syemv62sxug4q7gfrpzb4gkh1hzgfeqloiadngeyy2fszrevo37bwy7nn6b3bzfds98z3bdyt1c3bn8ehpo8x6ys8cvjt920z1lhxbhtl7bu1csr3sx0gd5kwpcop9insua6pb7i37vrsypcorq99v8n8gr3srx46hms14k9xomzi1lu7vejst676yv7ag6hzg0sgssxeklemtwwq71dhrherd</cfdi_digital_stamp>
+</hash>

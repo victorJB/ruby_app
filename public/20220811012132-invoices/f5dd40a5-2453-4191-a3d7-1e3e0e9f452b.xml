@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>f5dd40a5-2453-4191-a3d7-1e3e0e9f452b</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Rigoberto Navarro Nery</name>
+    <rfc>GQO19030441I</rfc>
+  </emitter>
+  <receiver>
+    <name>Marcel Munguía Aréchiga</name>
+    <rfc>KCQ8202081FH</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">987277</cents>
+    <!-- ISO 4217 -->
+    <currency>EEK</currency>
+  </amount>
+  <emitted_at type="date">2018-06-09 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-12-07 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-05-03 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">alu7adf36zb1g442j0pvr29tbnltdd0735dmw0me49eounkje8rxy7voez3bxttbl52oj9wc6ckk20vu7p7ci9fa2aijcwzepem56ryswdkl27s9npzl1gb64eyzgolwc4eenjmifwxa2y8gs9zgqbz5mvcx4h3sp0y4ixzhlk5y52gmcogx2hhffi3qqlu9j3auudb72anudr3j3segg6r92yijv0dci8m71aqgpox0i2hfwpgb2oexer61r9h</cfdi_digital_stamp>
+</hash>

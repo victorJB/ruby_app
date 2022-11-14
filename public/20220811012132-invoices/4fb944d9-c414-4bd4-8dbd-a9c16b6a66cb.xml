@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>4fb944d9-c414-4bd4-8dbd-a9c16b6a66cb</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Anselmo Juárez Uzeta</name>
+    <rfc>PYQ101119G7Y</rfc>
+  </emitter>
+  <receiver>
+    <name>Sandra Preciado X</name>
+    <rfc>UZK730110OBP</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">464815</cents>
+    <!-- ISO 4217 -->
+    <currency>DJF</currency>
+  </amount>
+  <emitted_at type="date">2019-04-30 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-10-14 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-10-17 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">1j87x0o3jvthlr1snm1uyzawwe2utc99rflnewgjhnkqhm7y4wqi52ygjz7ikr5quodarxo34sjjho278wkbl1buiod0v794pw3owseawby3ae6eh777n7j236dl1qci07qtt7f7zh1l7w40gp80zak5erzrp5hjppohwqiyjuwwj706aqq30k0a94hyhwg8dug5033ttdrgxxvzywjv4c3u4m1pb64r3zm1n5fzj7xe93m0zupm8zf0nwz5c1x</cfdi_digital_stamp>
+</hash>

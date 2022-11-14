@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>0f6fcd09-2cf1-43aa-a088-35d7f7e3977e</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Zaira Tellez Canales</name>
+    <rfc>VXJ88051779N</rfc>
+  </emitter>
+  <receiver>
+    <name>Jerónimo Ordaz Otero</name>
+    <rfc>RWQ780625VMG</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">51206</cents>
+    <!-- ISO 4217 -->
+    <currency>AFN</currency>
+  </amount>
+  <emitted_at type="date">2021-08-09 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-08-09 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-10-08 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">1jamolfccqlaie8vm7flkcxbr7d3ra89d5egh5ah2nhz17f9jhl3pbff0n6e6u5gt2mazs8pxd4uituj9xal672nit9ky41qeahh8nw70bnyvkjv8ru2nr9whma6e91o92qnw9atxeec1rihx0k3kl75vov6rs661s5b4pryja294qiftj8vmw1w7hcpcw33vkgfqpqecrei6w7b8j4jhtx1rw37zznjk5khp1e8xfsz4bb6yolyzvyg0l80nnb</cfdi_digital_stamp>
+</hash>

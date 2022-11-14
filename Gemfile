@@ -40,6 +40,7 @@ group :development, :test do
   gem 'rubocop-rspec', require: false
   gem 'shoulda-matchers', '~> 4.0'
   gem 'simplecov'
+  gem 'net-smtp'
 end
 
 group :development do
@@ -47,6 +48,12 @@ group :development do
   gem 'rubocop-rails', require: false
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
+end
+
+group :test do
+  gem 'factory_bot_rails'
+  gem 'ffaker'
+  gem 'net-smtp'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

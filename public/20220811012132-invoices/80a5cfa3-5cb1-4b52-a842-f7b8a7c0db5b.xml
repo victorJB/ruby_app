@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>80a5cfa3-5cb1-4b52-a842-f7b8a7c0db5b</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Xóchitl Romero Oropeza</name>
+    <rfc>XYL981112RJI</rfc>
+  </emitter>
+  <receiver>
+    <name>Valentín Carlos Ugalde Echeverría</name>
+    <rfc>VOZ9007287I3</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">687215</cents>
+    <!-- ISO 4217 -->
+    <currency>IDR</currency>
+  </amount>
+  <emitted_at type="date">2020-04-23 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-04-07 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-04-10 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">8do0p4nsi2p1fpsk3y04lwkxe38n5bpib6d0969s8mie9h30gw0w4b2lne3ngmahlc9hup1g2dgky73n3oqtlsuz6hqrc6xz8259rru98bu9lhn4c5uatkm3h3d2gl1zvdwk4c6thnryuqq6uolqw5gi6lafwcyq8vs1tcz44ysxkvgljmitsappowrnapq3gxdj9tz227nlw2xr7vqza43kk38mvrtpzsmkab5jxrldb7tuqoqrf4riuaaem1w</cfdi_digital_stamp>
+</hash>

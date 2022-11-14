@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>ec2ee172-2308-417e-9c37-6860d7c6c9e7</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Yael Guillermo Benítez Ortega</name>
+    <rfc>N&amp;D760203W3R</rfc>
+  </emitter>
+  <receiver>
+    <name>Manuel Guevara Orozco</name>
+    <rfc>J&amp;I060904BQ2</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">618608</cents>
+    <!-- ISO 4217 -->
+    <currency>CLP</currency>
+  </amount>
+  <emitted_at type="date">2020-10-13 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-02-16 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-04-24 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">hkg92z2sf7j08f8uhcvhszgtllkny9wy5simm63m3ga4n6j9jrlhtuw86v3mbbcbiy8jxs8op5fieb35pbdopgzikhp6p068ckrf2osrgbtjawbh8cbcgrgna3uyjpf4ydtr3u9u7ebeljznshgkwxu3ghvqqkswwfw1zoy3qgej7feved4cu2r4fviuk2lm6wj46l4ga1bf11fmv5kl1drpm0qh2ilb173el8lolvzxbta1tapwsi08lktcvrn</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>3fce0ea5-b338-401c-a62d-f2589f7c987e</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Israel Chávez Palacios</name>
+    <rfc>GFT150614KIO</rfc>
+  </emitter>
+  <receiver>
+    <name>Magali Castellanos Tapia</name>
+    <rfc>IHU8310124WS</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">305862</cents>
+    <!-- ISO 4217 -->
+    <currency>BND</currency>
+  </amount>
+  <emitted_at type="date">2021-06-20 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-09-16 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-04-01 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">on74m1vx1u0ayfir0bflnxth6p25vqjprru8hiycjcw3osgfdze04duo9ojgog9nimes03nx3s4g2vciblilzqqizgds3u3o8v6bi5q3y36770h27nbsufumj11n2r35z0kc0ylct5mheofbolrytrimc3b8xhp66exsp0uzibctlgsr0wgnly7xy86theqov4veu4e4itb0whaogxyjqghujp6bqxujvel9nx9ml7hjqmj0mbnldug3m3ptsor</cfdi_digital_stamp>
+</hash>

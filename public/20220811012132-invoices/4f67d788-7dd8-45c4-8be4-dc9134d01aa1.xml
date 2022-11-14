@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>4f67d788-7dd8-45c4-8be4-dc9134d01aa1</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Mariana Alfaro Palacios</name>
+    <rfc>I&amp;P930925H8P</rfc>
+  </emitter>
+  <receiver>
+    <name>Arturo Soto Mujica</name>
+    <rfc>SYQ740622WY8</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">142859</cents>
+    <!-- ISO 4217 -->
+    <currency>MXN</currency>
+  </amount>
+  <emitted_at type="date">2020-06-08 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-04-11 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-11-02 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">8utrirz4di1osf4hvzm1aqjrr6nv6hq6quwn6a6fhayhbqtdlig730vzpq3mpcfx8n0m8tooqynxrs8zkn4abrwg6fur23jh3qlflj1q1dsx577okfwl4naxk2xvkzqp1g1pgabcrma1c22inpuvhmnv4nxecx84301ier1xjp87noy3ed50xmqzr9mvqq4gylh1wo145som8te5nk4cla5bcluuos4uhfd1m33pebjrwwc0icomc7t2nooukph</cfdi_digital_stamp>
+</hash>

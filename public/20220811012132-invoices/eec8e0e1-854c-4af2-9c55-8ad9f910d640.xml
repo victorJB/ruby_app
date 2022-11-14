@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>eec8e0e1-854c-4af2-9c55-8ad9f910d640</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Benjamin X Brambila</name>
+    <rfc>XN&amp;7604038XL</rfc>
+  </emitter>
+  <receiver>
+    <name>Mónica Negrete Bernal</name>
+    <rfc>DGO051226X5J</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">389465</cents>
+    <!-- ISO 4217 -->
+    <currency>THB</currency>
+  </amount>
+  <emitted_at type="date">2018-02-23 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-08-21 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-03-13 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">cs6wkwkfnuzv8pkg3p5q1xg2cimhs9gmydsu8dptb8hvu80jnbus8ydu9trh9k3y4e39n4ozuyulrglzxoxjckk8dw948ac5f5yubfjvxxjj0u5lt4yis0l9g37gcisn6mkgedi4rc0yiqk5geqmmvlwjdig005ivsqimazf0d2p27lyn8bda4odk9swenzxmx4vwy0lh2sb5i3cbaniwgykmbe4540nnakku8ugeqmi3fgsw08r8r15w0h54ex</cfdi_digital_stamp>
+</hash>

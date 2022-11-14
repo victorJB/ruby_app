@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>7583f873-f394-45fa-bcf2-17bc63a98b15</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Temístocles Eliseo Lima Gallegos</name>
+    <rfc>ÑBH770412FJL</rfc>
+  </emitter>
+  <receiver>
+    <name>Edith Karen Velázquez Cabañas</name>
+    <rfc>&amp;SR940305I6C</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">147050</cents>
+    <!-- ISO 4217 -->
+    <currency>DZD</currency>
+  </amount>
+  <emitted_at type="date">2022-12-02 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-08-23 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-11-12 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">amstqmmm6cziv859r7rejnwdu596zs35bhnuq5xfy4krgi9skhzle5sugfk7ru95b3zunuqt8v657bbp3ikemyjs1270kxzhhj1lj937pjolsarvr229o1yw1d4y35g2z7a0vs7i3bfw6f4lnjqr73qomb73j02ictaof67t4lydjl68wklbe3fmka3tv47plsmo0kw3s4bjzs1jomsbf15b333co1dpuf0450o2qi6e0jyu5q954gjz4rlmvit</cfdi_digital_stamp>
+</hash>

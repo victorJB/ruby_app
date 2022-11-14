@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>192f1f45-f270-4a9f-9834-ba770839af9e</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Benancio Franco Barbosa</name>
+    <rfc>GXO821211S0A</rfc>
+  </emitter>
+  <receiver>
+    <name>Mara Fernández Tapia</name>
+    <rfc>ADO101123W8R</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">486917</cents>
+    <!-- ISO 4217 -->
+    <currency>MUR</currency>
+  </amount>
+  <emitted_at type="date">2022-11-29 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-12-15 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-03-28 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">nye5xuirqdamiwcldtzyxi1rps2ess8kexxl3o587vpl40b42z7u5p70dfznrvyw4dpw4n27be2h6jvqdo2elput0ol1quhvkyy83ngxfzv9gd9blsovnmuz5tcvlgjtd3wkqja8ztp3izm4ybeusqkkyufaq21ujetv7t8g62r7pkn3v9ema3lq5u8nd2jnsanq0igv36y7dhcvwjbxbz419mro46a7p6qaobjc75om6jt3ku8r93mt2xibk74</cfdi_digital_stamp>
+</hash>

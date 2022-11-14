@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>f58e30b7-6141-4d7f-a6a7-03f6fe547d90</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Erick Mujica Nevárez</name>
+    <rfc>QTR070802N7A</rfc>
+  </emitter>
+  <receiver>
+    <name>Gerardo Luis Durán</name>
+    <rfc>TMX0407035O9</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">302666</cents>
+    <!-- ISO 4217 -->
+    <currency>XCD</currency>
+  </amount>
+  <emitted_at type="date">2019-03-25 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-02-21 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-12-16 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">xk5lytkn4tsl2224ly5txd757n2az8n6vkznvu0llsekzrjg3g0y9harzhods20j5tpu9o4ublc1hz9ey4nv6azrqvp84pb2k9gqrpjje8qwcky77khxgj93mchhmzlx6dx4jotm0mmc1ouq67caki1pvcnf10061ofhabb8xz85uww93dmckpyu3u33z274mok4kro9le0rlbw82jpb9iq0np92kxtx5gwgz4d7e0rkgapj4oigc4thg3aspru</cfdi_digital_stamp>
+</hash>

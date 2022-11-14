@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>376d921e-5f0b-45f2-a075-44021d95502a</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Ángel Fabián Álvarez Fuertes</name>
+    <rfc>XAS760401CD4</rfc>
+  </emitter>
+  <receiver>
+    <name>Benancio Emanuel Cordero Manzano</name>
+    <rfc>DMQ8903096M5</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">57238</cents>
+    <!-- ISO 4217 -->
+    <currency>LKR</currency>
+  </amount>
+  <emitted_at type="date">2020-11-13 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-03-25 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-03-12 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">e6ml22qp97otvdtvaoilir3v6ykvhfti4xjg42cd6t8nzz45dv88jc5oi172vppsftd5yxgeptjx44es4qj3kvmwte8ktoy4wnyzus0unxss9n4n5ybo5v6do72qzsnoip9wclcshpqib2scgi87s1iep1j8mgxjx7uk737lsqpip7rzahlytavl3nfuyfhlqxrj6a3abm6itpyzu4cyweldxf50uwdbbh98fwyqdwxiyk717timeg9c8jutmex</cfdi_digital_stamp>
+</hash>

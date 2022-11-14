@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>64e854fa-818e-4b8f-82f4-a18d9f8100f1</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Victoriano Gallegos Tapia</name>
+    <rfc>XRB931013P5Z</rfc>
+  </emitter>
+  <receiver>
+    <name>Santiago Benancio Dávalos Rodríguez</name>
+    <rfc>BHY100912FPG</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">36109</cents>
+    <!-- ISO 4217 -->
+    <currency>JMD</currency>
+  </amount>
+  <emitted_at type="date">2018-01-04 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-03-18 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-10-08 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">y2pa0k52tngywgm0pwn7crfrwkf4sorxn9d9o3p52lzbpzl3vs3qql7siamf1r3gkivdlswi47zrnu8ghxnv3ow6m1a4jvfy1agpohnerl6miu14njjie8mia3uu2g1hbo7xd233d3us0vp3kmhlmfrzlzpotnvp4iy5up5ohbq88sfiqmok3grbjwcn2ba3ndsknqnncoos5oib82xnrwidwnd2lpzdh6rs1ew4c9eulvv1gi1yt64vurdg8m7</cfdi_digital_stamp>
+</hash>

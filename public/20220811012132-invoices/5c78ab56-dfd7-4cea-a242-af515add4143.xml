@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>5c78ab56-dfd7-4cea-a242-af515add4143</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Marcelino Bárcenas Sepúlveda</name>
+    <rfc>WIO0312210QN</rfc>
+  </emitter>
+  <receiver>
+    <name>Hilario Joaquín Escobedo Hurtado</name>
+    <rfc>GHL860114M5J</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">653446</cents>
+    <!-- ISO 4217 -->
+    <currency>NPR</currency>
+  </amount>
+  <emitted_at type="date">2018-03-13 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-01-06 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-09-04 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">gsyjudyvil9l0ineirah72tlyfw5xxo1jagib9t65hfy5hqmff1a92pkvi74ufdjb9alozwke14fe5f1j4hbxogacueoijc96hl7fnagpajc3peyo3vv0yuldwjy57mbnmdndm74fy4frcgq42y4jsksjaua5vlwwxvm9nyogtfiwpkbl6hnw2nlmxmylaqd3afd9bm8tzqf156d7xz0z0ugmbvqe8uas7s3yfm756fs80bbmg9dtpvy22k2euv</cfdi_digital_stamp>
+</hash>

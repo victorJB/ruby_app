@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>f512db2a-951a-4f43-bf22-ae7cb5611b20</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Enrique Diego Calvario Mosqueda</name>
+    <rfc>TEO791003OMV</rfc>
+  </emitter>
+  <receiver>
+    <name>Ruth Ubaldo Martínez</name>
+    <rfc>LXU820830HBR</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">540382</cents>
+    <!-- ISO 4217 -->
+    <currency>GHS</currency>
+  </amount>
+  <emitted_at type="date">2019-05-27 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-03-23 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-12-04 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">gtvy8sq1kw0bu1o0uejkdtmf4xe7rp1l5n98szho2ewrq1yoxus69kzblv9j1vl3r4li164wuh1jdxf6zt9zuu3hsxq3y1xwl00ysvhu4t8ii91t5fv48m3ch6qvczx5pg9iu4csy350cmqc0mukcqdr4vxkwfb7wu6ulc06w5ifxmp31tjd6xnonk1o9jeio5t5ah9d2c0guptvn43if2x3qz7wsxgfw8iu72ndshxiuiak5tjb7xrwnb62gmr</cfdi_digital_stamp>
+</hash>

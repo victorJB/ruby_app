@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>a3a53671-5b4b-4d70-a9f2-54f30c6fe77f</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Nohemí Salas Juárez</name>
+    <rfc>ODG700618NQY</rfc>
+  </emitter>
+  <receiver>
+    <name>Mauricio Rangel Pimentel</name>
+    <rfc>SRX761126NFT</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">885047</cents>
+    <!-- ISO 4217 -->
+    <currency>KES</currency>
+  </amount>
+  <emitted_at type="date">2021-02-21 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-07-22 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-06-19 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">06ieps55gxaurv6n65gj8gfj5onj67nh1b1pvx3qtmnfnntukc471bbvye3ikvky2rwvue5v4xuyiccrelczm5twk0fmd8ve8udbe7xxu2u4dj6tfz2vnxkycea1tb59xun9pucn8y8x9vf12cp0e5960vkf668z4dpvp31wt6571z1bn6275ual5ncb7amwh5y0nc86ufg66l5oiar7kup2if09tsysuiv7qdi20a75abqu9agt8c2x7zdc6qf</cfdi_digital_stamp>
+</hash>

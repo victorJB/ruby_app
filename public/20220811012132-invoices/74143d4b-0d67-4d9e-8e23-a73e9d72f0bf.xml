@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>74143d4b-0d67-4d9e-8e23-a73e9d72f0bf</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Vicente Navarrete Urzúa</name>
+    <rfc>UDH000628D1P</rfc>
+  </emitter>
+  <receiver>
+    <name>Néstor Irving Jasso Cortés</name>
+    <rfc>FAR790328Q87</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">95375</cents>
+    <!-- ISO 4217 -->
+    <currency>AED</currency>
+  </amount>
+  <emitted_at type="date">2022-03-24 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-01-21 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-04-19 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">zyz2eag3q8jovkq3ea74iqieuzsgvvj5mvojrv3uavgovtqf8rfxrxin486k8u3uo300gbsv3jmow8wiqn8dpx7qo80qn86qvg93v9xufrnyzkcoyvxzk2sjfpber1ilpy5o8s4uti37823n02izprkk46s2u3wgokufpmt54pxypnt94d407ckwrlw80crv8wq76lbicdqmm5avnnsgsgjkrqsf9zoteyxz1l1xyyokesw1m363e09vwclp77z</cfdi_digital_stamp>
+</hash>

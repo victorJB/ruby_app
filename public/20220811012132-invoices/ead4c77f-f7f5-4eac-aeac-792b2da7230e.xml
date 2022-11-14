@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>ead4c77f-f7f5-4eac-aeac-792b2da7230e</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Luz Rueda Alanís</name>
+    <rfc>WHU900805C3Q</rfc>
+  </emitter>
+  <receiver>
+    <name>Alba Liliana Bautista Moreno</name>
+    <rfc>VFY790622K4W</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">865812</cents>
+    <!-- ISO 4217 -->
+    <currency>LTL</currency>
+  </amount>
+  <emitted_at type="date">2018-11-01 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-02-01 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-09-19 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">you5lw5z07fx62i1e49utjcz0vijvp05nmy49heuqy4emz0dh48g6t201iiuz88swufplzc6k88rx5sihp0361wq0ucdtqqxg730mli896rpdrofmxco9d2t2nunwnqazchzki1alcia1j4ac5x5irrg2tytrbba7hzwcr80ti8fl26f8mvou8q8mydgbcykkbkdczr2yhrephwxboe68gf7nnv0witn92m3vl032b9oteqkyyz1iwf009b3pu7</cfdi_digital_stamp>
+</hash>

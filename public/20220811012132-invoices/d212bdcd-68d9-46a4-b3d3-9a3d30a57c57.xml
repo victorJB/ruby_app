@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>d212bdcd-68d9-46a4-b3d3-9a3d30a57c57</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Alonso Batista Velenzuela</name>
+    <rfc>&amp;OL1612030SD</rfc>
+  </emitter>
+  <receiver>
+    <name>Abraham Ruiz la</name>
+    <rfc>VE&amp;0901279B7</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">549243</cents>
+    <!-- ISO 4217 -->
+    <currency>FJD</currency>
+  </amount>
+  <emitted_at type="date">2022-09-29 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-02-11 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-10-13 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">0pjlsymhpuro7nigfogipqkbwsaj9rz51t0aighjr48dhwk2xhiywnytplcs0aecxs9f4i8epov23tn15ae53bwrumhp7jd8qugd1bbiv6y8buimirpfj9a7g2tk04z5v0svz5zk5mz4xr1mpin3uxoz55taqvho840571uw9rvv04htkqw3jfxmvetxplahgzslj2tcr1tvl7q2qf2n95pmsx7lmrhot6o6r1dj4z2tpce9j3z8yxc30eppii9</cfdi_digital_stamp>
+</hash>

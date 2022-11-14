@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>ae469cb0-9b5d-43e7-b932-318c95c7fc42</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Helena Zetina Aguilar</name>
+    <rfc>ISC050408X2I</rfc>
+  </emitter>
+  <receiver>
+    <name>Carmen Natalia Ojeda Arenas</name>
+    <rfc>EPH860823WI7</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">772760</cents>
+    <!-- ISO 4217 -->
+    <currency>BYR</currency>
+  </amount>
+  <emitted_at type="date">2020-03-14 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-08-12 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-04-03 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">zcn905d6ljvri2iwqltw7dfls1xvs66nyxqs8n2ymgr3w67na9j2n8k17npz8bck2rjyro0x2a4mq4zs3odbq5svk0dhx97vbevjsbqx41ghvzul02lolj775uospo16b9tdfkmzsh9bum1nt5x18257kjsf9y2d38sh76dj15uz990hmpzfnyzs3x6oz9v943f1u8314hpfmwre9tgify3dj5rw797e875n3hku3tbffc0dchuy3bbtaawm5kb</cfdi_digital_stamp>
+</hash>

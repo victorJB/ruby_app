@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>9b4c7a25-dcef-4aa8-9287-0c66df9de6df</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Imelda Ovando Irineo</name>
+    <rfc>APF760825NDQ</rfc>
+  </emitter>
+  <receiver>
+    <name>Oscar Viloria Sabugal</name>
+    <rfc>KJV950620ERU</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">713639</cents>
+    <!-- ISO 4217 -->
+    <currency>MOP</currency>
+  </amount>
+  <emitted_at type="date">2018-11-12 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-02-28 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-02-05 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">0vk4b2vv8kl2n0b54p4vtns1qar973sxdvz79oonsv5hxjd48y5rmaz8kcw19iyho2gznl5a6fmwxa8hqpbmv68k971yu14hplwr6i1vr7keunbmq2a7raw5voj9rcupjd7h3rxptwezb8zqtqu52h3ks42nh8iswggevso3xb4zwjtj9h5u093ddx5eo6mbjxgv8y8flyeocmqwhbbdsw52ol1ylebldymwan6fmhgc0bcm42ecz3h0yy22pqb</cfdi_digital_stamp>
+</hash>

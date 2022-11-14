@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>5a506b9b-51f4-44dc-bce6-b5725738b610</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Marco Macías Álvarez</name>
+    <rfc>KTD710421HGB</rfc>
+  </emitter>
+  <receiver>
+    <name>Marco Vaca Mena</name>
+    <rfc>UBS000619X6V</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">191969</cents>
+    <!-- ISO 4217 -->
+    <currency>KZT</currency>
+  </amount>
+  <emitted_at type="date">2022-08-28 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-12-09 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-01-25 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">1th4l1ioo6it0bmh6kwh0aq67vlljdymmxll1qucu93jf8ifrflj0kjl244x54z8p08dno8vvmyrlm5ubjqvm62d3ns9x8rdgbtz5b1mp2lj9g4ijraiubczlbwkox4nzsuvoo86fjxdyegm6clau83yc4qvos6nrvsbc8kqep1rpyavoeievoutw9wphwlb5v2bttcuoqylvb8bsgum6pr3mpbk6pdwpixwnlr4md52xy7df3duwvl6glep1ix</cfdi_digital_stamp>
+</hash>

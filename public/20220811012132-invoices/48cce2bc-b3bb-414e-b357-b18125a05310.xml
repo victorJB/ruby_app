@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>48cce2bc-b3bb-414e-b357-b18125a05310</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Enrique Caballero Fierro</name>
+    <rfc>OIV09040604F</rfc>
+  </emitter>
+  <receiver>
+    <name>Fabián Aguilar Rivera</name>
+    <rfc>BCW7801161B9</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">702240</cents>
+    <!-- ISO 4217 -->
+    <currency>RWF</currency>
+  </amount>
+  <emitted_at type="date">2018-11-17 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-12-04 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-11-09 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">7isx8borihucvilzb3qcpkzkkofhcev8oxjlkpcfqalyxkyf1wo1yud2wirsd3gfwc22t5l33by159hfmqutkcgawxffvifg2elv0zwri77cruc2mh831ltn56p8rbwo4qzs0cs22wj6l0u8xa0agmzwe0zpir6bc1abgityg7h328ambabsrrmd77qmgs0klbf3onsaeq20w0ei8he9sg4so1qnlig3pu8n3fr45rsyj5dnzsi7fnpxecp6sys</cfdi_digital_stamp>
+</hash>

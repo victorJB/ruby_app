@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>5107185e-0484-4376-a460-c2053a759dda</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Rita Salas Sánchez</name>
+    <rfc>ZGN8102140AE</rfc>
+  </emitter>
+  <receiver>
+    <name>Constanza Lozano Islas</name>
+    <rfc>YED9406065GH</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">926318</cents>
+    <!-- ISO 4217 -->
+    <currency>HUF</currency>
+  </amount>
+  <emitted_at type="date">2019-03-30 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-10-22 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-12-20 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">ncemz8lx1p7jm1lgnwr4o1253fgm22oof8yj8j6y6c5p3sh7gvy8jzbumjd11z85nc86kt0a9dfwb970jbqwlh8qa0rno5ud8vdy45j3aygu4q27vl5964r21b4n8kiqmxy4v23j2e6w3ubfq5qc0gdxup2b0xndtzv5pdp3tf5hhxoswy78su38mw5hgqmls8rkkhfsdn70japtzxl1e6rn96h5zblq3ldunml0j5l1klo7qv52evgnxi6zj5a</cfdi_digital_stamp>
+</hash>

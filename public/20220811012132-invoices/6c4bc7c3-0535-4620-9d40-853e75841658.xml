@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>6c4bc7c3-0535-4620-9d40-853e75841658</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Andrés Gordillo Ríos</name>
+    <rfc>PCH071215MCA</rfc>
+  </emitter>
+  <receiver>
+    <name>Marcelino Zepeda Troncoso</name>
+    <rfc>CI&amp;860526V7T</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">314083</cents>
+    <!-- ISO 4217 -->
+    <currency>SVC</currency>
+  </amount>
+  <emitted_at type="date">2018-02-12 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-09-08 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-06-18 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">4lym0svx9ml0y4oer9hl6qwy4c3mmx61qq65crpvhst9wkp7i1y8m23okuc8yxsd4ss2ts1oo4urpxg1acsb8wk9kwk356362o0990g1hsx2ctuatwao4kkop8f41y3qwf0vpaf8k7874zt61tvffm4il4u8ffruhsnoer7246lh4ue0zmwaqt6skjptgfmv209nccnhonk04pio7trnmj2gq2i8286brg9vw5f5o9yfj3n0rnjcykizam29j2p</cfdi_digital_stamp>
+</hash>

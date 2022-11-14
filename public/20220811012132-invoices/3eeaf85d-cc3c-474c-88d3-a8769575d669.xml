@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>3eeaf85d-cc3c-474c-88d3-a8769575d669</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Silvia Lirio Peralta Castañeda</name>
+    <rfc>UVO7212234K9</rfc>
+  </emitter>
+  <receiver>
+    <name>Ramona De Resendiz</name>
+    <rfc>ZEX160326B9L</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">37962</cents>
+    <!-- ISO 4217 -->
+    <currency>GBP</currency>
+  </amount>
+  <emitted_at type="date">2019-12-28 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-03-07 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-09-24 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">y9fwxwop2x1h903rhau4tom8x1mt1gzj3flxevfori1wd7zg4anuqe3pgujpboxoc995shr7cmrj5wnjqec7rr8im0n3xm975ab214slzi8drjyq0uplsqn6yswhodn8mfglnw84vukguem0h1yhvxfuybqs0xd6adzfri7v6mbe9pk0j6o8sge1c0ba8w0tj30qf07y2a81sscozmgpj0815qxltppg1pe46jmz0w4jkpz1u7yrw1ceg8od7fx</cfdi_digital_stamp>
+</hash>

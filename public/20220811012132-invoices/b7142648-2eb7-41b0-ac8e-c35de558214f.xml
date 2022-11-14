@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>b7142648-2eb7-41b0-ac8e-c35de558214f</invoice_uuid>
+  <status></status>
+  <emitter>
+    <name></name>
+    <rfc></rfc>
+  </emitter>
+  <receiver>
+    <name></name>
+    <rfc></rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type=""></cents>
+    <!-- ISO 4217 -->
+    <currency></currency>
+  </amount>
+  <emitted_at type="date"/>
+  <expires_at type="date"/>
+  <signed_at type="date"/>
+  <cfdi_digital_stamp type="text"></cfdi_digital_stamp>
+</hash>

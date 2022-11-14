@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>3273f848-d7e5-4085-85dc-36e98e88d7b8</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Cristina Magali Heredia Cabañas</name>
+    <rfc>WAZ741231N8Y</rfc>
+  </emitter>
+  <receiver>
+    <name>José Bernal Mancera</name>
+    <rfc>KVI840313Q0A</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">793419</cents>
+    <!-- ISO 4217 -->
+    <currency>EEK</currency>
+  </amount>
+  <emitted_at type="date">2019-07-20 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-05-13 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-06-09 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">lxsv8mnmw9dp6anputpmphlgshk0udrrw7airzci9f4ols9hm8kq8q5uosxs7un9clu0w7f213mjyk9egn14ef3i2aa8tuavqfzz1m71p5y8g3orea70wiuzovgnf3amamxxwal3zicupy0o301bgppcbqva1cir7bh2c8wddl1xezrk4giiki4s84paa7qtdj1ov4g1n4650gyy5x8rj0x6iraqn1owapn85frmox68xlj4sh02t09jya631hs</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>48cb64c2-01c7-4a5b-a6fb-a643953c200e</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Petra Heredia Lezama</name>
+    <rfc>SXW801111NJS</rfc>
+  </emitter>
+  <receiver>
+    <name>Judith Julia Valdéz Oropeza</name>
+    <rfc>EIW160225H0A</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">658453</cents>
+    <!-- ISO 4217 -->
+    <currency>BDT</currency>
+  </amount>
+  <emitted_at type="date">2021-07-04 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-02-06 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-03-30 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">ebylkbttykk16texvums2g3427koa2chgbawstnm5s4pgabbzyxgy9261j2kkz9zodah0icjvrxvdim3y7x4zkupnvcafo8agfmpxctqnkjt8883h3xli4ty8s95iifxjkej79g3w1nww99628yj1j96fb183n1lntx10shuve23k1h6lphjhj3qgpfg2udk7ux619w3m3ed30wz8qmi7m11da7nc6tu0kpz31zevnz0llj3kk56llf2qy2u5uj</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>83dae36d-bf60-45d5-9e41-1322233a5212</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Clemente Azcárraga Uribe</name>
+    <rfc>EWX090815RX4</rfc>
+  </emitter>
+  <receiver>
+    <name>Elia Dávalos Fuertes</name>
+    <rfc>JFP73021974M</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">364313</cents>
+    <!-- ISO 4217 -->
+    <currency>LYD</currency>
+  </amount>
+  <emitted_at type="date">2019-04-26 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-06-03 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-02-19 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">qazy1j0or7glwa3yz26er340z3bxg562ylel6noadx0n55mfcx58v7t7qqf8fhk49u9gaty6x83ooj8evflq3ct5wm1pg7e25bn3kwu7rij33kn7mbcfp1i4ub2mot22u4e2yqwde62m0ajnm3vexih68e9ps2nfmhzjzjlfhparr9yv58wsoqj9y3o72d8rt56io46nigf7anxvqafsd93qersojnul0krwdfgu1iany6jyxhmshlo71l3irun</cfdi_digital_stamp>
+</hash>

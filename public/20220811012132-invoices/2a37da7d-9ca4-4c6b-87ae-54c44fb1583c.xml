@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>2a37da7d-9ca4-4c6b-87ae-54c44fb1583c</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Alejandro Quiroz Viloria</name>
+    <rfc>&amp;WF830627OAV</rfc>
+  </emitter>
+  <receiver>
+    <name>Bárbara Rivera Batista</name>
+    <rfc>&amp;KD880109AZF</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">318270</cents>
+    <!-- ISO 4217 -->
+    <currency>FJD</currency>
+  </amount>
+  <emitted_at type="date">2020-05-14 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-05-06 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-07-31 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">i5xbx2xkcvuikqeegxqutc2afj7g6tyykva26n6dnevqyd6vu85r03g9zewg7e0rjf5m01349x5hrdayi2b8shn0uybd44ljcgimy3lh3ws4a75o92mjfmvjmww2nhudi6axwtd95tjfkx2s95tw2pzf3wbskwr6iyoeun5bnwo5b6di154792gwgz6ansq5cqi44ron0bjznx1wkelxp7u0xkdlczg6ae1mts39dsd5djfo7jmy97qv7w2qv8o</cfdi_digital_stamp>
+</hash>

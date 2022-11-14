@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>2b676386-092d-464d-930a-3005dbd0fc1a</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Nohemí Dulce Alvarado Sandoval</name>
+    <rfc>IVP141205ZTD</rfc>
+  </emitter>
+  <receiver>
+    <name>Olivia Fregoso Jorge</name>
+    <rfc>YWZ220828ERD</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">717166</cents>
+    <!-- ISO 4217 -->
+    <currency>AED</currency>
+  </amount>
+  <emitted_at type="date">2018-05-24 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-10-20 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-10-01 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">8pt9gqk12124kt8nixn5884t7b2g4js9ij6g40lm2bx3o4aw2wqlm0tq9xod9qluuo7zo9iy61nuoattnswey3bscbk6ohmkga1sg1lts4rzcc6cv7g9u0h3t7af8fv95fgloj1rq53sexw3t77vws061p41ryxcumd8vgpai78tqhc3qwnbxz8enbuzckofdqf8dhb4uczxul6vnn4vllaa33g4j9ox0rqglhd71x0lmu2necnfxei05tqhjbr</cfdi_digital_stamp>
+</hash>

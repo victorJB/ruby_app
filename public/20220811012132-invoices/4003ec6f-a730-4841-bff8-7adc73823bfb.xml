@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>4003ec6f-a730-4841-bff8-7adc73823bfb</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Lirio Álvarez Lomelí</name>
+    <rfc>FLR800805O26</rfc>
+  </emitter>
+  <receiver>
+    <name>Berenice Barrera Gil</name>
+    <rfc>QEP750526N5D</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">729767</cents>
+    <!-- ISO 4217 -->
+    <currency>CNY</currency>
+  </amount>
+  <emitted_at type="date">2021-04-29 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-08-24 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-04-16 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">qpo8pk6aeykqo50mpnclafwde1hy925wyqf5xi14g8w64vdmnmiqi0n0r9ljm2gyw2yjn9pb9y56rstayt1l127s59z7ho7uq1l0accci4k8cm3mgc1yrlyqnlzszj4t2ceu4tkole13xmud9vx6syyhh1c2b2lj76jj82y7tcf1egetomcfsvz7f6dmz4pvgf1ologsp0xd44jo3bac7fyjtas0vzwlxbkm91w0ssv2b9i8xh2t47o0rnt8ioz</cfdi_digital_stamp>
+</hash>

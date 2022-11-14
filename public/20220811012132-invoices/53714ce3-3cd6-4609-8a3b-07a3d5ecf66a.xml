@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>53714ce3-3cd6-4609-8a3b-07a3d5ecf66a</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Alejandro Reynaga Rueda</name>
+    <rfc>JKY030112X0Q</rfc>
+  </emitter>
+  <receiver>
+    <name>Margarito Gazcón Álvarez</name>
+    <rfc>YEZ220821PJR</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">118533</cents>
+    <!-- ISO 4217 -->
+    <currency>UGX</currency>
+  </amount>
+  <emitted_at type="date">2019-09-10 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-12-20 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-05-21 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">lslmnseqxdtlvd6uuaps3ja11rkn2t1dy27mq5ealb5p2rhs37ya8i21etpgfc6u2c18krdlivkfda5r1893iifzbzwog47r4l6qcdu0mof18p00ft3r2aaty2e4zb6tq028dmzx24kg0mgh8gnphp0sv84c6q0cyqpayl088ov22b03n5to7fc35x7mqnvsl45xg1ebc8pgxdq2ro1zr4ruruogjw0y9iokpqq2pqjywtk349kbnllzdxbt7tf</cfdi_digital_stamp>
+</hash>

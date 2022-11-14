@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>29b46436-9db1-450d-a925-78a3c08305e5</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Octavio Robles Olvera</name>
+    <rfc>ÑSR7010065E7</rfc>
+  </emitter>
+  <receiver>
+    <name>Raúl Quezada Urzúa</name>
+    <rfc>QMO7102039NF</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">123385</cents>
+    <!-- ISO 4217 -->
+    <currency>NOK</currency>
+  </amount>
+  <emitted_at type="date">2019-12-15 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-04-12 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-09-15 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">ogahe3bi2weo78vpcf88zgbwn4mf8iphnfhg4g8lnbprnkujpa9ou94s4d0ee4hlbo7kmhmc9rxpgn4bb94f3utnkejtfd8inkgrgw3314i2txiiok9jz21ad7h55hzl4vvg9y2shkuj6drj5impl3tfgauzhfbc3whjsrxqz1mqpgutia8jyv797gmtwfzjy5k85s9i4ljdj6urk09aosk4n9l6asqlwojk7g41tdwm0envbvyj1scnnblt5dm</cfdi_digital_stamp>
+</hash>

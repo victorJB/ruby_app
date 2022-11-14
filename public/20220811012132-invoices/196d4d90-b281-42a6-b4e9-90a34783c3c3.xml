@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>196d4d90-b281-42a6-b4e9-90a34783c3c3</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>María Pascual Quiroz</name>
+    <rfc>QWG740824LDO</rfc>
+  </emitter>
+  <receiver>
+    <name>Ricardo Zepeda Urzúa</name>
+    <rfc>UED220420KYM</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">706818</cents>
+    <!-- ISO 4217 -->
+    <currency>UZS</currency>
+  </amount>
+  <emitted_at type="date">2021-04-29 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-08-06 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-02-07 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">1ysvux6x2tfoa1ye2eccm9xxz177e7zmr3ck526ykqq5k3aiob1kczcocpajnoalm0bu9xplkm5mezjemonppp1b4nkeuqry6w3crf9stvh6koj2mprkjjem5en7q9c6f4uoj17zrtfbd34a0bubi3ohigiya43gkk0ipqihk4yps0r8cecp6b29yotcgms1v617o416bokl39qg547bfwi8wk1jswxwrt9f9gcpdba2b1z9g656bzadpujnyf1</cfdi_digital_stamp>
+</hash>

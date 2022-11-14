@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>b4691104-e7a3-4fdd-9fad-e5ae3d8187e0</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Israel Gerardo Graciado Castillo</name>
+    <rfc>STK930621XGI</rfc>
+  </emitter>
+  <receiver>
+    <name>Abril Manjarrez Macías</name>
+    <rfc>LXJ98040376T</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">88553</cents>
+    <!-- ISO 4217 -->
+    <currency>GNF</currency>
+  </amount>
+  <emitted_at type="date">2021-06-05 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-10-04 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-07-14 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">imyk1mcz85bzzxol1ho721gje8pqh9hndnivyo6y3dw42ux7f6ulqnuhq8njh8wx4apv7wxdyqh3br8f49q5heiqogc6w8q6384birq0prv58l96m7np88dx2xqcmf8x8de6rt0fq049mn4xnbycogjqcj74wzuc8q99wqgo25m8zslsslhfp4l3jp1z9znr1mt0lu4at2ngxjt22nfe1osnsnvwavy2tkiobefa3p81tqqmitv2ljxtds1ys5t</cfdi_digital_stamp>
+</hash>

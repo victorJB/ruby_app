@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>38c1ac3c-c72c-4aee-b2ac-5897241e18b9</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Cristina Colín Huerta</name>
+    <rfc>WSZ9109091P9</rfc>
+  </emitter>
+  <receiver>
+    <name>Priscila Sambrano Lomelí</name>
+    <rfc>&amp;JC771006KQU</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">513198</cents>
+    <!-- ISO 4217 -->
+    <currency>SYP</currency>
+  </amount>
+  <emitted_at type="date">2021-05-28 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-08-11 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-02-27 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">zbn179hty80dy5xo040uklhxgw3ljuxeavga77dxka96djrzhegzjvmfp7al39acp1ii78y95r0fmfj9qfuk0e5yozqndaidq9welwqsph9io8jdilerab7ib7gl1rl7zhvap65luv6d7z8qq2aics101v5dghrlfuj6d9omxyfikbeg609jkgeezxoo93bcilfgjjbc96zt0i22omnulheml2r0ljb8emhc7sfhrq43ugo7he6j0w0lk4grwsy</cfdi_digital_stamp>
+</hash>

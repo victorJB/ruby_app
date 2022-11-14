@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>95bdd625-66b9-44d0-87d4-c13845e00eef</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Valentín Rueda Ugalde</name>
+    <rfc>N&amp;X160118F24</rfc>
+  </emitter>
+  <receiver>
+    <name>León Ledesma Mancera</name>
+    <rfc>WOG0705255E7</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">311310</cents>
+    <!-- ISO 4217 -->
+    <currency>XCD</currency>
+  </amount>
+  <emitted_at type="date">2022-07-13 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-05-19 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-09-23 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">2edeyeuzlm38zwbvtdh39bfg2a300fqzavqu90ef458qrxsx29t8ft7bdfdj9oo27534it0he13ufqy296svccqr5mlqhzpmrhxrj2jun364rfwpzraq0tqcuq2flspnc32dtwnpw91gee7p48r6hitlx8ctoi0fr3n9sodnbhr9ufukkf2x6haejrn8d01nlribf3951950uu2wy91xqiihrnr82gmsc1vrwb3flfozfzbu2ytkyqup5omnr43</cfdi_digital_stamp>
+</hash>

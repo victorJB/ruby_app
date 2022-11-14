@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>54bdb8f7-74d8-410f-b7bf-27da0685ac6f</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Jimena Quiroz Colín</name>
+    <rfc>XMN8112197GW</rfc>
+  </emitter>
+  <receiver>
+    <name>Flor Pimentel Alfaro</name>
+    <rfc>UNL960710JEX</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">31792</cents>
+    <!-- ISO 4217 -->
+    <currency>RUB</currency>
+  </amount>
+  <emitted_at type="date">2020-09-17 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-09-02 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-01-01 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">sdgsenov0ar5x1mx1s95hr73gksdrh9kld2jej8mx40ib1wdpb5307ttl6rfm9y4zi0k2l3if5q002fdaazohquye219y5fcqivfkhdh2gbae7k53snqi1re2p60h7vpdkpxvq3qalnb5u1w2ho3xzhgg6kcyxkg1zecahgyuygj7vj59ypqzfklt1vkberh3johe46ybjrfzf1vbh0gja59okjv8r3mmxjwjehjg5dvhuwk6i8c296xj4wbknt</cfdi_digital_stamp>
+</hash>

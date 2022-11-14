@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>ef6e253b-8809-45c5-8400-d410fa71480c</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Omar Bairez Echeverría</name>
+    <rfc>ÑWS0011187UO</rfc>
+  </emitter>
+  <receiver>
+    <name>Selma Barrientos Tellez</name>
+    <rfc>SHB91012525F</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">860594</cents>
+    <!-- ISO 4217 -->
+    <currency>KYD</currency>
+  </amount>
+  <emitted_at type="date">2022-10-25 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-09-19 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-03-27 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">qr03cumybnyyi218cqgr15rh8kmk6uihdlcd0nest4b6n0f0gi5mjsc8w1lh9n5nua6hlxa9950lj8u386exm1wowa2yxaz7cn11m9bk14pz6usw7ja40tiqih1g02k5eqsmfj7gyef7zbf99i6zzs6balms5x7q60a46kaxo6kenwqj32v3onu8u7sqcv4oo9gchp3l9xic2uj6eswmd6hhck2bkf9483ruw70rx3c0i7mfi04bqjdrb82fz0c</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>4b25543b-59d5-43a2-bdca-fd5b2d46a18a</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Jerónimo Acevedo Aguilar</name>
+    <rfc>QUR190913BKJ</rfc>
+  </emitter>
+  <receiver>
+    <name>Alejandra Villaseñor Mineros</name>
+    <rfc>ZST0204239LE</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">423707</cents>
+    <!-- ISO 4217 -->
+    <currency>VEF</currency>
+  </amount>
+  <emitted_at type="date">2019-10-17 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-12-30 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-03-20 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">mocrwprghrdqlhssumtiu01khlkyar8sdvspd1yq9ogalooeu6e4ft10cnv198oniddgeii7luz60gw5dv9tdqel4nqnyfoift4sp2974zsfv46r31eiw2amotx7b9261fy6695u7pmfdcxgjbcct3eea4jbtnpwhiab9fevo2u88c54557oqh2adf0uaxy2o2qx3zwbwssv20ugfsizw2lxmtlddsiw3jb0sxf9eogzlyek3brfg77gqt9gug9</cfdi_digital_stamp>
+</hash>

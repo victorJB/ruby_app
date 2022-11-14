@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>2789f239-8824-4a1d-95f3-9ef339f76c25</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Rita Lozano Peñaloza</name>
+    <rfc>FES02080107C</rfc>
+  </emitter>
+  <receiver>
+    <name>Ricardo Herrera Tapia</name>
+    <rfc>PFH751123H4K</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">121596</cents>
+    <!-- ISO 4217 -->
+    <currency>KYD</currency>
+  </amount>
+  <emitted_at type="date">2021-04-16 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-06-13 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-09-19 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">ya733ea4ht74lsbvp9hxbxioz4n1u2wpfq97a8szevz7xyb9nm02tupj9tigs3x1cuax1evq1zsjajz2ifkl64bn40fc39eouasag4d43bnkvcbwjx79oj8rqi9a3jvkgyin230xtwopvp1jkqiir112ncygesjj9j3fre3249rfy2gndohr4ee89r2etkprvhexc3j3x3yidf51uegul6lmcf5ihyfjpe8skqs1dykxdydu7rygv9j9sazybra</cfdi_digital_stamp>
+</hash>

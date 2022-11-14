@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>31b50a7f-00f6-42e3-bde8-f41326f65b1b</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Alfonso Rosales Bairez</name>
+    <rfc>CJG060306Q79</rfc>
+  </emitter>
+  <receiver>
+    <name>Teresa Gallegos Reynaga</name>
+    <rfc>IND930428NS0</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">864405</cents>
+    <!-- ISO 4217 -->
+    <currency>HNL</currency>
+  </amount>
+  <emitted_at type="date">2018-11-22 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-07-09 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-10-06 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">pvv5xaa5e4zq3xlglym18754cj2y0jqcms5w1j5523eymk9d286u8tzxm0odjgx98yhblcbpe2kg08upam2p6f9jj52dkdz389mxkwgzz44zdik1fjqeg2vu3229k03gy462fdsd3i4rac8416jrxf9h5ep7sldlkmpyjlwavibasx1on0ftjgj8dwen3uj9nc39wykktaj1e0indt1jl0nyj0dxmhf4cgeg5hf8ikn71bsifoubjdb9b1268qd</cfdi_digital_stamp>
+</hash>

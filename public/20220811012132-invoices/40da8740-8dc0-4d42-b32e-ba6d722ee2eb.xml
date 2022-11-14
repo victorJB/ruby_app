@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>40da8740-8dc0-4d42-b32e-ba6d722ee2eb</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Edith Zúñiga Blanco</name>
+    <rfc>OWC120123CBK</rfc>
+  </emitter>
+  <receiver>
+    <name>Marvin Emanuel Tamayo Robles</name>
+    <rfc>FNC041210NHD</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">822684</cents>
+    <!-- ISO 4217 -->
+    <currency>BDT</currency>
+  </amount>
+  <emitted_at type="date">2021-07-26 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-04-16 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-11-26 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">r6l8h23rmejbmkrnib2aq6nd4fsw8ndwf1i3e6zhk8l1kttvrhgurozm24odcz81vzu5j1qylrxrl9qkeesa10n7i8d0o1sgitqruw0ebilhy6fb5attf10kkdjdw2795hnuga9ho4pxftoinmlqleuk1jdd8uav1vw61xhs6bymdxqtynyu2f9io1l00vea1mer0jldoa4g8m9b2d8coey3lakw8epfkspvn5xo0atfy4gkelt794jlc3kyk2w</cfdi_digital_stamp>
+</hash>

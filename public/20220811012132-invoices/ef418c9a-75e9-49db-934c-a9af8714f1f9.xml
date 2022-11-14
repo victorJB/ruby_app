@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>ef418c9a-75e9-49db-934c-a9af8714f1f9</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Erica Iris Ortíz Quintero</name>
+    <rfc>VYO191116Y1W</rfc>
+  </emitter>
+  <receiver>
+    <name>Alfonso Vilchis Rosales</name>
+    <rfc>FIX0211131KR</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">297405</cents>
+    <!-- ISO 4217 -->
+    <currency>AZN</currency>
+  </amount>
+  <emitted_at type="date">2020-08-31 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-09-06 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-05-02 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">2kmd16g7u85g14xdyzo03nxmrrvq3mmzph4av6bpbqy17ofc6wbcahile3d4sx5m8gb4navz4sewsz31er86tmueipgbed57gyd3baydclciiuxlh1j6nk7cwqtgangkr81cdhj524aa8030kfd4yypo70mulgokfn5cw9uzj61igdqa282weexmw7923zg5eq7zr3ga0vzm1rlhy8evi998vj8r8bpw5w9z54pl2yt4ptgl14wgdei2lewfwly</cfdi_digital_stamp>
+</hash>

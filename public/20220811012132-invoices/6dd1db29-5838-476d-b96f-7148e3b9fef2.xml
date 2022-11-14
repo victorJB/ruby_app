@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>6dd1db29-5838-476d-b96f-7148e3b9fef2</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Rosa Osio Navarrete</name>
+    <rfc>&amp;VB731213OT2</rfc>
+  </emitter>
+  <receiver>
+    <name>Jaqueline Aguirre Covarrubias</name>
+    <rfc>XO&amp;781223HIY</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">625649</cents>
+    <!-- ISO 4217 -->
+    <currency>PAB</currency>
+  </amount>
+  <emitted_at type="date">2021-06-16 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-04-16 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-11-09 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">leg79qkakumjecxne23axo9oxbwddfo4uj5p75cqesb1gwb8i3xlzbwkyzm6vx8va3v304vg0uoz8jiejyon254gfmg1w1lhp96v72escn067rqfzlzwgnd76a1htb5w8op8w5bs2tb6vq4r85hi0onpemyp0ilqrx59eijmaslb0o69aqvygbpafsyxcchqts8iq0j2ibi0q89f49tz3a7alh0ru3f0l95tpkmajp9wrrswtplk24w6qugo0rb</cfdi_digital_stamp>
+</hash>

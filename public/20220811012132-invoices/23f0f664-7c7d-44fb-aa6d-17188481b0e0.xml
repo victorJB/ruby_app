@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>23f0f664-7c7d-44fb-aa6d-17188481b0e0</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Francisca Naranjo Roque</name>
+    <rfc>XYW7410216P9</rfc>
+  </emitter>
+  <receiver>
+    <name>Maricela Peñaloza Ledesma</name>
+    <rfc>CGM1309138Z2</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">362709</cents>
+    <!-- ISO 4217 -->
+    <currency>EGP</currency>
+  </amount>
+  <emitted_at type="date">2022-04-21 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-01-16 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-02-12 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">a07llbs02ixhjw55dppvbgzqw6ze6h08gwsxh8ivl2sdcsv97fmlth8dig1ozdm5yomopnmtv8m7kyt81shr8tm3s7jw2n83eiun0t9gxooywdpy7okfgkfozzg4gc6t35yrcgim7m62zxycqbxx0sm53hx3uh2bfzsjspkllrjgm7e8xtf6653uttoxnhd2l6ysdho1mg73tomymbf61orpzod1p643d45597pahjbvfde8dtyz4qm1jpv1q6h</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>6cc459cc-bdbc-49ae-9341-1dcd2c3e83e9</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Wilberto Reyes Villaseñor</name>
+    <rfc>TXP820105B85</rfc>
+  </emitter>
+  <receiver>
+    <name>Isidro Carmelo Colín Espino</name>
+    <rfc>QLK781110MLW</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">147142</cents>
+    <!-- ISO 4217 -->
+    <currency>JMD</currency>
+  </amount>
+  <emitted_at type="date">2020-05-15 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-08-02 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-05-31 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">zr94xw7e1wqesprrsub66f0wyngfj25xru046doi6v5sw437fv66bb0k0ojg2sj6wz7lp0d5bw0ke8bpciqfcggi7qjl3ry42uwe5rsbz2nmi7pw6yyemfyty2bcjhq7nz35a13sblddinwovamukqaz6f1ujfxju9bjm9u0o8hky4yfchm3wzqihokl8jlp2xew1st6ovcd9qh19mgnulc1ah1cf56nj69b93an4i9o7b3yxoiiuc10okv3m9w</cfdi_digital_stamp>
+</hash>

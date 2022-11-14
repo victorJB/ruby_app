@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>9dd44eb4-1a4f-4432-b502-1d8cae4da705</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Giovani Osiel Peñaloza Noguera</name>
+    <rfc>LRF031223NB7</rfc>
+  </emitter>
+  <receiver>
+    <name>Agustín Donato Hernández Herrera</name>
+    <rfc>ÑVW8911034S2</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">64515</cents>
+    <!-- ISO 4217 -->
+    <currency>BWP</currency>
+  </amount>
+  <emitted_at type="date">2019-03-14 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-09-09 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-11-10 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">ehd7836y7saa8upa0sfts2skbiy3lqo5950avjqr0utzemlxi3z4lm4qbj8kekm4py2qw6whi5r6bn6zvgmh660jne5l6meoyplz08eerjqgjby5yzlw23ghcsg1nhjv5422znpbb7i222o2oeiaruxd28yarzwcmyaa07ylq9gy49csv34fm7a7x8646q2kij1fzzd3s5tghgf6y2vyq6x1329dehhq78szou7sua34i0380kza7kd14g4ccl9</cfdi_digital_stamp>
+</hash>

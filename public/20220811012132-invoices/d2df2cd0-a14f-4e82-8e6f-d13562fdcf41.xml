@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>d2df2cd0-a14f-4e82-8e6f-d13562fdcf41</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Emilia Quintero Montaño</name>
+    <rfc>FUX131019L8O</rfc>
+  </emitter>
+  <receiver>
+    <name>Demetrio Zetina Acosta</name>
+    <rfc>MDE191004QYR</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">733419</cents>
+    <!-- ISO 4217 -->
+    <currency>IDR</currency>
+  </amount>
+  <emitted_at type="date">2021-02-12 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-11-07 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-11-29 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">mdm653xztz674fiyl07qfap0ccvxqqo3hjoyonyu2w3oyi32h2htuwx71dwgqd1rwra7ncwt0f98zslaaze0u2to6jn988qams9rvwgqzzvairzfgaw0dn6d6kvbfpuxge5ckojxmboqi3bczqelqv6bnldnyscd9dfjd830xoj997ahni9dz4w88jk3bx73sswklg1o499rgifkx8j6pa82whzjja5crpj095cm4slxv8kd41dpou384vtgkp5</cfdi_digital_stamp>
+</hash>

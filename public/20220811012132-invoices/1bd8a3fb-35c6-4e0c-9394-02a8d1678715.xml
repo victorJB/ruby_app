@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>1bd8a3fb-35c6-4e0c-9394-02a8d1678715</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Bertha Guevara Jardón</name>
+    <rfc>VCF880529TVO</rfc>
+  </emitter>
+  <receiver>
+    <name>Clemente Juárez Durazo</name>
+    <rfc>RLA7011107HU</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">794239</cents>
+    <!-- ISO 4217 -->
+    <currency>STD</currency>
+  </amount>
+  <emitted_at type="date">2020-05-16 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-07-22 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-12-16 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">i31ggdh0tir1bdogzo1hbvwcmpvtwmlovcpop5ohp3xmk3y3bbeuiy1umzsbmwtkodnorlnn2c5ruvb0fzc96o8zjwkct30vt3j97qq53i2c9qp5nz1wveufsb233k3cp7ilojvc055dd9kagy1ydsbo3glold18p5lr06pfzew0iwyhe95v8rc6yyt9r0ibehvpzhtmh0963s6wvxnkzg9zxsqeuw8gdacvuc2ofgb2p987j1gcpckp9zkpa6e</cfdi_digital_stamp>
+</hash>

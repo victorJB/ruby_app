@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>ce800e4a-b27c-421d-837a-941ffc114e4d</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Uriel Amador Cabazos Bárcenas</name>
+    <rfc>AF&amp;8601031AK</rfc>
+  </emitter>
+  <receiver>
+    <name>Nohemí Moreno Fuertes</name>
+    <rfc>LNE0408052F8</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">2469</cents>
+    <!-- ISO 4217 -->
+    <currency>XBA</currency>
+  </amount>
+  <emitted_at type="date">2021-02-10 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-10-04 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-03-27 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">ku47w6crr9iyx98unpiip9u863t1nck6am9ia1v7lo8e3nk5i5zlxxd49s0pagnyhhntyjn6kjp2d94rx966ihu0sfzkufteg7coovgw69jhwii6hfan49mtoez6nv2y55xg3lzab1sis2xgq5atnm7zfty3o5iita6wer2n9tzwgdug8orhiqeuqjdyq8wpoqn63cwczruvllcoyhexvfdizajytyxdt76iw4q7kdncai68p8e5t39biblud2p</cfdi_digital_stamp>
+</hash>

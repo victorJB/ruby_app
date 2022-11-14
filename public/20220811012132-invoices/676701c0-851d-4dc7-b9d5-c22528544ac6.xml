@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>676701c0-851d-4dc7-b9d5-c22528544ac6</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Guadalupe Román Roque Orozco</name>
+    <rfc>ÑJF910204LGJ</rfc>
+  </emitter>
+  <receiver>
+    <name>Luz Jurado Martínez</name>
+    <rfc>QDW121108UER</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">337551</cents>
+    <!-- ISO 4217 -->
+    <currency>IRR</currency>
+  </amount>
+  <emitted_at type="date">2022-01-24 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-05-12 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-05-03 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">7onhifoinw2ym92gfbkneuyek2ec0ng0q8pe5nohdmzsyte2qrrxbzjjsjz9y25athymk0dujv6yizcmex63cmz7loxmp2lfigejk9ydinqump7mcmnt4ramm4nb49horbrz79u8e365zjonkppfraovx77hqansj8oc013ixmufaopjbbw4dj6saez7ncq1953lup8xgbg15uy21glg4mnq0sh87ylxt8l67lpvs4mswlhs733mepxat54jv9a</cfdi_digital_stamp>
+</hash>

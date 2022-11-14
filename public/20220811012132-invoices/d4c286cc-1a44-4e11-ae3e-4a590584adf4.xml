@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>d4c286cc-1a44-4e11-ae3e-4a590584adf4</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Apolinar Linares Pelayo</name>
+    <rfc>ABC730105S7Q</rfc>
+  </emitter>
+  <receiver>
+    <name>Oliver Rodríguez Jacinto</name>
+    <rfc>AJT730720JWK</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">245307</cents>
+    <!-- ISO 4217 -->
+    <currency>KZT</currency>
+  </amount>
+  <emitted_at type="date">2019-09-07 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-07-09 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-11-30 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">vg45kbqq81niazj22pcgu1j9u2z22waruq3rc4zk39gw9tyr4x5jxne4w6tszqm5e1936c9phyv044gw520vlxlxhv7qaggktvanpn1dm1ocfi55i7zxm4evwl7o58qphwh28o9pshvd77eh271pzysy1nb5nyzoti57ufh0b4qg4xdt9ive90xdjsymrr1qkilu4waku5uqzj5us3h7vkc0f0hdcaca25zbb0h1bs2t1uv088se4oi501reb6h</cfdi_digital_stamp>
+</hash>

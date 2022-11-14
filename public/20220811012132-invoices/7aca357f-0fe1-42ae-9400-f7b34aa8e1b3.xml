@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>7aca357f-0fe1-42ae-9400-f7b34aa8e1b3</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Benancio Abrín Bracho</name>
+    <rfc>RNA160321O4Y</rfc>
+  </emitter>
+  <receiver>
+    <name>Guadalup Mondragón Ubaldo</name>
+    <rfc>SW&amp;960905MY4</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">221352</cents>
+    <!-- ISO 4217 -->
+    <currency>HRK</currency>
+  </amount>
+  <emitted_at type="date">2021-12-31 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-11-13 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-04-29 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">uvyatuykvm6iy7i74gca2micjq6302a4ods72or8uglppfpdeii19figslfqxoi0a9rl9xcll76plfapwn6tpi99kxne6pfvb59ofexm6ohl0n9b4qjy0lmfslygtlsuu1lld59rz36j3h9vxy20w3opsky4chi83awdzdv071zputk1zczx3tocq2f12ssl9faht0resoccsuflqrctz8qbhiojf53zd1vjzmm9o2lj61kff6x6d3qek0lvyhp</cfdi_digital_stamp>
+</hash>

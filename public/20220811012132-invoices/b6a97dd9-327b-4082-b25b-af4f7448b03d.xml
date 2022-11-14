@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>b6a97dd9-327b-4082-b25b-af4f7448b03d</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Daniel Joya Cabañas</name>
+    <rfc>ÑNR880610GK4</rfc>
+  </emitter>
+  <receiver>
+    <name>Elia Daniela Machuca Lozano</name>
+    <rfc>ASE901003I23</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">491813</cents>
+    <!-- ISO 4217 -->
+    <currency>AOA</currency>
+  </amount>
+  <emitted_at type="date">2019-07-11 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-12-18 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-09-03 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">4xh9wjy31osti4cv8i5kkxj4thmwfqi9zutn93x6z0aeyqa7pxflu2bmhqmxf5ts7edjpynpjab4nyap7kriiysxruw4i4i8cd9ehgncc1o8qkx1cnz8i2t6xq7jyhoicytdwzb5x6sz07dv6eqz62pomzm91cbhcqnf9ykwtg8hkq4dvyjz2aw46855fm52fg4zol91sopv24cqmm2vdfbgeo029xf4rk48zgyvtrclfile87vwe0x5xdi1rke</cfdi_digital_stamp>
+</hash>

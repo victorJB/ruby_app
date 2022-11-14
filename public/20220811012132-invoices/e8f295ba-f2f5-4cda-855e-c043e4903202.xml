@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>e8f295ba-f2f5-4cda-855e-c043e4903202</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Ubaldo Orozco Palomares</name>
+    <rfc>NCI080622G67</rfc>
+  </emitter>
+  <receiver>
+    <name>Camila Tejeda la</name>
+    <rfc>MOR211014VJ6</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">542686</cents>
+    <!-- ISO 4217 -->
+    <currency>GMD</currency>
+  </amount>
+  <emitted_at type="date">2021-02-04 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-10-31 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-10-13 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">hn8rq3y4kpv9squve0pp3125xbx1e3bwll1xobld1lun2m0yp9ds55ch5l79r8ds3sh7vemekj6voj02g87fgiqjoxnumde8f0b5a905igi40txtej0jsfusnzarijux6f3br9snrvcq26lfitlvvj1doa3la6nze9j10fw1u4v9sxmkcphwxpnbbuiaiwy3fz6pk00g0izsf143asolvrsn7hb63k2nw7a8ab2le4gzm9hw9438iwhxaae101s</cfdi_digital_stamp>
+</hash>

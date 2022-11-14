@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>03f43095-78dd-4b95-a2e3-3970f1bbd0de</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Gladis Balderas Espino</name>
+    <rfc>QVP180116Z7F</rfc>
+  </emitter>
+  <receiver>
+    <name>Juana Bracho Mora</name>
+    <rfc>LJW090313KI5</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">97061</cents>
+    <!-- ISO 4217 -->
+    <currency>NZD</currency>
+  </amount>
+  <emitted_at type="date">2021-11-09 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-08-08 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-06-03 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">fg2g3twn7u47jiwg22ekldcju6qnyxasq74tvdv8xf099ipgbucl2saguhd2g4ddpzit3iaq1n98n9cxy85l2gjuqq5ky063b5qzea01ihladcwo9qt6zf3qhpjqx3rqj3d76zv4wzteflgcgfmffqfwse2k5b5fu6wy7vhofuckj4z74hds8xjjhtoyzxgap470gbvwb4qfzk2x05o1icslwx73nak2t4qzqbhlv7muxjufy20cw9dpgapbsjh</cfdi_digital_stamp>
+</hash>

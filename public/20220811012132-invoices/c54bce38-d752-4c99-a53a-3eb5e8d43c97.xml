@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>c54bce38-d752-4c99-a53a-3eb5e8d43c97</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Carlos Ángel Huerta Higuera</name>
+    <rfc>ÑI&amp;050602OUY</rfc>
+  </emitter>
+  <receiver>
+    <name>Donato Carlos Flores Barrientos</name>
+    <rfc>BDK18113032A</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">496791</cents>
+    <!-- ISO 4217 -->
+    <currency>MDL</currency>
+  </amount>
+  <emitted_at type="date">2021-10-17 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-09-21 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-06-22 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">io9b39rua1q20i28agl9uhsba8vypl7i0kls8c9kxe8bdgwk54fi8sqa569go7lc7ubbeeavb2s5t9bxjb2y5zdt862n4yw60w36eci20e810i2576uy7jpbnubgzgyfwb7t9ifyn1qb6zzx6the9173cyv66pempuy1kjwnktpysrd560ixdbr9rt2j75vhsy2ob8ifhwgpbvyjiqyw4haqra866wl8fg66uunt1nd2x84wy4xf9le2w3r0d4y</cfdi_digital_stamp>
+</hash>

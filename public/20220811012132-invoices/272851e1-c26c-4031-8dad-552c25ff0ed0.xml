@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>272851e1-c26c-4031-8dad-552c25ff0ed0</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Jezabel Oca Rojas</name>
+    <rfc>XEL1001104T3</rfc>
+  </emitter>
+  <receiver>
+    <name>Raúl Felipe Batista Mota</name>
+    <rfc>GEJ030306LO5</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">336899</cents>
+    <!-- ISO 4217 -->
+    <currency>NOK</currency>
+  </amount>
+  <emitted_at type="date">2022-12-05 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-09-04 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-06-11 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">u35vg6rj0d2c3sggn2fnqytvwtnxyet457vpxedmuq9er5ry4tjyi91t4bu8o4tenhsyo1z5agjjxtcrp4g2sxkom2lhlez1gcuby53r56gdo4heewrlhbpz8x426914d45vou25f2uhurnzfvqmzhpy5586k218sraekbpgao65zdmq8e1fjt2nmiaso0pw7khjr4pjdske3cx67hetz9fakly5mxui30veb99o8vxdavqixkxpwiz2ttf8hm9</cfdi_digital_stamp>
+</hash>

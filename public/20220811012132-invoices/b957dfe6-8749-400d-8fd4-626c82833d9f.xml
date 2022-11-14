@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>b957dfe6-8749-400d-8fd4-626c82833d9f</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Liliana Aguirre Meza</name>
+    <rfc>T&amp;D830905PMB</rfc>
+  </emitter>
+  <receiver>
+    <name>Benancio Rafael Salinas Olivares</name>
+    <rfc>PXL110614EPM</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">624939</cents>
+    <!-- ISO 4217 -->
+    <currency>VEF</currency>
+  </amount>
+  <emitted_at type="date">2022-02-19 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-04-12 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-10-17 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">0zbnunml7wg2tu9n6sysvrsk0cvjf36yx0akdboxolblvezgrwrju9cupbc148932p3cvfo5f3sow2y2y903clebjj4k00rfd5wcttdas2xtmtbsqar7nc96mrhy48hd2jbxvws7u0o3ui7wkivbavjhvq8ax4ixl1grgfmull5si7oxyykdcp6oq2up40fhdpte771warh83lru2dphhoaklfxkgnfwqg2m51fjvgrwl94d19bkuam6w5mew81</cfdi_digital_stamp>
+</hash>

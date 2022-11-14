@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>c5cb1f13-558e-45ea-ab0b-dc472ab74a63</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Blanca Uribe Nájera</name>
+    <rfc>BEÑ030421CFI</rfc>
+  </emitter>
+  <receiver>
+    <name>Tania Nájera Leyva</name>
+    <rfc>NTU17071310V</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">560914</cents>
+    <!-- ISO 4217 -->
+    <currency>KZT</currency>
+  </amount>
+  <emitted_at type="date">2019-10-25 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-10-24 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-07-03 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">33ljjja1d807xc0aeao8o8ehi9l5lxv32zas89l15lsyzxakdbeh1jizkv72b0t43oelqkgi0vlpcc07vdr03vmv6fjen2upjgh9gmkg3uhwwzsttkxbr9doyeagosycmc1p00tj9w6m31c927jd53r92vvin9wx8sa422yfvqr07zxfd64aywkbr4s0z8ze82r7m4k1mrqftm8rvqhif8iparwyxnkshjkpo4pygox2ic6tui9ligm353o88uo</cfdi_digital_stamp>
+</hash>

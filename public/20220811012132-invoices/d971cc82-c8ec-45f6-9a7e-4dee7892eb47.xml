@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>d971cc82-c8ec-45f6-9a7e-4dee7892eb47</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Lucía Úrsula Mantilla Reyes</name>
+    <rfc>NTK130617ZM6</rfc>
+  </emitter>
+  <receiver>
+    <name>Gladis Elizondo Iturbe</name>
+    <rfc>JU&amp;140619O9K</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">891201</cents>
+    <!-- ISO 4217 -->
+    <currency>TMT</currency>
+  </amount>
+  <emitted_at type="date">2019-11-04 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-10-26 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-03-24 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">l1nwtzl0zq35vi2tjq5k76zwr0lfpoijisouvkh7yeppoquhlj1r6dr6nhq5r9qbtk79cb5iziiwiyfbr62p35si25xdn18p636dwo61rruoyaautjill5vzsyblngfqs0yg0el3v3v6mvh611i3kyzbzokjixenudeva9ge96cjpngtcxej6y5ri511qbhemedt5343q7o7ch8cehohqtyn57cot8vdk4nccdfleq5x7ds5db5jmtcm1jkmbnc</cfdi_digital_stamp>
+</hash>

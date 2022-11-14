@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>806b4b04-3893-4a7b-b3cb-45ccc3f8547e</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Bernardo Barrera Franco</name>
+    <rfc>EZO0910196T3</rfc>
+  </emitter>
+  <receiver>
+    <name>Felipe Benítez Loera</name>
+    <rfc>OAZ980609LE9</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">877696</cents>
+    <!-- ISO 4217 -->
+    <currency>LRD</currency>
+  </amount>
+  <emitted_at type="date">2021-09-26 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-08-28 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-01-07 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">gsdgqctuj85vhrk2qc3bbitjbm0247vr9b3uvzm325jov743ea8kn9ii4ty5smkeqzie0ykr6qvznawb174b4wwhhw0twvkh7xnl4dq803jnnnjpsptqsepuf7q5aymqo3zyfku96gy1ln4ir7ozjhyswfzhu0b5ft1qg12amk52m76n4gwwmv5q2m4mjal9cwwmh1bnxt1alcy6paempgd32zx0lp5xuyr25p9fspq9b4g9ne178lq2eupr693</cfdi_digital_stamp>
+</hash>

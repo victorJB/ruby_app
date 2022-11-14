@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>4c9b50c3-93b3-47dc-baf0-7510988c2990</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Temístocles Merino Linares</name>
+    <rfc>HEW930309ODX</rfc>
+  </emitter>
+  <receiver>
+    <name>Leonardo Fernández Duarte</name>
+    <rfc>NUS870503JW1</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">533485</cents>
+    <!-- ISO 4217 -->
+    <currency>GTQ</currency>
+  </amount>
+  <emitted_at type="date">2018-05-27 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-04-17 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-01-08 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">d3q1h68vrc5xfjiz85xq803a0ee9cc8gnh9hkjzzw2frv8hvif89t36pbrnji899301r2mgxunb6bkx06yimp407i336q3an5bd2pvg3c7eo2xc7rdcw7hwcl1zwe2j4owumvrj0wctofa2kzz51gujxmylgd4k8cb8gr4mjq75t0nhs0wjym5e0qdojtmij1b0b857ucagmpoiwn66z78anqjwja06amt766sgs3q8frimyqphdj6otg98qc77</cfdi_digital_stamp>
+</hash>

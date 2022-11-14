@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>90ef9479-9f24-4ec0-adcf-05f9475620a3</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Emiliano Rico Lozano</name>
+    <rfc>&amp;RZ870205M7N</rfc>
+  </emitter>
+  <receiver>
+    <name>Fernanda Noriega Batista</name>
+    <rfc>VKH800121NF3</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">967744</cents>
+    <!-- ISO 4217 -->
+    <currency>XAG</currency>
+  </amount>
+  <emitted_at type="date">2019-03-11 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-09-08 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-02-07 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">lw246oa65sxb6ib3ye8867yrfdastzbuu4qzozqua6wfwz86mi493t2xosu4utpas376ha88ccw4r34z48b90rf8uessptwzxbnqbdbau8620ssdvew0ytv8urtkkwj27b0044ii5ebynycs6utg2lzwgsiiim1s1bdvbxqxxq91ctqzovq9gcskzzfy5u8kjk7f4xv9zntoq0qbx22kv3r4ua79r2jgprovdkit7k9i9yctmuudb4h5o9h5ylk</cfdi_digital_stamp>
+</hash>

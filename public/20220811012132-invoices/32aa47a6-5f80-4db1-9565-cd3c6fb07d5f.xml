@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>32aa47a6-5f80-4db1-9565-cd3c6fb07d5f</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Clara Anabel Uribe Karrer</name>
+    <rfc>LVT1007252NI</rfc>
+  </emitter>
+  <receiver>
+    <name>Elia Lara Rincón</name>
+    <rfc>PTI040924PKS</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">825188</cents>
+    <!-- ISO 4217 -->
+    <currency>KPW</currency>
+  </amount>
+  <emitted_at type="date">2018-01-14 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-01-31 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-10-02 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">ywv7lvrracc1ttsa5984khlkag3etgd3vhrhxar1325ceqx64v38k1a22nwz9wtfwqjhaxtztyv7kfjp3w548w1dvg2jzu5e92tomk499g2oobjif9oza71s47fxebyty62r7gv92wt90s516jqlivcs5b2xzzfgkhbx7vv85e92t5tsqyiimq8pusu3g6jc0q34l0a3cjh6z3w9620hvdr6dfphnxov3h4ipmuvfcsm5ljth5lo1em9cbg9n61</cfdi_digital_stamp>
+</hash>

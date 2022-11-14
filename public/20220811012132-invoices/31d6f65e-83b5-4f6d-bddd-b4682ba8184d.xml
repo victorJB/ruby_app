@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>31d6f65e-83b5-4f6d-bddd-b4682ba8184d</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Verónica Arroyo Feregrino</name>
+    <rfc>FTÑ89091418P</rfc>
+  </emitter>
+  <receiver>
+    <name>Javier Herrera Zúñiga</name>
+    <rfc>LUC151115X3W</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">584383</cents>
+    <!-- ISO 4217 -->
+    <currency>SRD</currency>
+  </amount>
+  <emitted_at type="date">2021-06-14 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-09-24 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-09-06 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">vn2nc8sj5oh82ihl08ag8oz4360vi91jrv4blpve817ecjcyendxmt2u2zj7ql3rwo11cfhcckss6txxoixvib1dw0i5j60jbs0x717t98holhsuoa16m3cx6wsn6p4hcxq1w8rddnqv09y2i5b6sdqoten8e4p06tpcjr6wz4c6de49k7fv1s0gix4qp88wsyc32uor7kidtxc0m954bxkkzw5qx89ouyt4wmix30l3b8vpxenml15pgvgz9e6</cfdi_digital_stamp>
+</hash>

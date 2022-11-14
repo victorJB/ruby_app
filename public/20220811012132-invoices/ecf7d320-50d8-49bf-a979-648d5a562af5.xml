@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>ecf7d320-50d8-49bf-a979-648d5a562af5</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Martín Tellez Barrera</name>
+    <rfc>KCÑ881020BQA</rfc>
+  </emitter>
+  <receiver>
+    <name>Gerardo Manzano Alva</name>
+    <rfc>QKZ8205018S6</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">983757</cents>
+    <!-- ISO 4217 -->
+    <currency>MKD</currency>
+  </amount>
+  <emitted_at type="date">2018-09-27 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-01-08 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-03-31 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">vv6dr4fwd766i7mbbvzlloiqxowru6ne9384jt6cqrlijqkly2m712zg3u56k107zolwbmjrat034cyoho8vwngb0rtega1tvgl4yw0k87q6j1ntqbyelky8ujf2hk2vcirz4ita0zjd5owk07415njmewyzdx4av5s5voh1hjhm64f5bb3f1n6o8b51xkq7nar5u2ykm03poh7k66otqwdq6yvk4u5zwcti0m7dz7zzsaswcb03jodi4ypnom4</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>2693a90c-7da7-4225-92de-635f33680473</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Jaime Salgado Tellez</name>
+    <rfc>TPL770324ETA</rfc>
+  </emitter>
+  <receiver>
+    <name>Geraldine Ochoa Cabrera</name>
+    <rfc>PUC920722O6F</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">254056</cents>
+    <!-- ISO 4217 -->
+    <currency>XAF</currency>
+  </amount>
+  <emitted_at type="date">2020-07-20 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-04-26 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-08-06 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">ubg8kvl8nmu6ktal30ta13xnvv2wm6kakdgfg7m9wkvax2b0ew2emk9u39rua5tbtx4mewlshztehmxqpdkl2b8plvur9m64lliu0pfb3ezaez6hyyfpakw0rmweezi1fnmq5gg0mjc4ma3b2i7pivv9ce1fjz8nfz407elp6hr7o7e0ky9fpi7eldwintecmuv5c7cefst3i4x4e1uho3ga3v3otkulsczo7cq90li4a8xck3u1witjcebqrt4</cfdi_digital_stamp>
+</hash>

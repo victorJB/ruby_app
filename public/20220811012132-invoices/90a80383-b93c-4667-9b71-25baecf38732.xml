@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>90a80383-b93c-4667-9b71-25baecf38732</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Julián Rendón Ojeda</name>
+    <rfc>MHK750214G8F</rfc>
+  </emitter>
+  <receiver>
+    <name>Marcelino Ulises Huerta Fernández</name>
+    <rfc>LQA790121ZOH</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">61309</cents>
+    <!-- ISO 4217 -->
+    <currency>PYG</currency>
+  </amount>
+  <emitted_at type="date">2021-06-12 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-11-13 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-02-14 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">tqayrpmuigyjglolvacia23sar2qeso3yhcjpsbbzbii3d9aocqle6pcr2nlcpnapezbv921b2wumc8argeeq2ka7xjntlil1517g9dsfbyxayeuv5j3dbezjtgi967jfbj8hmvq98rixdk6hx83h4g5dtsn79hax72ef6r1wx7rupfgkmsdn71tk2t72e7khupa1qbor5mt7eehcqbnmpc4jjoazl2i0x7nwoxe7s10pe4u1gdk1bfzg4o0ggr</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>0bebf45e-164f-492b-8dd6-ac5e9db6878a</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Karla Mancera Galván</name>
+    <rfc>DZH930626DXI</rfc>
+  </emitter>
+  <receiver>
+    <name>Jovana Góngora Tellez</name>
+    <rfc>RUI960804YIZ</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">223355</cents>
+    <!-- ISO 4217 -->
+    <currency>HUF</currency>
+  </amount>
+  <emitted_at type="date">2022-09-12 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-07-12 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-08-04 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">rrsy7vdo2wuqrdobqmfoabcsy9w9kn1g86tjbn06a8lts02vuycpgxrewxe1pirlkkeb69cljdhwtonxvq1bk35hzlt2sozude471q7nafsep3g1p2llho4p75xujtoajk0clsp3n63xcxc2zm8rrern8zvdx65uc8fvyygi9e0vv7d1fa5p7hdjcptqjifh2l63jo2nsy3crmstzf5p9419bkq4smoagkgvix8ovilclpq8me3pecad1521ays</cfdi_digital_stamp>
+</hash>

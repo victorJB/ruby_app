@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>0f809952-456b-4c9c-b540-8f648c99fbea</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Genaro Ledesma Salas</name>
+    <rfc>VOY860825D7V</rfc>
+  </emitter>
+  <receiver>
+    <name>Cinthia Acosta Marín</name>
+    <rfc>WKO900410NZQ</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">253402</cents>
+    <!-- ISO 4217 -->
+    <currency>ILS</currency>
+  </amount>
+  <emitted_at type="date">2020-10-26 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-03-08 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-03-31 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">eat6psngmtzkq3b8pptefymdhf6e503gmce9yd358kdxt66ig6et6rshz3yrnecryugq3j6gs6xzuz03lx1a0djfwx60r0kmp21ljw6167cxx5y4vuiv2a7860182uaxu3qgukwcbb444g9b08gu9ovcc9qbyqsaye8lzlowqtzq2j4h9gi0savdsbhva0gqhdd7ca5a5wr5oeu6q3zx13sxby85jycyemhpvag76d7thufwabloxxlfobqyt3h</cfdi_digital_stamp>
+</hash>

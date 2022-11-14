@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>b7015f70-1dd5-46ca-8232-8867452d83bd</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Ángela Peña Krazowski</name>
+    <rfc>NUB8909214TE</rfc>
+  </emitter>
+  <receiver>
+    <name>Dulce Rincón Mercado</name>
+    <rfc>OZM711229N4H</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">455067</cents>
+    <!-- ISO 4217 -->
+    <currency>GHS</currency>
+  </amount>
+  <emitted_at type="date">2018-07-20 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-03-28 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-11-14 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">p3znh7iqt39ajbnl2pfatetwbmpnkwbzgudppd10eimg8kwp3vluncphpq3a68vsmvbahjpj1spw9ax3upbekhiqe8sb7yhrmx469m1x7n0q2t65frwuxdbwxpgvnw7y3q7yzik3nphf2q60sdbxm5gel37hgbspokdaaxs0d4bpn429j1e8ruxp7lmzp8ufnyhzzwal8h6almwcctq4crgkvdtshwxndt8wec08dgqrols31rym3smwdm3d7s8</cfdi_digital_stamp>
+</hash>

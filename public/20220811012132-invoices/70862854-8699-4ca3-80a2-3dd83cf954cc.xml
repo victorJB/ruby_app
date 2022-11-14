@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>70862854-8699-4ca3-80a2-3dd83cf954cc</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Yordi Barrientos Paz</name>
+    <rfc>EUG121031OKZ</rfc>
+  </emitter>
+  <receiver>
+    <name>Xavier Peñaloza Velázquez</name>
+    <rfc>CJV000327FN7</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">690363</cents>
+    <!-- ISO 4217 -->
+    <currency>RSD</currency>
+  </amount>
+  <emitted_at type="date">2021-08-19 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-11-17 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-01-26 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">c88lbx2ge0i0wj4og5s7tbcz7mv954yvhd6o24by2ogjpe3dm8lr0qx2494jvm7wlms7580y7dhbaa5icq8o4ey9hbp5i3z93bfp46uq91j1vzs7kzt15ferzuc25pu64eygo634s5xujs01kk7ggy21y5v74r4gsq3wl1vo8tb1c1y5a41p5abinbs6ixgyph88od98aiaudlhqby8jxl272cgwyl39s0nntt15vizo110upbx5jb6yrjvao9h</cfdi_digital_stamp>
+</hash>

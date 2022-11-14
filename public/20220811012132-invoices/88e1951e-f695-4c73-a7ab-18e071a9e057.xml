@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>88e1951e-f695-4c73-a7ab-18e071a9e057</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Sonia Escobedo Ledesma</name>
+    <rfc>FR&amp;020719U9R</rfc>
+  </emitter>
+  <receiver>
+    <name>César Miguel Orozco XX</name>
+    <rfc>ATK920821BV9</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">372603</cents>
+    <!-- ISO 4217 -->
+    <currency>KWD</currency>
+  </amount>
+  <emitted_at type="date">2021-07-27 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-05-20 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-09-20 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">0vx6sn56jrcrevzo3shyjumyg8ssha5f9vlvz9xzgjhaduouqfzno4mcsqefcip2aks3rhze6acslitdl05efokzjjzntub2ebxb7cj0fqza2o1plf1ng12d2bse8bo4k0youaisluz2ig8jdku4ctfqg15nncgxxsvat2rppiandxpd1au8n7i034p98436sgp88rhhd9o5u8sgwoiclhcf9ris40bh94zglanqxrlb0gxp8s547ejrjcecnfb</cfdi_digital_stamp>
+</hash>

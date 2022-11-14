@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>04a014e2-d7b4-4a36-9f86-447344520240</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Adolfo Mosco Patiño</name>
+    <rfc>VLE840708KB8</rfc>
+  </emitter>
+  <receiver>
+    <name>Frida Camacho Guevara</name>
+    <rfc>XÑG170131LDZ</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">302110</cents>
+    <!-- ISO 4217 -->
+    <currency>GHS</currency>
+  </amount>
+  <emitted_at type="date">2022-06-02 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-06-22 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-04-19 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">xypkw24ijdkdnr1oa2j6tnzmwxavfm6uu6zq8hi6c12zwnccywk0f1twobyq1akkmg4pmco1fzeu4difherwqjdahtpgo5zi4kbehmmdw0ulc2x4kewx9to7krxjmevjauk43hh6ksjimg4pwu83lfak0f12z75gsi4wiuw1cbyu036u4v8qtpd10ih4q9dhha6w7uqh3qfyrxfqq18gawbijk5f8ffeoe4cie59fanjctrh79o9wj85mbxa49c</cfdi_digital_stamp>
+</hash>

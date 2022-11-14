@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>85cef2a5-cbee-42dc-925f-2c2af145d3d1</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Emiliano Cadenas Alvarado</name>
+    <rfc>&amp;RÑ05082086R</rfc>
+  </emitter>
+  <receiver>
+    <name>Marcela Lirio Flores Paz</name>
+    <rfc>PHW041116PSN</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">841117</cents>
+    <!-- ISO 4217 -->
+    <currency>IDR</currency>
+  </amount>
+  <emitted_at type="date">2019-06-29 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-09-06 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-04-30 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">dpjqcvyyetov7kl4lekmxild80slow8xayahl2sf3qe3wayyuaxr1kkj0adx1fimr3flq2hlwcp13ldnmjs7i7ip241llzsu4jhmq6txnwn9hcsfgt61xh8zwpzv8b915rerofgeof7zbhbwi97rx2of9bdfw7to3zwsozzwin4wamp09rzkpvhlqnnzr37xa8pxirlv2552o1alf0u278tyiiek4fq5dl35aqcjy9czlwtu0v2a3poasgw4kfe</cfdi_digital_stamp>
+</hash>

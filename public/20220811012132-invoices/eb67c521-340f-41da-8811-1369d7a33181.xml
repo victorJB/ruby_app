@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>eb67c521-340f-41da-8811-1369d7a33181</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Aurelio Dorantes Salas</name>
+    <rfc>QXF030702A9O</rfc>
+  </emitter>
+  <receiver>
+    <name>David Cervantes Escobedo</name>
+    <rfc>POK860111XAZ</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">428255</cents>
+    <!-- ISO 4217 -->
+    <currency>BND</currency>
+  </amount>
+  <emitted_at type="date">2021-06-30 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-10-08 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-10-02 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">f1jqdweflrmop7wxdnfq6fektsk148xqhxjd7rf0ln21vc2ppka1u92m5pzp99tk19h7diodgkxondd6l3bol05z6akvqgv8weyb5qwejosatysistzcone79jy3l69xbeqh7tawk6689y0wpkw7n0nmtjt0mgnonuyrbq60zsy38r0ra36f7uif8nmbpi9pw8f4plafv6486m2i3a7nzs09m7f8v0cmk18z9354t3uvwlblj9ncxgpu8v0nng6</cfdi_digital_stamp>
+</hash>

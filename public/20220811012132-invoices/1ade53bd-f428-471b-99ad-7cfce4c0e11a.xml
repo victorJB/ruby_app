@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>1ade53bd-f428-471b-99ad-7cfce4c0e11a</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Raquel Romero Barbosa</name>
+    <rfc>ZFM15022512Y</rfc>
+  </emitter>
+  <receiver>
+    <name>Vicente Rubio Juárez</name>
+    <rfc>BRJ1404048NU</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">567100</cents>
+    <!-- ISO 4217 -->
+    <currency>LRD</currency>
+  </amount>
+  <emitted_at type="date">2022-01-29 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-12-11 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-05-30 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">4lbyaee7v7j4w1gnl0wr1vb7b4ivr66rfn906531qbpnotgoxitlancu9mxqj48al3m4rdm577vg4ipf6aaqu8qprovbiupizc4k80oloticxy1xjf7b7ysk6u4h8rk7ftq1nqflb3bnxlt5wpd3uq3urrbymby5ezclue7w8m77vegtezx9eeamiv7i8nfs8892c5to0r1wwe5ehcuwj3k80wzrw7xgz1i4q2o15bp6q4j41fh37xakgzh4bkh</cfdi_digital_stamp>
+</hash>

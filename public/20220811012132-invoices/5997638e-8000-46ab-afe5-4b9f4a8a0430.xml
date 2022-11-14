@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>5997638e-8000-46ab-afe5-4b9f4a8a0430</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Wilberto Pascual Santos</name>
+    <rfc>ONQ8810206N4</rfc>
+  </emitter>
+  <receiver>
+    <name>Marina Torres Mujica</name>
+    <rfc>WFC811013TZA</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">7894</cents>
+    <!-- ISO 4217 -->
+    <currency>BOB</currency>
+  </amount>
+  <emitted_at type="date">2021-01-27 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-08-10 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-12-23 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">scryxo52xkd2rme31ikdnczjykye9yepfdypz7zbmrk8sk9hbh6k1njjeljl60nsa530tps6imnf3qmqp96mzcsy6d540229e0iwmuorynjfue8puc9beto23z52sb8l1tquo56ehujlnko8wr1k04qndp1dzzbwfscy96p2ycddqwhbihbhteiol2tby3tbkzoh5chcb38xdvkqbpm1ncrlhvwnn7qpgeuy2rx2jp0qysbq1n1iuyti84yqv25</cfdi_digital_stamp>
+</hash>

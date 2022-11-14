@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>ad8a235f-0e25-48f4-868f-6640d299522c</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Marcel Aréchiga Dávalos</name>
+    <rfc>&amp;KC9110160SO</rfc>
+  </emitter>
+  <receiver>
+    <name>Jesús Eliseo Jeréz Sabugal</name>
+    <rfc>HNB980705X9K</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">289233</cents>
+    <!-- ISO 4217 -->
+    <currency>SCR</currency>
+  </amount>
+  <emitted_at type="date">2020-10-22 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-01-16 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-09-01 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">palsfp52rob691siu8fkqmqetykdjc1vrntv6soi4j7gc5ealpn6x2ak8wkwmvi91bds9xpp4bx61x4m2dbkcbdal9u35tkwkry18g1n5ziqhqf8fqr7nwi3uznbs2qlxrp9dicw4geyo9hdm16evqdnwlqmfar03wbru22x9d10gu3ca0b1k6ifzpvd4n4rcwmb8k2im9r8l7cw9oi8wct7yv7aews8y3xio0oiti1vbze9uurw956zromxloy</cfdi_digital_stamp>
+</hash>

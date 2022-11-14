@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>6cd8d1e9-e5f8-463c-af2a-ee4258fd1d1d</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Rebeca Cordero Nuncio</name>
+    <rfc>O&amp;J891011ZL9</rfc>
+  </emitter>
+  <receiver>
+    <name>Virginia Meza Ugalde</name>
+    <rfc>QYD000804462</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">144999</cents>
+    <!-- ISO 4217 -->
+    <currency>XPF</currency>
+  </amount>
+  <emitted_at type="date">2019-09-04 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-05-09 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-07-20 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">531pi7p7k850waicw3x6a49hl6z7nxxbq8dv2ycrmvm52ugnk9l2fjwzrqfnuofq294mm42znp7m9nn9wkxhy6rlhtzhuzhnnniuetc1hpg2p8eeb9i58mfngqmbf28pxt2j2n39cryhnkvq6srhba6uhsw1gwzswg29s90x9fd42ggvb6dshvufxdt1tk6ejkv4t0usmq9k1wtirk5r77edfbzyruakrzw4qhsxrd6nbp3mojr8vhq0kckhraq</cfdi_digital_stamp>
+</hash>

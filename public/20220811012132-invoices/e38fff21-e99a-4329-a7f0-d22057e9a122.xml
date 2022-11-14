@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>e38fff21-e99a-4329-a7f0-d22057e9a122</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Abril Montes Gil</name>
+    <rfc>YXW751005W0A</rfc>
+  </emitter>
+  <receiver>
+    <name>Elena Huerta Arroyo</name>
+    <rfc>RQT220528Q1M</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">81134</cents>
+    <!-- ISO 4217 -->
+    <currency>CAD</currency>
+  </amount>
+  <emitted_at type="date">2020-06-22 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-06-24 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-01-07 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">bwxsxfji998mxacq07lzcj8kulzj2kplsgdweoeisyyxnn8r2jvae4xd4s0s16z52a3gqwe8aks2dgtdcr9xyvghxvc6yo91dac6wlxs42s0w1m5hr5tmu7nr1kzswrc7bkdhrzygyvufadcgt6cz5sg22aqo6obgbn9h27ls561l18d5ql5asjoypgdzi6urbtdq2u7ytgeyfeqtry489fvfqn4z0meks99qdk5ut3mhtc88zjut7njrgj68hh</cfdi_digital_stamp>
+</hash>

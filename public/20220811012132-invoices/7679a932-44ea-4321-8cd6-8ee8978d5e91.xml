@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>7679a932-44ea-4321-8cd6-8ee8978d5e91</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Hilda Ocampo Ibargüengoitia</name>
+    <rfc>&amp;EG770618S46</rfc>
+  </emitter>
+  <receiver>
+    <name>Leonardo Monroy Montes</name>
+    <rfc>ÑXA91042330J</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">477379</cents>
+    <!-- ISO 4217 -->
+    <currency>UYU</currency>
+  </amount>
+  <emitted_at type="date">2019-03-24 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-07-17 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-11-03 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">tp4ht4zrsofjf7jgwjeuhs3nieo1wjv8c8wgpfhuvet1pql0g0ig438c7jf5vkj5idkauyzf69nfe62vdo0qnmvybmn3bp9svt5wnvnkl9bc3f8rrjaz049r4siuhlvmbfnh3ec6nryqlnhokprgbn0w9w6hfvuomuf1j5i2tt7lba2044vcydlve8vkkvr3crtwbeq8jjjl5kyqiy2jggtv0vngh0rm5v1d5bx4n5wyct3hdb2u0754scw0ly7</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>6da22616-0142-4379-bd3d-da0f85ac66cf</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Martha Iturbe Mondragón</name>
+    <rfc>WDT980109C2D</rfc>
+  </emitter>
+  <receiver>
+    <name>Mara Olvera Sandoval</name>
+    <rfc>JÑW82081902H</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">995084</cents>
+    <!-- ISO 4217 -->
+    <currency>PYG</currency>
+  </amount>
+  <emitted_at type="date">2021-11-13 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-11-27 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-11-22 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">kp6g0ufh04ixc7sq521v3k5wojw8iv32w8n0bxehi70kcubepair9ng49hqw5z9j8xlgl7u3p1r1zynksot940liaqcfil8qxhejpugn5ls6ksxdmbbd1s2affvst0s2oskektg2norxrvsz0i5e3hwg5r7zuxan4ikh6z7o7q4o2ijhroxicnsiztefbkj097smpw0gjmertq60co5fz7z02hkx143v906plpz8x258q7dv87eyukpsm3d1qy5</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>c8350026-4ac2-4153-9824-dce5f8296a08</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Oscar Fregoso Limón</name>
+    <rfc>XCI180920KO6</rfc>
+  </emitter>
+  <receiver>
+    <name>América López Ortega</name>
+    <rfc>YXA011010DUW</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">483517</cents>
+    <!-- ISO 4217 -->
+    <currency>DZD</currency>
+  </amount>
+  <emitted_at type="date">2021-01-03 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-04-05 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-07-26 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">0jpfr4bcx4ddw2m6u7oxabj1v3xg20rwcwleqobg6pbrp482rm6slcis6tb92e9rw6p8ay4zy90tcpruhut67k94cmu4d1ga5nkrm6r3ktezhaua0elg2mbdczwnvh1nrsntf4ax0oqgbu7eqe9iu07m2wp3f8wtn48gmkwbueqiqny5yfnse883wg92ioz6po2ccst353j05qr4m6a3mwdlkqouii7wno5jt65j1sl4fh32uoeaom2789e4s8c</cfdi_digital_stamp>
+</hash>

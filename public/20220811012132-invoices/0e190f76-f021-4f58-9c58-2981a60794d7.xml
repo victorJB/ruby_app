@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>0e190f76-f021-4f58-9c58-2981a60794d7</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Denisse Pelayo Fuentes</name>
+    <rfc>SÑH88080656R</rfc>
+  </emitter>
+  <receiver>
+    <name>Cuauhtemoc Iturbide Bracho</name>
+    <rfc>&amp;KJ070423T49</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">721848</cents>
+    <!-- ISO 4217 -->
+    <currency>GYD</currency>
+  </amount>
+  <emitted_at type="date">2021-05-17 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-10-14 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-10-18 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">0i4lsoulz7syenymh8l2zyl5v9iixwxczqbuzqk0u7j2uyveesy8fg36pv7i6vwlopqiofve3jq14hx1mnserin6sj9i6g710571ws4q2nf506n6mhk4q4vgdpxrarxaxxwkq6em0l4p0nv2hlh1olgngaszi2kkmqh5xaj6aelfm6g0bfru5dsq7c4h6c3zo1ejtl3v9yu0ihf83b29iio6sgx8yho2n59p0vzyvn79z4jxqalbssr4s4vhyiz</cfdi_digital_stamp>
+</hash>

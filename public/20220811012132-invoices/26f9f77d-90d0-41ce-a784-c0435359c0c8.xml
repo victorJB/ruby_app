@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>26f9f77d-90d0-41ce-a784-c0435359c0c8</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Ezequiel Dávalos Ojeda</name>
+    <rfc>FMC060306UZ6</rfc>
+  </emitter>
+  <receiver>
+    <name>Katya Zavala Vilchis</name>
+    <rfc>BAR2104189YI</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">946839</cents>
+    <!-- ISO 4217 -->
+    <currency>INR</currency>
+  </amount>
+  <emitted_at type="date">2018-03-20 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-07-14 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-04-02 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">0kf5sth8g7ndexoh4mc5s7dui32suw5a3pxyfbc5mt2n63s921uo6gj1okord0ktdlx6g0ccl4mnu5blalnatia91wb3okbxjsorngxe80ni4qrrzbvbets63tlafndexdw9ra19vw5e25kzawu5fikj9sxniv9igc4bink9i6ia6lvugd85yyuvz9hsx71nybk1ghg8dajwb8xkalhf8mlixb6in70e5zsyul03dwsn9yyuqyzoo1gckpf3xtw</cfdi_digital_stamp>
+</hash>

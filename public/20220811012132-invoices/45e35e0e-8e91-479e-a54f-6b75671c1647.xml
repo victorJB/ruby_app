@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>45e35e0e-8e91-479e-a54f-6b75671c1647</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Victoriano Alfaro Sosa</name>
+    <rfc>UWT0809037G4</rfc>
+  </emitter>
+  <receiver>
+    <name>Rafael Portillo Salinas</name>
+    <rfc>HFC150201A80</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">564533</cents>
+    <!-- ISO 4217 -->
+    <currency>QAR</currency>
+  </amount>
+  <emitted_at type="date">2022-04-15 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-06-25 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-10-20 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">hfwr2zsvcxveuxkmhys7gzcd5aaaxluig8nhlp69n9a5xsnag3eyn9pu8zr01jud3h4oymptfduami4c5rxyqwcwu6pvsg45a0wmnqehzxfw0n1n4o62l9g93t2wytq56vxmcmqopdeq2bdcq11t6l39oq62xkra73sudsuiihpza7yspm53kdp1zp7clkyhkfj49hfx5lt897dwut85uoicctn4z2n5vpbzje9wmll8eaqpf9udzzj0w4firol</cfdi_digital_stamp>
+</hash>

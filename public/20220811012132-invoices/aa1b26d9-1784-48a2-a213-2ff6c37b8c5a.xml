@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>aa1b26d9-1784-48a2-a213-2ff6c37b8c5a</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Eva Higuera Góngora</name>
+    <rfc>NZC810927TC4</rfc>
+  </emitter>
+  <receiver>
+    <name>Lorena Rincón Guerrero</name>
+    <rfc>ZXH160210NEZ</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">109798</cents>
+    <!-- ISO 4217 -->
+    <currency>VND</currency>
+  </amount>
+  <emitted_at type="date">2021-02-17 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2022-08-28 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-09-28 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">lm93rkgogdduqlqgbuoieop57ieqwjjgxhlj65lnjbxjymllh9obzd64f4s0n8un0v19xykuhjhvtd42cpsfgu4cin3xr02p3143kem36pdm8no61ucknidy5qo6jh2ofuwvtgt5m9gcltdoq4jne7p05m7bkgvwo2jm38kxc88v78icn60onofr79moucgtu5n4sezmfu8wbumvfb6uqns355sk689b6da110s53golr1t1jkg4nymaqsu49zv</cfdi_digital_stamp>
+</hash>

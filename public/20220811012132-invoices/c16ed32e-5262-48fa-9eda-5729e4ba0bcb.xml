@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>c16ed32e-5262-48fa-9eda-5729e4ba0bcb</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Emilio Macedo Castillo</name>
+    <rfc>ÑYF001225FJS</rfc>
+  </emitter>
+  <receiver>
+    <name>Víctor Martínez Luis</name>
+    <rfc>BCÑ0810135ZX</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">128793</cents>
+    <!-- ISO 4217 -->
+    <currency>AED</currency>
+  </amount>
+  <emitted_at type="date">2020-02-21 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-06-29 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-08-25 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">5mt8i8wozczd097jd363js2fnliqawgkmyh66ojpr0z5ifb7nwqr3fubk077as5apsoqtlshpvqbmuc56y8gm5fqycdpm7ablfoqwrzq9lczemtxncz4zasqqs9207p72xlofv79knep26npns3ucmvyk51vi9s8ogi79u5zfbeiq24li34zxuj89u2mrvlgrxwiaucvz8dd9z3544jpitzse2wpebes1l8bz4xrlphtd74evtdru5zysi6mvaq</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>2799898e-4c97-4800-aeae-b1d44af8cc73</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Benito Troncoso Mosqueda</name>
+    <rfc>FKB880515N97</rfc>
+  </emitter>
+  <receiver>
+    <name>Alma Verónica Saenz Macías</name>
+    <rfc>IPR050716SPF</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">625252</cents>
+    <!-- ISO 4217 -->
+    <currency>MXN</currency>
+  </amount>
+  <emitted_at type="date">2022-03-06 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-06-23 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-11-20 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">z3i1dlhxkqea4x99pni8cpcvr2bf1s01pto8xo4t1ik5xfu2ho9udgkj2rd4h9txfyvjsthnlsyqx1x4jizm80gf8b92hrcd2455z1x8rkiata29peyzg2zpy7193u85q0age64s8t3h6980mz9uc7qz5ikob8ck0xkpnn6y6ua6q7eliu2zqnj6bqkm3hc47wqg575jtnuk4c4kx1p8955hhaozyglo2i9dbvh29o4pkuavop42zpidqbawm4o</cfdi_digital_stamp>
+</hash>

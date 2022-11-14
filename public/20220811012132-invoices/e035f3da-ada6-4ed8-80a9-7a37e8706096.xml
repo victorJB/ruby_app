@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>e035f3da-ada6-4ed8-80a9-7a37e8706096</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Ivette Krazowski Malpica</name>
+    <rfc>JHW910417IFP</rfc>
+  </emitter>
+  <receiver>
+    <name>Tomás Altamirano Peña</name>
+    <rfc>LGN721026FQC</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">916373</cents>
+    <!-- ISO 4217 -->
+    <currency>EEK</currency>
+  </amount>
+  <emitted_at type="date">2018-01-07 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-05-21 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-03-23 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">xqjn3l0p3u08nx6vxmkizx3q0tl2vzn9er0uiv3fuuf3job3jl7jrjkoqvi5rfvjvlfmvr80ocvswg6x3p6q5aknnqtdbooqvqce45156mu2deqwlozfllgq8vmxharc2z8ls09ayubvgpudiwem1kl5uz4bo19baf4x2o8putdoap04bfpjl0ac2u0q356795cfkpt88fktbzcodcnwrd83lx3eej6m016vflkpbdkel5rrmrio7oubmzkc6ib</cfdi_digital_stamp>
+</hash>

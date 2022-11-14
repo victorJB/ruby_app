@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>800bf624-d0ab-4734-b40b-d28183eb752e</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Juana Auréa De Irineo</name>
+    <rfc>DAW000320IHZ</rfc>
+  </emitter>
+  <receiver>
+    <name>Octavio Tello Montaño</name>
+    <rfc>CDE2208308OS</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">329101</cents>
+    <!-- ISO 4217 -->
+    <currency>OMR</currency>
+  </amount>
+  <emitted_at type="date">2018-05-14 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-12-27 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-04-30 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">udztw2vun0dp38axagmxb3t8xeleh5esgvysp6zawu7nat7yjsol3x74rkjku3qdcqhw6kwo618zj07nzo3u74v3osgrx25hrsw42h0w9ung9w5mcqfhtcpw5a5smz4znlww5jbvnlhmmdj3lccjzpapsh0lniz79gxct4a93c37bkmp37dmqqma2fwec0s2pdj0asd6unvbzrektdbmlehkz1nfp31aog5b7iw9ojtjzfp2cy0ftujfxvqulqs</cfdi_digital_stamp>
+</hash>

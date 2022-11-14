@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>0c581a88-75d3-4641-ba7b-223eb24249ad</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Patricio Ortega Mosco</name>
+    <rfc>WEH820401TD2</rfc>
+  </emitter>
+  <receiver>
+    <name>Marisol Jimena Iturbide Peralta</name>
+    <rfc>J&amp;U880908UH2</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">772205</cents>
+    <!-- ISO 4217 -->
+    <currency>DZD</currency>
+  </amount>
+  <emitted_at type="date">2022-06-10 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-10-10 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-07-31 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">ux13ctput4zbdn1wcmtpwclvzxhuzdxphgppdakrdx0xfhp7gs8476halm83hdh5osdc1kbtv6r4e2oikpr4vydnnnwnsxsv84o33otczt8usl46fm67d9nglr8g4rnr04ymulafzle5wh9rlgom5gqbp4pfyjx2nt3jjvue4pbb8j41nbrfdn2myv5cy9pzjgrsvxev7eobxjmdbwgn9i2zz9aqwki856hjjl0g4lz0zn42k8lnh9ya9sp66p6</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>a494aec7-d1a3-44df-af28-5ae437ef3875</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Elia Holbein Botello</name>
+    <rfc>MRQ1905125ZY</rfc>
+  </emitter>
+  <receiver>
+    <name>Pedro Elizondo Uribe</name>
+    <rfc>ROX7512212L4</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">684888</cents>
+    <!-- ISO 4217 -->
+    <currency>MXN</currency>
+  </amount>
+  <emitted_at type="date">2022-01-03 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-04-06 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-06-07 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">5iencewf8r68s1h5tkuhesrre85jdokb40vwbxwo9v4l8pfrnpz1bnrg5xmd1vcncs7nqs77h5dpbsem8sie8agmojsej3ewoqueh0f9q0h6ycghg4b1qq9l5a9xsmsz6ftcixdqdnv0ocmtamydj0yp7gvjyklnm4c4e498nb3krozx4lxy53ui2qkj0b9kj30ffhdvyon6lmyu9hn0h5siid9iaecomkjr3y0x3c9ur9oqugl1007nqaiypch</cfdi_digital_stamp>
+</hash>

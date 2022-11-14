@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>ab0dff91-f3e7-4da6-b445-579c450db312</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Homero Javier Iturbide Trujillo</name>
+    <rfc>CNO901218O1C</rfc>
+  </emitter>
+  <receiver>
+    <name>Jimena Jardón Rosas</name>
+    <rfc>KSW140108SHB</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">861619</cents>
+    <!-- ISO 4217 -->
+    <currency>BIF</currency>
+  </amount>
+  <emitted_at type="date">2018-08-26 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-03-11 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-01-28 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">vpa27xu22akjbkbivznqqauk102b0hwtdd6iv5blo2jdro1i8cr0hoqubc881oc3aete96q2isx0bzucrq2ysvsxj804kq1s9118dvu7mb9p51omknyjm2d9santzglz4wfqepajpjf7i0zmamnp9fajiq6euysgsqzrcjcve4jirjwan58vapfs3d11mcq6a1ol6z1enx61sissq9eb4hkkfihyw4uwxe9uo0resausnqo2ltqpvwlab2j1gjy</cfdi_digital_stamp>
+</hash>

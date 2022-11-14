@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>1d74e07e-f247-4544-9f85-fb739c3eede0</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Katya Peralta Álvarez</name>
+    <rfc>RXQ060831L5Z</rfc>
+  </emitter>
+  <receiver>
+    <name>Marina Franco Barrera</name>
+    <rfc>ÑGB7205211DN</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">205907</cents>
+    <!-- ISO 4217 -->
+    <currency>MXN</currency>
+  </amount>
+  <emitted_at type="date">2018-12-10 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-05-12 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-01-10 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">jyh0srltecr538uu324u7vwqopeixrkt8yc3ishn1t3nmffa1jki7ncdwtmqr0n27jvmpql8ibb5vzgatd6gblt86gpkd9lzl2mlwf2rw9i7jfwagir8pbwe7h4rxoondk5wexwq47yw4vp3ditvrssp00tjj0hfhztru1zag3rjxiwaiv4g22tsrs7kkf1nx0dpr4gjtq5bcpj39nh5h58zc1y2vmj18z193raumsekqol26kfwe1u22fyg7xx</cfdi_digital_stamp>
+</hash>

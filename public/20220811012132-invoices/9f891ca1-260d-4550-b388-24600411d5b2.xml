@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>9f891ca1-260d-4550-b388-24600411d5b2</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Homero Rosas Borja</name>
+    <rfc>LDQ151117E02</rfc>
+  </emitter>
+  <receiver>
+    <name>Pánfilo Ocampo Manzano</name>
+    <rfc>FIB790124TQC</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">336987</cents>
+    <!-- ISO 4217 -->
+    <currency>UAH</currency>
+  </amount>
+  <emitted_at type="date">2018-11-17 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-04-29 00:00:00 UTC</expires_at>
+  <signed_at type="date">2020-05-21 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">ovg6zemr16j4w0qva1eha35ljhjoif25fztk7j56ajsisw0u4fx1cd4hmswh5aice1e1s0nf33th6gb9g6i828i2nvu3olhz8ona5fxpuon4izz1s9y3eycawywbneeu47lpe4h9c1snpm2e10yjhp86i3jjdc3foqsmfwa9s0393iffvg1ej4xarfwiaymdn4up5e29qmbaplyjr6a6kv3i69r2pmiatmn7a5a8wppgisjdvav8slbq8rfc093</cfdi_digital_stamp>
+</hash>

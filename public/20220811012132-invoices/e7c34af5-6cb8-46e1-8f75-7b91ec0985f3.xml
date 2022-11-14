@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>e7c34af5-6cb8-46e1-8f75-7b91ec0985f3</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Noé Ortíz Zetina</name>
+    <rfc>GIH910131JMK</rfc>
+  </emitter>
+  <receiver>
+    <name>Ariel Blanco Hinojosa</name>
+    <rfc>EÑQ210616O8C</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">755351</cents>
+    <!-- ISO 4217 -->
+    <currency>LKR</currency>
+  </amount>
+  <emitted_at type="date">2019-12-12 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-05-24 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-01-01 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">u9s4h1ajn742is1ja8kohbg4k9nhmr1p9zfub9slhvls870qwrwgx30l7o9onzg5hq5xgb9ygygadfxai9hm1ruocr1lcyz32rxa4q5f8pxgce5tvd9ol72f4e4380bob45kqsz7e7amf0levv9bj804lvgwq365a6ljarkr1btcfilwejqak15k7saerl81wnse3py46upwphljm25c9uoyo7jgskw44gdnkzmfzov6kjbzkxhsiyco4ldik0i</cfdi_digital_stamp>
+</hash>

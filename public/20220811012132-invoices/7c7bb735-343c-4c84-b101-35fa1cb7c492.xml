@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>7c7bb735-343c-4c84-b101-35fa1cb7c492</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Gustavo Velázquez Higuera</name>
+    <rfc>TWÑ180521J4P</rfc>
+  </emitter>
+  <receiver>
+    <name>Yordi Eder Palma Limón</name>
+    <rfc>ODW170125XLO</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">100667</cents>
+    <!-- ISO 4217 -->
+    <currency>MKD</currency>
+  </amount>
+  <emitted_at type="date">2021-06-18 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-02-05 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-11-03 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">iima0fyez3n9yxrsprmvsayxbzdw2idnjglqylfo7vvqmokawfngzrsae1uh8p75wshu9d4bpnde7iounz3ex80jxnc8ogcggf767jwzaneo6pbvzr1hyp8ob7jr7fdm11v1i3vixlw17xus8lsy68qnfmfe2o06troqex3rqiiunrhpv9veld83xcpb0n7p5yzbich6vaeweiak9qdmr502xnbshejgcw27hn6bjvh27ra4p1ouorzqk7p276m</cfdi_digital_stamp>
+</hash>

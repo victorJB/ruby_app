@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>73ae8f6c-1910-43da-aef3-b111a2ac6f5e</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Augusto Palacios Meza</name>
+    <rfc>QXR750116A9P</rfc>
+  </emitter>
+  <receiver>
+    <name>Joel Enrique Iturbe Huesca</name>
+    <rfc>MWD080530ANE</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">334254</cents>
+    <!-- ISO 4217 -->
+    <currency>XAF</currency>
+  </amount>
+  <emitted_at type="date">2020-12-18 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-02-27 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-06-23 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">dyo1axebroh9jxp6dxxivwl37qcrelai6b1t31nt0yh6m0xe566zf8cqq4l5ehk669rpsbcaluay8p6ugwd3f61fvpmf8hz27271ahwek7jjpphu7wkarx0pfgawkxa4l0bxpzyjbd6ef7dna7dbic8jlo8sc90g4yye80fhcik9qiacu4eoac0lha46xnsh14jxtm6kave1oxt88brca3nr1wanm005y7bvkt1u9a112kj35pq7yysoq2vn11l</cfdi_digital_stamp>
+</hash>

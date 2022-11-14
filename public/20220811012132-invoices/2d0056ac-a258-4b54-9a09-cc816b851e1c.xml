@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>2d0056ac-a258-4b54-9a09-cc816b851e1c</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Enrique Ubaldo Mondragón Esequiel</name>
+    <rfc>ILC780401KU5</rfc>
+  </emitter>
+  <receiver>
+    <name>Benjamin Velázquez Jiménez</name>
+    <rfc>RQZ890924XZL</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">926807</cents>
+    <!-- ISO 4217 -->
+    <currency>YER</currency>
+  </amount>
+  <emitted_at type="date">2022-02-08 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-04-01 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-07-11 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">10ipe0scyb6zln5hqw0q4i4ad4jtvchgpv2ytgg97gn3s0my7j7zesq094jyy3w0j4wz6zmwlan9bw7wgq2n5s362b88jgk76neuma3eop6qj551qoiyt0r78v39f00trl4ayewp7cv4pyxp69dsssew8q94i91zzfbr6gfvkofs01mxcafd0gpxzni6mwbwq4ax068632hrmno0awuetrs8lnttg4w1kiz3a9swswjcump0xrzeglfig1kqd0t</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>84d24fd7-c5ee-4612-9caa-e3beeaf1454d</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Nicolás Mojica Limón</name>
+    <rfc>XEJ780506YLQ</rfc>
+  </emitter>
+  <receiver>
+    <name>Iván García Dueñas</name>
+    <rfc>ÑOZ8905073V7</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">14316</cents>
+    <!-- ISO 4217 -->
+    <currency>RUB</currency>
+  </amount>
+  <emitted_at type="date">2019-06-09 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-07-24 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-06-01 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">jpl17cicmz5pu7s89ou207aprc3rgzy3vvzmovr05s5i5qz2p47ezd938bhgogi60ohut0qauv8v6b469m8uqamu6cf45q3cuoy7w8pepchdptm7m6vpvvn16vek67w3ob73e042sh6ua9q0ch5asqy83req27t2h5n00p139vf8t24xrt4rcdat1eiydyl4dxu6ku0ziesy42dq40kkxptvw4ru3qx574tipesdkcsepwax21if53hjeh5i5hw</cfdi_digital_stamp>
+</hash>

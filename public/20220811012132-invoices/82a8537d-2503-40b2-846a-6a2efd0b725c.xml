@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>82a8537d-2503-40b2-846a-6a2efd0b725c</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Alma Margarita Yáñez Fontana</name>
+    <rfc>HÑN9304098KL</rfc>
+  </emitter>
+  <receiver>
+    <name>Nadia Noguera Enríquez</name>
+    <rfc>ZNÑ970316JV1</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">166052</cents>
+    <!-- ISO 4217 -->
+    <currency>VEF</currency>
+  </amount>
+  <emitted_at type="date">2022-01-23 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-02-13 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-07-16 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">e31tv2n9juj5f7uwxppn08lr7drm7f2vrujqgn3giex3inw4bmplqy9h9yhrcta5cg60095jx7tqm475bf4axlcsbkuovjiylcsqoxstao51k2at454hgohei45tbej009un72kn0ytwilkpyxltleyb06lioizzm4760dsiyyvptqfq6eeirj6pdwnjw91kkcvb1q4sqj5z75i7lhusz1gxpzdlhj5yhrb5zap3h844qks1n14pykqe9dkjim1</cfdi_digital_stamp>
+</hash>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>e14e8fdb-a296-4a38-9ed6-8c80b81b230b</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Aura Olivia Quiñones Palacios</name>
+    <rfc>NQX0903182CD</rfc>
+  </emitter>
+  <receiver>
+    <name>Mauricio Quintal Vega</name>
+    <rfc>WHX190830Q8Y</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">516625</cents>
+    <!-- ISO 4217 -->
+    <currency>GHS</currency>
+  </amount>
+  <emitted_at type="date">2018-09-14 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2019-08-13 00:00:00 UTC</expires_at>
+  <signed_at type="date">2018-06-02 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">sfnlusvu663jfd78wxml58n9tu6n4k09m94bb4qho0t7mca7g8rilvuttlhvvesddqe9ulnbpj2xnlydunqongmg5f6hajusj5sg9wfp0u6vnkiuvn7s3dco4jehh4ed3mei5725mk9ymjds32okv12wwnoklsw39drrsqetu6nydxho712v3vsjgt28jsdkzbs7uoia5btq8nt1j6c6cvrbjjlcr2autkloiqw66g5n4i5axgedympm6qls9u3</cfdi_digital_stamp>
+</hash>

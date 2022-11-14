@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>0bc21cf9-3d22-47d2-9ea3-de018f77e1a3</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Margarito Nery Lamas</name>
+    <rfc>NME831225O8A</rfc>
+  </emitter>
+  <receiver>
+    <name>Arturo Salinas Sierra</name>
+    <rfc>XMQ801125LWS</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">634782</cents>
+    <!-- ISO 4217 -->
+    <currency>BDT</currency>
+  </amount>
+  <emitted_at type="date">2020-07-20 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2021-03-13 00:00:00 UTC</expires_at>
+  <signed_at type="date">2022-10-08 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">iqfbu3eqd5w7o2a1dnvfzqgjqyx1n5de4i2mfaroju93fnn5yn793stmg4mc02x1d8yr6mu9ayjgjyb8vo6ljgyn5lorddis87rrir75zemuopw7sw3i1gm035go2e85qc7x8eqvot1vpbjbf3j092qi1m2krw5vz9dpp0sivj4bjd6mofqfzm6xrwn7n1tuumns4zhmi215jj5jgdp7m364foqz1qr3igwwko0ypk1g9hwjmejngnu837df2nt</cfdi_digital_stamp>
+</hash>

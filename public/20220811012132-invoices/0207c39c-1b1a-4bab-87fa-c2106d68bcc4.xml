@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>0207c39c-1b1a-4bab-87fa-c2106d68bcc4</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>León Durazo Bello</name>
+    <rfc>XÑK951213TF7</rfc>
+  </emitter>
+  <receiver>
+    <name>Paloma Tellez Tinoco</name>
+    <rfc>BRK890907XL5</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">886012</cents>
+    <!-- ISO 4217 -->
+    <currency>TZS</currency>
+  </amount>
+  <emitted_at type="date">2022-01-26 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2020-07-20 00:00:00 UTC</expires_at>
+  <signed_at type="date">2021-01-28 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">gatl8esq441nn84u1nttdxhg9l28bx85s76sx5grftw0uinzunif54os8yld0qr1hnz677ok4wtfcvecxcbgl6zj8g4i3b2at92elgwae7mags7c8nknxrd73sav1l0pv4javr8v3p64bl4ai7142avok3fu056f0q9semcbpne93cqq3vkmhe1m5wjk9srrn8tbc3ed5rgstba06ow29ej3xv0rdnwo3tdljwcx5879gmpc4j848ae5bcqbz3h</cfdi_digital_stamp>
+</hash>

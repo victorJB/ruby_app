@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <invoice_uuid>69a617a6-ba3f-4085-b32b-a6d6f7667241</invoice_uuid>
+  <status>active</status>
+  <emitter>
+    <name>Mauro Lara Blanco</name>
+    <rfc>KTV9808116F7</rfc>
+  </emitter>
+  <receiver>
+    <name>Nayeli Roque Núñez</name>
+    <rfc>LHI8010076P7</rfc>
+  </receiver>
+  <amount>
+    <!-- eg. 1234 cents = 12.34 -->
+    <cents type="integer">91422</cents>
+    <!-- ISO 4217 -->
+    <currency>SZL</currency>
+  </amount>
+  <emitted_at type="date">2019-06-16 00:00:00 UTC</emitted_at>
+  <expires_at type="date">2018-05-15 00:00:00 UTC</expires_at>
+  <signed_at type="date">2019-04-02 00:00:00 UTC</signed_at>
+  <cfdi_digital_stamp type="text">csgn2uz7dv0tumr4cbg49fdpuu4oxifmaoq1by468ujvew3lytq0fng8dzbsntdhcpqh48my77s97zdzx4q7zzj4uxchycwv5uno3bh7voabq44kktwdfz3fgw7u2tv7nqtm01t56p56my18c2ob3q5x9phfmjzg84ew8hxus15d5yz6i8vfvihx4z1x5tw7agjckgqh381lk5h3suvj7lyypg4brnra78h4tsmps612fuqbuw71z3hvh90otyx</cfdi_digital_stamp>
+</hash>
